@@ -1,0 +1,176 @@
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B] CATEGORIAS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] FILMES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1A-FILMES</externallink>
+<info>O MELHOR DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOSERIES-LUMINART/main/1-SERIES-SELGERAL</externallink>
+<thumbnail>http://bit.do/cat-series</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SUA MARATONA ESTA AQUI </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] NOVELAS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTNOVELAS/main/A-NOVELAS</externallink>
+<info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] DESENHOS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-desenhos</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTDESENHOS/main/1-DESENHOSANTIGOS</externallink>
+<info>DIVERSÃO GARANTIDA PARA A CRIANÇADA </info> 
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] TVs ONLINE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/3-TVsONLINE</externallink>
+<thumbnail>https://i.ibb.co/Hh4Pkgk/tvsonline-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] SEÇÕES ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/7-SECOESESPECIAIS</externallink>
+<thumbnail>https://i.ibb.co/t2pvm2f/scoesespeciais-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS DESTAQUES DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] PEDIDOS DO USUÁRIO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/5-PEDIDOSDOSUSUARIOS</externallink>
+<thumbnail>https://i.ibb.co/5GJcD0n/pedidos-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS PEDIDOS DO USUÁRIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] RARIDADES NO G DRIVE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOGDRIVE-LUMINART/main/A-RARIDADESDOGDRIVE</externallink>
+<thumbnail>https://i.ibb.co/VjFtcfW/servidorgdrive-icon.png</thumbnail
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> FILMES DIFÍCEIS DE ENCONTRAR NA WEB</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] FILMES CLÁSSICOS E RAROS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/9G-FILMESRAROS</externallink>
+<thumbnail>https://i.ibb.co/M18rpWz/filmesraros-pasta.png</thumbnail
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> FILMES DIFÍCEIS DE ENCONTRAR NA WEB</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] SUGESTÃO DO DESENVOLVEDOR[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/6-SUGESTAO</externallink>
+<thumbnail>https://i.ibb.co/6my7gbw/gostei-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> A SUGESTÃO DO DESENVOLVEDOR</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] ACESSE CONTEUDO NO YOUTUBE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/8-YOUTUBE </externallink>
+<thumbnail>https://i.ibb.co/26LjwYW/servidoryoutube-icon.png</thumbnail
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> NOSSAS PLAYLISTS NO YOUTUBE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] TESTES1TVS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/1-TESTE1TV</externallink>
+<thumbnail>https://i.ibb.co/26LjwYW/servidoryoutube-icon.png</thumbnail
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> NOSSAS PLAYLISTS NO YOUTUBE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
+
+
+
+
+
+
