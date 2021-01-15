@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="REDCAN" tvg-logo="ICONE" group-title="DESENHOS",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] (Des)encanto - T01 - Dublado[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 group-title="(Des)encanto (Dublado)",T1E01[COLOR yellow] ->[/COLOR][COLOR lime] Desencanto [/COLOR]
 https://d2w9ilabry027t.cloudfront.net/RCServer07/ondemand/DESCNTOT01EP01.mp4
 #EXTINF:-1 group-title="(Des)encanto (Dublado)",T1E02[COLOR yellow] ->[/COLOR][COLOR lime] Desencanto [/COLOR]
@@ -20,6 +23,10 @@ https://d2w9ilabry027t.cloudfront.net/RCServer07/ondemand/DESCNTOT01EP08.mp4
 https://d2w9ilabry027t.cloudfront.net/RCServer07/ondemand/DESCNTOT01EP09.mp4
 #EXTINF:-1 group-title="(Des)encanto (Dublado)",T1E10[COLOR yellow] ->[/COLOR][COLOR lime] Desencanto [/COLOR]
 https://d2w9ilabry027t.cloudfront.net/RCServer07/ondemand/DESCNTOT01EP10.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="REDCAN" tvg-logo="ICONE" group-title="DESENHOS",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] (Des)encanto - T01 - Dublado[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 group-title="(Des)encanto (Dublado)",T2E01[COLOR yellow] ->[/COLOR][COLOR lime] Desencanto [/COLOR]
 https://d2w9ilabry027t.cloudfront.net/RCServer01/videos/DESCNTOT02EP01.mp4
 #EXTINF:-1 group-title="(Des)encanto (Dublado)",T2E02[COLOR yellow] ->[/COLOR][COLOR lime] Desencanto [/COLOR]
