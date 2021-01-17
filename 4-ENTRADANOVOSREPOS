@@ -34,7 +34,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] SÉRIES[/B][/COLOR]</name>
+<name>[COLOR red][B] SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1B-SELSERIES-GERAL</externallink>
 <thumbnail>http://bit.do/cat-series</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] NOVELAS[/B][/COLOR]</name>
+<name>[COLOR red][B] NOVELAS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1C-SELNOVELAS-GERAL</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -58,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] DESENHOS[/B][/COLOR]</name>
+<name>[COLOR red][B] DESENHOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1D-SELDESENHOS-GERAL</externallink>
 <thumbnail>http://bit.do/cat-desenhos</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -70,7 +70,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] TVs ONLINE[/B][/COLOR]</name>
+<name>[COLOR red][B] TVs ONLINE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTVs-LUMINART/main/1-SELETIVA-LISTATVs-ALLUSER</externallink>
 <thumbnail>https://i.ibb.co/Hh4Pkgk/tvsonline-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -82,7 +82,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] SEÇÕES ESPECIAIS[/B][/COLOR]</name>
+<name>[COLOR red][B] SEÇÕES ESPECIAIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/7-SECOESESPECIAIS</externallink>
 <thumbnail>https://i.ibb.co/t2pvm2f/scoesespeciais-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
