@@ -11,7 +11,7 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B] CATEGORIAS[/B][/COLOR]</name>
+<name>[COLOR blue][B] CATEGORIAS NR[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
@@ -22,10 +22,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] FILMES[/B][/COLOR]</name>
+<name>[COLOR lime][B] CATEGORIAS[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/REPOFILMS-LUMINART/main/1-SELETIVA-FILMES</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/4A-CATEGORIAS-NR</externallink>
 <info>O MELHOR DA SÉTIMA ARTE</info>
 </channel>
 </channels>
