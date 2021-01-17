@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] CATEGORIAS[/B][/COLOR]</name>
+<name>[COLOR lime][B] FILMES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/4A-CATEGORIAS-NR</externallink>
