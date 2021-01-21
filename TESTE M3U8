@@ -2,3 +2,13 @@
 <title>NOME DO CANAL .m3u8</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/771.m3u8</link>
 <item>
+
+<item>
+<title>NOME DO CANAL .TS</title>
+ <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://centralbr.top:8080/live/Miguel/Miguel/11684.ts</link>
+<item>
+
+<item>
+<title>NOME DO CANAL .TS GO PLAYER</title>
+ <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://centralbr.top:8080/live/Miguel/Miguel/11684.ts|user-agent=GoPlayer</link>
+<item>
