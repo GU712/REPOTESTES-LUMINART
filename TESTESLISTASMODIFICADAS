@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:-1,PT|HEVC| RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81832
+#EXTINF:-1,PT|HEVC| RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81831
+#EXTINF:-1,PT|HEVC| RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81830
+#EXTINF:-1,PT|HEVC| SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81829
+#EXTINF:-1,PT|HEVC| SIC MULHER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81828
+#EXTINF:-1,PT|HEVC| SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81827
+#EXTINF:-1,PT|HEVC| SIC RADICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81826
+#EXTINF:-1,PT|HEVC| SIC CARAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81825
+#EXTINF:-1,PT|HEVC| TVI FICCAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81824
+#EXTINF:-1,PT|HEVC| TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81823
+#EXTINF:-1,PT|HEVC| TVI24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81822
+#EXTINF:-1,PT|HEVC| GLOBO PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81820
+#EXTINF:-1,PT|HEVC| ZAP VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81819
+#EXTINF:-1,PT|HEVC| E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81818
+#EXTINF:-1,PT|HEVC| AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81816
+#EXTINF:-1,PT|HEVC| AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81815
+#EXTINF:-1,PT|HEVC| AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81814
+#EXTINF:-1,PT|HEVC| AXN MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81813
+#EXTINF:-1,PT|HEVC| TV CINE TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81812
+#EXTINF:-1,PT|HEVC| TV CINE EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81811
+#EXTINF:-1,PT|HEVC| TV CINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81810
+#EXTINF:-1,PT|HEVC| TV CINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81809
+#EXTINF:-1,PT|HEVC| FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81808
+#EXTINF:-1,PT|HEVC| FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81807
+#EXTINF:-1,PT|HEVC| FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81806
+#EXTINF:-1,PT|HEVC| FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81805
+#EXTINF:-1,PT|HEVC| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81804
+#EXTINF:-1,PT|HEVC| BLAZE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81803
+#EXTINF:-1,PT|HEVC| NOS STUDIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81802
+#EXTINF:-1,PT|HEVC| HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81800
+#EXTINF:-1,PT|HEVC| CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81799
+#EXTINF:-1,PT|HEVC| NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81797
+#EXTINF:-1,PT|HEVC| NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81796
+#EXTINF:-1,PT|HEVC| ID INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81795
+#EXTINF:-1,PT|HEVC| TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81794
+#EXTINF:-1,PT|HEVC| HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81793
+#EXTINF:-1,PT|HEVC| FINE LIVING NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81792
+#EXTINF:-1,PT|HEVC| DOG TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81791
+#EXTINF:-1,PT|HEVC| ODISSEIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81790
+#EXTINF:-1,PT|HEVC| 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81789
+#EXTINF:-1,PT|HEVC| CASA E COZINHA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81788
+#EXTINF:-1,PT|HEVC| BTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81786
+#EXTINF:-1,PT|HEVC| A BOLA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81785
+#EXTINF:-1,PT|HEVC| SPORTING TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81784
+#EXTINF:-1,PT|HEVC| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81783
+#EXTINF:-1,PT|HEVC| SPORT TV + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81782
+#EXTINF:-1,PT|HEVC| SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81781
+#EXTINF:-1,PT|HEVC| SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81780
+#EXTINF:-1,PT|HEVC| SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81779
+#EXTINF:-1,PT|HEVC| SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81778
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81777
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81776
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS  3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81775
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81774
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81773
+#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81772
+#EXTINF:-1,PT|HEVC| FIGHT NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81771
+#EXTINF:-1,PT|HEVC| CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81770
+#EXTINF:-1,PT|HEVC| CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81769
+#EXTINF:-1,PT| CORONA VIRUS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81767
+#EXTINF:-1,PT| RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81766
+#EXTINF:-1,PT| RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81765
+#EXTINF:-1,PT| RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81764
+#EXTINF:-1,PT| RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81763
+#EXTINF:-1,PT| RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81762
+#EXTINF:-1,PT| RTP INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81761
+#EXTINF:-1,PT| RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81760
+#EXTINF:-1,PT| RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81759
+#EXTINF:-1,PT| RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81758
+#EXTINF:-1,PT| RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81757
+#EXTINF:-1,PT| SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81756
+#EXTINF:-1,PT| SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81755
+#EXTINF:-1,PT| SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81754
+#EXTINF:-1,PT| SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81753
+#EXTINF:-1,PT| SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81752
+#EXTINF:-1,PT| SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81751
+#EXTINF:-1,PT| CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81750
+#EXTINF:-1,PT| PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81749
+#EXTINF:-1,PT| TVE 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81748
+#EXTINF:-1,PT| TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81747
+#EXTINF:-1,PT| TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81746
+#EXTINF:-1,PT| TVI FICCAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81745
+#EXTINF:-1,PT| MCS EXTREME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81744
+#EXTINF:-1,PT| TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81743
+#EXTINF:-1,PT| TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81742
+#EXTINF:-1,PT| ZAP VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81741
+#EXTINF:-1,PT| KURIAKOS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81740
+#EXTINF:-1,PT| TCV CABO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81739
+#EXTINF:-1,PT| BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81737
+#EXTINF:-1,PT| CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81736
+#EXTINF:-1,PT| DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81735
+#EXTINF:-1,PT| DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81734
+#EXTINF:-1,PT| JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81732
+#EXTINF:-1,PT| BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81731
+#EXTINF:-1,PT| NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81730
+#EXTINF:-1,PT| NICK JR.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81729
+#EXTINF:-1,PT| E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81727
+#EXTINF:-1,PT| AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81725
+#EXTINF:-1,PT| AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81724
+#EXTINF:-1,PT| AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81723
+#EXTINF:-1,PT| AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81722
+#EXTINF:-1,PT| AXN MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81721
+#EXTINF:-1,PT| TVCINE TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81720
+#EXTINF:-1,PT| TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81719
+#EXTINF:-1,PT| TVCINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81718
+#EXTINF:-1,PT| TVCINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81717
+#EXTINF:-1,PT| TVCINE EDITION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81716
+#EXTINF:-1,PT| FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81714
+#EXTINF:-1,PT| FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81713
+#EXTINF:-1,PT| FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81712
+#EXTINF:-1,PT| FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81711
+#EXTINF:-1,PT| FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81710
+#EXTINF:-1,PT| SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81709
+#EXTINF:-1,PT| NOS STUDIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81708
+#EXTINF:-1,PT| NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81707
+#EXTINF:-1,PT| GLOBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81705
+#EXTINF:-1,PT| GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81704
+#EXTINF:-1,PT| TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81703
+#EXTINF:-1,PT| CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81702
+#EXTINF:-1,PT| SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81701
+#EXTINF:-1,PT| CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81700
+#EXTINF:-1,PT| EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81699
+#EXTINF:-1,PT| TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81698
+#EXTINF:-1,PT| BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81697
+#EXTINF:-1,PT| CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81696
+#EXTINF:-1,PT| BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81695
+#EXTINF:-1,PT| FTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81694
+#EXTINF:-1,PT| CANACAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81693
+#EXTINF:-1,PT| FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81692
+#EXTINF:-1,PT| TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81690
+#EXTINF:-1,PT| TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81689
+#EXTINF:-1,PT| VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81688
+#EXTINF:-1,PT| VH1 CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81687
+#EXTINF:-1,PT| AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81686
+#EXTINF:-1,PT| MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81685
+#EXTINF:-1,PT| MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81684
+#EXTINF:-1,PT| MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81683
+#EXTINF:-1,PT| HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81681
+#EXTINF:-1,PT| HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81680
+#EXTINF:-1,PT| CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81679
+#EXTINF:-1,PT| TV SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81678
+#EXTINF:-1,PT| TV SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81677
+#EXTINF:-1,PT| DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81675
+#EXTINF:-1,PT| DISCOVERY HD SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81674
+#EXTINF:-1,PT| NAT GEO GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81673
+#EXTINF:-1,PT| NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81672
+#EXTINF:-1,PT| CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81671
+#EXTINF:-1,PT| TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81670
+#EXTINF:-1,PT| ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81669
+#EXTINF:-1,PT| 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81668
+#EXTINF:-1,PT| HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81667
+#EXTINF:-1,PT| TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81666
+#EXTINF:-1,PT| BTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81664
+#EXTINF:-1,PT| A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81663
+#EXTINF:-1,PT| KOMBAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81662
+#EXTINF:-1,PT| SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81661
+#EXTINF:-1,PT| FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81660
+#EXTINF:-1,PT| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81659
+#EXTINF:-1,PT| EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81658
+#EXTINF:-1,PT| EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81657
+#EXTINF:-1,PT| PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81656
+#EXTINF:-1,PT| CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81655
+#EXTINF:-1,PT| TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81654
+#EXTINF:-1,PT| SPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81653
+#EXTM3U
+
+#EXTINF:-1,PT| SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81652
+#EXTINF:-1,PT| SPORT TV 1 HD NOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81651
+#EXTINF:-1,PT| SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81650
+#EXTINF:-1,PT| SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81649
+#EXTINF:-1,PT| SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81648
+#EXTINF:-1,PT| SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81647
+#EXTINF:-1,PT| SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81646
+#EXTINF:-1,PT| SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81645
+#EXTINF:-1,PT| SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81644
+#EXTINF:-1,PT| NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81643
+#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81642
+#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81641
+#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81640
+#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81639
+#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81638
+#EXTINF:-1,PT| ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81637
+#EXTINF:-1,PT| MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81636
+#EXTINF:-1,PT| REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81635
+#EXTINF:-1,PT| CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NOMEDALISTA;url=http://rv.imax.re:80/5124037472/1572081885/81634
