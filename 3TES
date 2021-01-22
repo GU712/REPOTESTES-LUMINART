@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A&amp;E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" type"stream" group-title="[COLOR white][B]CANAIS | F4M[/B][/COLOR] [COLOR green][B]•[/B][/COLOR]",A&E
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]A&E HD[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=aie.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]A&E HD[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/DOahyCo.png" group-title="CANAIS | FILMES & SERIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR lime][B]A&E HD[/B][/COLOR];url=http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/17.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR lime][B]A&E HD[/B][/COLOR];url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/DOahyCo.png" group-title="CANAIS | FILMES & SERIES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR lime][B]A&E HD[/B][/COLOR];url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
