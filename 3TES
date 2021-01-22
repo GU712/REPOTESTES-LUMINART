@@ -18,7 +18,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS - [/B][/COLOR][COLOR re
 #EXTINF:-1 tvg-id="" tvg-name="24HS: AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://cinexplay.com/img/series/d396ecd357736ad9780ec13515b75ba7.png" group-title="Canais | 24 Horas",2JACKIE CHAN
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B] NOMEDOCANAL[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CATEGORIA",[B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CATEGORIA",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/58401.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",NOMEDOCANALts ou num
