@@ -18,5 +18,9 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS - [/B][/COLOR][COLOR re
 #EXTINF:-1 tvg-id="" tvg-name="24HS: AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://cinexplay.com/img/series/d396ecd357736ad9780ec13515b75ba7.png" group-title="Canais | 24 Horas",2JACKIE CHAN
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B] NOMEDOCANAL[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",NOMEDOCANAL
+#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",NOMEDOCANALm3u8
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",NOMEDOCANALts ou num
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/evaldo/12345/115
+
