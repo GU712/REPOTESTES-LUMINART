@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="A&E | HD" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS: FILMES E SERIES",A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/40074.m3u8
+#EXTINF:-1 tvg-id="A&E | HD" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS: FILMES E SERIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] A&E HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] A&E HD[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/40074.m3u8
 #EXTINF:-1 tvg-id="A&E | HD" tvg-name="A&E HD*" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018090432.png" group-title="CANAIS: FILMES E SERIES",A&E HD*
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/57176.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 1 HD¹" tvg-logo="https://www.paralympic.org/sites/default/files/styles/large_original/public/images/151015132852742_Incredible%2BSupport.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 1 HD¹
@@ -311,8 +311,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR l
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/100048.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASHBACKS" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",FLASHBACKS
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/76180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FM O DIA 100,5" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",FM O DIA 100,5
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/76181.m3u8
 #EXTINF:-1 tvg-id="Food Network | HD" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/40058.m3u8
 #EXTINF:-1 tvg-id="Fox | FHD" tvg-name="FOX FULLHD H264" tvg-logo="https://i.pinimg.com/originals/0d/d3/59/0dd359c8864991c19ecc079ee8210fdc.png" group-title="CANAIS: LEGENDADOS",FOX FULLHD H264
