@@ -1,14 +1,13 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="A&amp;E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" type"stream" group-title="[COLOR white][B]CANAIS | F4M[/B][/COLOR] [COLOR green][B]•[/B][/COLOR]",A&E
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]A&E HD[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/DOahyCo.png" group-title="CANAIS | FILMES & SERIES",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR lime][B]A&E HD[/B][/COLOR];url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/DOahyCo.png" group-title="CANAIS | FILMES & SERIES",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR lime][B]A&E HD[/B][/COLOR];url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24HS: AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://cinexplay.com/img/series/d396ecd357736ad9780ec13515b75ba7.png" group-title="Canais | 24 Horas",24HS: A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]A&E HD[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
