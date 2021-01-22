@@ -539,7 +539,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR l
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/57187.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEIO NORTE FM" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",MEIO NORTE FM
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/76186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MIX FM 106,3MHz" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",MIX FM 106,3MHz
+#EXTINF:-1 tvg-id="" tvg-name="MIX FM 106 3MHz" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",MIX FM 106 3MHz
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/76187.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIX FM 2" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",MIX FM 2
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/76188.m3u8
