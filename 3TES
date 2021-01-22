@@ -20,3 +20,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B] NOMEDOCANAL[/B][/COLOR]&st
 
 #EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",NOMEDOCANAL
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS - [/B][/COLOR][COLOR lime][B] NOVO PADRÃO[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",NOMEDOCANAL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOVO PADRÃO[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://onehd.info:8080/live/uNCJExmJl9/2q36oNRdpy/774.m3u8
