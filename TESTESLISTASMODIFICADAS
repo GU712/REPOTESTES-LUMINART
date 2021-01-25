@@ -231,8 +231,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5004.m3u8
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET num[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET [/B][/COLOR];url=http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2050
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET num TEXT[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET [/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/6142
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://static.bldn.vip/logos/documentario/discovery.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TSDOWNLOADER[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5002.m3u8
