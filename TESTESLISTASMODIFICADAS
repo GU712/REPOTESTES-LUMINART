@@ -18,11 +18,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET HD[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]1 ANIMAL PLANET HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=;url=http://pdsrv.io:80/wallas/wallas123/6142
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET HD[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]2 ANIMAL PLANET HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET HD[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/6142
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET HD[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]3 ANIMAL PLANET HD[/B][/COLOR]
 http://pdsrv.io:80/wallas/wallas123/6142
