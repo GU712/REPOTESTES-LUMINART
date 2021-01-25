@@ -15,13 +15,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP " tvg-logo="http://static.bldn.vip/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] SBT SP [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] SBT SP [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/4957.m3u8
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP " tvg-logo="http://static.bldn.vip/logos/band/bandSP.png" group-title="CANAIS ABERTOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BAND SP [/B][/COLOR] ²
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP " tvg-logo="http://static.bldn.vip/logos/band/bandSP.png" group-title="CANAIS ABERTOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BAND SP [/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BAND SP [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/21094.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV" tvg-logo="http://static.bldn.vip/logos/abertos/redetv.png" group-title="CANAIS ABERTOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] REDE TV [/B][/COLOR] ²
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV" tvg-logo="http://static.bldn.vip/logos/abertos/redetv.png" group-title="CANAIS ABERTOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] REDE TV [/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] REDE TV [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/21086.m3u8
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TV CULTURA SP " tvg-logo="http://static.bldn.vip/logos/abertos/tvcultura.png" group-title="CANAIS ABERTOS",TV CULTURA SP [/B][/COLOR]
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TV CULTURA SP " tvg-logo="http://static.bldn.vip/logos/abertos/tvcultura.png" group-title="CANAIS ABERTOS",[B]LS -> [/B][/COLOR][COLOR lime][B] TV CULTURA SP [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TV CULTURA SP [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/29852.m3u8
 
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA " tvg-logo="http://static.bldn.vip/logos/globo/tvdiariofortaleza.png" group-title="CANAIS ABERTOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TV DIARIO FORTALEZA [/B][/COLOR]
@@ -30,158 +30,164 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV " tvg-logo="http://static.bldn.vip/logos/esportes/sportv.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] SPORTV [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] SPORTV [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5017.m3u8
 
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 " tvg-logo="http://static.bldn.vip/logos/esportes/sportv2.png" group-title="ESPORTES",SPORTV 2 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5016.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 " tvg-logo="http://static.bldn.vip/logos/esportes/sportv2.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] SPORTV 2 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] SPORTV 2 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5016.m3u8
 
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 " tvg-logo="http://static.bldn.vip/logos/esportes/sportv3.png" group-title="ESPORTES",SPORTV 3 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5014.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 " tvg-logo="http://static.bldn.vip/logos/esportes/sportv3.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] SPORTV 3 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] SPORTV 3 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5014.m3u8
 
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS " tvg-logo="http://static.bldn.vip/logos/esportes/foxsports.png" group-title="ESPORTES",FOX SPORTS [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5023.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS " tvg-logo="http://static.bldn.vip/logos/esportes/foxsports.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX SPORTS [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX SPORTS [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5023.m3u8
 
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 " tvg-logo="http://static.bldn.vip/logos/esportes/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5021.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 " tvg-logo="http://static.bldn.vip/logos/esportes/foxsports2.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX SPORTS 2 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX SPORTS 2 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5021.m3u8
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL " tvg-logo="http://static.bldn.vip/logos/esportes/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5034.m3u8
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL " tvg-logo="http://static.bldn.vip/logos/esportes/espnbrasil.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ESPN BRASIL [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ESPN BRASIL [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5034.m3u8
 
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN " tvg-logo="http://static.bldn.vip/logos/esportes/espn.png" group-title="ESPORTES",ESPN [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/22827.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN " tvg-logo="http://static.bldn.vip/logos/esportes/espn.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ESPN [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ESPN [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/22827.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 " tvg-logo="http://static.bldn.vip/logos/esportes/espn2.png" group-title="ESPORTES",ESPN 2 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5036.m3u8
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 " tvg-logo="http://static.bldn.vip/logos/esportes/espn2.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ESPN 2 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ESPN 2 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5036.m3u8
 
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA " tvg-logo="http://static.bldn.vip/logos/esportes/espnextra.png" group-title="ESPORTES",ESPN EXTRA [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5032.m3u8
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA " tvg-logo="http://static.bldn.vip/logos/esportes/espnextra.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ESPN EXTRA [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ESPN EXTRA [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5032.m3u8
 
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS " tvg-logo="http://static.bldn.vip/logos/esportes/bandsports.png" group-title="ESPORTES",BAND SPORTS [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5038.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS " tvg-logo="http://static.bldn.vip/logos/esportes/bandsports.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BAND SPORTS [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BAND SPORTS [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5038.m3u8
 
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="http://static.bldn.vip/logos/esportes/fishtv.png" group-title="ESPORTES",FISH TV [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR] ²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/21136.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="http://static.bldn.vip/logos/esportes/fishtv.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FISH TV [/B][/COLOR] ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FISH TV [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/21136.m3u8
 
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF " tvg-logo="http://static.bldn.vip/logos/esportes/off.png" group-title="ESPORTES",OFF [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5019.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF " tvg-logo="http://static.bldn.vip/logos/esportes/off.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] OFF [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] OFF [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5019.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="PREMIERE CLUBES " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE CLUBES [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5192.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIERE CLUBES " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE CLUBES [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE CLUBES [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5192.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="PREMIERE 2 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE 2 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5204.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIERE 2 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 2 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 2 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5204.m3u8
 
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE 3 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5202.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 3 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 3 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5202.m3u8
 
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE 4 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5200.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 4 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 4 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5200.m3u8
 
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE 5 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5198.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 5 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 5 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5198.m3u8
 
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE 6 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5196.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 6 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 6 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5196.m3u8
 
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE 7 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5194.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE",PREMIERE 7 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE",PREMIERE 7 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5194.m3u8
 
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE 8 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/25587.m3u8
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE",PREMIERE 8 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE",PREMIERE 8 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/25587.m3u8
 
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE " tvg-logo="http://static.bldn.vip/logos/premiere/combate.png" group-title="ESPORTES (PPV)",COMBATE [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5213.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE " tvg-logo="http://static.bldn.vip/logos/premiere/combate.png" group-title="ESPORTES (PPV)",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] COMBATE [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] COMBATE [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5213.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV " tvg-logo="http://static.bldn.vip/logos/premiere/conmebol.png" group-title="ESPORTES (PPV)",CONMEBOL TV [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV " tvg-logo="http://static.bldn.vip/logos/premiere/conmebol.png" group-title="ESPORTES (PPV)",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CONMEBOL TV [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CONMEBOL TV [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173790.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 " tvg-logo="http://static.bldn.vip/logos/premiere/conmebol.png" group-title="ESPORTES (PPV)",CONMEBOL TV 2 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 " tvg-logo="http://static.bldn.vip/logos/premiere/conmebol.png" group-title="ESPORTES (PPV)",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CONMEBOL TV 2 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CONMEBOL TV 2 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173791.m3u8
 
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION " tvg-logo="http://static.bldn.vip/logos/telecines/tcaction.png" group-title="TELECINE",TELECINE ACTION [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5228.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION " tvg-logo="http://static.bldn.vip/logos/telecines/tcaction.png" group-title="TELECINE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE ACTION [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE ACTION [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5228.m3u8
 
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM " tvg-logo="http://static.bldn.vip/logos/telecines/tvpremium.png" group-title="TELECINE",TELECINE PREMIUM [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5220.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM " tvg-logo="http://static.bldn.vip/logos/telecines/tvpremium.png" group-title="TELECINE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE PREMIUM [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE PREMIUM [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5220.m3u8
 
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA " tvg-logo="http://static.bldn.vip/logos/telecines/tcpipoca.png" group-title="TELECINE",TELECINE PIPOCA [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5222.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA " tvg-logo="http://static.bldn.vip/logos/telecines/tcpipoca.png" group-title="TELECINE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE PIPOCA [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE PIPOCA [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5222.m3u8
 
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH " tvg-logo="http://static.bldn.vip/logos/telecines/tctouch.png" group-title="TELECINE",TELECINE TOUCH [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5218.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH " tvg-logo="http://static.bldn.vip/logos/telecines/tctouch.png" group-title="TELECINE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE TOUCH [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE TOUCH [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5218.m3u8
 
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN " tvg-logo="http://static.bldn.vip/logos/telecines/tcfun.png" group-title="TELECINE",TELECINE FUN [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5224.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN " tvg-logo="http://static.bldn.vip/logos/telecines/tcfun.png" group-title="TELECINE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE FUN [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE FUN [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5224.m3u8
 
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT " tvg-logo="http://static.bldn.vip/logos/telecines/tccult.png" group-title="TELECINE",TELECINE CULT [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5226.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT " tvg-logo="http://static.bldn.vip/logos/telecines/tccult.png" group-title="TELECINE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE CULT [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TELECINE CULT [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5226.m3u8
 
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO " tvg-logo="http://static.bldn.vip/logos/hbos/hbo.png" group-title="HBO",HBO [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5149.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO " tvg-logo="http://static.bldn.vip/logos/hbos/hbo.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5149.m3u8
 
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 " tvg-logo="http://static.bldn.vip/logos/hbos/hbo2.png" group-title="HBO",HBO 2 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5148.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 " tvg-logo="http://static.bldn.vip/logos/hbos/hbo2.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO 2 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO 2 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5148.m3u8
 
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS " tvg-logo="http://static.bldn.vip/logos/hbos/hboplus.png" group-title="HBO",HBO PLUS [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5143.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS " tvg-logo="http://static.bldn.vip/logos/hbos/hboplus.png" group-title="HBO",HBO PLUS [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO PLUS [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO PLUS [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5143.m3u8
 
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY " tvg-logo="http://static.bldn.vip/logos/hbos/family.png" group-title="HBO",HBO FAMILY [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5146.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY " tvg-logo="http://static.bldn.vip/logos/hbos/family.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO FAMILY [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO FAMILY [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5146.m3u8
 
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE " tvg-logo="http://static.bldn.vip/logos/hbos/hbosignature.png" group-title="HBO",HBO SIGNATURE [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5140.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE " tvg-logo="http://static.bldn.vip/logos/hbos/hbosignature.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO SIGNATURE [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO SIGNATURE [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5140.m3u8
 
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI " tvg-logo="http://static.bldn.vip/logos/hbos/hbomundi.png" group-title="HBO",HBO MUNDI [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5079.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI " tvg-logo="http://static.bldn.vip/logos/hbos/hbomundi.png" group-title="HBO",HBO MUNDI [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO MUNDI [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO MUNDI [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5079.m3u8
 
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME " tvg-logo="http://static.bldn.vip/logos/hbos/xtreme.png" group-title="HBO",HBO XTREME [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5077.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME " tvg-logo="http://static.bldn.vip/logos/hbos/xtreme.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO XTREME [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO XTREME [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5077.m3u8
 
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP " tvg-logo="http://static.bldn.vip/logos/hbos/hbopop.png" group-title="HBO",HBO POP [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5074.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP " tvg-logo="http://static.bldn.vip/logos/hbos/hbopop.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO POP [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO POP [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5074.m3u8
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E " tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png" group-title="FILMES E SÉRIES",A&E [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5101.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E " tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] A&E [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] A&E [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5101.m3u8
 
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png" group-title="FILMES E SÉRIES",AMC [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5099.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AMC [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AMC [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5099.m3u8
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://static.bldn.vip/logos/filmeseseries/axn.png" group-title="FILMES E SÉRIES",AXN [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5097.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://static.bldn.vip/logos/filmeseseries/axn.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AXN [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AXN [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5097.m3u8
 
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL " tvg-logo="http://static.bldn.vip/logos/filmeseseries/canalbrasil.png" group-title="FILMES E SÉRIES",CANAL BRASIL [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5095.m3u8
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL " tvg-logo="http://static.bldn.vip/logos/filmeseseries/canalbrasil.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CANAL BRASIL [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CANAL BRASIL [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5095.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinemax.png" group-title="FILMES E SÉRIES",CINEMAX [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5091.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinemax.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINEMAX [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINEMAX [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5091.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 1 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",CINE SKY PLAY 1 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 2 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",CINE SKY PLAY 2 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 3 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",CINE SKY PLAY 3 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 4 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",CINE SKY PLAY 4 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 5 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",CINE SKY PLAY 5 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 6 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",CINE SKY PLAY 6 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 7 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",CINE SKY PLAY 7 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 8 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",CINE SKY PLAY 8 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 9 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",CINE SKY PLAY 9 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 1 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 1 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 1 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173941.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 2 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 2 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 2 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173942.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 3 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 3 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 3 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173943.m3u8
 
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX " tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png" group-title="FILMES E SÉRIES",FOX [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 4 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 4 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 4 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173944.m3u8
 
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE " tvg-logo="http://static.bldn.vip/logos/variedades/foxlife.png" group-title="FILMES E SÉRIES",FOX LIFE [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR] ²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/21286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 5 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 5 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 5 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173945.m3u8
 
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium.png" group-title="FILMES E SÉRIES",FOX PREMIUM 1 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 6 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 6 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 6 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173946.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 7 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 7 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 7 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173947.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 8 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 8 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 8 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173948.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 9 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 9 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] CINE SKY PLAY 9 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/173949.m3u8
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX " tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5089.m3u8
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE " tvg-logo="http://static.bldn.vip/logos/variedades/foxlife.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX LIFE [/B][/COLOR] ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX LIFE [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/21286.m3u8
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX PREMIUM 1 [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX PREMIUM 1 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5085.m3u8
 
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium2.png" group-title="FILMES E SÉRIES",FOX PREMIUM 2 [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TVs ONLINE[/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5083.m3u8
