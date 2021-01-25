@@ -11,9 +11,19 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET FHD H264[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET FHD H264[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/69154
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AMC FHD H265[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AMC FHD H265[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/69154
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AMC HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AMC HD[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/7691
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AMC SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AMC SD[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/7448
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET FHD H264[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET FHD H264[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/13205
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET HD[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/6142
@@ -22,3 +32,4 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET SD[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/61072
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
