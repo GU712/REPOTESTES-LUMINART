@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",NOMEDOCANALm3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] NOMEDOCANAL[/B][/COLOR]mode=streamURL&amp;url=https://drive.google.com/file/d/1wyNhTYwiqOM5FACetJsxmqrgiRTTvVa2/view
+
+
+
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="AQUECIMENTO BBB 2021" tvg-logo="http://streamd.cmsppv.life/LOGOS/Variedades/BBB.png" group-title="REALITY | SHOW",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AQUECIMENTO BBB 2021 [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AQUECIMENTO BBB 2021 [/B][/COLOR];url=http://dnsnoahtv.cmsppv.life:80/live/hamilton2021/hamilton2021/349487.m3u8
 
