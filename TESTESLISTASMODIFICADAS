@@ -21,7 +21,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV" tvg-logo="http://static.bldn.vip/logos/abertos/redetv.png" group-title="CANAIS ABERTOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] REDE TV [/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] REDE TV [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/21086.m3u8
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TV CULTURA SP " tvg-logo="http://static.bldn.vip/logos/abertos/tvcultura.png" group-title="CANAIS ABERTOS",[B]LS -> [/B][/COLOR][COLOR lime][B] TV CULTURA SP [/B][/COLOR]
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TV CULTURA SP " tvg-logo="http://static.bldn.vip/logos/abertos/tvcultura.png" group-title="CANAIS ABERTOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TV CULTURA SP [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TV CULTURA SP [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/29852.m3u8
 
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA " tvg-logo="http://static.bldn.vip/logos/globo/tvdiariofortaleza.png" group-title="CANAIS ABERTOS",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TV DIARIO FORTALEZA [/B][/COLOR]
@@ -57,7 +57,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS " tvg-logo="http://static.bldn.vip/logos/esportes/bandsports.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BAND SPORTS [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BAND SPORTS [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5038.m3u8
 
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="http://static.bldn.vip/logos/esportes/fishtv.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FISH TV [/B][/COLOR] ²
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="http://static.bldn.vip/logos/esportes/fishtv.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FISH TV [/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FISH TV [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/21136.m3u8
 
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF " tvg-logo="http://static.bldn.vip/logos/esportes/off.png" group-title="ESPORTES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] OFF [/B][/COLOR]
@@ -81,10 +81,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 6 [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 6 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5196.m3u8
 
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE",PREMIERE 7 [/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 7 [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE",PREMIERE 7 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5194.m3u8
 
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE",PREMIERE 8 [/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 " tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE 8 [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PREMIERE",PREMIERE 8 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/25587.m3u8
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE " tvg-logo="http://static.bldn.vip/logos/premiere/combate.png" group-title="ESPORTES (PPV)",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] COMBATE [/B][/COLOR]
@@ -120,7 +120,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 " tvg-logo="http://static.bldn.vip/logos/hbos/hbo2.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO 2 [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO 2 [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5148.m3u8
 
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS " tvg-logo="http://static.bldn.vip/logos/hbos/hboplus.png" group-title="HBO",HBO PLUS [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO PLUS [/B][/COLOR]
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS " tvg-logo="http://static.bldn.vip/logos/hbos/hboplus.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO PLUS [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO PLUS [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5143.m3u8
 
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY " tvg-logo="http://static.bldn.vip/logos/hbos/family.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO FAMILY [/B][/COLOR]
@@ -129,7 +129,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE " tvg-logo="http://static.bldn.vip/logos/hbos/hbosignature.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO SIGNATURE [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO SIGNATURE [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5140.m3u8
 
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI " tvg-logo="http://static.bldn.vip/logos/hbos/hbomundi.png" group-title="HBO",HBO MUNDI [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO MUNDI [/B][/COLOR]
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI " tvg-logo="http://static.bldn.vip/logos/hbos/hbomundi.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO MUNDI [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO MUNDI [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5079.m3u8
 
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME " tvg-logo="http://static.bldn.vip/logos/hbos/xtreme.png" group-title="HBO",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HBO XTREME [/B][/COLOR]
@@ -183,7 +183,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX " tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/5089.m3u8
 
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE " tvg-logo="http://static.bldn.vip/logos/variedades/foxlife.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX LIFE [/B][/COLOR] ²
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE " tvg-logo="http://static.bldn.vip/logos/variedades/foxlife.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX LIFE [/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX LIFE [/B][/COLOR];url=http://bldtv.vip:80/live/bert/102030/21286.m3u8
 
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 " tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium.png" group-title="FILMES E SÉRIES",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] FOX PREMIUM 1 [/B][/COLOR]
