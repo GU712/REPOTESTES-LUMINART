@@ -6,5 +6,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] A&E HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AeE HD [/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/8139
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] A&E HD 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] AeE HD 2[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/60935
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMAL PLANET HD[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/6142
