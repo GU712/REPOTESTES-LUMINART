@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-daCUX-LbAxY/XqHEym7S-rI/AAAAAAAABFU/RuI13rT2BpcHVSxCy1IpBevOCJj_DIh8ACK4BGAYYCw/s1600/img.png" group-title="IPTV LR ", IPTV LR Oficial
-http://4.bp.blogspot.com/-daCUX-LbAxY/XqHEym7S-rI/AAAAAAAABFU/RuI13rT2BpcHVSxCy1IpBevOCJj_DIh8ACK4BGAYYCw/s1600/img.png
-#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-daCUX-LbAxY/XqHEym7S-rI/AAAAAAAABFU/RuI13rT2BpcHVSxCy1IpBevOCJj_DIh8ACK4BGAYYCw/s1600/img.png" group-title="IPTV LR ", Sempre Atualizado
-http://4.bp.blogspot.com/-daCUX-LbAxY/XqHEym7S-rI/AAAAAAAABFU/RuI13rT2BpcHVSxCy1IpBevOCJj_DIh8ACK4BGAYYCw/s1600/img.png
-
 
 #EXTINF:-1 tvg-id="" tvg-name="AQUECIMENTO BBB 2021" tvg-logo="http://streamd.cmsppv.life/LOGOS/Variedades/BBB.png" group-title="REALITY | SHOW",AQUECIMENTO BBB 2021
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=f4mTester;url=http://dnsnoahtv.cmsppv.life:80/live/hamilton2021/hamilton2021/349487.m3u8
