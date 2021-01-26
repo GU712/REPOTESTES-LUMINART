@@ -74,3 +74,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PEPE LEGAL 24HRs[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PEPE LEGAL 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/60729
+
+#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",NOMEDOCANALts ou num
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] bbb[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102878
