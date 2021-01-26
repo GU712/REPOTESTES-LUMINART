@@ -6,86 +6,86 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="" tvg-name=" A Cobrinha Azul" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Cobrinha Azul[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Cobrinha Azul[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717101.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" A Familia Dracula" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] A Familia Dracula
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" A Familia Dracula" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Familia Dracula[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Familia Dracula[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717102.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A Mumia" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] A Mumia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Mumia" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Mumia[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Mumia[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717103.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] A Pantera Cor de Rosa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755668.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A Turma da Monica" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] A Turma da Monica
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Turma da Monica" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma da Monica[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma da Monica[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755690.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" A Turma do Pateta" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] A Turma do Pateta
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" A Turma do Pateta" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma do Pateta[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma do Pateta[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717105.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento Lakebottom" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Acampamento Lakebottom
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento Lakebottom" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Acampamento Lakebottom[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Acampamento Lakebottom[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717106.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Aladdin Desenho Animado" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Aladdin Desenho Animado
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Aladdin Desenho Animado" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Aladdin Desenho Animado[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Aladdin Desenho Animado[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717107.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" As Aventuras de Jackie Chan" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] As Aventuras de Jackie Chan
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" As Aventuras de Jackie Chan" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Jackie Chan[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Jackie Chan[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717108.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Piggley Winks" tvg-logo="ICONE-LS" group-title="Canais: 24H",(24h) As Aventuras de Piggley Winks
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Piggley Winks" tvg-logo="ICONE-LS" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Piggley Winks[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Piggley Winks[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717109.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tintim" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] As Aventuras de Tintim
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tintim" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Tintim[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Tintim[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717110.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Baby Shark" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Baby Shark
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby Shark" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Baby Shark[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Baby Shark[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755686.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Ben 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ben 10[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ben 10[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715109.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ben e Holly" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Ben e Holly
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ben e Holly" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ben e Holly[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ben e Holly[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755695.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Big Mouth" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Big Mouth
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Mouth" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Big Mouth[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Big Mouth[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715097.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Bob Esponja
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bob Esponja[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bob Esponja[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715111.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=")Deby e Loid" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Deby e Loid
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=")Deby e Loid" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Deby e Loid[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Deby e Loid[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755675.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cavaleiro do Zodiaco" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Cavaleiro do Zodiaco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiro do Zodiaco" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Cavaleiro do Zodiaco[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Cavaleiro do Zodiaco[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715092.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Caverna do Dragão
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Caverna do Dragão[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Caverna do Dragao[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715101.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Chapolin Colorado
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Chapolin Colorado[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Chapolin Colorado[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755676.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Chaves
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Chaves[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Chaves[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715110.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="(CSI Las Vegas" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] CSI Las Vegas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(CSI Las Vegas" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs CSI Las Vegas[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs CSI Las Vegas[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755666.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Daniel Tigre" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Daniel Tigre
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Daniel Tigre" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Daniel Tigre[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Daniel Tigre[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755696.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Desenhos Biblicos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Desenhos Biblicos[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Desenhos Biblicos[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755697.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Dragon Ball Super
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Dragon Ball Super[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Dragon Ball Super[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755669.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e As Crianças" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Eu a Patroa e As Crianças
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e As Crianças" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Eu a Patroa e As Crianças[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Eu a Patroa e As Criancas[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715105.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Faisca e Fumaça" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Faisca e Fumaça
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Faisca e Fumaça" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Faisca e Fumaça[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Faisca e Fumaca[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755689.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Flash Gordon" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Flash Gordon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Flash Gordon" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Flash Gordon[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Flash Gordon[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755682.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Galinha Pintadinha" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR] Galinha Pintadinha
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs NOMEDOCANAL[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715106.m3u8
