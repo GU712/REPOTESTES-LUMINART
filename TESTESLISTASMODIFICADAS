@@ -46,8 +46,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
+#EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] THUNDERCATS 24HRs[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] THUNDERCATS 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/34929
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HE-MAM 24HRs[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] HE-MAM 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/34887
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TOM E JERRY CLASSICO 24HRs[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] TOM E JERRY CLASSICO 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/60776
