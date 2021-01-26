@@ -44,6 +44,19 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PEPE LEGAL 24HRs[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PEPE LEGAL 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/60729
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PICA PAU 24HRs[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PICA PAU 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/34917
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PICA PAU CLÁSSICO 24HRs[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PICA PAU CLASSICO 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/63310
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] OS HERCULÓIDES 24HRs[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] OS HERCULOIDES 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/60792
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PEPE LEGAL 24HRs[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] PEPE LEGAL 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/60729
