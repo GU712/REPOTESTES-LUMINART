@@ -2,3 +2,8 @@
 <title>[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs PANTERA COR DE ROSA[/B][/COLOR]</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs PANTERA COR DE ROSA[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755668.m3u8</link>
 <item>
+
+<item>
+<title>[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs SCOOBY DOO[/B][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs SCOOBY DOO[/B][/COLOR];url=http://fonteangelusiptv.com:25461/andressa123/andressa123/179158</link>
+<item>
