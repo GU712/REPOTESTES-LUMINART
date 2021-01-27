@@ -381,7 +381,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="" tvg-name="Uma família da pesada" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Uma família da pesada[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Uma família da pesada[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204835.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Punky a Levada da Breca" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Punky a Levada da Breca[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name=" Punky a Levada da Breca" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Punky a Levada da Breca[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Punky a Levada da Breca/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204836.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaço" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Um Maluco No Pedaço[/B][/COLOR] 
