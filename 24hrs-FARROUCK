@@ -426,6 +426,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="" tvg-name="Verdades Secretas" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Verdades Secretas[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Verdades Secretas[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204852.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name=" Zack e Cody Gemeos a Bordo" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zack e Cody Gemeos a Bordo[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zack e Cody Gemeos a Bordo[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149683.m3u8
+
 
 
 
