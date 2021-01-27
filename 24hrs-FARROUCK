@@ -264,166 +264,166 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="" tvg-name=" Zack e Cody Gemeos a Bordo" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zack e Cody Gemeos a Bordo[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zack e Cody Gemeos a Bordo[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149683.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Zatch Bell" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zatch Bell[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Zatch Bell" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zatch Bell[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zatch Bell[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149684.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Zorra Total" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zorra Total[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Zorra Total" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zorra Total[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zorra Total[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149685.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="ICONE-LS" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Dragon Ball GT[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Dragon Ball GT[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Dragon Ball GT[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149653.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar a Lenda de Korra" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Avatar a Lenda de Korra[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Avatar a Lenda de Korra" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Avatar a Lenda de Korra[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Avatar a Lenda de Korra[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204799.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Malhação 1999" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Malhação 1999[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Malhação 1999" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Malhação 1999[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Malhacao 1999[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204800.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Os Smurfs[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Os Smurfs[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Os Smurfs[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204801.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Animaniacs" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Animaniacs[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Animaniacs[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Animaniacs[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204802.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Vaca e o Frango" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Vaca e o Frango[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="(24h) A Vaca e o Frango" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Vaca e o Frango[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Vaca e o Frango[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204803.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Titans" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Os Jovens Titans[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Titans" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Os Jovens Titans[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Os Jovens Titans[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204804.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Pequeno Urso[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Pequeno Urso[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Pequeno Urso[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204805.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Baby Looney Tunes[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Baby Looney Tunes[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Baby Looney Tunes[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204806.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Super Choque[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Super Choque[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Super Choque[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204807.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cão Covarde" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Coragem o Cão Covarde[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cão Covarde" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Coragem o Cão Covarde[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Coragem o Cao Covarde[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204808.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="O Desencanto" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Desencanto[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="O Desencanto" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Desencanto[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Desencanto[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204809.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Clarencio o Otimista" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Clarencio o Otimista[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Clarencio o Otimista" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Clarencio o Otimista[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Clarencio o Otimista[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204810.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Gran Hotel" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Gran Hotel[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name=" Gran Hotel" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Gran Hotel[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Gran Hotel[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204811.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Chernobyl" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Chernobyl[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Chernobyl[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Chernobyl[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204812.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Reality Z" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Reality Z[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Reality Z" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Reality Z[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Reality Z[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204813.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados a Tribo" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Largados e Pelados a Tribo[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados a Tribo" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Largados e Pelados a Tribo[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Largados e Pelados a Tribo[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204814.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="(Lady Night" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Lady Night[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="(Lady Night" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Lady Night[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Lady Night[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204815.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sessão da Tarde" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Cine Sessão da Tarde[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sessão da Tarde" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Cine Sessão da Tarde[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Cine Sessao da Tarde[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204816.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Changeman" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Changeman[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Changeman" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Changeman[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Changeman[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204817.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Escolinha Professor Raimundo" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Escolinha Professor Raimundo[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Escolinha Professor Raimundo" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Escolinha Professor Raimundo[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Escolinha Professor Raimundo[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204818.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Black Kamen Rider" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Black Kamen Rider[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Black Kamen Rider" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Black Kamen Rider[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Black Kamen Rider[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204819.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Irmãos a Obra" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Irmãos a Obra[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name=" Irmãos a Obra" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Irmãos a Obra[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Irmaos a Obra[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204820.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" House of Cards" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs House of Cards[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name=" House of Cards" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs House of Cards[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs House of Cards[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204821.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Gigantes da Industria" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Gigantes da Industria[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name=" Gigantes da Industria" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Gigantes da Industria[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Gigantes da Industria[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204822.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Maria Madalena" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Maria Madalena[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Maria Madalena" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Maria Madalena[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Maria Madalena[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204823.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Demolidor" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Marvel Demolidor[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Demolidor" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Marvel Demolidor[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Marvel Demolidor[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204824.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Spartacus" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Spartacus[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Spartacus[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Spartacus[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204826.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tarzan" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Tarzan[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Tarzan[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Tarzan[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204827.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Largados e Pelados[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Largados e Pelados[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Largados e Pelados[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204828.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" V a Batalha Final" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs V a Batalha Final[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name=" V a Batalha Final" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs V a Batalha Final[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs V a Batalha Final[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204829.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="American Housewife" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs American Housewife[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="American Housewife" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs American Housewife[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs American Housewife[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204830.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bones" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bones[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Bones" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bones[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bones[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204831.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Jiban" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Jiban[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Jiban" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Jiban[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Jiban[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204832.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine 007" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Cine 007[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Cine 007" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Cine 007[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Cine 007[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204833.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Corrida Maluca[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Corrida Maluca[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Corrida Maluca[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204834.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Uma família da pesada" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Uma família da pesada[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Uma família da pesada" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Uma família da pesada[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Uma família da pesada[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204835.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" Punky a Levada da Breca" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Punky a Levada da Breca[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Punky a Levada da Breca/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204836.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaço" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Um Maluco No Pedaço[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaço" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Um Maluco No Pedaço[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Um Maluco No Pedaco[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204837.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Xena a Princesa Guerreira" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Xena a Princesa Guerreira[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name=" Xena a Princesa Guerreira" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Xena a Princesa Guerreira[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Xena a Princesa Guerreira[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204838.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Carga Pesada" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Carga Pesada[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name=" Carga Pesada" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Carga Pesada[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Carga Pesada[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204839.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" O Sócio" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Sócio[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name=" O Sócio" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Sócio[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Socio[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204840.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hilda Furacão" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Hilda Furacão[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Hilda Furacão" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Hilda Furacão[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Hilda Furacao[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204841.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Trolls" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Trolls[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Trolls" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Trolls[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Trolls[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204842.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Mandaloriano[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="O Mandaloriano" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Mandaloriano[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Mandaloriano[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204843.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" A Familía Hathaways" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Familía Hathaways[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name=" A Familía Hathaways" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Familía Hathaways[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Familía Hathaways[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204844.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Batman" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Batman[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Batman" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Batman[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Batman[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204845.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Zorro Classico" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zorro Classico[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Zorro Classico" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zorro Classico[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zorro Classico[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204846.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Brooklyn 99" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Brooklyn 99[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Brooklyn 99" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Brooklyn 99[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Brooklyn 99[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204847.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Drake & Josh" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Drake & Josh[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Drake & Josh" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Drake & Josh[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Drake & Josh[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204848.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Policia 24 Horas" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Policia 24 Horas[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Policia 24 Horas" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Policia 24 Horas[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Policia 24 Horas[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204851.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Verdades Secretas" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/COLOR][COLOR lime][B]24HRs Verdades Secretas[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Verdades Secretas" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Verdades Secretas[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Verdades Secretas[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204852.m3u8
 
 
