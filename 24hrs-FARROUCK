@@ -300,7 +300,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Super Choque[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Super Choque[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204807.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cão Covarde" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Coragem o Cão Covarde[/B][/COLOR] Coragem o Cão Covarde
+#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cão Covarde" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Coragem o Cão Covarde[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Coragem o Cao Covarde[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204808.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="O Desencanto" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs O Desencanto[/B][/COLOR] 
@@ -423,11 +423,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> 
 #EXTINF:-1 tvg-id="" tvg-name="Policia 24 Horas" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Policia 24 Horas[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Policia 24 Horas[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204851.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Verdades Secretas" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Verdades Secretas[/B][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="Verdades Secretas" tvg-logo="" group-title="Canais: 24H",[B]LS -> [/COLOR][COLOR lime][B]24HRs Verdades Secretas[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Verdades Secretas[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204852.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=" Zack e Cody Gemeos a Bordo" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zack e Cody Gemeos a Bordo[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Zack e Cody Gemeos a Bordo[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149683.m3u8
 
 
 
