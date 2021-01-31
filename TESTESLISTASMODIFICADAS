@@ -46,13 +46,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/variedades/arte1.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] DISCOVERY CHANNEL FHD[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/discovery.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] DISCOVERY CHANNEL FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] DISCOVERY CHANNEL FHD[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/69150
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/variedades/arte1.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] DISCOVERY CHANNEL HD[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/discovery.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] DISCOVERY CHANNEL HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] DISCOVERY CHANNEL HD[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/61075
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/variedades/arte1.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] DISCOVERY CHANNEL SD[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bldn.vip/logos/documentario/discovery.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] DISCOVERY CHANNEL SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] DISCOVERY CHANNEL SD[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/4390
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
