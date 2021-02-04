@@ -1,11 +1,33 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name=" 3 Palavrinhas" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs 3 Palavrinhas[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/47459.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" A Cobrinha Azul" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Cobrinha Azul[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/47462.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" A Familia Dracula" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Familia Dracula[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/47464.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="A Mumia" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Mumia[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/47467.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR] 
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/47470.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] A Pantera Cor de Rosa[/B][/COLOR] 
-[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47470.ts
+#EXTINF:-1 tvg-id="" tvg-name="Andy Panda" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR red][B]24HRs Andy Panda[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/47481.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] A Pantera Cor de Rosa[/B][/COLOR] 
- A Pantera Cor de Rosahttp://dnsx.co:80/live/amanda.iptv/a1aw5s/47470.ts
+#EXTINF:-1 tvg-id="" tvg-name=" A Turma do Pateta" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma do Pateta[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/47473.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento Lakebottom" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR red][B]24HRs Acampamento Lakebottom[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/47478.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" Aladdin Desenho Animado" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Aladdin Desenho Animado[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/47480.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" As Aventuras de Jackie Chan" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Jackie Chan[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/47483.ts
+
 
