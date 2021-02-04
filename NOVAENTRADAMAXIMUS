@@ -1,84 +1,1062 @@
-<channels>
+<channels></channels>
 <channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR blue][B] CATEGORIAS FILMES E SÉRIES NO SERVER 2[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 2020[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>ESCOLHA A CATEGORIAS DE CONTEÚDO PARA ASSISTIR</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>SINOPSE</info>
+<genre>GENERO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR lime][B] FILMES 2021[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokird/maximus/main/2021</externallink>
+<item>
+<title>[B][COLOR lime] Finding 'Ohana (2021) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/film21/Finding.Ohana.2021.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AiV7eOusuZawEdbAV75Qx0UORRy.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-</channel>
-</channels>
+<info>O verão de dois irmãos transforma-se numa empolgante viagem quando um diário os coloca na rota de um tesouro perdido, levando-os a embarcar numa aventura épica com os seus amigos e a reaproximarem-se das suas raízes havaianas.[/COLOR][/B]
+</info>
+</item>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR lime][B] FILMES 2020[[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes2020</externallink>
+<item>
+<title>[B][COLOR lime] Below Zero (2021) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/film21/Below.Zero.2021.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dWSnsAGTfc8U27bWsy2RfwZs0Bs.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-</channel>
-</channels>
+</item>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR lime][B] FILMES 2019 - 2018 - 2017[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes_antigos</externallink>
+<item>
+<title>[B][COLOR lime] Army of One (2021) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Army.of.One.2020.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oswZEJav9ymqIc9B1cjA9Pz2tj1.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-</channel>
-</channels>
+</item>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR lime][B] FILMES MARVEL/DC[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokird/maximus/main/marvel</externallink>
+<item>
+<title>[B][COLOR lime] Redemption Day (2021) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/film21/Redemption.Day.2021.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nrWxtM9YbW74PPStSScd5V0lhBM.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-</channel>
-</channels>
+</item>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR lime][B] SERIES[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokird/maximus/main/Series</externallink>
+<item>
+<title>[B][COLOR lime] Zona de Perigo (2021) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/film21/Outside.the.Wire.2021.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3oJ56seNGzqBeJXBh1GZMM9NCaG.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-</channels>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
 
-<channels>
-<channel>
-<name>[COLOR lime][B] ANIMAÇÃO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokird/maximus/main/animacao</externallink>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] What Happened to Mr Cha? (2021) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/film21/What.Happened.To.Mr.Cha.2021.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-</channel>
-</channels>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 2021[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Horizon Line (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Horizon.Line.2020.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] As Bruxas de Roald Dahl (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/The.Witches.2020.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b1C0FuXp4wiPmHLVKq4kwtDMgK6.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] The Empty Man (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/The.Empty.Man.2020.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ukUS2Qh4SxrwYdSk0fvDsI61dqB.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Freaky (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Freaky.2020.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bMebEJlagfBOSvgMQyVMngKhypw.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B][COLOR lime] Arthur & Merlin: Knights of Camelot (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Arthur.and.Merlin.Knights.of.Camelot.2020.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j2NfDW7yhWkIqMleZL0Dxfyy93F.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B][COLOR lime] 365 Dias (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/365.Days.2020.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B][COLOR lime] News of the World (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/News.of.the.World.2020.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v9gOSS3cQvUel5MJW6qzGF6eQLh.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B][COLOR lime] Fatale (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Fatale.2020.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9v43jAAfCYcQEgeMJ1H0rghN0of.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B][COLOR lime] Boss Level (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/antigos/Boss.Level.2020.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9QjaS6M5oR0tg9almf7odQW4Vi7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Shadow in the Cloud (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/filmeslegendasenbutidas/Shadow.in.the.Cloud.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B][COLOR lime] Asphalt Burning (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Borning%20Asfalto%20em%20Chamas.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f4xfU5BUrdDeOgt3J6drQGNjfZk.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Hunter Hunter (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/filmeslegendasenbutidas/Hunter.Hunter.2020.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j52lKBGoHGmUJNUMsDV5kHOkMfC.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Mãe Fora, Dia Santo em Casa (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR] »» LEGENDADO ««[/B]</title>
+<link>http://shark2020tv.eu/movie/filmeslegendasenbutidas/10JoursSansMaman2020.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xEbSztKAAwIljX8A537HeZDKXUS.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[B][COLOR lime] Tudo Bem no Natal Que Vem (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR] »» PT-BR ««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Just.Another.Christmas.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7gCwW0My3JCjhXeqHnBrfZK3bbk.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[B][COLOR lime] As Novas Feiticeiras (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/The.Craft.Legacy.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/AoSuMORjmhREK5V3E3ZY0lrS5Kq.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Monsters of Man (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/animacao/Monsters.of.Man.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/sENLgxCVtZqCMQIeuLep8FmdInr.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Mulher-Maravilha 1984 (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Wonder.Woman.1984.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] The Doorman (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/The.Doorman.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pklyUbh4k1DbHdnsOMASyw7C6NH.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Welcome to Sudden Death (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Welcome.to.Sudden.Death.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rWInhtA2W40D6fEODCNY1tVmX7j.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] The War with Grandpa (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/War.With.Grandpa.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tDbjT00CCiXF1TdOKqTLD5ugdHd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Skylines (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Skylines.2020.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Fatman (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Fatman.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pyRPVFK1kkhmPFfgPGnZqJcYp7V.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Vanguard (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Vanguard.2020.CHINESE.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rtWY1s2vB7DbSIt4rxl1zRoxQcZ.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] We Can Be Heroes (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/We.Can.Be.Heroes.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] The Call of the Wild (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/The.Call.Of.The.Wild.2020%5d.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/AfjRxv9JjcARPoMcd8FUA9XIyor.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] The Midnight Sky (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/O%20C%c3%a9u%20da%20Meia-Noite.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] La belva (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/A%20Besta.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pOLu3OvXqcYzITjthWORm2Drg4j.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Breach (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Breach.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/sjGTLs6uuYEvO1GMvjoIATQojPH.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Jingle Jangle: A Christmas Journey (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Jingle.Jangle.A.Christmas.Journey.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gVXIRRZWKBVj2PuI0UFgyTdzkQf.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Amulet (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Amulet.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/51v67HYQtDkTiqHbIjq7tT8uCHP.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Antebellum – A Escolhida (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Antebellum.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/9Ci4SPVZ8bVdAVrLElzk25Ixlqo.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Jiu Jitsu (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Jiu.Jitsu.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] A Werewolf in England (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/A.Werewolf.in.England.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3sEZ8OJl7sfkEgwsPq9466J3QGC.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Run (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »»LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Run.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xYFRwAfQ129J9GfkToVgMKniKx0.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Um Último Golpe (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »» LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Honest.Thief.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/wws4jD6FXT319mBTlUoDcMZRtgb.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Península (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »» LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Train.to.Busan.2.Peninsula.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/hnUsNLJxzDHtX6e81jjjBiJoLvZ.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Crônicas de Natal: Parte Dois (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »» LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/The.Christmas.Chronicles.2.2020.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8QKWOuEZk77ey7oA1Ul3e3xm4KY.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Tenet (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »» LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Tenet.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/jvuXK03Tvq8Ttr4VbvjtbpNv8sV.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Let Him Go (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »» LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Let.Him.Go.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Enola Holmes (2020) [/COLOR] - [COLOR lime](Full Legendado)[/COLOR] »» LEGENDADO««[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Enola.Holmes.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eBzn4QBzmRa6M52WUnGOnjsg8Jg.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Cosmoball (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Cosmoball.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bSpmhdaslwYH2fn2mj7cRcrN5Vi.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] The Blackout (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/The.Blackout.2019.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pJZ5mYjpje7WVOKIJr64gQ5CvjJ.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] 2067 (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/2067.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gXzYvycrrANlw2qtrsFCPgTVl2a.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] A Babysitter's Guide to Monster Hunting (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/A.Babysitters.Guide.to.Monster.Hunting.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ax1tEe9BPEWq6BLZMiog6gWo2Ro.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Archive (2020)NOME[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Archive.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fBuiKcx0QK0XlGw7uwnuLs0f53U.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Atrás da Linha: Fuga para Dunkirk (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Behind.The.Line.Escape.To.Dunkirk.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/hgeXCLiRNd26fkoxBmjyroTtunc.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Greenland - O Último Refúgio (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Greenland.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v9w9cl5P3XFhD3u3Aq1xO1EUPBS.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Holidate (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Holidate.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/sU3jrjGlOpSgJYUJn24lxpNhO6H.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Love and Monsters (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Love.and.Monsters.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/af14CAimlkGIlvKCmaUX3BOlMqR.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Shifter (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Shifter.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bljTZsCjm8sZFTKS7Aq4HttDR7k.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Os Novos Mutantes (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/The%20New%20Mutants.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/nxeCRcyL4kbK2eEOsLA0ap2p0L0.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Em Fúria (2020)[/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«[/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/Unhinged.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/wfiIfEA0XeeNGuNzpWBxmnkuzWh.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Seized (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusSeized.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kUWr1UsrIbf5Aq3JhIKgFCk9zbH.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Hubie Halloween (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusHubie.Halloween.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tFwmK42ze3gCUkGfk18vXxKPfL8.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Vampiros no Bronx (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusVampires.vs.The.Bronx.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6VkE7YZKkolB2gTlVYCKjr92ma1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Troop Zero  (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusTroop.Zero.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/jyGytyBLggvnKtVV1qJx9ApcReN.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] The Babysitter: Killer Queen (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusThe%20Babysitter%20Killer%20Queen.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yx7akzfwbPCLlxKgZ1NycThFC92.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Hard Kill (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusHard%20Kil%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A885WHVvtvaJXgzRMBE6VQqZDIM.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Sniper: Assassin's End (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusSniper.Assassins.End.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/AiymaaYeAl9ZBoyUz2tz4k2XaKv.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Secret Society of Second Born Royals (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusSecret.Society.of.Second.Born.Royals.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/akxdpZ3SphfA4K4YMSXSuEnQdtd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Broil (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusBroil%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fcNbQWAb9DVsL9U9dX4TYi3Ci9L.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Bill & Ted Face the Music (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusBill.and.Ted.Face.the.Music.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/qaLlTGAJSSf4seM0WrnFDNL5us6.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Ava (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] »LEGENDADO«</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusAva2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3z0KMLIEGL22mVrgaV7KDxKRmT.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] #Alive (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/MAXIMUSAlive.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zqf711LsnQ5CcW3rISFw2t7OYzb.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] A Caçada (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusThe.Hunt.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Mulan (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusMulan%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8qGnUPWVKO2yJkfpeo1AmRV3WmD.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Fatima (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusFatima%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/vuCvc6HWEI6MSPUgBZkHh7a695U.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Freaks: És Como Nós (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusFreaks%20-%20%c3%89s%20Como%20N%c3%b3s%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/q5vhnaaOLSUboRJwiJbYqoUsach.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Coma (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusComa%202019.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yVELycSeGFDlfKe3FKlzZRvLegendadoAK.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] The Sleepover (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusThe.Sleepover.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/jNH5QGmO2xXvOx4sReXIPXzo0og.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] The Rental (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusThe.Rental.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] The Sputnik (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusSputnikT.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bf0MyapDrYk6IUZDAuq1EK05igR.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Rogue (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusRogue.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/jeFhjvxhaRJrMQ6pfxE5bNjQsAI.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Journey to China: The Mystery of Iron Mask (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximuspfa-the.iron.mask.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/48tNoQdALj5bOgh26mLjbsC3U2Y.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Malibu Rescue: The Next Wave (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusMalibu.Rescue.The.Next.Wave.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7B1gSxMdgZCCJcMRgo65T5lByMw.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Origens Secretas (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusOrigensSecretas.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5bMumoR1WXQVnkr19E0nYKP8Zf5.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Santana (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusSantana.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fqDGQXMEkc7KROMzzKd8KnqpS4x.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] The One and Only Ivan (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusThe.One.and.Only.Ivan.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xdq8SREqgaNEvNREe2LH0OnAstX.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Double World (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusDouble%20World%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/lv3RonWge4GlC9ymNzC0oWpFCfv.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Work It (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusWork.It.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/oHixP256UXDyzs9q4GuSSC1hp3Q.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Project Power (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusProject.Power.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/wTz6OzVpzvaJOwIlG0qfZ4pGUQR.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Sonic: O Filme (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusSonic.The.Hedgehog.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Deep Blue Sea 3 (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusDeep.Blue.Sea.3%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/azvgqitNO0kConxAP0TUjMlpBUI.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Apaga-me Esse E-mail! (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusDesperados%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/hoUzSMxGu4Bm73EvH6B3iceFwW8.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] A Banca dos Beijos 2 (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusThe.Kissing.Booth.2.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/wVws5eVnxjjaqTZzg0TQ9FSFxJB.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Proximity (2020) [/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusProximity.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/nto7dx8vmqESDU484huGoSt4o48.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime][B] Offering to the Storm (2020)[/B][/COLOR]- [COLOR lime](Full Legendado)[/COLOR] -LEGENDADO</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusOfferingtotheStorm%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tRUwtRGj3ju0YgE21dSDcxZGE0X.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eey6gCrTtTrTdD4twORYgSHImqA.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Dragonheart: Vengeance (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusDragonheart.Vengeance%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gmt3HRRgtsio4nRpaHZVKOTwH8W.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Dr. Dolittle (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusDolittle%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xnjvwfDulnOCy8qtYX0iqydmMhk.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Fatal Affair (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusFatal.Affair%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/f4EAJ6PXNbxBb2xrdTrT2SlJlCH.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Bala Perdida (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusBala%20Perdida.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yJ1mWzlTPXteNulPZeFZLKNqyas.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] A Velha Guarda (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusThe.Old.Guard.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/lnlQjZxozgQ57RVODUmLgbXKQcr.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Missão Greyhound (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusGreyhound%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dFNZtzjYfc70NQLegendado6PvSPXhyasE.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Force of Nature (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusForce.of.Nature%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2hWwG1D30MgGsNJ7SoLyRxibMuF.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Body Cam (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusBody.Cam.2020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/k4FpiCt2G2SWwUtMX7kKZWayDUK.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Festival Eurovisão da Canção: A História dos Fire Saga (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusEurovision%20Song%20Contest%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/buVYAz1Kcde9YXvNK4qqu5U87h8.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] You Should Have Left (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusYou.Should.Have.Left.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/9IlZU828eTqHl4FkRHx2IxTzLH6.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Artemis Fowl (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusArtemis.Fowl.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/BVEBwzp6dh4jWkitsC4fOtffz3.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] The Invisible Man (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusThe.Invisible.Man.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/uVWUTou9eiCWKcyU95HxaOtaYNl.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Survive the Night (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusSurvive.the.Night.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yjrvo1PevQjxi1MlJo61koROp2f.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Brahms: The Boy II (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusBrahms.The.Boy.II%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/jdjO1WZXz86uQJQzjlLcBiBEGNE.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Earth and Blood (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusEarth.and.Blood%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/jLs6vrZShybEIZctSSfRrpbrhJb.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Extraction (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusExtraction%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] A Ilha da Fantasia (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusFantasy.Island%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rbrvkNWDyF1NKzvAlIHepFBSBJq.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Sergio (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusSergio.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/oMtKkuTVWjE3jmspWamnWyJqVFe.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Bloodshot (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusBloodshot,2020.1080p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] My Spy (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusMySpy%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zKUgbEJeWweqSHR92V4b78rVBB9.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] The Turning (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusThe.Turning.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/uiMHiHp9eAjJty8rddoUnL9G5fU.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] The Main Event (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusThe.Main.Event.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tzg5AEEu1T7nFOCq4gKbGBObhdk.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR lime] Bad Boys for Life (2020) [/COLOR] [COLOR lime] (Legendado) [/COLOR][/B]</title>
+<link>http://shark2020tv.eu/movie/flimes2020/maximusBad.Boys.for.Life%202020.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/sTKl7J5OWnsZSTRiKPIvPx4ngBG.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
