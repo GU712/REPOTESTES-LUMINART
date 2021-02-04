@@ -6,3 +6,6 @@ http://dnsx.co:80/live/amanda.iptv/a1aw5s/47470.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47470.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47470.ts
+
