@@ -1,0 +1,84 @@
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B] CATEGORIAS FILMES E SÉRIES NO SERVER 2[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA A CATEGORIAS DE CONTEÚDO PARA ASSISTIR</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] FILMES 2021[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/2021</externallink>
+<fanart>http://bit.do/entrarfanart</fanart>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] FILMES 2020[[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes2020</externallink>
+<fanart>http://bit.do/entrarfanart</fanart>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] FILMES 2019 - 2018 - 2017[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes_antigos</externallink>
+<fanart>http://bit.do/entrarfanart</fanart>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] FILMES MARVEL/DC[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/marvel</externallink>
+<fanart>http://bit.do/entrarfanart</fanart>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] SERIES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/Series</externallink>
+<fanart>http://bit.do/entrarfanart</fanart>
+</channels>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] ANIMAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/animacao</externallink>
+<fanart>http://bit.do/entrarfanart</fanart>
+</channel>
+</channels>
