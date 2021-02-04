@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Bicudo" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bicudo[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bicudo[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47514.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name=" 3 Palavrinhas" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs 3 Palavrinhas[/B][/COLOR] 
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/47459.ts
