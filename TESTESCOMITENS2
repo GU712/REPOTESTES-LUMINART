@@ -1,19 +1,25 @@
 <item>
-<title>[B]----->>>[/B][COLOR blue][B] TESTE2 (2019)[/B][/COLOR][B]<<<-----[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bduxZ5FUS7C_CYa-4lkG2ctSx5JLnFMr/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4IoHQC7seNSzA0zBoUySY5u3LQS.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<title>Vevo 1</title>
+<link>http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717102.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
 </item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B] TESTE 2(2018) [/B][/COLOR]- [COLOR lime](Full HD)[/COLOR] -LEGENDADO</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bduxZ5FUS7C_CYa-4lkG2ctSx5JLnFMr/view?usp=sharing?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xiVHlQ4aUyeQQFngyGEounzcYlX.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<title>Vevo 2</title>
+<link>http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717102.m3u8|User-Agent=ExoMedia</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
 </item>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>Vevo 3 - Link .ts</title>
+<link>plugin://plugin.video.f4mTester/?url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47462.ts</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+</item>
 
 
