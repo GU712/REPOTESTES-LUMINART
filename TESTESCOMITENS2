@@ -1,25 +1,5 @@
 <item>
-<title>Vevo 1</title>
-<link>http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717102.m3u8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<title>[B][COLOR white]EP 01 - [COLOR yellow] Casei-Me Com Uma Feiticeira[/COLOR][/B]</title>
+<link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.01%20-%20I%2C%20Darrin%2C%20Take%20This%20Witch%2C%20Samantha.mp4</link>
+<thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail>
 </item>
-
-<item>
-<title>Vevo 2</title>
-<link>http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717102.m3u8|User-Agent=ExoMedia</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-
-<item>
-<title>Vevo 3 - Link .ts</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47462.ts</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-
-
