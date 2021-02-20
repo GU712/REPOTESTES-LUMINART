@@ -1,159 +1,22 @@
-<channels></channels>
-<channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] AGUIA[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme NomedoFilme</info>
-<genre>GENERO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedoFilme[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o Filme NomedoFilme em TORRENT</info>
-<genre>GENERO</genre>
+<title>[COLOR lime][B]LISTA 1[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>http://dns.clientetv.net:8080/get.php?username=maria007&amp;password=maria007&amp;type=m3u_plus&amp;output=m3u8</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<agent>VLC/3.0.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao trailer</info>
-<genre>GENERO</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7D9AF6DDF867751A9F385934D5E25756269FE4E0&dn=The%20Eagle%20Has%20Landed%20%20%28Adv.%201976%29%20%20Michael%20Caine%20%20720p&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a6969%2fannounce&tr=http%3a%2f%2ftracker.istole.it%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.istole.it%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.publicbt.com%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<channels></channels>
-<channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme NomedoFilme</info>
-<genre>GENERO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao trailer</info>
-<genre>GENERO</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA EM TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedoFilme[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o Filme NomedoFilme no REDE CANAIS</info>
-<genre>GENERO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=LINKUNIVERSALDUB720</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Legendado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=LINKUNIVERSALDUB1080</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Legendado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=LINKUNIVERSALLEG720</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA NO G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedoFilme[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o Filme NomedoFilme no G DRIVE</info>
-<genre>GENERO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA NO SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedoFilme[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o Filme NomedoFilme no SERVER 1</info>
-<genre>GENERO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
-<link>LINKNOSERVER1</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA NO REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedoFilme[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o Filme NomedoFilme no REDE CANAIS</info>
-<genre>GENERO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
-<link>LINKNOREDECANAIS</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
