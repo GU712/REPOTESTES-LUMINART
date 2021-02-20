@@ -1,323 +1,666 @@
 #EXTM3U
-#EXTINF:-1,A&E 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/113
-#EXTINF:-1,AMC 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/223
-#EXTINF:-1,ANIMAL PLANET 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/114
-#EXTINF:-1,ARTE 1 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/115
-#EXTINF:-1,AXN 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/116
-#EXTINF:-1,BAND 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/224
-#EXTINF:-1,BAND NEWS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/118
-#EXTINF:-1,BAND SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/119
-#EXTINF:-1,BIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/120
-#EXTINF:-1,BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/121
-#EXTINF:-1,CANAL BRASIL 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/122
-#EXTINF:-1,CANAL SONY 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/123
-#EXTINF:-1,CANÇÃO NOVA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/65
-#EXTINF:-1,CARTOON NETWORK 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/124
-#EXTINF:-1,CINE SKY 01 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/48
-#EXTINF:-1,CINE SKY 02 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/49
-#EXTINF:-1,CINE SKY 03 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/50
-#EXTINF:-1,CINE SKY 04 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/51
-#EXTINF:-1,CINE SKY 05 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/52
-#EXTINF:-1,CINE SKY 06 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/53
-#EXTINF:-1,CINE SKY 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/54
-#EXTINF:-1,CINE SKY 08 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/55
-#EXTINF:-1,CINE SKY 09 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/56
-#EXTINF:-1,CINE SKY 10 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/57
-#EXTINF:-1,CINEMAX 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/125
-#EXTINF:-1,CNN BRASIL 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/225
-#EXTINF:-1,COMBATE 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/126
-#EXTINF:-1,COMEDY CENTRAL 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/127
-#EXTINF:-1,CULTURA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/128
-#EXTINF:-1,CURTA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/129
-#EXTINF:-1,DAZN 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/226
-#EXTINF:-1,DISCOVERY CHANNEL 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/130
-#EXTINF:-1,DISCOVERY HOME & HEALTH 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/131
-#EXTINF:-1,DISCOVERY ID 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/132
-#EXTINF:-1,DISCOVERY KIDS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/133
-#EXTINF:-1,DISCOVERY SCIENCE 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/134
-#EXTINF:-1,DISCOVERY THEATER 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/135
-#EXTINF:-1,DISCOVERY TURBO 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/136
-#EXTINF:-1,DISCOVERY WORLD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/137
-#EXTINF:-1,DISNEY CHANNEL 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/138
-#EXTINF:-1,DISNEY JR 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/139
-#EXTINF:-1,DISNEY XD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/140
-#EXTINF:-1,E! 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/141
-#EXTINF:-1,ESPN 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/142
-#EXTINF:-1,ESPN 2 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/143
-#EXTINF:-1,ESPN BRASIL 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/144
-#EXTINF:-1,ESPN EXTRA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/145
-#EXTINF:-1,FILMS & ARTS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/227
-#EXTINF:-1,FISH TV 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/146
-#EXTINF:-1,FOOD NETWORK 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/147
-#EXTINF:-1,FOX 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/148
-#EXTINF:-1,FOX LIFE 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/149
-#EXTINF:-1,FOX PREMIUM 1 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/150
-#EXTINF:-1,FOX PREMIUM 2 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/151
-#EXTINF:-1,FOX SPORTS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/152
-#EXTINF:-1,FOX SPORTS 2 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/153
-#EXTINF:-1,FUTURA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/228
-#EXTINF:-1,FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/229
-#EXTINF:-1,GAZETA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/230
-#EXTINF:-1,GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/231
-#EXTINF:-1,GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/3
-#EXTINF:-1,GLOBO CEARA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/4
-#EXTINF:-1,GLOBO FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/5
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/6
-#EXTINF:-1,GLOBO NATAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/7
-#EXTINF:-1,GLOBO NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/232
-#EXTINF:-1,GLOBO REDE AMAZÔNICA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/11
-#EXTINF:-1,GLOBO RIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/13
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/14
-#EXTINF:-1,GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/15
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/16
-#EXTINF:-1,GLOBO TV BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/17
-#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/18
-#EXTINF:-1,GLOBO TV MIRANTE HD (MA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/19
-#EXTINF:-1,GLOOB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/154
-#EXTINF:-1,GLOOBINHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/215
-#EXTINF:-1,GNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/155
-#EXTINF:-1,HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/156
-#EXTINF:-1,HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/157
-#EXTINF:-1,HBO FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/158
-#EXTINF:-1,HBO MUNDI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/159
-#EXTINF:-1,HBO PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/160
-#EXTINF:-1,HBO POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/161
-#EXTINF:-1,HBO SIGNATURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/162
-#EXTINF:-1,HBO XTREME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/163
-#EXTINF:-1,HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/164
-#EXTINF:-1,HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/165
-#EXTINF:-1,HISTORY 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/166
-#EXTINF:-1,LIFE TIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/167
-#EXTINF:-1,LIKE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/233
-#EXTINF:-1,MAIS GLOBOSAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/235
-#EXTINF:-1,MEGAPIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/168
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/169
-#EXTINF:-1,MTV LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/236
-#EXTINF:-1,MULTISHOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/170
-#EXTINF:-1,MUSIC BOX BRAZIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/171
-#EXTINF:-1,NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/172
-#EXTINF:-1,NAT GEO KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/173
-#EXTINF:-1,NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/174
-#EXTINF:-1,NICK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/175
-#EXTINF:-1,NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/176
-#EXTINF:-1,OFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/177
-#EXTINF:-1,PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/178
-#EXTINF:-1,PLAY KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/216
-#EXTINF:-1,PREMIERE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/179
-#EXTINF:-1,PREMIERE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/180
-#EXTINF:-1,PREMIERE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/181
-#EXTINF:-1,PREMIERE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/182
-#EXTINF:-1,PREMIERE 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/183
-#EXTINF:-1,PREMIERE 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/237
-#EXTINF:-1,PREMIERE CLUBES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/184
-#EXTINF:-1,PRIME BOX BRAZIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/185
-#EXTINF:-1,RECORD BAHIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/23
-#EXTINF:-1,RECORD BRASILIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/25
-#EXTINF:-1,RECORD MANAUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/22
-#EXTINF:-1,RECORD MINAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/27
-#EXTINF:-1,RECORD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/28
-#EXTINF:-1,RECORD PARA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/30
-#EXTINF:-1,RECORD RIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/31
-#EXTINF:-1,RECORD MG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/32
-#EXTINF:-1,RECORD SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/33
-#EXTINF:-1,REDE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/69
-#EXTINF:-1,REDE VIDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/218
-#EXTINF:-1,SBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/238
-#EXTINF:-1,SMITHSONIAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/239
-#EXTINF:-1,SPACE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/187
-#EXTINF:-1,SPORTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/188
-#EXTINF:-1,SPORTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/189
-#EXTINF:-1,SPORTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/190
-#EXTINF:-1,STUDIO UNIVERSAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/191
-#EXTINF:-1,SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/192
-#EXTINF:-1,TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/193
-#EXTINF:-1,TELECINE ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/194
-#EXTINF:-1,TELECINE CULT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/195
-#EXTINF:-1,TELECINE FUN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/196
-#EXTINF:-1,TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/197
-#EXTINF:-1,TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/198
-#EXTINF:-1,TELECINE TOUCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/199
-#EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/200
-#EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/201
-#EXTINF:-1,TNT SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/202
-#EXTINF:-1,TOONCAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/203
-#EXTINF:-1,TRAVELBOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/240
-#EXTINF:-1,TV BRASIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/241
-#EXTINF:-1,TV CIDADE-CARIRI CE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/94
-#EXTINF:-1,TV CULTURA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/74
-#EXTINF:-1,TV DIARIO-CARIRI CE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/95
-#EXTINF:-1,TV GLOBO NE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/75
-#EXTINF:-1,TV JORNAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/76
-#EXTINF:-1,TV NOVO TEMPO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/242
-#EXTINF:-1,TV PAI ETERNO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/103
-#EXTINF:-1,TV RA TIM BUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/204
-#EXTINF:-1,TV TRIBUNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/77
-#EXTINF:-1,TV-JANGADEIRO-CE-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/90
-#EXTINF:-1,TV-UNIAO-CE-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/92
-#EXTINF:-1,TVM -CE-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/93
-#EXTINF:-1,UNIVERSAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/205
-#EXTINF:-1,VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/206
-#EXTINF:-1,VIVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/207
-#EXTINF:-1,WARNER CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/208
-#EXTINF:-1,ZOOMOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS-TVs ONLINEL[/B][/COLOR];url=http://rec2.distv.net:80/plinio/123/244
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Brazil",BR: A&E HD
+http://iptvmedia.live:8080/test-226397/3d73/8816
+#EXTINF:-1 tvg-id="" tvg-name="BR A&E HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",BR A&E HD
+http://iptvmedia.live:8080/test-226397/3d73/275192
+#EXTINF:-1 tvg-id="" tvg-name="BR: AgroBrasil TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/880a04ae32172ba1ca96bd290345f5bb.png" group-title="Brazil",BR: AgroBrasil TV
+http://iptvmedia.live:8080/test-226397/3d73/7320
+#EXTINF:-1 tvg-id="" tvg-name="BR: ALFA TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: ALFA TV
+http://iptvmedia.live:8080/test-226397/3d73/194101
+#EXTINF:-1 tvg-id="" tvg-name="BR: All Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: All Sports HD
+http://iptvmedia.live:8080/test-226397/3d73/7321
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC 2K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: AMC 2K
+http://iptvmedia.live:8080/test-226397/3d73/192944
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28ce80f56c83746e127421c05b68290c.png" group-title="Brazil",BR: AMC HD
+http://iptvmedia.live:8080/test-226397/3d73/8845
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fc6b8a56e3fd60bd26a6377a4f700db4.png" group-title="Brazil",BR: ANIMAL PLANET FHD
+http://iptvmedia.live:8080/test-226397/3d73/8890
+#EXTINF:-1 tvg-id="" tvg-name="BR ANIMAL PLANET FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR ANIMAL PLANET FHD
+http://iptvmedia.live:8080/test-226397/3d73/273381
+#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28fbfc2b0f0a676bcfdce95e4aa10b32.png" group-title="Brazil",BR: ARTE 1 FHD
+http://iptvmedia.live:8080/test-226397/3d73/8833
+#EXTINF:-1 tvg-id="" tvg-name="BR: AUTOMOTOR SPORT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e8b4746f0709ec4decccab3d302291fa.png" group-title="Brazil",BR: AUTOMOTOR SPORT HD
+http://iptvmedia.live:8080/test-226397/3d73/16430
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/81f85350c982e88a4ea07ac7802bd319.png" group-title="Brazil",BR: AXN FHD
+http://iptvmedia.live:8080/test-226397/3d73/8852
+#EXTINF:-1 tvg-id="" tvg-name="BR: BABY TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6d547caaa4b83ed3088387753a2e8b35.png" group-title="Brazil",BR: BABY TV HD
+http://iptvmedia.live:8080/test-226397/3d73/8922
+#EXTINF:-1 tvg-id="" tvg-name="BR BABY TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR BABY TV HD
+http://iptvmedia.live:8080/test-226397/3d73/274327
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND 4K" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ebd85951f6c4ef7cefe147f04f79fd12.png" group-title="Brazil",BR: BAND 4K
+http://iptvmedia.live:8080/test-226397/3d73/8938
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Campinas HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Band Campinas HD
+http://iptvmedia.live:8080/test-226397/3d73/148401
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/d28d24f816db20ed14be5bed3411a00f.png" group-title="Brazil",BR: BAND NEWS HD
+http://iptvmedia.live:8080/test-226397/3d73/14486
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Nordeste" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Band Nordeste
+http://iptvmedia.live:8080/test-226397/3d73/174972
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band RJ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Band RJ HD
+http://iptvmedia.live:8080/test-226397/3d73/148288
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/1d5688bfef0fda206a4e15c2e705dd52.png" group-title="Brazil",BR: BAND SP HD
+http://iptvmedia.live:8080/test-226397/3d73/147272
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ceff609636ae03e6425dafdbd72ab1e3.png" group-title="Brazil",BR: BAND SPORTS HD
+http://iptvmedia.live:8080/test-226397/3d73/8777
+#EXTINF:-1 tvg-id="" tvg-name="BR: BG MUSIC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: BG MUSIC HD
+http://iptvmedia.live:8080/test-226397/3d73/196536
+#EXTINF:-1 tvg-id="" tvg-name="BR BG MUSIC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",BR BG MUSIC HD
+http://iptvmedia.live:8080/test-226397/3d73/274847
+#EXTINF:-1 tvg-id="" tvg-name="BR: BigBrother Brasil 21(camara 1)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: BigBrother Brasil 21(camara 1)
+http://iptvmedia.live:8080/test-226397/3d73/275870
+#EXTINF:-1 tvg-id="" tvg-name="BR: BigBrother Brasil 21(camara 2)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: BigBrother Brasil 21(camara 2)
+http://iptvmedia.live:8080/test-226397/3d73/275871
+#EXTINF:-1 tvg-id="" tvg-name="BR: BigBrother Brasil 21(camara 3)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: BigBrother Brasil 21(camara 3)
+http://iptvmedia.live:8080/test-226397/3d73/275872
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f6b3a65232a363941b122d1fe94bc141.png" group-title="Brazil",BR: BIS FHD
+http://iptvmedia.live:8080/test-226397/3d73/24621
+#EXTINF:-1 tvg-id="" tvg-name="BR: BOOMERANG HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/0f734d5d8662478dcfe1d285dfa9a207.png" group-title="Brazil",BR: BOOMERANG HD
+http://iptvmedia.live:8080/test-226397/3d73/14489
+#EXTINF:-1 tvg-id="" tvg-name="BR: BOX TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: BOX TV
+http://iptvmedia.live:8080/test-226397/3d73/196535
+#EXTINF:-1 tvg-id="" tvg-name="BR: BULGARIA ON AIR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: BULGARIA ON AIR
+http://iptvmedia.live:8080/test-226397/3d73/194097
+#EXTINF:-1 tvg-id="" tvg-name="BR: Can" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Can
+http://iptvmedia.live:8080/test-226397/3d73/193683
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bd8d3e37bf7419f9ef467b1b72b4de69.png" group-title="Brazil",BR: Canal Brasil HD
+http://iptvmedia.live:8080/test-226397/3d73/14569
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Ricos" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Canal Ricos
+http://iptvmedia.live:8080/test-226397/3d73/158485
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL VIVA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bf38f142d7972014e3b9a1c57a20d863.png" group-title="Brazil",BR: CANAL VIVA HD
+http://iptvmedia.live:8080/test-226397/3d73/14553
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANCAONOVA" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b229fc7cdb5f2a1e38b478b82cbe9a95.png" group-title="Brazil",BR: CANCAONOVA
+http://iptvmedia.live:8080/test-226397/3d73/173427
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoon Network FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/072885790a3958b2fbf1e2ad147e4d16.png" group-title="Brazil",BR: Cartoon Network FHD
+http://iptvmedia.live:8080/test-226397/3d73/8913
+#EXTINF:-1 tvg-id="" tvg-name="BR Cartoon Network FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Cartoon Network FHD
+http://iptvmedia.live:8080/test-226397/3d73/273292
+#EXTINF:-1 tvg-id="" tvg-name="BR: CASA E COZINHA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: CASA E COZINHA
+http://iptvmedia.live:8080/test-226397/3d73/275873
+#EXTINF:-1 tvg-id="" tvg-name="BR: Ceak TV Esrita SP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Ceak TV Esrita SP
+http://iptvmedia.live:8080/test-226397/3d73/148408
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE+" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/706adb6981504da3449f7ab07c7a0dc6.png" group-title="Brazil",BR: CINE+
+http://iptvmedia.live:8080/test-226397/3d73/7335
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ec43da7ea739837c267ab3a8d00686c9.png" group-title="Brazil",BR: CINEMAX FHD
+http://iptvmedia.live:8080/test-226397/3d73/8834
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: CNN
+http://iptvmedia.live:8080/test-226397/3d73/225576
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN BRASIL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ed84a46ac48297c8570ab55c56ce116c.png" group-title="Brazil",BR: CNN BRASIL HD
+http://iptvmedia.live:8080/test-226397/3d73/148404
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN Internacional" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: CNN Internacional
+http://iptvmedia.live:8080/test-226397/3d73/266703
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f8ef6dd50c1b857e4927b6acf17e1f5e.png" group-title="Brazil",BR: COMBATE FHD
+http://iptvmedia.live:8080/test-226397/3d73/8778
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/7f092ab65baeb81a33b9ee3ff4ad965e.png" group-title="Brazil",BR: COMEDY CENTRAL HD
+http://iptvmedia.live:8080/test-226397/3d73/8779
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY PLUS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: COMEDY PLUS
+http://iptvmedia.live:8080/test-226397/3d73/196533
+#EXTINF:-1 tvg-id="" tvg-name="BR: CULTURA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b817ca558818964c793cd8a93699d335.png" group-title="Brazil",BR: CULTURA HD
+http://iptvmedia.live:8080/test-226397/3d73/14491
+#EXTINF:-1 tvg-id="" tvg-name="BR: CURTA! HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/cccd63096c349feec570817a3c6e5eda.png" group-title="Brazil",BR: CURTA! HD
+http://iptvmedia.live:8080/test-226397/3d73/166654
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: DAZN 1 HD
+http://iptvmedia.live:8080/test-226397/3d73/173430
+#EXTINF:-1 tvg-id="" tvg-name="BR DAZN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR DAZN 1 HD
+http://iptvmedia.live:8080/test-226397/3d73/275033
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: DAZN 2
+http://iptvmedia.live:8080/test-226397/3d73/173429
+#EXTINF:-1 tvg-id="" tvg-name="BR DAZN 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR DAZN 2
+http://iptvmedia.live:8080/test-226397/3d73/275032
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN BRASIL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bdbcb7f14f736b25d8eb6532ee70dc3e.png" group-title="Brazil",BR: DAZN BRASIL HD
+http://iptvmedia.live:8080/test-226397/3d73/147276
+#EXTINF:-1 tvg-id="" tvg-name="BR DAZN BRASIL HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR DAZN BRASIL HD
+http://iptvmedia.live:8080/test-226397/3d73/275031
+#EXTINF:-1 tvg-id="" tvg-name="BR: DIEAMA TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: DIEAMA TV
+http://iptvmedia.live:8080/test-226397/3d73/194095
+#EXTINF:-1 tvg-id="" tvg-name="BR: DIEMA FAMILY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: DIEMA FAMILY
+http://iptvmedia.live:8080/test-226397/3d73/197086
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b747d730157a6e5d5ebae049828b6cf3.png" group-title="Brazil",BR: Discovery Channel FHD
+http://iptvmedia.live:8080/test-226397/3d73/8897
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Channel FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Channel FHD
+http://iptvmedia.live:8080/test-226397/3d73/273728
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Civilization HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/8bed7cc3d02653256393031c6167dbc8.png" group-title="Brazil",BR: Discovery Civilization HD
+http://iptvmedia.live:8080/test-226397/3d73/8902
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Civilization HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Civilization HD
+http://iptvmedia.live:8080/test-226397/3d73/273729
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery H&H FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/35d7ee941b53c4f9c2960522b9576053.png" group-title="Brazil",BR: Discovery H&H FHD
+http://iptvmedia.live:8080/test-226397/3d73/8904
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery H&H FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery H&H FHD
+http://iptvmedia.live:8080/test-226397/3d73/273730
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6ef28a86d6d91e1ebe8ebfaa2c2723c7.png" group-title="Brazil",BR: Discovery Kids FHD
+http://iptvmedia.live:8080/test-226397/3d73/8893
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Kids FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Kids FHD
+http://iptvmedia.live:8080/test-226397/3d73/273726
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Science HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/41874f43f68dd9d227706e4272cc8494.png" group-title="Brazil",BR: Discovery Science HD
+http://iptvmedia.live:8080/test-226397/3d73/8910
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Science HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Science HD
+http://iptvmedia.live:8080/test-226397/3d73/273731
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery THEATER FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/eccdb9fd544de19f5a47da8c16b7fd94.png" group-title="Brazil",BR: Discovery THEATER FHD
+http://iptvmedia.live:8080/test-226397/3d73/8892
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery THEATER FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery THEATER FHD
+http://iptvmedia.live:8080/test-226397/3d73/273725
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery TLC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Discovery TLC HD
+http://iptvmedia.live:8080/test-226397/3d73/14496
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery TLC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery TLC HD
+http://iptvmedia.live:8080/test-226397/3d73/273756
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Turbo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f4ada104772fecc970f160730ac56e3e.png" group-title="Brazil",BR: Discovery Turbo FHD
+http://iptvmedia.live:8080/test-226397/3d73/8891
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Turbo FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Turbo FHD
+http://iptvmedia.live:8080/test-226397/3d73/273724
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery WORLD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/7e54787e8be5ed69d98b4bb1330e8238.png" group-title="Brazil",BR: Discovery WORLD FHD
+http://iptvmedia.live:8080/test-226397/3d73/8894
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery WORLD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery WORLD FHD
+http://iptvmedia.live:8080/test-226397/3d73/273727
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/50a6bc80d5e23b687df1568a1e850667.png" group-title="Brazil",BR: Disney Channel FHD
+http://iptvmedia.live:8080/test-226397/3d73/8895
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney Channel FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Disney Channel FHD
+http://iptvmedia.live:8080/test-226397/3d73/274547
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney JR HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1ee3dbf19ac4cdf59a75ea3cf6310d90.png" group-title="Brazil",BR: Disney JR HD
+http://iptvmedia.live:8080/test-226397/3d73/8916
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney JR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Disney JR HD
+http://iptvmedia.live:8080/test-226397/3d73/274548
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney XD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/def76639e5be8fb9e81013303abd42ab.png" group-title="Brazil",BR: Disney XD FHD
+http://iptvmedia.live:8080/test-226397/3d73/8917
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney XD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Disney XD FHD
+http://iptvmedia.live:8080/test-226397/3d73/274549
+#EXTINF:-1 tvg-id="" tvg-name="BR: DJing Animation" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: DJing Animation
+http://iptvmedia.live:8080/test-226397/3d73/265781
+#EXTINF:-1 tvg-id="" tvg-name="BR: DJing Dancefloor" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: DJing Dancefloor
+http://iptvmedia.live:8080/test-226397/3d73/173283
+#EXTINF:-1 tvg-id="" tvg-name="BR: DJing HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: DJing HD
+http://iptvmedia.live:8080/test-226397/3d73/265780
+#EXTINF:-1 tvg-id="" tvg-name="BR: DJing Live" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: DJing Live
+http://iptvmedia.live:8080/test-226397/3d73/173282
+#EXTINF:-1 tvg-id="" tvg-name="BR: DJing Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: DJing Music HD
+http://iptvmedia.live:8080/test-226397/3d73/173284
+#EXTINF:-1 tvg-id="" tvg-name="BR DJing Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",BR DJing Music HD
+http://iptvmedia.live:8080/test-226397/3d73/274830
+#EXTINF:-1 tvg-id="" tvg-name="BR: E! HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/101a9a6578e355d9f5d280187b92598d.png" group-title="Brazil",BR: E! HD
+http://iptvmedia.live:8080/test-226397/3d73/14501
+#EXTINF:-1 tvg-id="" tvg-name="BR E! HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",BR E! HD
+http://iptvmedia.live:8080/test-226397/3d73/275206
+#EXTINF:-1 tvg-id="" tvg-name="BR: EKIDS 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: EKIDS 2
+http://iptvmedia.live:8080/test-226397/3d73/196532
+#EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fe253d335cbbef70dc534d5dbaf91426.png" group-title="Brazil",BR: ELEVEN SPORTS 5 FHD
+http://iptvmedia.live:8080/test-226397/3d73/43634
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/68e11cc20e6cca405eeafe623b2bfdde.png" group-title="Brazil",BR: ESPN 2 HD
+http://iptvmedia.live:8080/test-226397/3d73/8801
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN 2 HD
+http://iptvmedia.live:8080/test-226397/3d73/275061
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/584cdcc06374b5da55ce65811d436b27.png" group-title="Brazil",BR: ESPN Brasil HD
+http://iptvmedia.live:8080/test-226397/3d73/10867
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN Brasil HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN Brasil HD
+http://iptvmedia.live:8080/test-226397/3d73/275064
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/280bbb819713bcee901695466ef9320a.png" group-title="Brazil",BR: ESPN Extra FHD
+http://iptvmedia.live:8080/test-226397/3d73/8789
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN Extra FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN Extra FHD
+http://iptvmedia.live:8080/test-226397/3d73/275059
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/9df70541246da4f2f9a65296dc2d5604.png" group-title="Brazil",BR: ESPN FHD
+http://iptvmedia.live:8080/test-226397/3d73/8793
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN FHD
+http://iptvmedia.live:8080/test-226397/3d73/275060
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Sport" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: ESPN Sport
+http://iptvmedia.live:8080/test-226397/3d73/201924
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN Sport" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN Sport
+http://iptvmedia.live:8080/test-226397/3d73/275094
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPNASIL HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: ESPNASIL HD
+http://iptvmedia.live:8080/test-226397/3d73/8800
+#EXTINF:-1 tvg-id="" tvg-name="BR: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/7466cc58b0fd377ab1828358f31dcaa5.png" group-title="Brazil",BR: EUROSPORT 2
+http://iptvmedia.live:8080/test-226397/3d73/16434
+#EXTINF:-1 tvg-id="" tvg-name="BR EUROSPORT 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR EUROSPORT 2
+http://iptvmedia.live:8080/test-226397/3d73/273606
+#EXTINF:-1 tvg-id="" tvg-name="BR: FEN TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/95fee164674982026803ce01b54a6e99.png" group-title="Brazil",BR: FEN TV HD
+http://iptvmedia.live:8080/test-226397/3d73/16415
+#EXTINF:-1 tvg-id="" tvg-name="BR: FILM & ARTS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2b40e5ad64388a0efb6c36a1000fb109.png" group-title="Brazil",BR: FILM & ARTS FHD
+http://iptvmedia.live:8080/test-226397/3d73/169537
+#EXTINF:-1 tvg-id="" tvg-name="BR: FilmBox EXTRA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/948f97f6fe8d628700e717e6bf6337bc.png" group-title="Brazil",BR: FilmBox EXTRA HD
+http://iptvmedia.live:8080/test-226397/3d73/16377
+#EXTINF:-1 tvg-id="" tvg-name="BR: FISH TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2c96f00b734b9db864fa9bba4f95aa9e.png" group-title="Brazil",BR: FISH TV FHD
+http://iptvmedia.live:8080/test-226397/3d73/8848
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOLKOR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: FOLKOR
+http://iptvmedia.live:8080/test-226397/3d73/16407
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fonte TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Fonte TV
+http://iptvmedia.live:8080/test-226397/3d73/275967
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOOD Network FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a7dc053343d5b5f17371e7ba09b9f23d.png" group-title="Brazil",BR: FOOD Network FHD
+http://iptvmedia.live:8080/test-226397/3d73/8863
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX BRASIL HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: FOX BRASIL HD
+http://iptvmedia.live:8080/test-226397/3d73/23821
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX Crime" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/4bfd4a035f282bfca1d50528a4ac7c61.png" group-title="Brazil",BR: FOX Crime
+http://iptvmedia.live:8080/test-226397/3d73/16366
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c7f5dd8742f28244a9992857aa579966.png" group-title="Brazil",BR: FOX FHD
+http://iptvmedia.live:8080/test-226397/3d73/8817
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX Life FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a039317fef01e1a724457eed252db22c.png" group-title="Brazil",BR: FOX Life FHD
+http://iptvmedia.live:8080/test-226397/3d73/8818
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX Life FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",BR FOX Life FHD
+http://iptvmedia.live:8080/test-226397/3d73/273963
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX PREMIUM 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a606a57373aa9c82c28731ab8ae4c7b0.png" group-title="Brazil",BR: FOX PREMIUM 1 HD
+http://iptvmedia.live:8080/test-226397/3d73/8819
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Premium 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e8cd026a24c3ae3bbeccb3fe1e0eb0db.png" group-title="Brazil",BR: Fox Premium 2 FHD
+http://iptvmedia.live:8080/test-226397/3d73/8820
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/803eff84acc7ba0bbdb7301cce19b54d.png" group-title="Brazil",BR: FOX SPORTS 2 FHD
+http://iptvmedia.live:8080/test-226397/3d73/8776
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2c324e02d5a437786a2e0e9657c52501.png" group-title="Brazil",BR: FOX SPORTS FHD
+http://iptvmedia.live:8080/test-226397/3d73/8780
+#EXTINF:-1 tvg-id="" tvg-name="BR: FUTURA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/67909c2228c64ce8423a828571f3a90e.png" group-title="Brazil",BR: FUTURA HD
+http://iptvmedia.live:8080/test-226397/3d73/7342
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/29b0fa9fe99cc48a8942c636566b1f3a.png" group-title="Brazil",BR: FX FHD
+http://iptvmedia.live:8080/test-226397/3d73/8835
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO AMAZONAS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO AMAZONAS
+http://iptvmedia.live:8080/test-226397/3d73/14593
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Amazônica HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo Amazônica HD
+http://iptvmedia.live:8080/test-226397/3d73/36855
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO Anhanguera Goiania HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6992943452b201fe9ab8d00dd51edb32.png" group-title="Brazil",BR: GLOBO Anhanguera Goiania HD
+http://iptvmedia.live:8080/test-226397/3d73/24557
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO BAHIA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO BAHIA HD
+http://iptvmedia.live:8080/test-226397/3d73/14598
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO Brasilia HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6e946ca316181a527be5ab513b93a9f1.png" group-title="Brazil",BR: GLOBO Brasilia HD
+http://iptvmedia.live:8080/test-226397/3d73/24556
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO CUIABA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO CUIABA
+http://iptvmedia.live:8080/test-226397/3d73/24555
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV CAMPINAS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO EPTV CAMPINAS HD
+http://iptvmedia.live:8080/test-226397/3d73/24554
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV RIBEIR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO EPTV RIBEIR
+http://iptvmedia.live:8080/test-226397/3d73/81154
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV Sao Carlos HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c20bfa53494689888e256e7733659250.png" group-title="Brazil",BR: GLOBO EPTV Sao Carlos HD
+http://iptvmedia.live:8080/test-226397/3d73/14594
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Fortaleza HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo Fortaleza HD
+http://iptvmedia.live:8080/test-226397/3d73/36851
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Goiânia HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo Goiânia HD
+http://iptvmedia.live:8080/test-226397/3d73/36852
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo HD
+http://iptvmedia.live:8080/test-226397/3d73/14514
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO INTER TV Cabugi HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6174acc6967561c95546cea99e4cfd92.png" group-title="Brazil",BR: GLOBO INTER TV Cabugi HD
+http://iptvmedia.live:8080/test-226397/3d73/147279
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO INTERNACIONAL HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO INTERNACIONAL HD
+http://iptvmedia.live:8080/test-226397/3d73/24553
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Manaus HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo Manaus HD
+http://iptvmedia.live:8080/test-226397/3d73/148427
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO Minas HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e312e6587be68e498f5b3dc25d14b16d.png" group-title="Brazil",BR: GLOBO Minas HD
+http://iptvmedia.live:8080/test-226397/3d73/24552
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/aa8a5e8f97439b55b6a894bb6cb1ca85.png" group-title="Brazil",BR: GLOBO NEWS HD
+http://iptvmedia.live:8080/test-226397/3d73/14513
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO Nordeste HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fb90de64b7294ef6f6c257cec9eebb52.png" group-title="Brazil",BR: GLOBO Nordeste HD
+http://iptvmedia.live:8080/test-226397/3d73/24551
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo NSC TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo NSC TV FHD
+http://iptvmedia.live:8080/test-226397/3d73/201034
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO NSC TV FLORIANOPOLIS HD
+http://iptvmedia.live:8080/test-226397/3d73/197656
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RBS Porto Alegre HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/3f7e24fb852ee92d626b3d9978240959.png" group-title="Brazil",BR: GLOBO RBS Porto Alegre HD
+http://iptvmedia.live:8080/test-226397/3d73/148423
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo RBS TV HD
+http://iptvmedia.live:8080/test-226397/3d73/201035
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RIBEIR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO RIBEIR HD
+http://iptvmedia.live:8080/test-226397/3d73/81158
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO Ribeirao Preto HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/91a67d01b42a704ff53976dd0ca44f66.png" group-title="Brazil",BR: GLOBO Ribeirao Preto HD
+http://iptvmedia.live:8080/test-226397/3d73/182186
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RIO GRANDE DO NORTE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1d90c33c0cc726f9d16952403a28786b.png" group-title="Brazil",BR: GLOBO RIO GRANDE DO NORTE HD
+http://iptvmedia.live:8080/test-226397/3d73/182175
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RJ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/186f7a0b07e33c9d29a5a51adbfd7521.png" group-title="Brazil",BR: GLOBO RJ HD
+http://iptvmedia.live:8080/test-226397/3d73/30437
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/9356d6bb4005eec99988240848e63983.png" group-title="Brazil",BR: Globo RPC HD
+http://iptvmedia.live:8080/test-226397/3d73/151886
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SERGIPE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO SERGIPE HD
+http://iptvmedia.live:8080/test-226397/3d73/148424
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP EPTV RIBEIRAO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/82a8d74fc64155f96bc90fce78b3b950.png" group-title="Brazil",BR: GLOBO SP EPTV RIBEIRAO HD
+http://iptvmedia.live:8080/test-226397/3d73/148428
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo SP FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo SP FHD
+http://iptvmedia.live:8080/test-226397/3d73/192626
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP TV TRIBUNA FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/5f5b5b1f2eb8e3502922eece76ea81f2.png" group-title="Brazil",BR: GLOBO SP TV TRIBUNA FHD
+http://iptvmedia.live:8080/test-226397/3d73/182170
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Tribuna Santos" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo Tribuna Santos
+http://iptvmedia.live:8080/test-226397/3d73/24546
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV BELEM" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO TV BELEM
+http://iptvmedia.live:8080/test-226397/3d73/14599
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV RIO SUL HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO TV RIO SUL HD
+http://iptvmedia.live:8080/test-226397/3d73/147277
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV TEM SJRP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo TV TEM SJRP
+http://iptvmedia.live:8080/test-226397/3d73/36853
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tem Sorocaba HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c7d467d2c2135a417ebca612d708865d.png" group-title="Brazil",BR: Globo TV Tem Sorocaba HD
+http://iptvmedia.live:8080/test-226397/3d73/14602
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tribuna" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo TV Tribuna
+http://iptvmedia.live:8080/test-226397/3d73/36858
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV VANGUARDA S.J DOS CAMPOS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: GLOBO TV VANGUARDA S.J DOS CAMPOS
+http://iptvmedia.live:8080/test-226397/3d73/266701
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV Verdes Mares Fortaleza HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/54bdc62a874cdd1c00a73f5110b1cbef.png" group-title="Brazil",BR: GLOBO TV Verdes Mares Fortaleza HD
+http://iptvmedia.live:8080/test-226397/3d73/148290
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globosat HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/4d72710bdf928e96a688557e13d74a31.png" group-title="Brazil",BR: Globosat HD
+http://iptvmedia.live:8080/test-226397/3d73/90168
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/34a173f24d6a5f0b68e1526ca063537f.png" group-title="Brazil",BR: GLOOB HD
+http://iptvmedia.live:8080/test-226397/3d73/14605
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloobinho HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Gloobinho HD
+http://iptvmedia.live:8080/test-226397/3d73/148406
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f9e7782911f80ec04ad4fb4fa63f1df9.png" group-title="Brazil",BR: GNT HD
+http://iptvmedia.live:8080/test-226397/3d73/8856
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gospel Movies Television" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Gospel Movies Television
+http://iptvmedia.live:8080/test-226397/3d73/7346
+#EXTINF:-1 tvg-id="" tvg-name="BR: H2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: H2 HD
+http://iptvmedia.live:8080/test-226397/3d73/192946
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/de30880a0e32854862b81cebfdff4f32.png" group-title="Brazil",BR: HBO 2 FHD
+http://iptvmedia.live:8080/test-226397/3d73/8821
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/95ddb0c549cd6f18e1b111d6ed67bdef.png" group-title="Brazil",BR: HBO 3 HD
+http://iptvmedia.live:8080/test-226397/3d73/16379
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Family FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a5f0e3d6c8aa749bb2a72f1b6c77059a.png" group-title="Brazil",BR: HBO Family FHD
+http://iptvmedia.live:8080/test-226397/3d73/8839
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/021ac0dac6526eb0c4d8f609b0981a4a.png" group-title="Brazil",BR: HBO FHD
+http://iptvmedia.live:8080/test-226397/3d73/8822
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO MUNDI HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/0f43c56edfab944cec1a8b9571713c82.png" group-title="Brazil",BR: HBO MUNDI HD
+http://iptvmedia.live:8080/test-226397/3d73/8837
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO PLUS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/73c84cd25a33650a215c8ae7ccd4714f.png" group-title="Brazil",BR: HBO PLUS FHD
+http://iptvmedia.live:8080/test-226397/3d73/8823
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO POP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/48ac45310042b36f1406d7d73b9bf562.png" group-title="Brazil",BR: HBO POP HD
+http://iptvmedia.live:8080/test-226397/3d73/173434
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Signature FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c93e59083a2c4efbb21fd5c43406d7b8.png" group-title="Brazil",BR: HBO Signature FHD
+http://iptvmedia.live:8080/test-226397/3d73/8836
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO XTREME HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/535557537268d0798ae4e911306c09a7.png" group-title="Brazil",BR: HBO XTREME HD
+http://iptvmedia.live:8080/test-226397/3d73/8824
+#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/11f067c48dbaca37b55e0c0d5c3f99a1.png" group-title="Brazil",BR: HGTV HD
+http://iptvmedia.live:8080/test-226397/3d73/147274
+#EXTINF:-1 tvg-id="" tvg-name="BR HGTV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR HGTV HD
+http://iptvmedia.live:8080/test-226397/3d73/275122
+#EXTINF:-1 tvg-id="" tvg-name="BR: History 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/8a357a5ab6db772ce2e87f2dbb5256f7.png" group-title="Brazil",BR: History 2 HD
+http://iptvmedia.live:8080/test-226397/3d73/14516
+#EXTINF:-1 tvg-id="" tvg-name="BR History 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR History 2 HD
+http://iptvmedia.live:8080/test-226397/3d73/274216
+#EXTINF:-1 tvg-id="" tvg-name="BR: History Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/77158ed2afb6b36f6b2391f9c81e58e9.png" group-title="Brazil",BR: History Channel HD
+http://iptvmedia.live:8080/test-226397/3d73/8901
+#EXTINF:-1 tvg-id="" tvg-name="BR History Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR History Channel HD
+http://iptvmedia.live:8080/test-226397/3d73/274210
+#EXTINF:-1 tvg-id="" tvg-name="BR: Investgation Discovery HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Investgation Discovery HD
+http://iptvmedia.live:8080/test-226397/3d73/264638
+#EXTINF:-1 tvg-id="" tvg-name="BR Investgation Discovery HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Investgation Discovery HD
+http://iptvmedia.live:8080/test-226397/3d73/273897
+#EXTINF:-1 tvg-id="" tvg-name="BR: INVESTIGA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: INVESTIGA HD
+http://iptvmedia.live:8080/test-226397/3d73/197085
+#EXTINF:-1 tvg-id="" tvg-name="BR: Investigation Discovery HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bc5c44c1809c5a734c7c501031cf5a61.png" group-title="Brazil",BR: Investigation Discovery HD
+http://iptvmedia.live:8080/test-226397/3d73/14529
+#EXTINF:-1 tvg-id="" tvg-name="BR Investigation Discovery HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Investigation Discovery HD
+http://iptvmedia.live:8080/test-226397/3d73/273757
+#EXTINF:-1 tvg-id="" tvg-name="BR: ITV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: ITV
+http://iptvmedia.live:8080/test-226397/3d73/201931
+#EXTINF:-1 tvg-id="" tvg-name="BR: KINO NOVA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: KINO NOVA
+http://iptvmedia.live:8080/test-226397/3d73/196530
+#EXTINF:-1 tvg-id="" tvg-name="BR: LIFE TIME FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bd2a830872db8c292f651865bb5f9e2c.png" group-title="Brazil",BR: LIFE TIME FHD
+http://iptvmedia.live:8080/test-226397/3d73/8864
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAGIC TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MAGIC TV
+http://iptvmedia.live:8080/test-226397/3d73/197084
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAIS Globosat HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a9fef0ba3f713455f75c32ef4972427c.png" group-title="Brazil",BR: MAIS Globosat HD
+http://iptvmedia.live:8080/test-226397/3d73/172474
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MAX HD
+http://iptvmedia.live:8080/test-226397/3d73/192947
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max Prime HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Max Prime HD
+http://iptvmedia.live:8080/test-226397/3d73/192948
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAX SPORT 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MAX SPORT 2 HD
+http://iptvmedia.live:8080/test-226397/3d73/197083
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAX SPORT 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MAX SPORT 3 HD
+http://iptvmedia.live:8080/test-226397/3d73/196529
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max Up HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Max Up HD
+http://iptvmedia.live:8080/test-226397/3d73/8841
+#EXTINF:-1 tvg-id="" tvg-name="BR: MEGAPIX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b2ea93a81aca350f419921ea9805a21a.png" group-title="Brazil",BR: MEGAPIX FHD
+http://iptvmedia.live:8080/test-226397/3d73/8842
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e28bcf462d5d2310a16ec7fb6edbc24f.png" group-title="Brazil",BR: MTV HD
+http://iptvmedia.live:8080/test-226397/3d73/147283
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV LIVE FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MTV LIVE FHD
+http://iptvmedia.live:8080/test-226397/3d73/197990
+#EXTINF:-1 tvg-id="" tvg-name="BR MTV LIVE FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",BR MTV LIVE FHD
+http://iptvmedia.live:8080/test-226397/3d73/274057
+#EXTINF:-1 tvg-id="" tvg-name="BR: MULTISHOW FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/29748e0843a2065098876094dc8d6bf5.png" group-title="Brazil",BR: MULTISHOW FHD
+http://iptvmedia.live:8080/test-226397/3d73/14528
+#EXTINF:-1 tvg-id="" tvg-name="BR: MUSIC BOXAZIL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MUSIC BOXAZIL
+http://iptvmedia.live:8080/test-226397/3d73/266702
+#EXTINF:-1 tvg-id="" tvg-name="BR MUSIC BOXAZIL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",BR MUSIC BOXAZIL
+http://iptvmedia.live:8080/test-226397/3d73/274871
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/17bdba6f29d02a26d662d201e5804c35.png" group-title="Brazil",BR: NAT GEO FHD
+http://iptvmedia.live:8080/test-226397/3d73/14531
+#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR NAT GEO FHD
+http://iptvmedia.live:8080/test-226397/3d73/274121
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ac4be9cbe3d27492dde3ab5bc37100b2.png" group-title="Brazil",BR: NAT GEO Kids FHD
+http://iptvmedia.live:8080/test-226397/3d73/8914
+#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO Kids FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR NAT GEO Kids FHD
+http://iptvmedia.live:8080/test-226397/3d73/274114
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO WILD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2ffcbd5676076e9ba265226e0d30b4ec.png" group-title="Brazil",BR: NAT GEO WILD FHD
+http://iptvmedia.live:8080/test-226397/3d73/8905
+#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO WILD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR NAT GEO WILD FHD
+http://iptvmedia.live:8080/test-226397/3d73/274113
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick Junior HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/15c59a784cd776522fa434667d7d8de7.png" group-title="Brazil",BR: Nick Junior HD
+http://iptvmedia.live:8080/test-226397/3d73/8919
+#EXTINF:-1 tvg-id="" tvg-name="BR Nick Junior HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Nick Junior HD
+http://iptvmedia.live:8080/test-226397/3d73/274453
+#EXTINF:-1 tvg-id="" tvg-name="BR: nickelodeon FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/8eda9835c47508dfe6020f8858c83368.png" group-title="Brazil",BR: nickelodeon FHD
+http://iptvmedia.live:8080/test-226397/3d73/16391
+#EXTINF:-1 tvg-id="" tvg-name="BR nickelodeon FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR nickelodeon FHD
+http://iptvmedia.live:8080/test-226397/3d73/274948
+#EXTINF:-1 tvg-id="" tvg-name="BR: NOVA TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: NOVA TV HD
+http://iptvmedia.live:8080/test-226397/3d73/196528
+#EXTINF:-1 tvg-id="" tvg-name="BR: OFF FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/d1934276e9e185fb324c51a5444d2b1f.png" group-title="Brazil",BR: OFF FHD
+http://iptvmedia.live:8080/test-226397/3d73/14532
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b88da64b2ac404dc63245360e6469572.png" group-title="Brazil",BR: PARAMOUNT Channel HD
+http://iptvmedia.live:8080/test-226397/3d73/8859
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: PFC
+http://iptvmedia.live:8080/test-226397/3d73/201178
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: PREMIERE 1 HD
+http://iptvmedia.live:8080/test-226397/3d73/194530
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2ca74069b03b33bf85c2a3382e4db910.png" group-title="Brazil",BR: Premiere 2 FHD
+http://iptvmedia.live:8080/test-226397/3d73/8786
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/7f0172b4acfab1febd5bf3b74dcb08e9.png" group-title="Brazil",BR: Premiere 3 HD
+http://iptvmedia.live:8080/test-226397/3d73/8787
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ab0e4ec3094e7fc30320aa5722798f8e.png" group-title="Brazil",BR: PREMIERE 4 HD
+http://iptvmedia.live:8080/test-226397/3d73/8788
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/82461e78dc03020073dcdfc2f6619e52.png" group-title="Brazil",BR: PREMIERE 5 HD
+http://iptvmedia.live:8080/test-226397/3d73/8790
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1a0c673841775505fd4fef6b80006a60.png" group-title="Brazil",BR: Premiere 6 HD
+http://iptvmedia.live:8080/test-226397/3d73/8791
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 7" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f41bb5ce600059cddd6d5fa0a614884e.png" group-title="Brazil",BR: Premiere 7
+http://iptvmedia.live:8080/test-226397/3d73/8798
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Premiere 8
+http://iptvmedia.live:8080/test-226397/3d73/39869
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: PREMIERE CLUBES HD
+http://iptvmedia.live:8080/test-226397/3d73/14640
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/5793bcf4b1942043b3bd7af6bbb4f90f.png" group-title="Brazil",BR: PREMIERE HD
+http://iptvmedia.live:8080/test-226397/3d73/8785
+#EXTINF:-1 tvg-id="" tvg-name="BR: Prime Box Brazil" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Prime Box Brazil
+http://iptvmedia.live:8080/test-226397/3d73/193333
+#EXTINF:-1 tvg-id="" tvg-name="BR: RBA TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2a333f5505dc167379d15fa165fe114c.png" group-title="Brazil",BR: RBA TV HD
+http://iptvmedia.live:8080/test-226397/3d73/166057
+#EXTINF:-1 tvg-id="" tvg-name="BR: RCTV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: RCTV
+http://iptvmedia.live:8080/test-226397/3d73/197081
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD Amazonas HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e7c4dce15e1d97ccf17aa5a3db786c24.png" group-title="Brazil",BR: RECORD Amazonas HD
+http://iptvmedia.live:8080/test-226397/3d73/39866
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Ba HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Record Ba HD
+http://iptvmedia.live:8080/test-226397/3d73/148400
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD Campinas HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/3218cf44ec79dcd19720af0e78dd4c62.png" group-title="Brazil",BR: RECORD Campinas HD
+http://iptvmedia.live:8080/test-226397/3d73/14538
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD DF HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/242c922f40e4de643420f5a50806b62c.png" group-title="Brazil",BR: RECORD DF HD
+http://iptvmedia.live:8080/test-226397/3d73/147285
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD ESP SANTO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: RECORD ESP SANTO HD
+http://iptvmedia.live:8080/test-226397/3d73/197214
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: RECORD HD
+http://iptvmedia.live:8080/test-226397/3d73/10872
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD MG HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: RECORD MG HD
+http://iptvmedia.live:8080/test-226397/3d73/24545
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bb95e6c45c58aea39e6fdfe87185c4bb.png" group-title="Brazil",BR: RECORD NEWS HD
+http://iptvmedia.live:8080/test-226397/3d73/14540
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD Nordeste HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1b3bbccd4e1476be86b40b47948724d2.png" group-title="Brazil",BR: RECORD Nordeste HD
+http://iptvmedia.live:8080/test-226397/3d73/14539
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Parana HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Record Parana HD
+http://iptvmedia.live:8080/test-226397/3d73/266704
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD Rio de Janeiro FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bf1c771ae6cc02f768a333bef6e3f4f9.png" group-title="Brazil",BR: RECORD Rio de Janeiro FHD
+http://iptvmedia.live:8080/test-226397/3d73/182201
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RJ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Record RJ HD
+http://iptvmedia.live:8080/test-226397/3d73/27204
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD RS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: RECORD RS HD
+http://iptvmedia.live:8080/test-226397/3d73/148407
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: RECORD SP HD
+http://iptvmedia.live:8080/test-226397/3d73/14639
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD São Paulo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1ae3d20d785f5becda97ecbea1dbda99.png" group-title="Brazil",BR: RECORD São Paulo HD
+http://iptvmedia.live:8080/test-226397/3d73/182200
+#EXTINF:-1 tvg-id="" tvg-name="BR: RedBull TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: RedBull TV HD
+http://iptvmedia.live:8080/test-226397/3d73/8792
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE BRASIL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6ac8923fb0d25cd657ca3a6aea32ecd1.png" group-title="Brazil",BR: REDE BRASIL HD
+http://iptvmedia.live:8080/test-226397/3d73/7354
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE FAMILIA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: REDE FAMILIA FHD
+http://iptvmedia.live:8080/test-226397/3d73/193339
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Gospel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede Gospel
+http://iptvmedia.live:8080/test-226397/3d73/193342
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ad72e8a6012c32bb3dc7cfb57167f5a4.png" group-title="Brazil",BR: REDE HD
+http://iptvmedia.live:8080/test-226397/3d73/7359
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede TV SP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede TV SP
+http://iptvmedia.live:8080/test-226397/3d73/148414
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE VIDA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: REDE VIDA HD
+http://iptvmedia.live:8080/test-226397/3d73/147286
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE VIVA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: REDE VIVA
+http://iptvmedia.live:8080/test-226397/3d73/148294
+#EXTINF:-1 tvg-id="" tvg-name="BR: Redeasil" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Redeasil
+http://iptvmedia.live:8080/test-226397/3d73/196525
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Cidade Verde HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT Cidade Verde HD
+http://iptvmedia.live:8080/test-226397/3d73/148402
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT FHD
+http://iptvmedia.live:8080/test-226397/3d73/7367
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT GOIAS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT GOIAS HD
+http://iptvmedia.live:8080/test-226397/3d73/193340
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Interior SP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT Interior SP
+http://iptvmedia.live:8080/test-226397/3d73/266705
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT NORDESTE FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT NORDESTE FHD
+http://iptvmedia.live:8080/test-226397/3d73/199630
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Parana" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT Parana
+http://iptvmedia.live:8080/test-226397/3d73/266706
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Rio Grande HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/88b77dfd2e60a720f1f90981deaa6f67.png" group-title="Brazil",BR: SBT Rio Grande HD
+http://iptvmedia.live:8080/test-226397/3d73/24541
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT RJ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT RJ HD
+http://iptvmedia.live:8080/test-226397/3d73/148295
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT SP
+http://iptvmedia.live:8080/test-226397/3d73/148409
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT TV CIDADE VERDE PIAUI HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT TV CIDADE VERDE PIAUI HD
+http://iptvmedia.live:8080/test-226397/3d73/197987
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT TV Jornal HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT TV Jornal HD
+http://iptvmedia.live:8080/test-226397/3d73/148403
+#EXTINF:-1 tvg-id="" tvg-name="BR: SONY HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/d42e7deabf3fd0888a21211e0de25510.png" group-title="Brazil",BR: SONY HD
+http://iptvmedia.live:8080/test-226397/3d73/14541
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/4bd5083cdd81528b98e70d7747684114.png" group-title="Brazil",BR: SPACE HD
+http://iptvmedia.live:8080/test-226397/3d73/14542
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPOR HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23e8ad6cd8ce02d965151b073fea7f20.png" group-title="Brazil",BR: SPOR HD
+http://iptvmedia.live:8080/test-226397/3d73/8782
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SPORTV 1
+http://iptvmedia.live:8080/test-226397/3d73/66355
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 1
+http://iptvmedia.live:8080/test-226397/3d73/274420
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/af0a3723f4df745952a05659d3520a80.png" group-title="Brazil",BR: SPORTV 2 FHD
+http://iptvmedia.live:8080/test-226397/3d73/8783
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 2 FHD
+http://iptvmedia.live:8080/test-226397/3d73/37193
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c62bc1b4a5910a6df4475d102d3dd0cc.png" group-title="Brazil",BR: SPORTV 3 FHD
+http://iptvmedia.live:8080/test-226397/3d73/8784
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 3 FHD
+http://iptvmedia.live:8080/test-226397/3d73/37194
+#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO UNIVERSAL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/5707fe8a0dcc6b71bccb7e5f53a7c4ba.png" group-title="Brazil",BR: STUDIO UNIVERSAL FHD
+http://iptvmedia.live:8080/test-226397/3d73/8826
+#EXTINF:-1 tvg-id="" tvg-name="BR: SUMMER TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SUMMER TV
+http://iptvmedia.live:8080/test-226397/3d73/201933
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/972867e3ec0db38c275223add00c4d45.png" group-title="Brazil",BR: SYFY HD
+http://iptvmedia.live:8080/test-226397/3d73/14485
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e4693a207df434a6920712ae75db8897.png" group-title="Brazil",BR: TBS HD
+http://iptvmedia.live:8080/test-226397/3d73/14649
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Action" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TC Action
+http://iptvmedia.live:8080/test-226397/3d73/193685
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Cult" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TC Cult
+http://iptvmedia.live:8080/test-226397/3d73/197080
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Fun" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TC Fun
+http://iptvmedia.live:8080/test-226397/3d73/196524
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Pipoca HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TC Pipoca HD
+http://iptvmedia.live:8080/test-226397/3d73/193686
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1465b8cc567084627f7a78332bc7f39a.png" group-title="Brazil",BR: TCM HD
+http://iptvmedia.live:8080/test-226397/3d73/8853
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE ACTION FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TELECINE ACTION FHD
+http://iptvmedia.live:8080/test-226397/3d73/270074
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE CULT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TELECINE CULT HD
+http://iptvmedia.live:8080/test-226397/3d73/273228
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE FUN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2365a016396a979d90ccb8f96b761e28.png" group-title="Brazil",BR: TELECINE FUN FHD
+http://iptvmedia.live:8080/test-226397/3d73/8831
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PIPOCA FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c0f528c8601f0378a92982438bd46bce.png" group-title="Brazil",BR: TELECINE PIPOCA FHD
+http://iptvmedia.live:8080/test-226397/3d73/8830
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE Premium FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/7a4df5ff998a35049b69924a12efd3b6.png" group-title="Brazil",BR: TELECINE Premium FHD
+http://iptvmedia.live:8080/test-226397/3d73/8829
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE Touch FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bbd355059662826735b625714a1d6cfc.png" group-title="Brazil",BR: TELECINE Touch FHD
+http://iptvmedia.live:8080/test-226397/3d73/8828
+#EXTINF:-1 tvg-id="" tvg-name="BR: The History Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: The History Channel
+http://iptvmedia.live:8080/test-226397/3d73/201925
+#EXTINF:-1 tvg-id="" tvg-name="BR The History Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR The History Channel
+http://iptvmedia.live:8080/test-226397/3d73/274273
+#EXTINF:-1 tvg-id="" tvg-name="BR: THE VOICE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: THE VOICE
+http://iptvmedia.live:8080/test-226397/3d73/196523
+#EXTINF:-1 tvg-id="" tvg-name="BR: TLC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/68957793aa8d6562c337f95a0e2b9ac2.png" group-title="Brazil",BR: TLC HD
+http://iptvmedia.live:8080/test-226397/3d73/7370
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e8f2a7e44e82191ea91b4de87268d3fb.png" group-title="Brazil",BR: TNT HD
+http://iptvmedia.live:8080/test-226397/3d73/8840
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Series FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/7e7dc3364e03186daa5e25bb25fb185f.png" group-title="Brazil",BR: TNT Series FHD
+http://iptvmedia.live:8080/test-226397/3d73/8827
+#EXTINF:-1 tvg-id="" tvg-name="BR: TOONCAST HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e32d3bdcbae9a6a473fb8b2548170193.png" group-title="Brazil",BR: TOONCAST HD
+http://iptvmedia.live:8080/test-226397/3d73/8927
+#EXTINF:-1 tvg-id="" tvg-name="BR: TRU TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/929e53b5bdf520e69e11c48edb0a278f.png" group-title="Brazil",BR: TRU TV
+http://iptvmedia.live:8080/test-226397/3d73/173443
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Aparecida" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Aparecida
+http://iptvmedia.live:8080/test-226397/3d73/7379
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Assembl" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Assembl
+http://iptvmedia.live:8080/test-226397/3d73/166063
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BNO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV BNO
+http://iptvmedia.live:8080/test-226397/3d73/201934
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Brasil" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Brasil
+http://iptvmedia.live:8080/test-226397/3d73/24284
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Brasil Central" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Brasil Central
+http://iptvmedia.live:8080/test-226397/3d73/266697
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Brasil Df" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Brasil Df
+http://iptvmedia.live:8080/test-226397/3d73/148422
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Caruaru Pe" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Caruaru Pe
+http://iptvmedia.live:8080/test-226397/3d73/148415
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Cidade Canal 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Cidade Canal 9
+http://iptvmedia.live:8080/test-226397/3d73/201936
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Cidade Verde" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Cidade Verde
+http://iptvmedia.live:8080/test-226397/3d73/198238
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV CULTURA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/defc356d753cdcf62befd604e8429343.png" group-title="Brazil",BR: TV CULTURA HD
+http://iptvmedia.live:8080/test-226397/3d73/23827
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV DIARIO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/78dc830331a2d54bb0468d2c8b8b897c.png" group-title="Brazil",BR: TV DIARIO HD
+http://iptvmedia.live:8080/test-226397/3d73/22361
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV GAZETA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV GAZETA HD
+http://iptvmedia.live:8080/test-226397/3d73/7391
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Geral" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Geral
+http://iptvmedia.live:8080/test-226397/3d73/266698
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Globo" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Globo
+http://iptvmedia.live:8080/test-226397/3d73/46873
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Globo Premium" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Globo Premium
+http://iptvmedia.live:8080/test-226397/3d73/151874
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Novo Tempo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/83f70bd11eee502c3e2f9224342cf961.png" group-title="Brazil",BR: TV Novo Tempo HD
+http://iptvmedia.live:8080/test-226397/3d73/7411
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV PARANA" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bf6e1233552b89aedce24100583925c7.png" group-title="Brazil",BR: TV PARANA
+http://iptvmedia.live:8080/test-226397/3d73/166056
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Po" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Po
+http://iptvmedia.live:8080/test-226397/3d73/152387
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ra Tim Bum HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c1d04a3208a6ce40e8717ff95febbe43.png" group-title="Brazil",BR: TV Ra Tim Bum HD
+http://iptvmedia.live:8080/test-226397/3d73/148405
+#EXTINF:-1 tvg-id="" tvg-name="BR: TVE BAHIA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TVE BAHIA
+http://iptvmedia.live:8080/test-226397/3d73/22364
+#EXTINF:-1 tvg-id="" tvg-name="BR: TVN Brasil" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TVN Brasil
+http://iptvmedia.live:8080/test-226397/3d73/265770
+#EXTINF:-1 tvg-id="" tvg-name="BR: UNIVERSAL Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fc2806785d07f9f7285155bd07233073.png" group-title="Brazil",BR: UNIVERSAL Channel HD
+http://iptvmedia.live:8080/test-226397/3d73/7422
+#EXTINF:-1 tvg-id="" tvg-name="BR: Universp TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Universp TV
+http://iptvmedia.live:8080/test-226397/3d73/174519
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/3c17cf4dab21fd64ae348c82828fc2c7.png" group-title="Brazil",BR: VH1 FHD
+http://iptvmedia.live:8080/test-226397/3d73/14658
+#EXTINF:-1 tvg-id="" tvg-name="BR VH1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",BR VH1 FHD
+http://iptvmedia.live:8080/test-226397/3d73/275149
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1 Mega Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: VH1 Mega Hits
+http://iptvmedia.live:8080/test-226397/3d73/46867
+#EXTINF:-1 tvg-id="" tvg-name="BR VH1 Mega Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",BR VH1 Mega Hits
+http://iptvmedia.live:8080/test-226397/3d73/275158
+#EXTINF:-1 tvg-id="" tvg-name="BR: VIASAT EXPLORE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: VIASAT EXPLORE
+http://iptvmedia.live:8080/test-226397/3d73/196521
+#EXTINF:-1 tvg-id="" tvg-name="BR: VIVA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: VIVA FHD
+http://iptvmedia.live:8080/test-226397/3d73/192945
+#EXTINF:-1 tvg-id="" tvg-name="BR: Warner Bros FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a0d05e26a50d5cb1936f963ba580263e.png" group-title="Brazil",BR: Warner Bros FHD
+http://iptvmedia.live:8080/test-226397/3d73/8825
+#EXTINF:-1 tvg-id="" tvg-name="BR: WOHOO FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: WOHOO FHD
+http://iptvmedia.live:8080/test-226397/3d73/197078
+#EXTINF:-1 tvg-id="" tvg-name="BR: WOOHOO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c1fab44da99480e4910bb7bfc3bc7c5e.png" group-title="Brazil",BR: WOOHOO HD
+http://iptvmedia.live:8080/test-226397/3d73/14555
+#EXTINF:-1 tvg-id="" tvg-name="BR: ZOOMO FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: ZOOMO FHD
+http://iptvmedia.live:8080/test-226397/3d73/197077
+#EXTINF:-1 tvg-id="" tvg-name="BR: ZOOMOO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/670dd04d606c4c64360f9800e75069c6.png" group-title="Brazil",BR: ZOOMOO FHD
+http://iptvmedia.live:8080/test-226397/3d73/14661
