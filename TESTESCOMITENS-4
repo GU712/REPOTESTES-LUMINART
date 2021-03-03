@@ -1,18 +1,12 @@
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES TESTES  - DATA - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - Dublado[/B][/COLOR]</link>
-
+<link>http://185.170.59.243/movie/vania.janaina2/a1aw5s/19980.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CORACAO VALENTE - Dublado[/B][/COLOR]</link>
+<link>http://185.170.59.208/movie/vania.janaina2/a1aw5s/20965.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CRUZADA - Dublado[/B][/COLOR]</link>
+<link>http://185.170.59.216/movie/vania.janaina2/a1aw5s/26442.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CAES DE GUERRA - Dublado[/B][/COLOR]</link>
 <link>http://185.170.59.208/movie/vania.janaina2/a1aw5s/19976.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CONAN DESTRUIDOR - Dublado[/B][/COLOR]</link>
 
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - Dublado[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - Dublado[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - Dublado[/B][/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
