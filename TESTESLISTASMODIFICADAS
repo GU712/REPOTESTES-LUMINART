@@ -318,49 +318,746 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/62
 #EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="/novotempo.png" group-title="ENTRETENIMENTO",TV NOVO TEMPO | - | 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/242
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="/tvpaieterno.png" group-title="CANAIS LOCAIS",TV PAI ETERNO | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/103
-#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="/tvratimbum.png" group-title="KIDS",TV RA TIM BUM | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/204
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA" tvg-logo="/tvtribuna.png" group-title="CANAIS LOCAIS",TV TRIBUNA | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/77
-#EXTINF:-1 tvg-id="" tvg-name="TV UNIVERSITARIA" tvg-logo="/tvuniversitaria.png" group-title="CANAIS LOCAIS",TV UNIVERSITARIA | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/78
-#EXTINF:-1 tvg-id="" tvg-name="TV-A-CRITICA-CE-HD" tvg-logo="/tvacriativa.png" group-title="CANAIS LOCAIS",TV-A-CRITICA-CE-HD | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/87
-#EXTINF:-1 tvg-id="" tvg-name="TV-JANGADEIRO-CE-HD" tvg-logo="/tvjangadeiro.png" group-title="CANAIS LOCAIS",TV-JANGADEIRO-CE-HD | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/90
-#EXTINF:-1 tvg-id="" tvg-name="TV-UNIAO-CE-HD" tvg-logo="/redeuniao.png" group-title="CANAIS LOCAIS",TV-UNIAO-CE-HD | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/92
-#EXTINF:-1 tvg-id="" tvg-name="TVM -CE-HD" tvg-logo="/tvm.png" group-title="CANAIS LOCAIS",TVM -CE-HD | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/93
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/205
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="/vh1megahits.png" group-title="ENTRETENIMENTO",VH1 | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/206
-#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="/viva.png" group-title="ENTRETENIMENTO",VIVA | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/207
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/208
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/243
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="/zoomoo.png" group-title="KIDS",ZOOMOO | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/244
-#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/254
-#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa 2 | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/255
-#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa Extra" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa Extra | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/256
-#EXTINF:-1 tvg-id="" tvg-name="BBB Confessionario" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Confessionario | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/257
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Vip Xepa" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Cozinha Vip Xepa | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/258
-#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Mosaico | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/259
-#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Piscina | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/260
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Colorido" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Quarto Colorido | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/261
-#EXTINF:-1 tvg-id="" tvg-name="BBB Sala de Estar" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Sala de Estar | - | 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]LS - TVs ON LINE[/B][/COLOR];url=http://rec2.distv.net:80/guiomar/123456/262
+#EXTINF:-1 tvg-logo="PITA.vc/JHX" group-title="●Alternativos●", A&E SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90627.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Xun" group-title="●Alternativos●", AMC SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90624.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Sx8" group-title="●Alternativos●", Animal Planet SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90621.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/dbM" group-title="●Alternativos●", AXN SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90618.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/eJG" group-title="●Alternativos●", Band News SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90615.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/j8Y" group-title="●Alternativos●", Band Sports SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90609.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pE" group-title="●Alternativos●", Band SP SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90612.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/TDh" group-title="●Alternativos●", BIS SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90606.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/DtS" group-title="●Alternativos●", Boomerang SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90603.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/1MP" group-title="●Alternativos●", Canal Brasil SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90600.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Ts9" group-title="●Alternativos●", Cartoon Network SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90597.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/j8T" group-title="●Alternativos●", Cinemax SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90594.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/kBr" group-title="●Alternativos●", CNN Brasil SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90591.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Flm" group-title="●Alternativos●", Combate SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90588.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/mT5" group-title="●Alternativos●", Comedy Central SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90585.ts
+
+#EXTINF:-1 tvg-logo="POTA.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="●Alternativos●", Conmebol TV 1 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/90582
+
+#EXTINF:-1 tvg-logo="POTA.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="●Alternativos●", Conmebol TV 2 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/90579
+
+#EXTINF:-1 tvg-logo="POTA.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="●Alternativos●", Conmebol TV 3 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/90576
+
+#EXTINF:-1 tvg-logo="PITA.vc/Oj9" group-title="●Alternativos●", Discovery Channel SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90573.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/XcV" group-title="●Alternativos●", Discovery H&H SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90570.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/KvX" group-title="●Alternativos●", Discovery Kids SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90567.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/0gi" group-title="●Alternativos●", Discovery Science SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90564.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Nib" group-title="●Alternativos●", Discovery Theater SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90561.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/uCQ" group-title="●Alternativos●", Discovery Turbo SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90558.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/wgC" group-title="●Alternativos●", Discovery World SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90555.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/MJq" group-title="●Alternativos●", Disney Channel SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90552.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/kzm" group-title="●Alternativos●", Disney Junior SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90549.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/DKx" group-title="●Alternativos●", E! SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90546.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/YpF" group-title="●Alternativos●", ESPN Brasil SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90537.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/i1l" group-title="●Alternativos●", ESPN Extra SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90534.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/8lJ" group-title="●Alternativos●", ESPN SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90540.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/ZHe" group-title="●Alternativos●", Food Network SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90531.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/DXo" group-title="●Alternativos●", Fox Sports 2 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90516.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/55i" group-title="●Alternativos●", Fox Sports SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90513.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/JsW" group-title="●Alternativos●", FX SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90510.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Xmr" group-title="●Alternativos●", Globo News SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90498.ts
+
+#EXTINF:-1 tvg-logo="PATA.clubsrv.me/logos/canais/gloobinho.png" group-title="●Alternativos●", Gloobinho SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90444.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/J6W" group-title="●Alternativos●", Gloob SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90447.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/scT" group-title="●Alternativos●", GNT SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90441.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Zwg" group-title="●Alternativos●", H2 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90438.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/0qQ" group-title="●Alternativos●", HBO 2 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90435.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/u4M" group-title="●Alternativos●", HBO Family SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90429.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/60H" group-title="●Alternativos●", HBO Plus SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90426.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/ezc" group-title="●Alternativos●", HBO SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90432.ts
+
+#EXTINF:-1 tvg-logo="PETA.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="●Alternativos●", HGTV SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90423.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/VE2" group-title="●Alternativos●", History SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90420.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/53O" group-title="●Alternativos●", ID SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90417.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/ecn" group-title="●Alternativos●", Lifetime SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90414.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/e5K" group-title="●Alternativos●", Mais na Tela SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90411.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/HYL" group-title="●Alternativos●", Megapix SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90408.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/deE" group-title="●Alternativos●", MTV SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90405.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Uet" group-title="●Alternativos●", Multishow SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90402.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/ouq" group-title="●Alternativos●", Nat Geo Kids SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90399.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/ouq" group-title="●Alternativos●", Nat Geo Wild SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90396.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/zO2" group-title="●Alternativos●", National Geographic SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90393.ts
+
+#EXTINF:-1 tvg-logo="PATA.clubsrv.me/logos/canais/nick.png" group-title="●Alternativos●", Nickelodeon SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90387.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/qYZ" group-title="●Alternativos●", Nick Jr SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90390.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/wCS" group-title="●Alternativos●", OFF SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90384.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/uRn" group-title="●Alternativos●", Paramount Channel SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90381.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="●Alternativos●", Premiere 2 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90378.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="●Alternativos●", Premiere 3 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90375.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="●Alternativos●", Premiere 4 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90372.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="●Alternativos●", Premiere 5 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90369.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="●Alternativos●", Premiere 6 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90366.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="●Alternativos●", Premiere 7 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90363.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="●Alternativos●", Premiere 8 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90360.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="●Alternativos●", Premiere Clubes SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90357.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/QOy" group-title="●Alternativos●", RecordTV SP SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90354.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/NuR" group-title="●Alternativos●", RedeTV SP SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90351.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/FVo" group-title="●Alternativos●", SBT SP SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90348.ts
+
+#EXTINF:-1 tvg-logo="PETA.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="●Alternativos●", Star Channel SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90528.ts
+
+#EXTINF:-1 tvg-logo="PETA.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png" group-title="●Alternativos●", Star Life SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90525.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/bFlUXuU.png332/hits_2.png" group-title="●Alternativos●", Star Hits 1 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90522.ts
+
+#EXTINF:-1 tvg-logo="JOTA.foxplay.com/hc/article_attachments/360087397331/brasil_-_hits_2.png" group-title="●Alternativos●", Star Hits 2 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90519.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/tSP" group-title="●Alternativos●", Sony Channel SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90345.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/MNj" group-title="●Alternativos●", Space SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90342.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/YO7" group-title="●Alternativos●", SporTV 2 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90339.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/ybu" group-title="●Alternativos●", SporTV 3 SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90336.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/cii" group-title="●Alternativos●", SporTV SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90333.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/u7I" group-title="●Alternativos●", Studio Universal SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90330.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/cts" group-title="●Alternativos●", SyFy SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90327.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/BsL" group-title="●Alternativos●", Telecine Action SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90324.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/DZP" group-title="●Alternativos●", Telecine Cult SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90321.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/TLE" group-title="●Alternativos●", Telecine Fun SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90318.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/mOL" group-title="●Alternativos●", Telecine Pipoca SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90315.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/N8x" group-title="●Alternativos●", Telecine Premium SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90312.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/rBW" group-title="●Alternativos●", Telecine Touch SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90309.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Czz" group-title="●Alternativos●", TLC SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90306.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/gOR" group-title="●Alternativos●", TNT SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90303.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/oQe" group-title="●Alternativos●", TNT Series SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90300.ts
+
+#EXTINF:-1 tvg-logo="PATA.clubsrv.me/logos/canais/trutv.png" group-title="●Alternativos●", TruTV SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90297.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/8CR" group-title="●Alternativos●", Universal TV SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90294.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Qin" group-title="●Alternativos●", Viva SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90291.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/BrP" group-title="●Alternativos●", Warner Channel SD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90288.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72980
+
+#EXTINF:-1 tvg-logo="PUTA.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72984
+
+#EXTINF:-1 tvg-logo="PUTA.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72988
+
+#EXTINF:-1 tvg-logo="PUTA.com/EBteuiQ.png" group-title="Abertos", AgroMais SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71767.ts
+
+#EXTINF:-1 tvg-logo="JITA.io/logos/canais/band.png" group-title="Abertos", Band BA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72620.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pE" group-title="Abertos", Band SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/79312.ts
+
+#EXTINF:-1 tvg-logo="JITA.io/logos/canais/band.png" group-title="Abertos", Band BA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72620.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/bK3" group-title="Abertos", Canal do Boi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71822.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/CyU" group-title="Abertos", Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71854.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/dgd" group-title="Abertos", Futura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/71965
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pv" group-title="Abertos", Globo Brasilia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71975.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pv" group-title="Abertos", Globo Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71972.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pv" group-title="Abertos", Globo Nordeste SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72003.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pv" group-title="Abertos", Globo Rede Amazonica Manaus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72021.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pv" group-title="Abertos", Globo Rede Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72024.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pv" group-title="Abertos", Globo RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72027.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pv" group-title="Abertos", Globo SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72042.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/QOy" group-title="Abertos", RecordTV Belem SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/73262.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/QOy" group-title="Abertos", RecordTV Goias SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72279.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/QOy" group-title="Abertos", RecordTV RS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72975.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/NuR" group-title="Abertos", RedeTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72300.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/FVo" group-title="Abertos", SBT Rede Massa PR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72306.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/FVo" group-title="Abertos", SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/77964.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/R3QFN6Q.png" group-title="Abertos", TV Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72402.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/QOy" group-title="Abertos", TV Cidade RecordTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/92669.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/GvFAM9c.png" group-title="Abertos", TV Diario Fortaleza SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/92671.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/QZr" group-title="Abertos", TV Gazeta SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72407.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/FZAdGuL.png" group-title="Abertos", TV Justiça SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/77620.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/hNk" group-title="Abertos", TV Senado SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72416.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Sx8" group-title="Documentários", Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71776.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Sx8" group-title="Documentários", Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71776.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Oj9" group-title="Documentários", Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71866.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/0gi" group-title="Documentários", Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71878.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Nib" group-title="Documentários", Discovery Theater SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71882.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/wgC" group-title="Documentários", Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71890.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Zwg" group-title="Documentários", H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72109.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/CyW3g9p.png" group-title="Documentários", HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72145.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/VE2" group-title="Documentários", History SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72149.ts
+
+#EXTINF:-1 tvg-logo="PATA.clubsrv.me/logos/canais/natgeokids.png" group-title="Documentários", Nat Geo Wild SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72195.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/zO2" group-title="Documentários", National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72200.ts
+
+#EXTINF:-1 tvg-logo="PATA.clubsrv.me/logos/canais/trutv.png" group-title="Documentários", TruTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/76670.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/j8Y" group-title="Esportes", Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71804.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Flm" group-title="Esportes", Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71846.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/KCw" group-title="Esportes", ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71910.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/i1l" group-title="Esportes", ESPN Extra SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71918.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/KCw" group-title="Esportes", ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71910.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/DXo" group-title="Esportes", Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71956.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/55i" group-title="Esportes", Fox Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71961.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="Esportes", Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72240
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="Esportes", Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72244
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="Esportes", Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72248
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="Esportes", Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72252
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="Esportes", Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72256
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="Esportes", Premiere 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72260
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="Esportes", Premiere 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72261
+
+#EXTINF:-1 tvg-logo="PITA.vc/77e" group-title="Esportes", Premiere Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72266
+
+#EXTINF:-1 tvg-logo="PITA.vc/YO7" group-title="Esportes", SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72324.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/ybu" group-title="Esportes", SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72328.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/cii" group-title="Esportes", SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72333.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Xun" group-title="Filmes e Séries", AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71771.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/dbM" group-title="Filmes e Séries", AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71784.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/1MP" group-title="Filmes e Séries", Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71819.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/tSP" group-title="Filmes e Séries", Canal Sony SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71827.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/j8T" group-title="Filmes e Séries", Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71836.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/JsW" group-title="Filmes e Séries", FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71969.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/0qQ" group-title="Filmes e Séries", HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72113.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/u4M" group-title="Filmes e Séries", HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72117.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/plzN5Pl.png" group-title="Filmes e Séries", HBO Mundi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72124.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/60H" group-title="Filmes e Séries", HBO Plus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72128.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/LFACM3J.png" group-title="Filmes e Séries", HBO Pop SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72132.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/ezc" group-title="Filmes e Séries", HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72133.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/2N4" group-title="Filmes e Séries", HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72137.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/K9TvnMc.png" group-title="Filmes e Séries", HBO Xtreme SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72141.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/HYL" group-title="Filmes e Séries", Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72170.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/uRn" group-title="Filmes e Séries", Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72220.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/SbT" group-title="Filmes e Séries", Smithsonian SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72316.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/MNj" group-title="Filmes e Séries", Space SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72320.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/eFSGsiP.png" group-title="Filmes e Séries", Star Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71951.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/bFlUXuU.png" group-title="Filmes e Séries", Star Hits 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71946.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/bFlUXuU.png" group-title="Filmes e Séries", Star Hits 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71950.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/u7I" group-title="Filmes e Séries", Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72337.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/cts" group-title="Filmes e Séries", SyFy SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72341.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/BsL" group-title="Filmes e Séries", Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72349
+
+#EXTINF:-1 tvg-logo="PITA.vc/BsL" group-title="Filmes e Séries", Telecine Action SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/90666
+
+#EXTINF:-1 tvg-logo="PITA.vc/DZP" group-title="Filmes e Séries", Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72353
+
+#EXTINF:-1 tvg-logo="PITA.vc/DZP" group-title="Filmes e Séries", Telecine Cult SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/90663
+
+#EXTINF:-1 tvg-logo="PITA.vc/TLE" group-title="Filmes e Séries", Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72357
+
+#EXTINF:-1 tvg-logo="PITA.vc/TLE" group-title="Filmes e Séries", Telecine Fun SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/90660
+
+#EXTINF:-1 tvg-logo="PITA.vc/mOL" group-title="Filmes e Séries", Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72361
+
+#EXTINF:-1 tvg-logo="PITA.vc/mOL" group-title="Filmes e Séries", Telecine Pipoca SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/90657
+
+#EXTINF:-1 tvg-logo="PITA.vc/N8x" group-title="Filmes e Séries", Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72365
+
+#EXTINF:-1 tvg-logo="PITA.vc/N8x" group-title="Filmes e Séries", Telecine Premium SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/90654
+
+#EXTINF:-1 tvg-logo="PITA.vc/rBW" group-title="Filmes e Séries", Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72369
+
+#EXTINF:-1 tvg-logo="PITA.vc/rBW" group-title="Filmes e Séries", Telecine Touch SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/90651
+
+#EXTINF:-1 tvg-logo="PITA.vc/Crr" group-title="Filmes e Séries", TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72345.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/x0uPFhs.png" group-title="Filmes e Séries", TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/73253.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/gOR" group-title="Filmes e Séries", TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72379.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/oQe" group-title="Filmes e Séries", TNT Series SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72384.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/8CR" group-title="Filmes e Séries", Universal TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72422.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/BrP" group-title="Filmes e Séries", Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72434.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/DtS" group-title="Infantis", Boomerang SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71815.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Ts9" group-title="Infantis", Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71832.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/MJq" group-title="Infantis", Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/71894
+
+#EXTINF:-1 tvg-logo="PITA.vc/kzm" group-title="Infantis", Disney Junior SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/71898
+
+#EXTINF:-1 tvg-logo="PITA.vc/bUA" group-title="Infantis", Disney XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/71899
+
+#EXTINF:-1 tvg-logo="PATA.clubsrv.me/logos/canais/gloobinho.png" group-title="Infantis", Gloobinho SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/90628.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/J6W" group-title="Infantis", Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72101.ts
+
+#EXTINF:-1 tvg-logo="PATA.clubsrv.me/logos/canais/natgeokids.png" group-title="Infantis", Nat Geo Kids SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72191.ts
+
+#EXTINF:-1 tvg-logo="PATA.clubsrv.me/logos/canais/nick.png" group-title="Infantis", Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72208.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/qYZ" group-title="Infantis", Nick Jr SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72204.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/R28" group-title="Infantis", Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72385.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/FSk" group-title="Infantis", TV Ra-Tim-Bum SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72415.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/cnP" group-title="Musicais", MTV Live SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72177.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/Uet" group-title="Musicais", Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72183.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/FbG" group-title="Musicais", Music Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72187.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pE" group-title="Notícias", Band News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71792.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/kBr" group-title="Notícias", CNN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71840.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/3pv" group-title="Notícias", Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72000
+
+#EXTINF:-1 tvg-logo="PUTA.com/QoksSPU.png" group-title="Notícias", NHK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/91990.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/DPD" group-title="Notícias", Record News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72273.ts
+
+#EXTINF:-1 tvg-logo="PATA.clubsrv.me/logos/canais/boavontade.png" group-title="Religiosos", Boa Vontade TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71811.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/0hM" group-title="Religiosos", Rede Vida SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72296.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/ycewQHJ.png" group-title="Religiosos", RIT TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72301.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/DNCpO2o.png" group-title="Religiosos", TV Pai Eterno SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72215.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/RbB" group-title="Religiosos", TV Aparecida SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72397.ts
+
+#EXTINF:-1 tvg-logo="PATA.clubsrv.me/logos/canais/cancaonova.png" group-title="Religiosos", TV Cancao Nova SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72404.ts
+
+#EXTINF:-1 tvg-logo="PUTA.com/1kZy1Lu.png" group-title="Religiosos", TV Evangelizar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72628.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/6j9" group-title="Religiosos", TV Novo Tempo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/72411.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/aDZ" group-title="Variedades", Arte 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71780.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/JHX" group-title="Variedades", A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/71763
+
+#EXTINF:-1 tvg-logo="PITA.vc/CyU" group-title="Variedades", Curta SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/71858.ts
+
+#EXTINF:-1 tvg-logo="PITA.vc/DKx" group-title="Variedades", E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/71903
+
+#EXTINF:-1 tvg-logo="PITA.vc/TDh" group-title="Variedades", BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/71809
+
+#EXTINF:-1 tvg-logo="PITA.vc/mT5" group-title="Variedades", Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/71850
+
+#EXTINF:-1 tvg-logo="PITA.vc/XcV" group-title="Variedades", Discovery H&H SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/71870
+
+#EXTINF:-1 tvg-logo="PITA.vc/e5K" group-title="Variedades", Mais na Tela SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72165
+
+#EXTINF:-1 tvg-logo="PITA.vc/wCS" group-title="Variedades", OFF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72212
+
+#EXTINF:-1 tvg-logo="PUTA.com/MMfezaP.png" group-title="Variedades", Loading TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/89700
+
+#EXTINF:-1 tvg-logo="PITA.vc/Drt" group-title="Variedades", Prime Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72270
+
+#EXTINF:-1 tvg-logo="PUTA.com/1M08c1k.png" group-title="Variedades", Trace Brazuca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72389
+
+#EXTINF:-1 tvg-logo="PUTA.com/aHzrsmu.png" group-title="Variedades", Travel Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72393
+
+#EXTINF:-1 tvg-logo="PITA.vc/i2z" group-title="Variedades", VH1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72426
+
+#EXTINF:-1 tvg-logo="PITA.vc/Qin" group-title="Variedades", Viva SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72430
+
+#EXTINF:-1 tvg-logo="PITA.vc/HhI" group-title="Variedades", WooHoo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/72438
+
+#EXTINF:-1 tvg-logo="JETA.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="CANAIS | 🇵🇹", BTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/74822
+
+#EXTINF:-1 tvg-logo="JETA.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="CANAIS | 🇵🇹", Eleven Sports 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/74852
+
+#EXTINF:-1 tvg-logo="JETA.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="CANAIS | 🇵🇹", Eleven Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/74856
+
+#EXTINF:-1 tvg-logo="JETA.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="CANAIS | 🇵🇹", Eleven Sports 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/74860
+
+#EXTINF:-1 tvg-logo="JETA.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="CANAIS | 🇵🇹", Eleven Sports 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/74863
+
+#EXTINF:-1 tvg-logo="JETA.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="CANAIS | 🇵🇹", Eleven Sports 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/74866
+
+#EXTINF:-1 tvg-logo="JETA.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="CANAIS | 🇵🇹", Eleven Sports 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/74869
+
+#EXTINF:-1 tvg-logo="JETA.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="CANAIS | 🇵🇹", Sport TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/74959
+
+#EXTINF:-1 tvg-logo="JETA.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="CANAIS | 🇵🇹", Sport TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]TVs ONLINE[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/74964
+
+
+
