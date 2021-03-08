@@ -1,3 +1,98 @@
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série NomedaSérie</info>
+<genre>GENERO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedaSérie[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série NomedaSérie no REDE CANAIS</info>
+<genre>GENERO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>GENERO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie - TO1 - DATA - Dublado[/B][/COLOR]</title>
+
+<link>https://is.gd/DjMessias31989351328cobkai1x1$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328cbRkai1x2$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai1x3$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai1x4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai1x5$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai1x6$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai1x7$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai1x8$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai1x9$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai1x10$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie - TO1 - DATA - Dublado[/B][/COLOR]</title>
+		
+<link>https://is.gd/DjMessias31989351328Cbkai2x1$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai2x2$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai2x3$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai2x4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai2x5$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai2x6$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai2x7$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai2x8$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai2x9$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias31989351328Cbkai2x10$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie - TO1 - DATA - Dublado[/B][/COLOR]</title>
+		
+<link>https://is.gd/DjMessias031989351328CK3X1$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias031989351328CK3X2$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias031989351328CK3X3$$lsname=[B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias031989351328CK3X4$$lsname=[B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias031989351328CK3X5$$lsname=[B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias031989351328CK3X6$$lsname=[B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias031989351328CK3X7$$lsname=[B]T03E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias031989351328CK3X8$$lsname=[B]T03E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias031989351328CK3X9$$lsname=[B]T03E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+<link>https://is.gd/DjMessias031989351328CK3X10$$lsname=[B]T03E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio [/B][/COLOR]</link>
+		
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+		
+
+
 
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES TESTES  - DATA - Dublado[/B][/COLOR]</title>
