@@ -1,547 +1,214 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="ICONE" group-title="",[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] LISTA DE FILMES ALTERNATIVA[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/ejMx7Hzh6FkG6BVWRpGYUMONlO2_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Eu Me Importo[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/95947.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/zv1NUGF2nv3smvfsLDIXEwstWpC_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Flora e Ulysses[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/95943.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/5mY9Kus52w36oQhSmhYma6R3aze_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Pai por Engano[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/95937.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/2jjXEF4loxfl6OnPeXhViCWTtim_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Caixa de Pandora[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/95933.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/cktr5OUrHjTPUzRAwJvplpvZPEs_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Príncipe Esquecido[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/95918.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/sSxy2Ej25XoekfO8bl8nNyohaI7_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Homem Certo[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/95917.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/81rRgxda2QZs50AG6cWbfqoznYr_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Enquanto a Guerra Durar[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/95910.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/dp1L8ifSSKnkXMGLCMUvXjKdxQk_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Amizade Maldita[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/95905.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/zQF84E6xXSPur1gEbyKJ2P1BECp_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] 10 Horas Para o Natal[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91448.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/36R8qqx51WE7IkHcn4BohLzLqGY_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Assistente[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91452.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/auYgUlzat97qhDNPk2RjjU6cvnb_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Bruxa da Casa ao Lado[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92655.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/xulMdGldIZY4AD5Wbtqf5GcK0b1_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Cor Que Caiu do Espaco[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91968.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/ov6ES8aMntZJ6bbhOhhSwNoZbVf_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Escavação[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93779.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/5qNh8cv32CBhisDzrH080qOEncv_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Face da Verdade[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89723.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/uH5IvPWzzJ21rVRAW3WD5MFYTWT_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Febre[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94233.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/kipC5ftMoTupXyLrtAtibNiLVGE_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Festa de Formatura[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89603.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/sabtafLSADdx3Gpj2V1HRXbndpU_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A História Pessoal de David Copperfield[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93483.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/ldWIvavK0LA15aC2vAcqj4c7FPX_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Hora do Lobo[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93780.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/6Q5cfHddcKyC4KBKOzZeQ5hI55N_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Incrivel Historia Da Ilha Das Rosas[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89576.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/7ws3ZQ8hCTUwFf6FtSUcksIoo69_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição do Espelho[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90721.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/1g9GLXm38EiB9GRUyit9CRFsR1T_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mulher Milagrosa[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90235.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/l7G4kxqdtsrKgjXEp21KQEugY4X_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Nossa Bandeira Jamais Será Vermelha[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92672.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/lh9jmB0FVXjjs4z9ehX6O5wN915_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Porteira[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91259.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/zhtNKMOZxfueR2H8pwgxw3YauwY_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Trajetoria De Pablo Escobar[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91260.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/dfmbwqkalJRfYqFSwNhRn4QYK30_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Vida em um Ano[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94165.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/qAHr52Tzmn2Nywsj9bPb1V18jdm_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Voz Suprema do Blues[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90723.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/jbNYpZoe1TMw2L78VGS8NTspAwj_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] A Árvore dos Desejos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90718.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/fciMWczNCEODy1EaII34BNbHdYA_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Abaixo de Zero[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93781.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/gWlnUfzERPhYG6zUtepOsxcPlS6_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Abra Suas Asas[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89388.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/5osEwU9NdsmgPIMbD5Mq3KU4PHR_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Acredite em Mim: A História de Lisa Mcvey[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89724.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/fMXRTTMiEsvSFqhRuoeZXKcl3QP_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Agentes Vanguard[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89577.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/4ULEEvH0hDYnbWN3nClrb88sYCF_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] AK vs AK[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90724.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/neE6fqGiQcp6z4qNlFtlP0z76c0_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Alguém Avisa?[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89725.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IfPbs6zgWDbBlazciUIMOvXwdv.jpg" ,[COLOR yellow][B] FILME[/B][/COLOR][COLOR lime][B] Altas Expectativas[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90725.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/gZz1HP4Vo3yqYgOTLGxA4SLeX8I_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Amor De Balada[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89726.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/hqX1O4PMi2UXuyNVfrps2kq8uFw_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Amor[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94746.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/7UEqRremYl9cxCPAApYtvqRpcqW_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] As Cegas[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89727.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/5GDJzSxsQl3OGuFlJq1Sbl55ikE_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] As Faces do Demônio[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91428.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/xhz4MtfEIFnx9yh1pqIYuGEcSxm_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Assassinos Sádicos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93627.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybLYpvQSRa0k2j26ZMW3UQ9oaLR.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Babenco - Alguém Tem que Ouvir o Coração e Dizer: Parou[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90727.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/waWlvMTYLLiOC7jGkUDXDWq0nXv_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Banana Split[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89728.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/23Y5tz5YnkRS4TZjWB8GlzJghY2_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Batman: A Alma do Dragão[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92018.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/xKhhceZfAzrfgetI7j69bVJimOL_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Beleza Negra: Uma Amizade Verdadeira[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89401.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/sgjMLke8LXPbcbZQ5s1LNow9D0d_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Bill & Ted Encare a Música[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91410.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/2vlhQKwzEPoZC5cTfzLHrmKjbsk_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Billy The Kid: O Fora da Lei[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94166.mp4
-
-#EXTINF:-1 tvg-logo="https://i.bj-share.info/a826869f0758c29b216c0ca25c31a126.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] BISDocs Princesas do Funk[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91444.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/qq87HToqPgBfO7Lry3C5TiOkUkU_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Blind – Eu Estou Aqui[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89589.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/b7BllsQkD6nTkAdtd28UVCmKqVi_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Bliss: Em Busca da Felicidade[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94167.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/g9WA3biUqXVUU4snaB2f6O24F01_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Brahms: Boneco do Mal II[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92588.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/byNUpSJROMwBetra4bLaq0Yffe4_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Cabana da Possessão[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93628.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/i7357OJlUUKs936Ur6HfQ4vvMMJ_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Capital Humano[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90729.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/euWiWsHhPeSGFsIO5ArzCkGeskG_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Clouds[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92571.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/7eLSLcluylwAK48Jh93sPTHibMs_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Como Casar com um Milionário[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91411.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/svEKCyQmJs3ZRu4YC6rQl248AAs_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Como Construir uma Garota[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92569.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/z6ago1etfmMOBqNx3lWxCCrzp1o_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Contra o Relógio[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90731.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/orrJiQs30G6zSkT8is4QOAtRpFM_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Convencao das Bruxas[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92017.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/f7x1RoKXEkYtw175m7sN4emUrXl_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Crack Cocaina Corrupcao e Conspiracao[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92002.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/AgDGOp8uAwKLy3tBGG50JS4ELVc_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Destemida[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89578.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/sJecw4UYpvTgKE2zS9le44Nwuag_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Destruição Final: O Último Refúgio[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92658.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/x7u85jbkrHGV6sPrV6Y6A3wez90_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Duas Por Uma[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89732.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/a7QZdgQpyelhlehIyT6fiwSblAl_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Duelo no Asfalto[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91267.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/rexHPVJLZxTMTSRIsEjelkhk0Td_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] El Ascensor[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92574.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/hic80IBkrc5ZnCcIx6Hyb9ovldl_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Elliot: Uma História de Natal[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89590.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/iJolHGjHnBDIJuIRDTOj8PGqcok_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Em Busca Da Fama[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89733.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/AiV7eOusuZawEdbAV75Qx0UORRy_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Em busca de 'Ohana[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93782.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/tV4RPHjdpR5Yfe4e6gpGjp13kW4_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Em Busca de um Milagre[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91414.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/1neFg12rAAT5YnODB1l2iLv9HLG_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Em Um Relacionamento Sério[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90734.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/Ac23UNPF7aNpxCRGdx9Aqfg4jsU_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Emicida Amarelo E Tudo Pra Ontem[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89579.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/2hg9rgTswHwaisEL6qNA9U6ER2B_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Encontro Criminoso[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90735.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/90vSzeBoc9NweEv3tWj9A5GDggj_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Enquanto Estivermos Juntos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89734.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/WhAfI9GIgrOF4rasrtmvWOrjnX_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Entre Armas E Brinquedos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89580.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/334CebHp60Kg8xhMnJrrTtgiRxK_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Era Uma Vez um Boneco de Neve[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89591.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/2ZffUR7JjVosp72AQOl8R3o1fB_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Espontânea[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89397.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/gJ3Q4tFO74QekUBdpnO9FvWzr4n_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Fada Madrinha[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89320.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/p8o3JbCpf0yJqVCZtR7ghBhtRxO_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Flops: Agentes Nada Secretos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92005.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/yTrKZdCoARyXmuDBX7rahgrydhm_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Fuga pela Fronteira[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89592.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/yeW1gOLWauwhFVleLwcW29RHLG2_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Full Out 2: You Got This![/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92015.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/hoXjH7LPO5typYqkdVdqpcmLfya_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Lúcia e o Bode[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94168.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/9r6xO7Q1y29ljzxsJnVexDmgKAo_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Grand Canyon ao Extremo[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92558.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/hvbXJHfxXDdEHIXWebVOysqRJ7J_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Guerra de Algodão[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92611.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/vXpm14VfoKnwaWKbBQi3hpc4TGQ_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Guerra Sem Fim: A Espada é a Lei[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89506.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/knPfGsHxRErBv07f8NHlBJaSypa_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] High School Musical: O Musical: Especial de Festas[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90737.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/tmIS7VBd8p0yX0AzUbNmYROtLPH_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Instinto[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94756.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/dGVUiqnahQ4ZZRchGRpO2SyhtQY_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Invasão Zumbi 2 Península[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90738.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/7goDYupzMM5KZH6bMndsxOat9Xq_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Ip Man O Mestre Do Kung Fu[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89737.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/aI8ETMVoOf0GuBHWSiOjPaqhufI_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Isolado Na Pandemia[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93481.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/eLT8Cu357VOwBVTitkmlDEg32Fs_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Jiu Jitsu[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93653.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/qrFr8NVI5EuHbCn5dDpO2fNPhSg_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Jogos Entre Amigos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91423.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/fbZi8jRG0tZTdXx3GH6CZthkFzc_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Justiça Brutal[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94170.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/wJ110kmsRTjM50DHoKmCtLheHDh_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Lar Doce Lar... Ou Não[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91455.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/rzkmHg8rBSdRuXDPSHhHvkEvKCD_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Legado de Violência[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93650.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/9kqN43yygrJM2ckpnYBdtJRmn1b_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] LEGO Star Wars Especial de Festas[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89738.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/hjAZkGVEh1SlJ0hWfANPYf1GPOh_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Loucuras de Verão[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90739.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/nTmYMM7divfQx6CrGUEnU0EbLEZ_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Luccas Neto em: Acampamento de Férias 3[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92581.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/uZwjYbCvYPbDzkcv1SLGcqGGSsF_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Mais Outro Filho[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89739.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/6EL45C23bLCUMm7UJGMKPDpV8Dk_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Mais Um Verao com Mamae[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93064.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/WQVbDbIWyVOlGXcfO69hQh3gAT_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Malcolm & Marie[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94169.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/lTNI66alw3kkOdwHMyDSbpc7J5f_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Minha Querida Nora[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93651.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/9Dd0MeKXA0doqEiV73xgGz9Bk5r_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Minimalismo Já[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91269.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/qDA95ebiy3W3m8hTRB3xZNZVVBM_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Mulher-Maravilha 1984[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93488.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/fD0YRXfB422Alg2femTom33DUxK_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Murilo Couto[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92560.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/w9JKc9hmB5AsNtINi6BvLYUhH61_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Natal Sempre e Para Sempre[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90742.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/fPD6FPvQfe3wjySDnlzvfkI58CA_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Natal Sob Fogo Cruzado[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89507.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/ptE7SKe0uo1NM6W2fa1On30sPau_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Natal Sob Medida[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93629.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/kckshcNyra6qq5ykURhcRGTjo0V_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Ninguém Brinca com Jesus Quintana[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90743.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/hJgEf18Sw8iwtQCzCSIQqGOLaq6_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Nova Ordem Espacial[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94171.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/4E30oSGrE7JOFBLZdhfJzCZ12Sg_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O 3º Andar: Terror na Rua Malasana[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94172.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/htwqnN0zyM1zpY9DgO7dWwq4m2S_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Caminho de Volta[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90744.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/oM41ds2r8AHxixLTQVK1EmjBrf5_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Candidato[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89740.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/xgAwiFtSQu2uGlQuCtVnQ5yWKE4_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Caso Collini[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91450.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/td0uLMhr67ateeoUZRQZYIqzp2B_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Caçador de Recompensas[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93739.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/ziXXbtWaPuEE50kxT34exku7dyH_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Cemitério das Almas Perdidas[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93783.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/lsbqyhrtaC1cgHKSR3VhWrhVUCg_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Chalé[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93486.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/kgWWLoRyWvE5s6rrKgAIf2a0pni_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Céu da Meia-Noite[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90745.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/l0MZ91joBg0p69VPUz5S03AlnYq_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Desaparecimento[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94239.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/e7CVxtDcaGDpslrKZgNc0pk1OAT_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dom da Serpente[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90746.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/7o7jvOGAIzu7nitHFGzoDjPqIJo_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Grande Mestre 4: A Batalha Final[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91271.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/6McPx1oITdAFuaDlzl5NRCrcTOO_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Guardiao Dos Mundos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89741.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/5fKLi2QVetpbLVUKpyDNTR43McW_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Legado Do Grande Mestre[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93482.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/foHto5PECzIaKT4ADV9x2nWY0jg_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mapa das Pequenas Coisas Perfeitas[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94758.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/jl31oYEi9Srf9QGwPQ2C3jz0Y8A_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mediador[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94236.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/1x4tqn90oBqi6qtqMzn69dkziOg_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Natal de Heidi[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92583.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/2kWVSZfK9gbbNQD93Qwi8VvYjlB_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Natal do Ze Coleta[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89743.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/6TFKcVSIfIFDffi91XztloA6X7o_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Presente de Natal de Angela[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89508.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/7YWcnsFPLqINqBtrAJDpbZEULbT_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Preço do Talento[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94174.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/z2BurR1duynNPt3Dt7KUgQvhEHW_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Sequestro de Eden[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/95539.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/pVHgv6leYDCKrW4bdzA77NlMXXM_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Som do Silencio[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89321.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/jrf9rNJbz4IJJGNmb9GFalAv9L1_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Tempo com Você[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93477.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/FHpjm49uWcwqE3qITgysvBb6sw_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Tigre Branco[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93630.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/iJFc9CUT7v1S3UmsEEaubG2Gcf5_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Último Paraíso[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94217.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/cEe6L1gETZyBJxvQZnycXnUKjfe_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Último Turno[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90759.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/4WjqeW9Bg9pFmS1PDHz0h9gCHTP_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Segredos que Guardamos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90747.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/y9k5MjbLsCftyrQ4ec6bPmRtORf_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Pai em Dobro[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92562.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/7dttBeh5NmawjSvK94MjRt5HlTo_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Palavras de Família[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91420.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/83JorDqAqu05Ru5kAGw08oCaH7w_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Palavras nas Paredes do Banheiro[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92023.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/xSDdRAjxKAGi8fUBLOqSrBhJmF0_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Palmer[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93784.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/AmAK09FfXhhav4q26YJx2Qu8iHl_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Pequenos Grandes Heróis[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90748.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/OgUfLlhfBFx5BPK6LzBWFvBW1w_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Pieces of a Woman[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92007.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/qrkCsT3DNYhPv79cc5rPnkcoGfx_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Pode Guardar Um Segredo?[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89322.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/CXQ5zOrhHGcw1imsRMwa7W8izS_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Pole Dance: Dança do Poder[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94237.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/cMhoSGFMOOZUyvZYB6Q9AR4t6fV_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Ponto Vermelho[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94745.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/b1LYcrHuYGUGFZwhOiAitapWHfl_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Posto de Combate[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93652.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/jgnfHt8XnLagu2SvBQojlKaqcay_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Presente de Natal[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92021.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/aSn6RFbOwo1pywkIuHi1le57iB0_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Professor[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93740.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/s3OYpJj03K1ezepvYVoDAcDoCFe_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Pânico Abaixo de Zero[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94218.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/in6m3RclMoyeXwTnZDxyQkUkcHK_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Receita Secreta[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92585.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/cLqg9BjcecdzYGqURSdWgBUO3rX_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Relatos do Mundo[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94736.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/yE1hErf9R2ocoijr26IIM1vFNVa_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Rogue Warfare 2 A Cacada[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89323.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/aqhHuc5iEsgrDynkM9qxuATHG9x_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Rogue Warfare 3 A Morte De Uma Nacao[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89324.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/jZEAAW1W6mNxLZ87Aur79DjXdPv_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Rogue Warfare Ameaca Global[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89744.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/aKWe6JLwdQRjZFTwSLGWy2IUbvi_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Safety[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89604.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/e22oVVRJKEfZWqGn5SVNVTIiC7v_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Skull: A Máscara de Anhangá[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94219.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/k3pSd1JzV3oIFkgcnYm68Thw4VH_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Sombras do Terror[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92590.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/qQV7zxOQToG7k2K0iFtwzg6vKTM_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Sonhos De Uma Vida[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89746.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/uTcJAxIV8BzNXuvcViBSibQSBid_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Sou Sua Mulher[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89605.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/bzDAfXoqNAvWUe7uss2NE3BmRqy_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Soul[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90750.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/11XgiweL4ulUkDXfat955BeDkp6_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Submissao[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89747.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/TrCjYl9jJSQoaDA9o8jrKO8HZK_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Super Urso: Um Resgate na Cidade Grande[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94220.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/k68nPLbIST6NP96JmTxmZijEvCA_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Tenet[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89387.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/ec2cYH2LOxP6xMBRckXktV8HaKs_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Teocracia em Vertigem[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89748.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/bvbgUujcz9UF1fBe31v755bOmFG_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Terra dos Bravos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93631.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/gh2tQjqQxMEUm4ikL6sA4VI4eDt_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Terra Selvagem[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93480.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/aDKrLfuaqVAQ8L3etC7Kd34fjDu_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] The Ash Lad Em Busca do Castelo Dourado[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90751.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/hv78Iq8L9pfieAKQzaomeSJAu21_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Todo o Dinheiro do Mundo[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94759.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/9XuDY3jUDM5LU04xUNeqCWjzWLw_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Todos os Meus Amigos Estão Mortos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94222.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/t84JN0QfTxnYqyaYzgkYDbXSie8_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Todos Os Mortos[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/94739.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/8zrgid8f6c2ODn2T94jKfopOF4C_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Tony Parker Entre Os Maiores[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91427.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/okaAPDmZdIfmE1I5DFxo6iHG5IR_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Trolls 2[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92565.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/eHAY4kvhzsU3Cn85uaIgpe7ch5M_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Tubarão Assassino[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89595.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/oI8gJrsVVJ0i5c96KOMufKISUvw_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Brinde ao Natal[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/90756.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/pUeMpXt2iJIevr8qWq81tpacL2R_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Casamento a Mais[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89596.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/j7I9AKqdnW0nVxUNisL3s7jSiet_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Caso de Detetive[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93634.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/izMwtiJk4JaMTnW7UyJIpY1rAvd_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Noite em Miami...[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92566.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/gLumn0yQu3TrHKazP40TDGYpNqi_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Sereia em Paris[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/91276.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/ee7j1rBFXnAb7hEJJKSbfSAzWgt_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Última Vez[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92594.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/383b9E3Uv1fOyPiSxMZr8lsjFMa_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Vombate Ao Combate[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89750.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/6bK7HmFOWSkqQpUXpCrSbhlZzM1_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Vovó Saiu Do Armário[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/93635.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/2qlQceN0IrqXXEIcFCcpm6B3jQb_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Vozes Que Inspiram[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89751.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/vqGiNbdc2sDwsnivMMYzwAoSSu6_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Wolfwalkers[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/89606.mp4
-
-#EXTINF:-1 tvg-logo="http://dnsx.co:80/images/15cxrJfMkSyJqGCT6CgKncsUkmV_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] O Cachorro Mágico[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/95538.mp4
-
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/yPUXrxTFYV7nShGQPXzjXHHP4lF_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B] Zona de Combate[/B][/COLOR]
-http://dnsx.co:80/movie/7885037935/fireurl.co/92567.mp4
+#EXTINF:-1 tvg-id=""  |  AXN  HD" tvg-logo="http://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] |  AXN   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2082
+#EXTINF:-1 tvg-id=""  | AMC   HD [/B][/COLOR]" tvg-logo="https://3.bp.blogspot.com/-FdaaIPEtgDQ/VDiLi6BZawI/AAAAAAAADCM/KTS56syVlus/s1600/AMC%2B HD [/B][/COLOR].png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | AMC   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2079
+#EXTINF:-1 tvg-id=""  | ANIMAL PLANET   HD [/B][/COLOR]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_ HD [/B][/COLOR]_2007.png/revision/latest?cb=20091126085356"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | ANIMAL PLANET   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2080
+#EXTINF:-1 tvg-id=""  | ARTE 1   HD [/B][/COLOR]" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/arte- HD [/B][/COLOR]-logo-png-1.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | ARTE 1   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2081
+#EXTINF:-1 tvg-id=""  | BABY TV   HD [/B][/COLOR]" tvg-logo="https://logodix.com/logo/1646789.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | BABY TV   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2083
+#EXTINF:-1 tvg-id=""  | BAND CAMPINAS   HD [/B][/COLOR]" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | BAND CAMPINAS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2084
+#EXTINF:-1 tvg-id="" tvg-name="BR NEWS | BAND NEWS   HD [/B][/COLOR]" tvg-logo="https://3.bp.blogspot.com/-qpJTXCKl-ss/WRzxuRZybGI/AAAAAAAA5kk/Zg5P_D_zyegJMxeti8bJn4ejED6_DtqQwCLcB/s1600/123fv.png" group-title="NOTICIAS / NEWS",BR NEWS | BAND NEWS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2085
+#EXTINF:-1 tvg-id=""  | BAND SPORTS   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | BAND SPORTS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2086
+#EXTINF:-1 tvg-id=""  | BIS   HD [/B][/COLOR]" tvg-logo="http://lofrev.net/wp-content/photos/2017/03/chocolate_bis_logo_1.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | BIS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2087
+#EXTINF:-1 tvg-id=""  | BOOMERANG   HD [/B][/COLOR]" tvg-logo="https://www.nicepng.com/png/detail/205-2058892_boomerang- HD [/B][/COLOR]-boomerang- HD [/B][/COLOR]-logo.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | BOOMERANG   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2088
+#EXTINF:-1 tvg-id=""  | CANAL [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]   HD [/B][/COLOR]" tvg-logo="http://www.mgconecta.com.br/wp-content/uploads/2016/05/Canal-[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B].png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | CANAL [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2089
+#EXTINF:-1 tvg-id=""  | CARTOON NETWORK   HD [/B][/COLOR]" tvg-logo="http://images6.fanpop.com/image/photos/41000000/Cartoon-Network-2010-Inverted-logos-41098505-946-563.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | CARTOON NETWORK   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2091
+#EXTINF:-1 tvg-id=""  | CINEMAX   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | CINEMAX   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2092
+#EXTINF:-1 tvg-id=""  | COMBATE   HD [/B][/COLOR]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | COMBATE   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2093
+#EXTINF:-1 tvg-id=""  | COMEDY CENTRAL   HD [/B][/COLOR]" tvg-logo="https://xpert-medianet-at.s3-eu-west-1.amazonaws.com/2019/08/ee9244b569_CC_Austria_Logo_horizontal_color_black.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | COMEDY CENTRAL   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2094
+#EXTINF:-1 tvg-id=""  | CULTURA   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | CULTURA   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2095
+#EXTINF:-1 tvg-id=""  | CURTA!   HD [/B][/COLOR]" tvg-logo="http://t.likeiptv.com/curta.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | CURTA!   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2096
+#EXTINF:-1 tvg-id=""  | DISCOVERY CHANNEL   HD [/B][/COLOR]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_ HD [/B][/COLOR]_2007.png/revision/latest?cb=20091126085643"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISCOVERY CHANNEL   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2097
+#EXTINF:-1 tvg-id=""  | DISCOVERY CIVILIZATION   HD [/B][/COLOR]" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20180604120823"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISCOVERY CIVILIZATION   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2098
+#EXTINF:-1 tvg-id=""  | DISCOVERY HOME & HEALTH   HD [/B][/COLOR]" tvg-logo="http://pluspng.com/img-png/history- HD [/B][/COLOR]-png-file-discovery-home-health- HD [/B][/COLOR]-png-475.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISCOVERY HOME & HEALTH   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2099
+#EXTINF:-1 tvg-id=""  | DISCOVERY KIDS   HD [/B][/COLOR]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/DiscoveryKids HD [/B][/COLOR].png/revision/latest/scale-to-width-down/220?cb=20160402184954"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISCOVERY KIDS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2100
+#EXTINF:-1 tvg-id=""  | DISCOVERY SCIENCE   HD [/B][/COLOR]" tvg-logo="https://www.nicepng.com/png/full/12-128785_discovery-science-new-logo-2017-chaine-discovery-science.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISCOVERY SCIENCE   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2101
+#EXTINF:-1 tvg-id=""  | DISCOVERY THEATER   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_ HD [/B][/COLOR]_logo.svg/1280px-2015_Discovery_theater_ HD [/B][/COLOR]_logo.svg.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISCOVERY THEATER   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2102
+#EXTINF:-1 tvg-id=""  | DISCOVERY TLC   HD [/B][/COLOR]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/TLCDiscovery2015.png/revision/latest?cb=20160723143137"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISCOVERY TLC   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2103
+#EXTINF:-1 tvg-id=""  | DISCOVERY TURBO   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISCOVERY TURBO   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2104
+#EXTINF:-1 tvg-id=""  | DISCOVERY WORLD   HD [/B][/COLOR]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryworld.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISCOVERY WORLD   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2105
+#EXTINF:-1 tvg-id=""  | DISNEY CHANNEL   HD [/B][/COLOR]" tvg-logo="http://pluspng.com/img-png/disney- HD [/B][/COLOR]-png-disney-channel-de- HD [/B][/COLOR]-png-800.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISNEY CHANNEL   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2106
+#EXTINF:-1 tvg-id=""  | DISNEY JR   HD [/B][/COLOR]" tvg-logo="http://apps.iptv.lu/images/channel/original/393.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISNEY JR   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2107
+#EXTINF:-1 tvg-id=""  | DISNEY XD   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_ HD [/B][/COLOR].png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | DISNEY XD   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2108
+#EXTINF:-1 tvg-id=""  | E!   HD [/B][/COLOR]" tvg-logo="https://jorgesalvador.files.wordpress.com/2012/04/e21 HD [/B][/COLOR]logo.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | E!   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2109
+#EXTINF:-1 tvg-id=""  | ESPN   HD [/B][/COLOR]" tvg-logo="http://2.bp.blogspot.com/-IYW_NDPkbYA/UKkjSqi0huI/AAAAAAAAFCI/ncvtZSroGoo/s1600/Logo+ESPN+ HD [/B][/COLOR].png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | ESPN   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2110
+#EXTINF:-1 tvg-id=""  | ESPN 2   HD [/B][/COLOR]" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | ESPN 2   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2112
+#EXTINF:-1 tvg-id=""  | ESPN [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]  HD [/B][/COLOR]" tvg-logo="http://4.bp.blogspot.com/-9G_gkVqYYTs/UGbuPPR2mTI/AAAAAAAAAUQ/_q0J1jMJwcw/s1600/ESPN+ HD [/B][/COLOR].png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | ESPN [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]  HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2111
+#EXTINF:-1 tvg-id=""  | FISH TV   HD [/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-hqxeHJVz8zU/UvGZPvj50oI/AAAAAAAAhME/MxMPhvkIw-M/s1600/Fish+Tv.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | FISH TV   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2113
+#EXTINF:-1 tvg-id=""  | FOOD NETWORK   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Food_Network_Canada_ HD [/B][/COLOR].PNG"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | FOOD NETWORK   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2114
+#EXTINF:-1 tvg-id=""  | FOX   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_ HD [/B][/COLOR].svg/1280px-FOX_ HD [/B][/COLOR].svg.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | FOX   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2115
+#EXTINF:-1 tvg-id=""  | FOX LIFE   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_ HD [/B][/COLOR].png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | FOX LIFE   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2116
+#EXTINF:-1 tvg-id=""  | FOX PREMIUM 1   HD [/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-q2fHAQMuniU/WjWFxIRuevI/AAAAAAAAAq0/Lzl9Hq-KxvYxhA7S5tp6QBdz0VLZU5wWgCLcBGAs/w1200-h630-p-k-no-nu/assistir-fox-premium-1-online.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | FOX PREMIUM 1   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2117
+#EXTINF:-1 tvg-id=""  | FOX SPORTS   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | FOX SPORTS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2119
+#EXTINF:-1 tvg-id=""  | FOX SPORTS 2  HD [/B][/COLOR]" tvg-logo="https://unity-img.tbxapis.com/v0/images/9d29a3723e9925c375478e2c88cac95f/content/5ba09cd28d9f4c702b01f5d0/431135d3999eafcb6cd0c8018a4b59b39fb182f5/img.png?_v=0.3.6"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | FOX SPORTS 2  HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2120
+#EXTINF:-1 tvg-id=""  | FUTURA   HD [/B][/COLOR]" tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2016/12/futura-canal.jpg"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | FUTURA   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2078
+#EXTINF:-1 tvg-id=""  | FX   HD [/B][/COLOR]" tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx- HD [/B][/COLOR]-fx- HD [/B][/COLOR]-logo-png.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | FX   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2077
+#EXTINF:-1 tvg-id=""  | GLOBO [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]IA   HD [/B][/COLOR]" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5b/Logo_gs HD [/B][/COLOR].png/revision/latest?cb=20190209221002"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO [COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]IA   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2074
+#EXTINF:-1 tvg-id=""  | GLOBO CUIABA   HD [/B][/COLOR]" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5b/Logo_gs HD [/B][/COLOR].png/revision/latest?cb=20190209221002"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO CUIABA   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2073
+#EXTINF:-1 tvg-id=""  | GLOBO EPTV RIBEIR   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO EPTV RIBEIR   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2071
+#EXTINF:-1 tvg-id=""  | GLOBO EPTV RIBEIRÃO PRETO   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO EPTV RIBEIRÃO PRETO   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1971
+#EXTINF:-1 tvg-id=""  | GLOBO EPTV SAO CARLOS   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO EPTV SAO CARLOS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2023
+#EXTINF:-1 tvg-id=""  | GLOBO INTERNACIONAL   HD [/B][/COLOR]" tvg-logo="http://www.sambarocknaveia.com.br/wp-content/uploads/2011/04/redeglobo_03.jpg"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO INTERNACIONAL   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2022
+#EXTINF:-1 tvg-id="" tvg-name="BR NEWS | GLOBO NEWS   HD [/B][/COLOR]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyfgHjRwmuIKfhB-OhNCtoSOlpcp5WhF4ETyb2czN6P89yBdaE&s" group-title="NOTICIAS / NEWS",BR NEWS | GLOBO NEWS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2068
+#EXTINF:-1 tvg-id=""  | GLOBO NORDESTE   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RedeGlobo2005.png/300px-RedeGlobo2005.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO NORDESTE   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2067
+#EXTINF:-1 tvg-id=""  | GLOBO RIBEIR   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9b/Rede_Globo_1986.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO RIBEIR   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2066
+#EXTINF:-1 tvg-id=""  | GLOBO RJ   HD [/B][/COLOR]" tvg-logo="https://neoturbo HD [/B][/COLOR].com.br/logo/globorj.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO RJ   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2065
+#EXTINF:-1 tvg-id=""  | GLOBO SP   HD [/B][/COLOR]" tvg-logo="http://neoturbo HD [/B][/COLOR].com.br/logo/globosp.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO SP   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2016
+#EXTINF:-1 tvg-id=""  | GLOBO TV TRIBUNA SANTOS   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBO TV TRIBUNA SANTOS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2061
+#EXTINF:-1 tvg-id=""  | GLOBOSAT   HD [/B][/COLOR]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/Logo_gs HD [/B][/COLOR].png/revision/latest?cb=20151122172453"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOBOSAT   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2059
+#EXTINF:-1 tvg-id=""  | GLOOB   HD [/B][/COLOR]" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GLOOB   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2012
+#EXTINF:-1 tvg-id=""  | GNT   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/GNT_logo-roxo.svg"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | GNT   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2058
+#EXTINF:-1 tvg-id=""  | H2   HD [/B][/COLOR]" tvg-logo="https://www.nicepng.com/png/detail/177-1779538_h2more2history-h2- HD [/B][/COLOR].png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | H2   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2057
+#EXTINF:-1 tvg-id=""  | HBO   HD [/B][/COLOR]" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | HBO   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2056
+#EXTINF:-1 tvg-id=""  | HBO 2   HD [/B][/COLOR]" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-2-NUEVO1.jpg"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | HBO 2   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2008
+#EXTINF:-1 tvg-id=""  | HISTORY CHANNEL   HD [/B][/COLOR]" tvg-logo="https://img.pngio.com/filehistory-channel-logopng-history-png-500_452.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | HISTORY CHANNEL   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2051
+#EXTINF:-1 tvg-id=""  | INVESTIGA   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/ID_ HD [/B][/COLOR]_logo_2017.jpg"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | INVESTIGA   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2050
+#EXTINF:-1 tvg-id=""  | LIFETIME   HD [/B][/COLOR]" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/b/ba/Lifetime_us_ HD [/B][/COLOR]_2013.png/revision/latest?cb=20140515143926"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | LIFETIME   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2002
+#EXTINF:-1 tvg-id=""  | MAX PRIME   HD [/B][/COLOR]" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/06/max-prime-1.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | MAX PRIME   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2047
+#EXTINF:-1 tvg-id=""  | MAX UP   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Max_ HD [/B][/COLOR].png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | MAX UP   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1999
+#EXTINF:-1 tvg-id=""  | MEGAPIX   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | MEGAPIX   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1998
+#EXTINF:-1 tvg-id=""  | NATGEO WILD   HD [/B][/COLOR]" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/logo_ngw.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | NATGEO WILD   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1994
+#EXTINF:-1 tvg-id=""  | NATIONAL GEOGRAPHIC   HD [/B][/COLOR]" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | NATIONAL GEOGRAPHIC   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1993
+#EXTINF:-1 tvg-id=""  | NICK JR   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | NICK JR   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1992
+#EXTINF:-1 tvg-id=""  | NICKELODEON   HD [/B][/COLOR]" tvg-logo="https://logodix.com/logo/900728.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | NICKELODEON   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2039
+#EXTINF:-1 tvg-id=""  | OFF   HD [/B][/COLOR]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1NcSOQ4FqaZEEnJx0DB814TC7bRVTxrPiaunrEzN4ZB0Vf1B&s"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | OFF   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2038
+#EXTINF:-1 tvg-id=""  | PARAMOUNT CHANNEL    HD [/B][/COLOR]" tvg-logo="http://ocdn.eu/images/program-tv/NzQ7MDA_/5f5a2bc8fe1dbba5e2dac3384ca25cf4.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | PARAMOUNT CHANNEL    HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2037
+#EXTINF:-1 tvg-id=""  | PREMIERE 1   HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Premiere_FC_logo.png/798px-Premiere_FC_logo.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | PREMIERE 1   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1988
+#EXTINF:-1 tvg-id=""  | PREMIERE 1  HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Premiere_FC_logo.png/798px-Premiere_FC_logo.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | PREMIERE 1  HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2036
+#EXTINF:-1 tvg-id=""  | PREMIERE 2  HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Premiere_FC_logo.png/798px-Premiere_FC_logo.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | PREMIERE 2  HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2035
+#EXTINF:-1 tvg-id=""  | PREMIERE 3  HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Premiere_FC_logo.png/798px-Premiere_FC_logo.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | PREMIERE 3  HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1986
+#EXTINF:-1 tvg-id=""  | PREMIERE 4  HD [/B][/COLOR]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Premiere_FC_logo.png/798px-Premiere_FC_logo.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | PREMIERE 4  HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/2033
+#EXTINF:-1 tvg-id=""  | PREMIERE CLUBES  HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | PREMIERE CLUBES  HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1981
+#EXTINF:-1 tvg-id=""  | RECORD   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | RECORD   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1980
+#EXTINF:-1 tvg-id=""  | RECORD AMAZONAS   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | RECORD AMAZONAS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1979
+#EXTINF:-1 tvg-id=""  | RECORD CAMPINAS   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | RECORD CAMPINAS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1978
+#EXTINF:-1 tvg-id=""  | RECORD MG   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | RECORD MG   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1977
+#EXTINF:-1 tvg-id=""  | RECORD NORDESTE   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | RECORD NORDESTE   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1976
+#EXTINF:-1 tvg-id=""  | RECORD SP   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | RECORD SP   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1975
+#EXTINF:-1 tvg-id=""  | REDE TV   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | REDE TV   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1973
+#EXTINF:-1 tvg-id=""  | REDE VIDA   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | REDE VIDA   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1972
+#EXTINF:-1 tvg-id=""  | SONY   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | SONY   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1969
+#EXTINF:-1 tvg-id=""  | SPACE   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | SPACE   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1968
+#EXTINF:-1 tvg-id=""  | SPORTV 1  HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | SPORTV 1  HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1967
+#EXTINF:-1 tvg-id=""  | SPORTV 2   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | SPORTV 2   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1966
+#EXTINF:-1 tvg-id=""  | SPORTV 3   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | SPORTV 3   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1965
+#EXTINF:-1 tvg-id=""  | STUDIO UNIVERSAL   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | STUDIO UNIVERSAL   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1964
+#EXTINF:-1 tvg-id=""  | SYFY   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | SYFY   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1963
+#EXTINF:-1 tvg-id=""  | TBS   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | TBS   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1962
+#EXTINF:-1 tvg-id=""  | TCM   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | TCM   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1961
+#EXTINF:-1 tvg-id=""  | TELECINE CULT   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | TELECINE CULT   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1959
+#EXTINF:-1 tvg-id=""  | TELECINE FUN   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | TELECINE FUN   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1958
+#EXTINF:-1 tvg-id=""  | TELECINE PREMIUM   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | TELECINE PREMIUM   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1956
+#EXTINF:-1 tvg-id=""  | TELECINE TOUCH   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | TELECINE TOUCH   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1955
+#EXTINF:-1 tvg-id=""  | TNT   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | TNT   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1953
+#EXTINF:-1 tvg-id=""  | TNT SERIES   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | TNT SERIES   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1952
+#EXTINF:-1 tvg-id=""  | Tooncast   HD [/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-auGYtHoPVgI/ThgBNH_OQnI/AAAAAAAAAGI/TpFrxrGXPBo/s1600/tooncast.png"",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | Tooncast   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1947
+#EXTINF:-1 tvg-id=""  | TV GAZETA   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | TV GAZETA   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1948
+#EXTINF:-1 tvg-id="" tvg-name="VH1   HD [/B][/COLOR]" tvg-logo="" group-title="MUSIC CHOICE",VH1   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1946
+#EXTINF:-1 tvg-id=""  | VIVA   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | VIVA   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1954
+#EXTINF:-1 tvg-id=""  | WARNER CHANNEL   HD [/B][/COLOR]" tvg-logo=""",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] | WARNER CHANNEL   HD [/B][/COLOR]
+http://visionatv4k.live:8080/GyLkj2xKaM/vOzozCicJf/1944
