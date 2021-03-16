@@ -1,134 +1,65 @@
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] LA CASA[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Frontier[/B][/COLOR]</name>
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Série NomedaSérie</info>
-<genre>GENERO</genre>
+<info>Série Frontier</info>
+<genre>ÉPICOS</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedaSérie[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Frontier[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios da série NomedaSérie no REDE CANAIS</info>
-<genre>GENERO</genre>  
+<info>Assista aqui os episódios da série Frontier no REDE CANAIS</info>
+<genre>ÉPICOS</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
-<thumbnail>ICONE</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Frontier[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=W-FL-d4wKkI</link>
+<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao Trailer</info>
-<genre>GENERO</genre>  
+<genre>ÉPICOS</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie - TO1 - DATA - Dublado[/B][/COLOR]</title>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Frontier - TO1 - 2016 - Dublado[/B][/COLOR]</title>
 
 
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10832.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Realizar o que foi combinado [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10833.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Imprudencia letal [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10834.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tiro perdido [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10835.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cavalo de Troia [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10836.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O dia da Marmota [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10837.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A quente guerra fria [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10838.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Instabilidade de refrigerasao [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10839.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Voce procurou por isso [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10840.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aquele que a segue, pegue ela [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10841.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As mascaras acabaram [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10842.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O chefe do plano [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10843.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Questao de eficacia [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10844.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O que fizemos? [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10845.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Contra o relogio [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10846.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Bella ciao [/B][/COLOR]</link>	
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/PWER.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Power (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/ORTMODSLVA.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Ritmo da Selva: O Filme (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/NVLHRD.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nível Hard (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/EXTRMNDRCVLRSEDRGROS.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Exterminador: Cavaleiros e Dragões (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/APRMASFIA.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Prima Sofia (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/SCBYOFLME.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SCOOBY!: O Filme (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/365DIAS.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 365 Dias (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/VLHALNDADTHR.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Valhalla: A Lenda de Thor (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/ULTMNRBOFLM.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ultraman R&B: O Filme: O Cristal da União (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/SLTRMNTE.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Solteiramente (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/SDKOCPTLFNL.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sadako: Capítulo Final (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/RSGTEMLBUAPRXMONDA.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Resgate em Malibu: A Próxima Onda (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/REDEDODIO.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Rede de Ódio (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/QNDOSOLSPOE.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Quando o Sol se Põe (Nacional) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/POKAVIVE.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Pooka Vive (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/OTNL2019.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Túnel (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/OSGRDEALCTRZ.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Segredo de Alcatraz (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/OFNRDATMPSTD.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Oferenda à Tempestade (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/OESPLHO.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Espelho (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/NAPRDCHS.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Na Praia de Chesil (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/ILHDFNTSIA.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Ilha da Fantasia (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/AMRDPSCOA.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Amor de Pascoa (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/UMLBOEMPLEDCRDRO2.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Um Lobo em Pele de Cordeiro 2 (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/NARTADTRFCO.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Na Rota do Tráfico (Dublado) - 2020 [/COLOR]</title>
+<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/MLGRNCLA7.mp4 [B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Milagre na Cela 7 (Dublado) - 2020 [/COLOR]</title>
 
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
+<info>A série fala sobre o comércio de peles na América do Norte no final do século XVIII no Canadá, tendo como protagonista Declan Harp interpretado por Jason Momoa, um criminoso que é meio irlandês, meio Cree, que luta contra o monopólio da Companhia da Baía de Hudson sobre o comércio de peles.</info>
+<genre>ÉPICOS</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie - TO2 - DATA - Dublado[/B][/COLOR]</title>
-
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10847.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio - 16 [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10848.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio - 17 [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10849.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio - 18 [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10850.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio - 19 [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10851.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio - 20 [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10852.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio - 21 [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/10853.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio - 22 [/B][/COLOR]</link>
-
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie - TO3 - DATA - Dublado[/B][/COLOR]</title>
-			
-<link>http://dnsx.co:80/series/vania.iptv2/vania/26406.mp4$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Estamos de Volta [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/26407.mp4$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aikido [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/26408.mp4$$lsname=[B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 48 Metros de Profundidade [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/26409.mp4$$lsname=[B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Bum, Bum, Tchau [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/26410.mp4$$lsname=[B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caixas Vermelhas [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/26411.mp4$$lsname=[B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tudo Parecia Insignificantes [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/26412.mp4$$lsname=[B]T03E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ferias Curtas [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/26413.mp4$$lsname=[B]T03E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Deriva [/B][/COLOR]</link>	
-	
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
-	
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie - TO4 - DATA - Dublado[/B][/COLOR]</title>
-	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/42528.mp4$$lsname=[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fim de Jogo [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/42529.mp4$$lsname=[B]T04E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Casamento do Berlim [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/42530.mp4$$lsname=[B]T04E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aula de Anatomia [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/42531.mp4$$lsname=[B]T04E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Suspiros da Espanha [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/42532.mp4$$lsname=[B]T04E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cinco Minutos Antes [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/42533.mp4$$lsname=[B]T04E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nocaute TEcnico [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/42534.mp4$$lsname=[B]T04E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Derrube a Barraca [/B][/COLOR]</link>	
-<link>http://dnsx.co:80/series/vania.iptv2/vania/42535.mp4$$lsname=[B]T04E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Plano Paris [/B][/COLOR]</link>	
-
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES TESTES  - DATA - Dublado[/B][/COLOR]</title>
-
-<link>http://185.170.59.243/movie/vania.janaina2/a1aw5s/19980.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CORACAO VALENTE - Dublado[/B][/COLOR]</link>
-<link>http://185.170.59.208/movie/vania.janaina2/a1aw5s/20965.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CRUZADA - Dublado[/B][/COLOR]</link>
-<link>https://is.gd/DjMessias31989351328cobkai1x1.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] teste dj - Dublado[/B][/COLOR]</link>
-<link>http://185.170.59.208/movie/vania.janaina2/a1aw5s/19976.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CONAN DESTRUIDOR - Dublado[/B][/COLOR]</link>
-
-
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
