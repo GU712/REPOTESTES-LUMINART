@@ -1,42 +1,7 @@
-<channels></channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Frontier[/B][/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Série Frontier</info>
-<genre>ÉPICOS</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Frontier[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios da série Frontier no REDE CANAIS</info>
-<genre>ÉPICOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Frontier[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=W-FL-d4wKkI</link>
-<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao Trailer</info>
-<genre>ÉPICOS</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - DATA - Dublado[/COLOR]</title>
-
-<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/PWER.mp4$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Power (Dublado) - 2020 [/B][/COLOR]</link>
-<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/ORTMODSLVA.mp4$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Ritmo da Selva: O Filme (Dublado) - 2020 [/B][/COLOR]</link>
-<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/NVLHRD.mp4$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nivel Hard (Dublado) - 2020 [/B][/COLOR]</link>
-<link>https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/EXTRMNDRCVLRSEDRGROS.mp4$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Exterminador: Cavaleiros e Dragoes (Dublado) - 2020 [/B][/COLOR]</link>
-<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>A série fala sobre o comércio de peles na América do Norte no final do século XVIII no Canadá, tendo como protagonista Declan Harp interpretado por Jason Momoa, um criminoso que é meio irlandês, meio Cree, que luta contra o monopólio da Companhia da Baía de Hudson sobre o comércio de peles.</info>
-<genre>ÉPICOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Power.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B]Power (Dublado) - 2020 [/B][/COLOR]
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/PWER.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/O%20Ritmo%20da%20Selva%20-%20O%20Filme.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B]O Ritmo da Selva: O Filme (Dublado) - 2020 [/B][/COLOR]
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/ORTMODSLVA.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/N%C3%ADvel%20Hard.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B]Nível Hard (Dublado) - 2020 [/B][/COLOR]
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/NVLHRD.mp4
