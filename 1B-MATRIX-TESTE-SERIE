@@ -32,13 +32,11 @@
 <genre>SÉRIES</genre> 
 </item>
 
-<item><link>https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP01.mp4</link><title>[COLOR white][B] T01E01[/B][COLOR yellow] ->[COLOR lime][B] AVIÃO CAÇADO [/B][/COLOR]</title>
-<item><link>https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP02.mp4</link><title>[COLOR white][B] T01E02[/B][COLOR yellow] ->[COLOR lime][B] NOME - Episodio [/B][/COLOR]</title>
-<item><link>https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP03.mp4</link><title>[COLOR white][B] T01E03[/B][COLOR yellow] ->[COLOR lime][B] NOME - Episodio [/B][/COLOR]</title>
-<item><link>https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP04.mp4</link><title>[COLOR white][B] T01E04[/B][COLOR yellow] ->[COLOR lime][B] NOME - Episodio [/B][/COLOR]</title>
-<item><link>https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP05.mp4</link><title>[COLOR white][B] T01E05[/B][COLOR yellow] ->[COLOR lime][B] NOME - Episodio [/B][/COLOR]</title>
-<item><link>https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP06.mp4</link><title>[COLOR white][B] T01E06[/B][COLOR yellow] ->[COLOR lime][B] NOME - Episodio [/B][/COLOR]</title>
-<item><link>https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP07.mp4</link><title>[COLOR white][B] T01E07[/B][COLOR yellow] ->[COLOR lime][B] NOME - Episodio [/B][/COLOR]</title>
-<item><link>https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP08.mp4</link><title>[COLOR white][B] T01E08[/B][COLOR yellow] ->[COLOR lime][B] NOME - Episodio [/B][/COLOR]</title>
-<item><link>https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP09.mp4</link><title>[COLOR white][B] T01E09[/B][COLOR yellow] ->[COLOR lime][B] NOME - Episodio [/B][/COLOR]</title>
-<item><link>https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP10.mp4</link><title>[COLOR white][B] T01E10[/B][COLOR yellow] ->[COLOR lime][B] NOME - Episodio [/B][/COLOR]</title>
+<item>
+<title>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] QUANDO ME ENAMORO - ESP[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLwBdGhtFCUWBLFfRuI72oqIQfldraZNjv/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
