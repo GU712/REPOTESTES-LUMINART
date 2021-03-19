@@ -1,3 +1,25 @@
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] teste[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série NomedaSérie</info>
+<genre>GENERO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] teste - TEMP 01 - DATA - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:843726F72F9478E2FC2A607217B36D9FF1F581E8&dn=Street.Outlaws.S17E06.Rise.of.the.OG.1080p.WEB.H264-KOMPOST%5brarbg%5d&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2830%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+[B][COLOR lime]■[/COLOR][/B]
+<genre>GENERO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[B]----->>>[/B][COLOR white][B] Milagre na Cela 7 (2019)[/B][/COLOR][B]<<<-----[/B]</title>
