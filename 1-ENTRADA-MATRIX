@@ -2,8 +2,8 @@
 <channel>
 <name>[COLOR orange][B]CLIQUE AQUI E ENTRE NO ADDON[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/1A-MATRIX-CATEGORIAS</externallink>
-<thumbnail>http://bit.do/entraricon</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/1n8hTSJ/Entrar.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
 </channel>
 </channels>
@@ -11,10 +11,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B] DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
+<thumbnail>https://i.ibb.co/3NnB0PR/ndice.jpg</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>[COLOR blue]COR white - SEM LINK[/COLOR] - [COLOR lime]COR orange - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR white]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B] ACESSO DE TESTES MATRIX [/B][/COLOR]</name>
 <externallink>https://</externallink>
-<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/Pg84FL4/validade.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>AGRADECEMOS SUA VISITA</info>
 </channel>
 </channels>
