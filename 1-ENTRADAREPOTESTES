@@ -1,12 +1,15 @@
-<channels></channels>
+<channels>
 <channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] BEM VINDO AO LUMINART STUDIO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+<name>[COLOR orange][B] DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
+<thumbnail>https://i.ibb.co/3NnB0PR/ndice.jpg</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>[COLOR white]COR BRANCA - SEM LINK[/COLOR] - [COLOR orange]COR LARANJA - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR white]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
