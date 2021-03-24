@@ -15,7 +15,7 @@
 
 <link>plugin://plugin.video.youtube/play/?video_id=8UUcif71zg4$nome=[B]TRAILER[COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme[/COLOR][/B]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$nome=[B]TORRENT 720[COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - 720 - Dublado[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56DD7A1443FA923AED3577AF2AF2154ED9F8CE8F&dn=interestelar+2014+brrip+imax+blu+ray+720p+5+1+ch+dublado+andretpf&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce$nome=[B]TORRENT 720[COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - 720 - Dublado[/COLOR][/B]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$nome=[B]TORRENT 1080[COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - 1080 - Dublado[/COLOR][/B]</link>
 
