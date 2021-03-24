@@ -1,19 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] BEM VINDO AO LUMINART STUDIO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
-<externallink>https:/</externallink>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR lime][B]CLIQUE AQUI E ENTRE NO ADDON[/B][/COLOR]</name>
+<name>[COLOR orange][B]CLIQUE AQUI E ENTRE NO ADDON[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/1A-MATRIX-CATEGORIAS</externallink>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -24,7 +11,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR blue][B] ACESSO DE TESTES MATRIX 2[/B][/COLOR]</name>
+<name>[COLOR white][B] ACESSO DE TESTES MATRIX [/B][/COLOR]</name>
 <externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
