@@ -1,76 +1,34 @@
 <channels>
 <channel>
-<name>[B][COLOR gold]•[/COLOR] [COLOR gold]PESQUISAR...[/COLOR][/B]</name>
-<thumbnail>https://blog.hotmart.com/blog/2018/08/BLOG_Imagens-Google_como-pesquisar-no-Google-usando-imagens.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Anubis-team/An-bis/master/Pesquisar</externallink>
-<fanart>https://blog.hotmart.com/blog/2018/08/BLOG_Imagens-Google_como-pesquisar-no-Google-usando-imagens.png</fanart>
-<info>
-
-
-[COLOR gold][B]UTILIZE O NOSSO CAMPO DE BUSCA PARA ENCONTRAR POR FILMES E SÉRIES...[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B][COLOR white]ATLZ. DO DIA[/COLOR][/B]</name>
-<thumbnail>https://ia601508.us.archive.org/31/items/series-prancheta-1/Atlz%20do%20dia_Prancheta%201.png</thumbnail>
-<externallink>ignore</externallink>
-<fanart>https://ia601508.us.archive.org/31/items/series-prancheta-1/Atlz%20do%20dia_Prancheta%201.png</fanart>
-<info>
-
-
-[COLOR gold]•[/COLOR][COLOR gold][B]20/03/2021
-• *Séries*
-• Falção e o Soldado Invernal - EP 1
---------------------------------------
-• *Novela*
-• Genesis - Ep 38º e 39º
---------------------------------------
-• *Filmes*
-• Liga da Justiça Zack Snyder - Lançamentos 2021
---------------------------------------
-• *KraKen - DIRECT FILMES*
-• Monster Hunter
-• Liga da Justiça Zack Snyder - Lançamentos 2021
---------------------------------------
-• *KraKen - DIRECT SÉRIES*
-• Peaky Blinders
---------------------------------------
---------------------------------------
-• *KraKen TV*
---------------------------------------
-[/COLOR][/B]</info>
-</channel>
-</channels>
-
-
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] BEM VINDO AO LUMINART STUDIO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] BEM VINDO AO LUMINART STUDIO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<externallink>https:/</externallink>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR lime][B]CLIQUE AQUI E ENTRE NO ADDON[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR lime][B]CLIQUE AQUI E ENTRE NO ADDON[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/1A-MATRIX-CATEGORIAS</externallink>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
-</title>
-</item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR blue][B] ACESSO DE TESTES MATRIX [/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B] ACESSO DE TESTES MATRIX [/B][/COLOR]</name>
+<externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>AGRADECEMOS SUA VISITA</info>
-</item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
