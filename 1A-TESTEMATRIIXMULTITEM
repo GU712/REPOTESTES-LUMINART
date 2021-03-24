@@ -30,3 +30,33 @@
 <info>SINOPSE</info>
 <genre>GENERO</genre>  
 </item>
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedaSérie[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série animada NomedaSérie</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] TESTE - DATA - Dublado[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=8UUcif71zg4$nome=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$nome=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - 720 - Dublado[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$nome=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - 1080 - Dublado[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$nome=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - Dublado[/B][/COLOR]</link>
+
+<link>http://dnsx.co:80/movie/7885037935/fireurl.co/91413.mp4$nome=[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - Dublado[/COLOR]</link>
+
+<link>https://cwb.azureedge.net/RCServer11/ondemand/CSILAT01EP01.mp4S$nome=[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - Dublado[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
