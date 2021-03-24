@@ -29,3 +29,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info></info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]ENTRADA CATEGORIAS NEAD[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/1-CATEGORIAS</externallink>
+<info></info>
+</channel>
+</channels>
