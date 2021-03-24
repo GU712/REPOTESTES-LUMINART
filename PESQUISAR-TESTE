@@ -1,0 +1,15 @@
+<item>
+		<title>[B][COLOR gold]O QUE VAMOS ASSISTIR HOJE? - FILME[/COLOR][/B]</title>
+		<thumbnail>https://blog.hotmart.com/blog/2018/08/BLOG_Imagens-Google_como-pesquisar-no-Google-usando-imagens.png</thumbnail>
+		<fanart>https://blog.hotmart.com/blog/2018/08/BLOG_Imagens-Google_como-pesquisar-no-Google-usando-imagens.png</fanart>
+		<link>plugin://plugin.video.elementum/movies/search?keyboard=1</link>
+		<info>UTILIZE O CAMPO DE PESQUISA, PARA PROCURAR POR ALGUM FILLME...</info>
+	</item>
+
+<item>
+		<title>[B][COLOR gold]O QUE VAMOS ASSISTIR HOJE? - SÉRIES[/COLOR][/B]</title>
+		<thumbnail>https://blog.hotmart.com/blog/2018/08/BLOG_Imagens-Google_como-pesquisar-no-Google-usando-imagens.png</thumbnail>
+		<fanart>https://blog.hotmart.com/blog/2018/08/BLOG_Imagens-Google_como-pesquisar-no-Google-usando-imagens.png</fanart>
+		<link>plugin://plugin.video.elementum/shows/search?keyboard=1</link>
+		<info>UTILIZE O CAMPO DE PESQUISA, PARA PROCURAR POR ALGUMA SÉRIE...</info>
+	</item>
