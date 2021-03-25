@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]CLIQUE AQUI E ENTRE NO ADDON[/B][/COLOR]</name>
+<name>[COLOR white][B]CLIQUE AQUI E ENTRE NO ADDON[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/1A1-SELTESTE-MATRIX</externallink>
 <thumbnail>https://i.ibb.co/1n8hTSJ/Entrar.png</thumbnail>
 <fanart>https://i.ibb.co/hXGKrVJ/fanart-JARVIS.jpg</fanart>
@@ -11,11 +11,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
+<name>[COLOR white][B]DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
 <thumbnail>https://i.ibb.co/3NnB0PR/ndice.jpg</thumbnail>
 <fanart>https://i.ibb.co/hXGKrVJ/fanart-JARVIS.jpg</fanart>
-<info>[COLOR white]COR BRANCA - SEM LINK[/COLOR] - [COLOR orange]COR LARANJA - LINK ON LINE[/COLOR]
+<info>[COLOR white]COR BRANCA - LINK ON LINE[/COLOR] - [COLOR orange]COR LARANJA - SEM LINK[/COLOR]
 [COLOR red]COR VERMELHA - LINK OFF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF LINE[/COLOR]</info>
 </channel>
 </channels>
@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]ACESSO DE TESTES MATRIX [/B][/COLOR]</name>
+<name>[COLOR orange][B]ACESSO DE TESTES MATRIX [/B][/COLOR]</name>
 <externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/Pg84FL4/validade.png</thumbnail>
 <fanart>https://i.ibb.co/hXGKrVJ/fanart-JARVIS.jpg</fanart>
