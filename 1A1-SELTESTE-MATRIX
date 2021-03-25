@@ -11,10 +11,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
+<name>[COLOR white][B]CLIQUE AQUI PARA VER DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
 <thumbnail>https://i.ibb.co/3NnB0PR/ndice.jpg</thumbnail>
-<fanart>https://i.ibb.co/hXGKrVJ/fanart-JARVIS.jpg</fanart>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>[COLOR white]COR BRANCA - LINK ON LINE[/COLOR] - [COLOR orange]COR LARANJA - SEM LINK[/COLOR]
 [COLOR red]COR VERMELHA - LINK OFF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF LINE[/COLOR]</info>
 </channel>
@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]CLIQUE AQUI PARA MELHORAR O DESEMPENHO[/B][/COLOR]</name>
 <externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/VJv0L6N/desempnho.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>AGRADECEMOS SUA VISITA</info>
 </channel>
 </channels>
