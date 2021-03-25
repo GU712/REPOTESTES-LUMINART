@@ -1,12 +1,12 @@
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] TESTE COM FILMES - DATA - Dublado[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR orange] TESTE COM FILMES - DATA - Dublado[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=8UUcif71zg4$nome=[B]TRAILER[COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56DD7A1443FA923AED3577AF2AF2154ED9F8CE8F&dn=interestelar+2014+brrip+imax+blu+ray+720p+5+1+ch+dublado+andretpf&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce$nome=[B]TORRENT 720[COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - 720 - Dublado[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$nome=[B]TORRENT 1080[COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - 1080 - Dublado[/COLOR][/B]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$nome=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - Dublado[/COLOR][/B]</link>
-<link>http://dnsx.co:80/movie/7885037935/fireurl.co/91413.mp4$nome=[B][COLOR yellow] ->[/COLOR][COLOR lime] SERVER 1 - Dublado[/COLOR][/B]</link>
-<link>https://cwb.azureedge.net/RCServer11/ondemand/CSILAT01EP01.mp4$nome=[B][COLOR yellow] ->[/COLOR][COLOR lime] REDE CANAIS  - Dublado[/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=8UUcif71zg4$nome=[B]TRAILER[COLOR yellow] ->[/COLOR][COLOR orange] NomedoFilme[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56DD7A1443FA923AED3577AF2AF2154ED9F8CE8F&dn=interestelar+2014+brrip+imax+blu+ray+720p+5+1+ch+dublado+andretpf&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce$nome=[B]TORRENT 720[COLOR yellow] ->[/COLOR][COLOR orange] NomedoFilme - 720 - Dublado[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$nome=[B]TORRENT 1080[COLOR yellow] ->[/COLOR][COLOR orange] NomedoFilme - 1080 - Dublado[/COLOR][/B]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$nome=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR orange] NomedoFilme - Dublado[/COLOR][/B]</link>
+<link>http://dnsx.co:80/movie/7885037935/fireurl.co/91413.mp4$nome=[B][COLOR yellow] ->[/COLOR][COLOR orange] SERVER 1 - Dublado[/COLOR][/B]</link>
+<link>https://cwb.azureedge.net/RCServer11/ondemand/CSILAT01EP01.mp4$nome=[B][COLOR yellow] ->[/COLOR][COLOR orange] REDE CANAIS  - Dublado[/COLOR][/B]</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -16,18 +16,18 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
 <item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Coroner - TO1 - 2019 - Dublado[/B][/COLOR]</title>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Coroner - TO1 - 2019 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=NrbcI2DcupM$nome=[B]TRAILER[COLOR yellow] ->[/COLOR][COLOR lime] Coroner[/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=NrbcI2DcupM$nome=[B]TRAILER[COLOR yellow] ->[/COLOR][COLOR orange] Coroner[/COLOR][/B]</link>
 
-<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP01.mp4$nome=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cachorro Preto [/B][/COLOR]</link>
-<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP02.mp4$nome=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Coelhinho [/B][/COLOR]</link>
-<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP03.mp4$nome=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Despedazado [/B][/COLOR]</link>
-<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP04.mp4$nome=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Correr Ou Morrer [/B][/COLOR]</link>
-<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP05.mp4$nome=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] No Fundo Do Pozo [/B][/COLOR]</link>
-<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP06.mp4$nome=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corazao De Confete [/B][/COLOR]</link>
-<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP07.mp4$nome=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Bairro Nobre [/B][/COLOR]</link>
-<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP08.mp4$nome=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Pontes [/B][/COLOR]</link>
+<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP01.mp4$nome=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Cachorro Preto [/B][/COLOR]</link>
+<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP02.mp4$nome=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Coelhinho [/B][/COLOR]</link>
+<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP03.mp4$nome=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Despedazado [/B][/COLOR]</link>
+<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP04.mp4$nome=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Correr Ou Morrer [/B][/COLOR]</link>
+<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP05.mp4$nome=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] No Fundo Do Pozo [/B][/COLOR]</link>
+<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP06.mp4$nome=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Corazao De Confete [/B][/COLOR]</link>
+<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP07.mp4$nome=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] O Bairro Nobre [/B][/COLOR]</link>
+<link>https://cwb.azureedge.net/RCServer12/ondemand/CORNRT01EP08.mp4$nome=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Pontes [/B][/COLOR]</link>
 		
 <thumbnail>https://metadata-static.plex.tv/9/gracenote/9816c71c037e572ee5c2452e07369d1e.jpg</thumbnail>
 <fanart>https://s3.glbimg.com/v1/AUTH_382620380cd24d6690281b7e056b2d8b/prod/79c547d9-0879-4643-b5fa-1893f36d1882.jpg</fanart>
