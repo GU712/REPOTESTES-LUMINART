@@ -11,17 +11,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B] CLIQUE AQUI PARA ACESSAR A ÁREA VIP[/B][/COLOR]</name>
-<externallink>https://</externallink>
-<thumbnail>https://i.ibb.co/tLqqfss/vip.png</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>AGRADECEMOS SUA VISITA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR orange][B] DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
 <thumbnail>https://i.ibb.co/3NnB0PR/ndice.jpg</thumbnail>
