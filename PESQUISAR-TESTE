@@ -1,4 +1,19 @@
 <item>
+<title>[B][COLOR orange]NOMEDOFILME [/COLOR][/B]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange] NOMEDOFILME[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT720>$nome=[B]HD[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] NOMEDOFILME - DATA - DUB - LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[B]FHD[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] NOMEDOFILME - DATA - DUB - LEG[/B][/COLOR]</link>
+
+<thumbnail> ICONE </thumbnail>
+<fanart> FUNDO </fanart>
+<info> SINOPSE </info>
+<genre> GENERO </genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
 		<title>[B][COLOR gold]O QUE VAMOS ASSISTIR HOJE? - FILME[/COLOR][/B]</title>
 		<thumbnail>https://blog.hotmart.com/blog/2018/08/BLOG_Imagens-Google_como-pesquisar-no-Google-usando-imagens.png</thumbnail>
 		<fanart>https://blog.hotmart.com/blog/2018/08/BLOG_Imagens-Google_como-pesquisar-no-Google-usando-imagens.png</fanart>
