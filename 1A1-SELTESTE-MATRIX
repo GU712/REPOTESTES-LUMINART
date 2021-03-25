@@ -22,6 +22,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B] DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
+<thumbnail>https://i.ibb.co/3NnB0PR/ndice.jpg</thumbnail>
+<fanart>https://i.ibb.co/hXGKrVJ/fanart-JARVIS.jpg</fanart>
+<info>[COLOR white]COR BRANCA - SEM LINK[/COLOR] - [COLOR orange]COR LARANJA - LINK ON LINE[/COLOR]
+[COLOR red]COR VERMELHA - LINK OFF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF LINE[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B] CLIQUE AQUI PARA MELHORAR O DESEMPENHO[/B][/COLOR]</name>
 <externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/VJv0L6N/desempnho.png</thumbnail>
@@ -31,18 +43,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[B][COLOR orange] CLIQUE AQUI PARA VER DICAS DE NAVEGAÇÃO[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/yyrW8x4/ndice.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>[COLOR white]COR BRANCO - TEXTO INFORMATIVO[/COLOR] - [COLOR orange]COR LARANJA - LINK ON LINE[/COLOR]
-[COLOR red]COR VERMELHA - LINK OF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
 <channels></channels>
 <channel>
 <name>[COLOR orange][B] CLIQUE AQUI PARA INFORMAÇÕES DO ACESSO[/B][/COLOR]</name>
