@@ -2,14 +2,10 @@
     <title>TEMPORADA 02</title>
     <thumbnail></thumbnail>
     <fanart></fanart>
-    <subitem>
-        <title>Tvs</title>
-        <thumbnail>http://television.png</thumbnail>
-        <fanart>http://fanart.jpg</fanart>
-            <subitems>
+    
                 <subitem>
-                <title>tv1-1</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35674c891d023a5e5ad3b5938045afea38e21712&dn=Nobody.2021.720p.WEB.h264-RUMOUR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2810&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15740&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14710</link>
+                <subtitle>tv1-1</subtitle>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35674c891d023a5e5ad3b5938045afea38e21712&dn=Nobody.2021.720p.WEB.h264-RUMOUR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2810&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15740&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14710</link>
                 <thumbnail>http://thumb.png </thumbnail>
 		<fanart>http://fanart.jpg</fanart>
                 </subitem>
