@@ -1,3 +1,31 @@
+<channel>
+    <name>--2ª TEMPORADA</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <subchannel>
+        <name>Tvs</name>
+        <thumbnail>http://television.png</thumbnail>
+        <fanart>http://fanart.jpg</fanart>
+            <subitems>
+                <subitem>
+                <title>tv1-1</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35674c891d023a5e5ad3b5938045afea38e21712&dn=Nobody.2021.720p.WEB.h264-RUMOUR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2810&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15740&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14710</link>
+                <thumbnail>http://thumb.png </thumbnail>
+				<fanart>http://fanart.jpg</fanart>
+                </subitem>
+
+                <subitem>
+                <title>tv1-2</title>   
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35674c891d023a5e5ad3b5938045afea38e21712&dn=Nobody.2021.720p.WEB.h264-RUMOUR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2810&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15740&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14710</link>
+                <thumbnail>http://thumb.png</thumbnail>
+				<fanart>http://fanart.jpg</fanart>
+                </subitem>
+            </subitems>	
+        </channel>
+    </subchannel>
+
+
+
 <item>
 <title>Mulher-Maravilha (2017)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0F966EA30F74EE5E62E001FBC0856E7DB37A813&dn=Mulher-Maravilha%202017%20%5bBluRay%5d%20%281080p%29%20FULL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
