@@ -1,8 +1,10 @@
 <item>
 <title>[COLOR orange][B]Star Wars - Ordem Cronológica[/B][/COLOR]</title> 
+<link>NOLINK</LINK>
 </item>
 <item>
 <title>[COLOR orange][B]Star Wars - Segunda Trilogia[/B][/COLOR]</title> 
+<link>NOLINK</LINK>
 </item>
 <item>
 <title>[COLOR white][B]A Ameaça Fantasma - 1999[/B][/COLOR]</title>
@@ -60,9 +62,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[COLOR white][B]Star Wars - Ordem Cronológica[/B][/COLOR]</title> 
 </item>
 
-<item>
-<title>[COLOR orange][B]Star Wars - Segunda Trilogia[/B][/COLOR]</title>
-
+<link>NOLINK$$lsname=[COLOR orange][B]Star Wars - Segunda Trilogia[/B][/COLOR]</link>
 <link>NOLINK$$lsname=[COLOR orange][B]A Ameasa Fantasma - 1999[/B][/COLOR]</link>
 
 <link>plugin://plugin.video.youtube/play/?video_id=ppl9q5wCon4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Ameasa Fantasma[/B][/COLOR]</link>
