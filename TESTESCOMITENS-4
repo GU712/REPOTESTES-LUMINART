@@ -1,7 +1,25 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Power.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B]Power (Dublado) - 2020 [/B][/COLOR]
-https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/PWER.mp4
-#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/O%20Ritmo%20da%20Selva%20-%20O%20Filme.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B]O Ritmo da Selva: O Filme (Dublado) - 2020 [/B][/COLOR]
-https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/ORTMODSLVA.mp4
-#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/N%C3%ADvel%20Hard.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR lime][B]Nível Hard (Dublado) - 2020 [/B][/COLOR]
-https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/NVLHRD.mp4
+<channel>
+    <name>--2ª TEMPORADA</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <subchannel>
+        <name>Tvs</name>
+        <thumbnail>http://television.png</thumbnail>
+        <fanart>http://fanart.jpg</fanart>
+            <subitems>
+                <subitem>
+                <title>tv1-1</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35674c891d023a5e5ad3b5938045afea38e21712&dn=Nobody.2021.720p.WEB.h264-RUMOUR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2810&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15740&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14710</link>
+                <thumbnail>http://thumb.png </thumbnail>
+				<fanart>http://fanart.jpg</fanart>
+                </subitem>
+
+                <subitem>
+                <title>tv1-2</title>   
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35674c891d023a5e5ad3b5938045afea38e21712&dn=Nobody.2021.720p.WEB.h264-RUMOUR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2810&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15740&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14710</link>
+                <thumbnail>http://thumb.png</thumbnail>
+				<fanart>http://fanart.jpg</fanart>
+                </subitem>
+            </subitems>	
+        </channel>
+    </subchannel>
