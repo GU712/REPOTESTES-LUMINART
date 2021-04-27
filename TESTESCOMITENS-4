@@ -1,35 +1,19 @@
-<item>
-<title>[COLOR white][B]Star Wars - Ordem Cronológica - Trilogia 2 [/B][/COLOR]</title> 
+	<item>
+    <title>TEMPORADA 02</title>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    
+                <subitem>
+                <subtitle>NOMEDO EPISÓDIO</subtitle>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35674c891d023a5e5ad3b5938045afea38e21712&dn=Nobody.2021.720p.WEB.h264-RUMOUR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2810&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15740&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14710</link>
+                <thumbnail>http://thumb.png </thumbnail>
+		<fanart>http://fanart.jpg</fanart>
+                </subitem>
 
-<link>NOLINK$$lsname=[COLOR orange][B]A Ameasa Fantasma - 1999[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=ppl9q5wCon4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Ameasa Fantasma[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1412FD75DCDD033CD1F5CA23358F99B3B898C4DB&dn=comandotorrentshd.net.stars+wars+episodio+i+a+amea%C3%A7a+fantasma+1999+1080p+5+1+bluray+dual+audio+portugues+english+wolverdon+sawlyn&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Ameasa Fantasma - 1999 -  DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JIxYM9r4-OQskqjgv7iwRYwLiVsHohgl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - 1999 -  DUB[/B][[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48585.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] ->[COLOR white] A Ameasa Fantasma - 1999 -  DUB[/B][/COLOR]</link>
-link>https://https://sintesex.azureedge.net/redex/RCServer14/ondemand/EMDFSDJCBT01EP05.mp4$$lsname=[COLOR orange][B]REDE CANAIS[COLOR yellow] -> [COLOR white] A Ameasa Fantasma - 1999 -  DUB[/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B]O Ataque dos Clones - 2002[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=zcpygp8QKN8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Ataque dos Clones[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F093673AEA7C1F871B10AC9EBC27EDE6627E53B2&dn=Stars%20Wars%20-%20Epis%C3%B3dio%20II%20-%20Ataque%20dos%20Clones%20%20%282002%29%20BluRay%201080p%20Dual%20%C3%81udio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Ataque dos Clones - 2002 -  DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X7R-16YM9ibxeJ-_f0VTjg9nBtGSfbdc/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Ataque dos Clones - 2002 -  DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48586.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] ->[COLOR white] O Ataque dos Clones - 2002 -  DUB[/B][/COLOR]</link>
-
-link>https://c8p4c5m7.stackpathcdn/RCFServer1/ondemand/STRWRSII.mp4$$lsname=[COLOR orange][B]REDE CANAIS[COLOR yellow] -> [COLOR white] O Ataque dos Clones - 2002 -  DUB[/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B]A Vinganza dos Sith - 2019[/B][/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=5UnjrG_N8hU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Vingansa dos Sith[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59D8C5DE235B0555C1FD9FEE2DEE262B153ECB75&dn=COMANDOTORRENTSHD.NET.stars+wars+epis%C3%B3dio+iii+a+vingan%C3%A7a+dos+sith+star+wars+episode+iii+revenge+of+the+sith+2005+1080p+5+1+bluray+dual+%C3%81udio+portugu%C3%AAs+english+sawlyn&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Vingansa dos Sith - 2019 -  DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CDObVwZThZtAzVJsZ9uSsIkergKzpQ2t/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]A Vingansa dos Sith - 2019 -  DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48587.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]A Vingansa dos Sith - 2019 -  DUB[/B][/B][/COLOR]</link>
-
-link>https://c8p4c5m7.stackpathcdn/RCFServer1/ondemand/STRWRSIII.mp4$$lsname=[COLOR orange][B]REDE CANAIS[COLOR yellow] -> [COLOR white] A Vingansa dos Sith - 2019 -  DUB[/B][/COLOR]</link>
-
-<thumbnail>https://i.pinimg.com/564x/f2/cc/e5/f2cce56aeb4cc3355498979a240c7f9c.jpg</thumbnail>
-<fanart>https://www.nawpic.com/media/2020/star-wars-nawpic-23.jpg</fanart>
-<info>Acesse aqui a coleção completa da maior saga interplanetária do sistema estelar.</info>
-<genre>FICÇÃO E FANTASIA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                <subitem>
+                <title>NOMEDO EPISÓDIO</title>   
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35674c891d023a5e5ad3b5938045afea38e21712&dn=Nobody.2021.720p.WEB.h264-RUMOUR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2810&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15740&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14710</link>
+                <thumbnail>http://thumb.png</thumbnail>
+		<fanart>http://fanart.jpg</fanart>
+                </subitem>
+	</item>
