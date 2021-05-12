@@ -1,4 +1,20 @@
 <item>
+<title>[COLOR white][B]teste strm - 2019 - DUB - LEG[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] ->[[COLOR white] NOMEDASERIE[/B][/COLOR]</link>
+
+<link>plugin://plugin.googledrive/?action=play&item_id=1-UTY22VhOC97Hlw41jrstMeKOrZb3DI_&item_driveid=0AESAGosgXINxUk9PVA&driveid=0AESAGosgXINxUk9PVA&content_type=video$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+		
+<thumbnail> ICONE </thumbnail>
+<fanart> FUNDO </fanart>
+<info> SINOPSE </info>
+<genre> CRIME E DRAMA </genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
 <title>[COLOR orange][B]009-1 - DATA[/B][/COLOR]</title>
 <link>NOLININK</link>
 </item>
