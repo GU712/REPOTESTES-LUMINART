@@ -8,6 +8,15 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
+<item>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]A Feiticeira[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=e8k1IWkJjgM</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5dX8Xp2v84rjEVJwRHpyo6n69zl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
 <item>	
 <title>[COLOR orange][B]A Feiticeira - 1964 - T01 - DUB[/B][/COLOR]</title>	
 <link>ignoreme</link>	
@@ -15,14 +24,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart> 	
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]A Feiticeira[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=e8k1IWkJjgM</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5dX8Xp2v84rjEVJwRHpyo6n69zl.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart>
-</item>
-
 
 <item><title>[B][COLOR white]EP 01 - [COLOR yellow] Casei-Me Com Uma Feiticeira[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.01%20-%20I%2C%20Darrin%2C%20Take%20This%20Witch%2C%20Samantha.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
 
@@ -97,10 +98,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item><title>[B][COLOR white]EP 36 - [COLOR yellow] Sugestões Geniais[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.36%20-%20Cousin%20Edgar.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
 
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white]  A FEITIÇEIRA[COLOR lime] 2ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item>	
+<title>[COLOR orange][B]A Feiticeira - 1964 - T02 - DUB[/B][/COLOR]</title>	
+<link>ignoreme</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5dX8Xp2v84rjEVJwRHpyo6n69zl.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart> 	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item><title>[B][COLOR white] EP 01 - [COLOR yellow] A Palavra Mágica[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.01%20-%20Alias%20Darrin%20Stephens.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
 
@@ -178,10 +182,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[B][COLOR white] EP 38 - [COLOR yellow] Prodígio[/COLOR][/B]</title><link>https://ia903004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.38%20-%20Prodigy.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white]  A FEITIÇEIRA[COLOR lime] 3ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item>	
+<title>[COLOR orange][B]A Feiticeira - 1964 - T03 - DUB[/B][/COLOR]</title>	
+<link>ignoreme</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5dX8Xp2v84rjEVJwRHpyo6n69zl.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart> 	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item><title>[B][COLOR white]EP 01 - [COLOR yellow] Ninguém é Perfeito[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.01%20-%20Nobody%27s%20Perfect.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
 
@@ -249,10 +256,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[B][COLOR white]EP 33 - [COLOR yellow] Efeitos Colaterais[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.33%20-%20There%27s%20Gold%20in%20Them%20Thar%20Pills.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white]  A FEITIÇEIRA[COLOR lime] 4ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg<thumbnail></thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item>	
+<title>[COLOR orange][B]A Feiticeira - 1964 - T04 - DUB[/B][/COLOR]</title>	
+<link>ignoreme</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5dX8Xp2v84rjEVJwRHpyo6n69zl.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart> 	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item><title>[B][COLOR white]EP 01 - A Rainha das Feiticeiras[/B][/COLOR]</title>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.01%20-%20Long%20Live%20the%20Queen.mp4<link></link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
 
@@ -320,10 +330,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[B][COLOR white]EP 33	- O Amor Tem Que Ser Verdadeiro[/B][/COLOR]</title><link>https://ia600906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.33%20-%20Splitsville.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white]  A FEITIÇEIRA[COLOR lime] 5ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item>	
+<title>[COLOR orange][B]A Feiticeira - 1964 - T05 - DUB[/B][/COLOR]</title>	
+<link>ignoreme</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5dX8Xp2v84rjEVJwRHpyo6n69zl.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart> 	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item><title>[B][COLOR white]EP 01 -  [COLOR yellow]Um Homem Diminuído[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
 
