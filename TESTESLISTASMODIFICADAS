@@ -1,7 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/82qmMMR/TV-online.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
 #EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]A&E FHD [H265][/B][/COLOR]	
 http://b5.vc:80/marcione/123/71761	
 #EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]A&E 4K FHDR[/B][/COLOR]	
