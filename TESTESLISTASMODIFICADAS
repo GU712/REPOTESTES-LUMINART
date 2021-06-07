@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="MANGA.ws/A&E.png" group-title="Filmes e Séries",A&EFAT[/B][/COLOR]
 http://a.srvbr.me:8880/Gustavo/1234567/898
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="MANGA.ws/A&E.png" group-title="Filmes e Séries",A&E HDFAT[/B][/COLOR]
