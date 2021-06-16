@@ -1,12 +1,15 @@
 
-<channels></channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] TESTE[/B][/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Série NomedaSérie</info>
-<genre>GENERO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR white][B]Rogai Por Nós - 2021[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NmQiJPLYzPI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Rogai Por Nos [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JO2GZSYJEDGXLPJW5QMPG43MUIV6BAH5&dn=Rogai%20por%20N%C3%B3s%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Rogai Por Nos - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCEC8ED1957B5251082BDCFCC390DC57FFAF7729&dn=The.Unholy.2021.720p.CAMRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Rogai Por Nos - LEG [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/znrtj0lFOgEa8bbAbck1QsvvQ6h.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l8VkL1KzkGkrO8BCsqF02urdfZ7.jpg</fanart>
+<info>Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visita da Virgem Maria, é inexplicavelmente capaz de ouvir, falar e curar os enfermos. À medida que a notícia se espalha e pessoas de perto e de longe se reúnem para testemunhar seus milagres, um jornalista decadente (Jeffrey Dean Morgan), que espera reviver sua carreira, visita a pequena cidade da Nova Inglaterra para investigar o fenômeno. Quando eventos terríveis começam a acontecer por toda parte, ele começa a questionar se esses fenômenos são obras da Virgem Maria ou algo muito mais sinistro.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lawngreen][B]Culpa[/B][/COLOR]</title>
