@@ -1,12 +1,5 @@
-<item>
-<title>[COLOR white][B]chefão - 2021[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=NmQiJPLYzPI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Rogai Por Nos [/B][/COLOR]</link>
-<link>http://xcui.vitvabc.xyz:8880/movie/287994003001/287994003001/476.mp4$$lsname=[COLOR orange][B]SERVIDOR[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/znrtj0lFOgEa8bbAbck1QsvvQ6h.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/l8VkL1KzkGkrO8BCsqF02urdfZ7.jpg</fanart>
-<info>Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visita da Virgem Maria, é inexplicavelmente capaz de ouvir, falar e curar os enfermos. À medida que a notícia se espalha e pessoas de perto e de longe se reúnem para testemunhar seus milagres, um jornalista decadente (Jeffrey Dean Morgan), que espera reviver sua carreira, visita a pequena cidade da Nova Inglaterra para investigar o fenômeno. Quando eventos terríveis começam a acontecer por toda parte, ele começa a questionar se esses fenômenos são obras da Virgem Maria ou algo muito mais sinistro.</info>
-<genre>SUSPENSE E TERROR</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-http://xcui.vitvabc.xyz:8880/movie/287994003001/287994003001/476.mp4
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://x00.so:80/images/u0YbQixvFBSmZfk0EjRWDE6wWgq_big.jpg",[COLOR white][B]Em Guerra com o Vovô	[/B][/COLOR]
+http://b5.vc:80/movie/Pierri/102030/111545.mp4	
+#EXTINF:-1 tvg-logo="http://x00.so:80/images/dyzSWQBkDC4sicUrPo8pnO7KD6r_big.jpg" group-title="Filmes | Acao",The King of Fighters: A Batalha Final	[/B][/COLOR]
+http://b5.vc:80/movie/Pierri/102030/111465.mp4
