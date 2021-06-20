@@ -1,17 +1,12 @@
-<item>
-<title>[COLOR white][B]A Justiceira[/B][/COLOR]</title>
-<link>https://www.googleapis.com/drive/v3/files/1ASflUtnBzJQIxZQcDpAMt85HMIrJtS0f?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
-<thumbnail>https://i.ibb.co/cNsp75J/2.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-<item>
-<title>[COLOR white][B]O Primeiro Ministro[/B][/COLOR]</title>
-<link>https://www.googleapis.com/drive/v3/files/1EVMDfeYzdcGXk9XZ3yzj_E048kIjfkVo?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
-<thumbnail>https://i.ibb.co/cNsp75J/2.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-<item>
-<title>[COLOR white][B]Robin Hood o Principe dos Ladroes[/B][/COLOR]</title>
-<link>https://www.googleapis.com/drive/v3/files/1ppa3mAn85N38f4mJZJanMyXXCNwmtIoV?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
-<thumbnail>https://i.ibb.co/cNsp75J/2.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-<item>
-<title>[COLOR white][B]Invasao ao Serviço Secreto[/B][/COLOR]</title>
-<link>https://www.googleapis.com/drive/v3/files/181r5Ht8DMkmvlAJNvcpFn27FJiOHN9pq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
-<thumbnail>https://i.ibb.co/cNsp75J/2.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-	
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/09/26/19/52/0424799.jpg" group-title="Filmes On Demand", A Justiceira2
+https://www.googleapis.com/drive/v3/files/1ASflUtnBzJQIxZQcDpAMt85HMIrJtS0f?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://filmeshd.pro/wp-content/uploads/2020/03/tkrjNWUEhfuc6MqfQJGtpQy9ahb-214x300.jpg" group-title="Filmes On Demand", O Primeiro Ministro
+https://www.googleapis.com/drive/v3/files/1EVMDfeYzdcGXk9XZ3yzj_E048kIjfkVo?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/isl/api/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27179355%27&EntityType=%27Item%27&EntityId=%2711230%27&Width=720&Height=1080&device=web_browser&subscriptions=Anonymous" group-title="Filmes On Demand", Robin Hood o Principe dos Ladroes
+https://www.googleapis.com/drive/v3/files/1ppa3mAn85N38f4mJZJanMyXXCNwmtIoV?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/22734-cartaz.jpg" group-title="Filmes On Demand", Invasao ao Serviço Secreto
+https://www.googleapis.com/drive/v3/files/181r5Ht8DMkmvlAJNvcpFn27FJiOHN9pq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
