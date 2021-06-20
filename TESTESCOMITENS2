@@ -1,14 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="ICONEGENERO",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
+#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes On Demand",mumia
+https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx?alt=media&key=AIzaSyBCyIg-Ndlus26ISNcAfLG2zbA1HiW3y2A
 #EXTINF:-1 tvg-logo="ICONEDOFILME",Batalha no Neretya
-https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyBCyIg-Ndlus26ISNcAfLG2zbA1HiW3y2A
-
+https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx?alt=media&key=AIzaSyBCyIg-Ndlus26ISNcAfLG2zbA1HiW3y2A
 #EXTINF:-1 tvg-logo="ICONEDOFILME",Batalha no Neretya
-https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyBCyIg-Ndlus26ISNcAfLG2zbA1HiW3y2A
+https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx?alt=media&key=AIzaSyCZaqsKwRPeI5yLb_NjpYeXBvQJH3UmGj0
 
-#EXTINF:-1 tvg-logo="ICONEDOFILME",Batalha no Neretya
-https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCZaqsKwRPeI5yLb_NjpYeXBvQJH3UmGj0
+
 
 
