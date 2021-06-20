@@ -1,10 +1,16 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes On Demand",mumia
 https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx?alt=media&key=AIzaSyBCyIg-Ndlus26ISNcAfLG2zbA1HiW3y2A
+
 #EXTINF:-1 tvg-logo="ICONEDOFILME",Batalha no Neretya
 https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx?alt=media&key=AIzaSyBCyIg-Ndlus26ISNcAfLG2zbA1HiW3y2A
+
 #EXTINF:-1 tvg-logo="ICONEDOFILME",Batalha no Neretya
 https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx?alt=media&key=AIzaSyCZaqsKwRPeI5yLb_NjpYeXBvQJH3UmGj0
+
+#EXTINF:-1 tvg-logo="LIK DA LOGO" tvg-id="0" group-title="GDRIVE LANÇAMENTOS",NOME DO FILME AQUI
+https://docs.google.com/file/d/1VHPCLjcccUxzZxNpIs5DU5Hdyh7aBMIm/view/preview
 
 
 
