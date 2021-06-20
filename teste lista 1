@@ -1,16 +1,5 @@
-<item>
-<title>[COLOR white][B]Luca - 2021[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=YdAIBlPVe9s$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Luca [/B][/COLOR]</link>
-
-<link>http://acuanduba.lhmtv.gq/animes/os-simpsons/2663.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-<link>http://acuanduba.lhmtv.gq/animes/os-simpsons/2665.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-<link>http://acuanduba.lhmtv.gq/animes/os-simpsons/2667.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-<link>http://acuanduba.lhmtv.gq/animes/os-simpsons/2669.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lk7QISmTam2iOzzUAQYs6voeFg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qtVYMi4gkTB7xNNsMyG2z3UHGMU.jpg</fanart>
-<info>Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um verão inesquecível repleto de macarronadas, gelatos e passeios incríveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo ameaça colocar fim à diversão: abaixo da superfície da água, eles são monstros marinhos!</info>
-<genre>ANIMAÇÃO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82qmMMR/TV-online.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKBz7XrQNz00RicT5kw9atn4cL9n40PeI99XoUEahQ2pMtJU-0" group-title="Filmes On Demand", liga extraordinaria
+https://www.googleapis.com/drive/v3/files/1TrvjuluVG89cG8C6tsSCim8eg1tHsRh0?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
