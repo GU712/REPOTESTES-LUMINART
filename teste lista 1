@@ -11,3 +11,6 @@ https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx/view
 #EXTINF:-1 tvg-logo="ICONEDOFILME",<NOMEDOFILME>
 https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx/view?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKBz7XrQNz00RicT5kw9atn4cL9n40PeI99XoUEahQ2pMtJU-0" group-title="Filmes On Demand", A Casa do Medo – Incidente em Ghostland
+https://www.googleapis.com/drive/v3/files/1ikuW4jeNCASI39XUspDN9hMco067SGpc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
