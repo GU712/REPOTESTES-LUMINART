@@ -1,5 +1,17 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://x00.so:80/images/u0YbQixvFBSmZfk0EjRWDE6wWgq_big.jpg" group-title="Filmes | Lancamentos",[COLOR white][B]Em Guerra com o Vovô[/B][/COLOR]
-http://b5.vc:80/movie/Pierri/102030/111545.mp4	
-#EXTINF:-1 [COLOR white][B] tvg-logo="http://x00.so:80/images/dyzSWQBkDC4sicUrPo8pnO7KD6r_big.jpg" group-title="Filmes | Acao",The King of Fighters: A Batalha Final	[/B][/COLOR]
-http://b5.vc:80/movie/Pierri/102030/111465.mp4	
+<item>
+<title>[COLOR white][B]A Justiceira[/B][/COLOR]</title>
+<link>https://www.googleapis.com/drive/v3/files/1ASflUtnBzJQIxZQcDpAMt85HMIrJtS0f?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
+<thumbnail>https://i.ibb.co/cNsp75J/2.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
+<item>
+<title>[COLOR white][B]O Primeiro Ministro[/B][/COLOR]</title>
+<link>https://www.googleapis.com/drive/v3/files/1EVMDfeYzdcGXk9XZ3yzj_E048kIjfkVo?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
+<thumbnail>https://i.ibb.co/cNsp75J/2.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
+<item>
+<title>[COLOR white][B]Robin Hood o Principe dos Ladroes[/B][/COLOR]</title>
+<link>https://www.googleapis.com/drive/v3/files/1ppa3mAn85N38f4mJZJanMyXXCNwmtIoV?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
+<thumbnail>https://i.ibb.co/cNsp75J/2.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
+<item>
+<title>[COLOR white][B]Invasao ao Serviço Secreto[/B][/COLOR]</title>
+<link>https://www.googleapis.com/drive/v3/files/181r5Ht8DMkmvlAJNvcpFn27FJiOHN9pq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
+<thumbnail>https://i.ibb.co/cNsp75J/2.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
+	
