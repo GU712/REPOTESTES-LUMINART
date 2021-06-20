@@ -1,6 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKBz7XrQNz00RicT5kw9atn4cL9n40PeI99XoUEahQ2pMtJU-0" group-title="Filmes On Demand", 2liga extraordinaria
-https://www.googleapis.com/drive/v3/files/1TrvjuluVG89cG8C6tsSCim8eg1tHsRh0?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKBz7XrQNz00RicT5kw9atn4cL9n40PeI99XoUEahQ2pMtJU-0" group-title="Filmes On Demand", MUMIA
-https://www.googleapis.com/drive/v3/files/d/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1 tvg-logo="ICONEGENERO",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR orange][B]<NOMEDOFILME>[/B][/COLOR]
+https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx/view?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR orange][B]<NOMEDOFILME>[/B][/COLOR]
+https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx/view?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR orange][B]<NOMEDOFILME>[/B][/COLOR]
+https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx/view?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
