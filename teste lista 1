@@ -1,12 +1,16 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/09/26/19/52/0424799.jpg" group-title="Filmes On Demand", A Justiceira2
-https://www.googleapis.com/drive/v3/files/1ASflUtnBzJQIxZQcDpAMt85HMIrJtS0f?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+<item>
+<title>[COLOR white][B]Luca - 2021[/B][/COLOR]</title>
 
-#EXTINF:-1 tvg-logo="https://filmeshd.pro/wp-content/uploads/2020/03/tkrjNWUEhfuc6MqfQJGtpQy9ahb-214x300.jpg" group-title="Filmes On Demand", O Primeiro Ministro
-https://www.googleapis.com/drive/v3/files/1EVMDfeYzdcGXk9XZ3yzj_E048kIjfkVo?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+<link>plugin://plugin.video.youtube/play/?video_id=YdAIBlPVe9s$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Luca [/B][/COLOR]</link>
 
-#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/isl/api/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27179355%27&EntityType=%27Item%27&EntityId=%2711230%27&Width=720&Height=1080&device=web_browser&subscriptions=Anonymous" group-title="Filmes On Demand", Robin Hood o Principe dos Ladroes
-https://www.googleapis.com/drive/v3/files/1ppa3mAn85N38f4mJZJanMyXXCNwmtIoV?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+<link>http://acuanduba.lhmtv.gq/animes/os-simpsons/2663.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>http://acuanduba.lhmtv.gq/animes/os-simpsons/2665.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>http://acuanduba.lhmtv.gq/animes/os-simpsons/2667.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>http://acuanduba.lhmtv.gq/animes/os-simpsons/2669.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
 
-#EXTINF:-1 tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/22734-cartaz.jpg" group-title="Filmes On Demand", Invasao ao Serviço Secreto
-https://www.googleapis.com/drive/v3/files/181r5Ht8DMkmvlAJNvcpFn27FJiOHN9pq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lk7QISmTam2iOzzUAQYs6voeFg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qtVYMi4gkTB7xNNsMyG2z3UHGMU.jpg</fanart>
+<info>Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um verão inesquecível repleto de macarronadas, gelatos e passeios incríveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo ameaça colocar fim à diversão: abaixo da superfície da água, eles são monstros marinhos!</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
