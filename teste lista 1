@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/82qmMMR/TV-online.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1BhV6R/super-herois.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKBz7XrQNz00RicT5kw9atn4cL9n40PeI99XoUEahQ2pMtJU-0" group-title="Filmes On Demand", liga extraordinaria
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg",[COLOR orange][B]A Liga Extraordinária[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1TrvjuluVG89cG8C6tsSCim8eg1tHsRh0?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
