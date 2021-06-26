@@ -3,5 +3,7 @@
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/70fCvw1KkFfAwq5Q8vGIMQhPEi7.jpg",[COLOR white][B]Batalha no Neretya[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tEFAiAdvhNp2HyoK1ZEIuoYello.jpg",[COLOR orange][B]<NOMEDOFILME>[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tEFAiAdvhNp2HyoK1ZEIuoYello.jpg",[COLOR orange][B]Assin Nascem os Heróis[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1IamPuBFwJlSUx_-vOWBlppijQAmZQ3Z0?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gj3SuPPTGcz4XnHL6jHr3G8K1h9.jpg",[COLOR orange][B]Mortos que Caminham[/B][/COLOR]
+https://www.googleapis.com/drive/v3/files/1-qirepP15sb_QUhfvQukZIxAzJYYYAd_?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
