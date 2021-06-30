@@ -1,16 +1,17 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="ICONEGENERO",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
 
-#EXTINF:-1 tvg-logo="ICONEDOFILME",<NOMEDOFILME>
-https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="ICONEDOFILME",<NOMEDOFILME>
-https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx/?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="ICONEDOFILME",<NOMEDOFILME>
-https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx/view?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKBz7XrQNz00RicT5kw9atn4cL9n40PeI99XoUEahQ2pMtJU-0" group-title="Filmes On Demand", A Casa do Medo – Incidente em Ghostland
-https://www.googleapis.com/drive/v3/files/1k2LHw9V5hz6HPAu2Nnxdb3cr7Jn808lx?alt=media&key=AIzaSyCZaqsKwRPeI5yLb_NjpYeXBvQJH3UmGj0
-
+		<item>
+			<title>A Justiceira</title>
+			<link>https://www.googleapis.com/drive/v3/files/1ASflUtnBzJQIxZQcDpAMt85HMIrJtS0f?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
+		</item>
+		<item>
+			<title>O Primeiro Ministro</title>
+			<link>https://www.googleapis.com/drive/v3/files/1EVMDfeYzdcGXk9XZ3yzj_E048kIjfkVo?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
+		</item>
+		<item>
+			<title>Robin Hood o Principe dos Ladroes</title>
+			<link>https://www.googleapis.com/drive/v3/files/1ppa3mAn85N38f4mJZJanMyXXCNwmtIoV?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
+		</item>
+		<item>
+			<title>Invasao ao Serviço Secreto</title>
+			<link>https://www.googleapis.com/drive/v3/files/181r5Ht8DMkmvlAJNvcpFn27FJiOHN9pq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs</link>
+		</item>
