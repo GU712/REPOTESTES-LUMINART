@@ -1,4 +1,20 @@
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] Corrida Maluca[COLOR lime]Todos Episodeos[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e063e8d44fe6d0cbcde11326f88a1df60257eebd</link><thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c0/Corrida_Maluca.jpg</thumbnail><info>[B][COLOR yellow]Corrida Maluca foi um desenho animado produzido pela Hanna-Barbera e lançado pela CBS que foi produzido entre 14 de setembro de 1968 a 5 de setembro de 1970, rendendo 34 episódios. Os competidores buscavam o título mundial de Corredor Mais Louco do Mundo. [/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item>
+<title>[COLOR white][B]teste - DATA [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDASERIE[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>http://s9461.chomikuj.pl/Preview.ashx?e=bQooJBywVOnxUzcz8q54eu3QoMfSwAjQ_mvUM7BUTxZvN0MqfqMRt2dwCz7FU7RyiQR8FR1U1o83GNHB4Z6cFXtxR0n6c6pf-LivPI4qGS1IQgyu2P5Bt_QYJt1jTS1zy3fpG34sUYnjdj45lhuHUQ&pv=2$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]zero [/B][/COLOR]</link>	
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISÓDIO [/B][/COLOR]</link>	
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISÓDIO [/B][/COLOR]</link>	
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISÓDIO [/B][/COLOR]</link>	
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rSumVltOLWsmsK5wqWIDZEFGL2H.jpg</fanart>
+<info>Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
