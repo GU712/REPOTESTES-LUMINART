@@ -1,18 +1,3 @@
-<item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOMEDOFILME - DATA - RES - DUB LEG FIX[/B][/COLOR]</title>
-
-
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=https://m3u9.cf/RedeCanais/RedeCanais/RCFServer5/ondemand/CRUELA/CRUELA.m3u8?mu3zAQc9HC3GbwJq=zjEC0EHykjgsuFf8K_AuZQ&3U1G7qaTxrPbalZnEx=1625537611
-
-$$lsname=[B]SERVER -LS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME[/COLOR]</link>
-
-
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-
 
 <item>
 <title>[B][COLOR white]teste - DATA [/COLOR][/B]</title>
