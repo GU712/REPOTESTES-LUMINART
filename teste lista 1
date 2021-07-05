@@ -31,7 +31,7 @@ $$lsname=[B]SERVER -LS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME[/COL
 
 <item>
 <title>[B][COLOR white]O Mandaloriano: Star Wars - DATA [/COLOR][/B]</title>
-
+<link>NOLINK</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>FUNDO</fanart>
 <info>SINOPSE</info>
