@@ -10,3 +10,18 @@
 <info>SINOPSE</info>
 <genre>GENERO</genre>  
 </item>
+
+<item>
+<title>[B][COLOR white]teste - DATA [/COLOR][/B]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8CCD0D6986ACCEAEC40EA0B5A4C516ACD51B87CA$$lsname=[B]HD[/B][COLOR yellow] ->[/COLOR][COLOR lime]NOMEDOFILME - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E77862F106D7D0980F1058F4BF1D682E5A42330$$lsname=[B]FHD[/B][COLOR yellow] ->[/COLOR][COLOR lime]NOMEDOFILME - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
