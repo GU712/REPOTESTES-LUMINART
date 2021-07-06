@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Shakespeare Apaixonado" tvg-logo="POT/myuh8Z2o88rfWd5KtpD96IgwCtx_big.jpg" group-title="Filmes: Romance",Shakespeare Apaixonado
+#EXTINF:-1 tvg-id="" tvg-name="Shakespeare Apaixonado" tvg-logo="POT/myuh8Z2o88rfWd5KtpD96IgwCtx_big.jpg" group-title="Filmes: Romance",Shakespeare Apaixonado2
 http://canaishd.servidor.tv:8080/movie/Everton12/12everton/63935.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ritmo Total 2: A Nova Batida" tvg-logo="POT/bK4bMXT4xQoJRytBqSQS3FJmFBS_big.jpg" group-title="Filmes: Comédia",Ritmo Total 2: A Nova Batida
 http://canaishd.servidor.tv:8080/movie/Everton12/12everton/63934.mp4
@@ -159,7 +159,7 @@ http://canaishd.servidor.tv:8080/movie/Everton12/12everton/61365.mp4
 http://canaishd.servidor.tv:8080/movie/Everton12/12everton/61364.mp4
 #EXTINF:-1 tvg-id="" tvg-name="As Loucas Aventuras de Elvira" tvg-logo="POT/joSoITQgLRbs0RoU0uywy7JTSZs_big.jpg" group-title="Filmes: Fantasia e Ficção",As Loucas Aventuras de Elvira
 http://canaishd.servidor.tv:8080/movie/Everton12/12everton/61363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ao Mestre, Com Carinho" tvg-logo="POT/z0NiB3lAG5xqyZs2AX7J84usUG3_big.jpg" group-title="Filmes: Drama",Ao Mestre, Com Carinho
+#EXTINF:-1 tvg-id="" tvg-name="Ao Mestre Com Carinho" tvg-logo="POT/z0NiB3lAG5xqyZs2AX7J84usUG3_big.jpg" group-title="Filmes: Drama",Ao Mestre, Com Carinho
 http://canaishd.servidor.tv:8080/movie/Everton12/12everton/61362.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anônimo (2021)" tvg-logo="POT/woPYFGKwVULILbO7q44HmsNY0kO_big.jpg" group-title="Filmes: Lançamentos",Anônimo (2021)
 http://canaishd.servidor.tv:8080/movie/Everton12/12everton/61361.mp4
