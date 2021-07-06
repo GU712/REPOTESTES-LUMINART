@@ -1,9 +1,9 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Shakespeare Apaixonado" tvg-logo="http://canaishd.servidor.tv:8080/images/myuh8Z2o88rfWd5KtpD96IgwCtx_big.jpg" group-title="Romance",Shakespeare Apaixonado[/B][/COLOR]
+#EXTM3U	
+#EXTINF:-1 tvg-id="" tvg-name="Shakespeare Apaixonado" tvg-logo="http://canaishd.servidor.tv:8080/images/myuh8Z2o88rfWd5KtpD96IgwCtx_big.jpg" group-title="Romance",[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Shakespeare Apaixonado[/B][/COLOR]	
 http://canaishd.servidor.tv:8080/movie/Everton12/12everton/63935.mp4	
-#EXTINF:-1 tvg-id="" tvg-name="Ritmo Total 2: A Nova Batida" tvg-logo="http://canaishd.servidor.tv:8080/images/bK4bMXT4xQoJRytBqSQS3FJmFBS_big.jpg" group-title="Comédia",Ritmo Total 2: A Nova Batida[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Ritmo Total 2: A Nova Batida" tvg-logo="http://canaishd.servidor.tv:8080/images/bK4bMXT4xQoJRytBqSQS3FJmFBS_big.jpg" group-title="Romance",[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Ritmo Total 2: A Nova Batida[/B][/COLOR]	
 http://canaishd.servidor.tv:8080/movie/Everton12/12everton/63934.mp4	
-#EXTINF:-1 tvg-id="" tvg-name="Ritmo Total 1" tvg-logo="http://canaishd.servidor.tv:8080/images/8Jxy38gUwgTzCJS0UnqyHz2OHjf_big.jpg" group-title="Comédia",Ritmo Total 1[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Ritmo Total 1" tvg-logo="http://canaishd.servidor.tv:8080/images/8Jxy38gUwgTzCJS0UnqyHz2OHjf_big.jpg" group-title="Romance",[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Ritmo Total 1[/B][/COLOR]	
 http://canaishd.servidor.tv:8080/movie/Everton12/12everton/63933.mp4	
-#EXTINF:-1 tvg-id="" tvg-name="As Torres Gêmeas" tvg-logo="http://canaishd.servidor.tv:8080/images/5djg3by4JzaOM4OXmJxHLjXv7mS_big.jpg" group-title="Drama",As Torres Gêmeas[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="As Torres Gêmeas" tvg-logo="http://canaishd.servidor.tv:8080/images/5djg3by4JzaOM4OXmJxHLjXv7mS_big.jpg" group-title="Romance",[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]As Torres Gêmeas[/B][/COLOR]	
 http://canaishd.servidor.tv:8080/movie/Everton12/12everton/63932.mp4	
