@@ -1,18 +1,4 @@
-<item>
-<title>AMC</title>
-<link>https://seriesonline.top/u/901f2988bcf2c229343124ba9c69b70c.m3u8</link>
-</item>
-
-<item>
-<title>BOOMERANG</title>
-<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/22.m3u8</link>
-</item>
-
-<item>
-<title>COMEDY CENTRAL</title>
-<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/29.m3u8</link>
-</item>
-
+#EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="PORTAL" tvg-logo="http://168.205.87.198/logocanais/maptv.png" group-title="OI TV BASICO",PORTAL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/82.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AGRO CANAL" tvg-logo="http://168.205.87.198/logocanais/agrocanal.png" group-title="OI TV BASICO",AGRO CANAL
