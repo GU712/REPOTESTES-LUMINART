@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/82qmMMR/TV-online.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8skw3N2/TVs24hrs-SERVER3.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO3[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8skw3N2/TVs24hrs-SERVER3.png",[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]101 Dálmatas[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR];url=http://fonteangelusiptv.com:25461/11999284378anderson/5mknfk4/236526
