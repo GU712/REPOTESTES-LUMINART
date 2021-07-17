@@ -1,31 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
+
 <channel>
-    <name>NOMEDASEÇÂO</name>
-    <thumbnail>ICONEDASEÇÃO</thumbnail>
-    <fanart>FUNDODASEÇÃO</fanart>
+    <name>SÉRIES TORRENT</name>
+    <thumbnail>https://i.imgur.com/9qEj6bJ.png</thumbnail>
+    <fanart>https://canalcienciascriminais.com.br/wp-content/uploads/2019/05/cinema.png</fanart>
     <subchannel>
-        <name>NOMEDASERIE (DATA)</name>
-        <thumbnail>ICONEDASERIE</thumbnail>
-        <fanart>FUNDODASERIE</fanart>
-        <info>SINOPSE</info>
-        <genre>GENERO</genre>
-        <year>ANO</year>
-        <duration>TIME</duration>
+        <name>WandaVision (2021)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/57vVjteucIF3bGnZj6PmaoJRScw.jpg</fanart>
+        <info> Wanda e Vision estão começando a família perfeita dos anos 50. É claro que a família nuclear perfeita significa fazer todas coisas tipo ter filhos, dar festas e sair com os amigos. Mas aos poucos, eles começam a suspeitar que nem tudo é o que parece.</info>
+        <genre>Ação, Aventura, Comédia, Fantasia</genre>
+        <year>2021</yaar>
+        <duration>26:00</duration>
            <subitems>
                 <subitem>
-                <title>T01E01->NOMEDOEPISÓDIO</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e70ee7cf3e0eea2939bb97ea65b62d396e9ee44a</link>
-                <thumbnail>ICONEDOEPISODIO</thumbnail>
+                <title>T01 Ep. 01 ao 02</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
+                <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
                 </subitem>
-				
-		        <subitem>
-                <title>T01E01->NOMEDOEPISÓDIO</title>
+                <subitem>
+                <title>T01 Ep. 03</title>
                 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e70ee7cf3e0eea2939bb97ea65b62d396e9ee44a</link>
-                <thumbnail>ICONEDOEPISODIO</thumbnail>
+                <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
                 </subitem>
-				
-	 </subitems>	
-             
-</channel>
-</subchannel>
+                <subitem>
+                <title>T01 Ep. 04</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06508e218642ea1fb3e05d3a6b6e5bb2ce1f5916</link>
+                <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
+                </subitem>
+                <subitem>
+                <title>T01 Ep. 05</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62c2bb254abef758fc6b3d71fa7ab1a03fef1ff7</link>
+                <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
+                </subitem>
+                <subitem>
+                <title>T01 Ep. 06</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9fb854e55bb2c52a7a61521ffd5fd74809979e6</link>
+                <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
+                </subitem>
+                <subitem>
+                <title>T01 Ep. 07</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a88e6ff0ba8a53aa3e8156e14d6275ce1034277</link>
+                <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
+                </subitem>
+                <subitem>
+                <title>T01 Ep. 08</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f3146527866456c93ad99c6e977d0e461add076</link>
+                <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
+                </subitem>
+                <subitem>
+                <title>T01 Ep. 09</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b17de61d3c08701ccab7c29d03b8831bb1335fc</link>
+                <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
+                </subitem>
+            </subitems>	
