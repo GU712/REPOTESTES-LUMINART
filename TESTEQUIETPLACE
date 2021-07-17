@@ -12,12 +12,12 @@
 <name>[COLOR white][B]NOMEDASESAO2[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<subchannel>
-    
+ 
+<subchannel>   
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-</subchannel>
+
 <subchannel>
 <name>NOMEDASERIE (DATA)</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
@@ -27,6 +27,7 @@
 <year>ANO</year>
 <duration>TIME</duration>
 <subitems>
+    
 <subitem>
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
 <link>NOLINK</link>
@@ -52,9 +53,9 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e70ee7cf3e0eea2939bb97ea65b62d396e9ee44a</link>
 <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
 </subitem>
-    
 </subitems>	
-    
+</subchannel>   
+
 </channel>
 </subchannel>
 
