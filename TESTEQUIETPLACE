@@ -14,13 +14,13 @@
            <subitems>
                 <subitem>
                 <title>T01E01->NOMEDOEPISÓDIO</title>
-                <link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT></link>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e70ee7cf3e0eea2939bb97ea65b62d396e9ee44a</link>
                 <thumbnail>ICONEDOEPISODIO</thumbnail>
                 </subitem>
 				
 		        <subitem>
                 <title>T01E01->NOMEDOEPISÓDIO</title>
-                <link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT></link>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e70ee7cf3e0eea2939bb97ea65b62d396e9ee44a</link>
                 <thumbnail>ICONEDOEPISODIO</thumbnail>
                 </subitem>
 				
