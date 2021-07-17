@@ -2,17 +2,17 @@
 <channels>
 
 <channel>
-    <name>SÉRIES TORRENT</name>
-    <thumbnail>https://i.imgur.com/9qEj6bJ.png</thumbnail>
-    <fanart>https://canalcienciascriminais.com.br/wp-content/uploads/2019/05/cinema.png</fanart>
+    <name>NOMEDASESAO</name>
+    <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+    <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
     <subchannel>
         <name>NOMEDASERIE (DATA)</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
-        <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/57vVjteucIF3bGnZj6PmaoJRScw.jpg</fanart>
-        <info> Wanda e Vision estão começando a família perfeita dos anos 50. É claro que a família nuclear perfeita significa fazer todas coisas tipo ter filhos, dar festas e sair com os amigos. Mas aos poucos, eles começam a suspeitar que nem tudo é o que parece.</info>
-        <genre>Ação, Aventura, Comédia, Fantasia</genre>
-        <year>2021</yaar>
-        <duration>26:00</duration>
+        <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+        <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+        <info>SINOPSE</info>
+        <genre>GENERO</genre>
+        <year>ANO</yaar>
+        <duration>TIME</duration>
            <subitems>
                 <subitem>
                 <title>T01 Ep. 01 ao 02</title>
