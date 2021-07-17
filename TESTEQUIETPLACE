@@ -13,6 +13,10 @@
         <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B]</name>
         <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
         <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+        <info>SINOPSE</info>
+        <genre>GENERO</genre>
+        <year>ANO</year>
+        <duration>TIME</duration>
     <subchannel>
         <name>NOMEDASERIE (DATA)</name>
         <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
