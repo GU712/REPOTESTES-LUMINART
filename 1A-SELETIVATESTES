@@ -170,7 +170,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]TESTES COM ITENS NOVOS QUIET PLACE[/B][/COLOR]</name>
+<name>[COLOR lime][B]TESTES COM ITENS NOVOS ORIGINAL[/B][/COLOR]</name>
+<thumbnail>http://bit.do/entraricon</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/ORIGINAL</externallink>
+<info>AGRADECEMOS SUA PREFERÊNCIA </info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]TESTES COM ITENS NOVOS TESTES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/TESTEQUIETPLACE</externallink>
