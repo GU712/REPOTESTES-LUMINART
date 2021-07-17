@@ -15,7 +15,13 @@
         <duration>26:00</duration>
            <subitems>
                 <subitem>
-                <title>T01 Ep. 01 ao 02</title>
+                <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
+                <link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
+                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+                <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+                </subitem>
+                <subitem>
+                <title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
                 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
                 <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
                 </subitem>
