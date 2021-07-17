@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>
-    <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+    <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]</name>
     <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
     <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
  <channel>
  <channels>
-    <subchannel>
+    <channel>
     <name>[COLOR white][B]NOMEDASESAO[/B][/COLOR]</name>
     <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
     <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-    <subchannel>
-        <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B]</name>
-        <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-        <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-     </subchannel>
     <subchannel>
         <name>NOMEDASERIE (DATA)</name>
         <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
