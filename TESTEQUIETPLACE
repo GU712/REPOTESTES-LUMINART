@@ -15,6 +15,12 @@
         <duration>26:00</duration>
            <subitems>
                 <subitem>
+                <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+                <link>NOLINK</link>
+                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+                <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+                </subitem>
+                <subitem>
                 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
                 <link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
                 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
