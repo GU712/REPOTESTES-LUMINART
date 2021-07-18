@@ -1,193 +1,82 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO5[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
 <channel>
-<name>[COLOR white][B]NOMEDASESAO1[/B][/COLOR]</name>
+<name>[COLOR white][B]SUPER-HERÓIS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
 <subchannel>
-<name>[COLOR white][B]NOMEDASERIE1 (DATA)[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
-<year>ANO</year>
-<duration>TIME</duration>
-<subitems>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T01[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-</subitem>
-<subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIOTORRENT[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIOGDRIVE[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iWLB_EdmtUCrS02HyvO940OK94Oacvk5/view</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIOUNIVERSAL[/B][/COLOR]</title>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/76102.mp4</link>	
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T02[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-              
-</subitems>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-
-<subchannel>
-<name>[COLOR white][B]NOMEDASERIE2 (DATA)[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
-<year>ANO</year>
-<duration>TIME</duration>
-<subitems>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T01[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-</subitem>
-<subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T02[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-             
-</subitems>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-
-<channel>
-<name>[COLOR white][B]NOMEDASESAO2[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-
-<subchannel>
-<name>[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
-<year>ANO</year>
-<duration>TIME</duration>
+<name>[COLOR white]HOMEM DE FERRO[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/imYhKyT1tjFX3QLgzwIDa7JZhxi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gEkQGnvPbpcVERU0kjWkSzU3New.jpg</fanart> 
+<info>COLEÇÃO HOMEM DE FERRO</info>
+<genre>SUPER-HERÓIS</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
 <subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T01[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-</subitem>
-<subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bduxZ5FUS7C_CYa-4lkG2ctSx5JLnFMr/view</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
 <subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T02[/B][/COLOR]</title>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
 </subitem>
 <subitem>
-<title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white] Homem de Ferro[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kbzdSrF9RltJTlaVkLW8gakB0CL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cyecB7godJ6kNHGONFjUyVN9OX5.jpg</fanart>
+ <info>Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.</info>
+<genre>SUPER-HERÓIS</genre>   
 </subitem>
 <subitem>
-<title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white] Homem de Ferro (2008) [/B][/COLOR]</title>
+<link><LINKUNIVERSAL></link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kbzdSrF9RltJTlaVkLW8gakB0CL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cyecB7godJ6kNHGONFjUyVN9OX5.jpg</fanart>
+<info>Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.</info>
+<genre>SUPER-HERÓIS</genre>
 </subitem>
-              
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white] Homem de Ferro 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vzROjQbgKWMVf2EldXipCcjpuBL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg</fanart> 
+ <info>Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.</info>
+<genre>SUPER-HERÓIS</genre>  
+</subitem>
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white] Homem de Ferro 2 (2010)[/B][/COLOR]</title>
+<link><LINKUNIVERSAL></link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vzROjQbgKWMVf2EldXipCcjpuBL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg</fanart> 
+ <info>Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.</info>
+<genre>SUPER-HERÓIS</genre>  
+</subitem>
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white] Homem de Ferro 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3Px8B8h3dLARDMVhYsm3oAa9EfA.jpg</fanart> 
+ <info>Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.</info>
+<genre>SUPER-HERÓIS</genre>  
+</subitem>
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white] Homem de Ferro 3 (2013)[/B][/COLOR]</title>
+<link><LINKUNIVERSAL></link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3Px8B8h3dLARDMVhYsm3oAa9EfA.jpg</fanart> 
+ <info>Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.</info>
+<genre>SUPER-HERÓIS</genre>  
+</subitem>
 </subitems>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
