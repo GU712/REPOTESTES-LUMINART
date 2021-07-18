@@ -19,7 +19,7 @@
         <duration>TIME</duration>
            <subitems>
                 <subitem>
-                <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+                <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T01[/B][/COLOR]</title>
                 <link>NOLINK</link>
                 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
                 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
@@ -33,12 +33,28 @@
                 <subitem>
                 <title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
                 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-                <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
+                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
                 </subitem>
                 <subitem>
-                <title>T01 Ep. 03</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e70ee7cf3e0eea2939bb97ea65b62d396e9ee44a</link>
-                <thumbnail>https://torrentsfilmes4k.tv/wp-content/uploads/2021/01/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
+                <title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
+                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+                </subitem>
+                <subitem>
+                <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T01[/B][/COLOR]</title>
+                <link>NOLINK</link>
+                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+                <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+                </subitem>
+               <subitem>
+                <title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
+                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+                </subitem>
+                <subitem>
+                <title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
+                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
                 </subitem>
               
             </subitems>	
