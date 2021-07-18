@@ -1,66 +1,66 @@
 <channels>
 <channel>
-    <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-    <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-    <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <channel>
-    <name>[COLOR white][B]NOMEDASESAO1[/B][/COLOR]</name>
-    <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-    <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-    <subchannel>
-        <name>[COLOR white][B]NOMEDASERIE1 (DATA)[/B][/COLOR]</name>
-        <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-        <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-        <info>SINOPSE</info>
-        <genre>GENERO</genre>
-        <year>ANO</year>
-        <duration>TIME</duration>
-           <subitems>
-                <subitem>
-                <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T01[/B][/COLOR]</title>
-                <link>NOLINK</link>
-                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-                <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-                </subitem>
-                <subitem>
-                <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-                <link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
-                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-                <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-                </subitem>
-                <subitem>
-                <title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIOTORRENT[/B][/COLOR]</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-                </subitem>
-                <subitem>
-                <title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIOGDRIVE[/B][/COLOR]</title>
-                <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iWLB_EdmtUCrS02HyvO940OK94Oacvk5/view</link>
-                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-                </subitem>
-                <subitem>
-                <title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIOUNIVERSAL[/B][/COLOR]</title>
-                <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/76102.mp4</link>	
-                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-                </subitem>
-                <subitem>
-                <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T02[/B][/COLOR]</title>
-                <link>NOLINK</link>
-                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-                <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-                </subitem>
-               <subitem>
-                <title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-                </subitem>
-                <subitem>
-                <title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
-                <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-                </subitem>
+<name>[COLOR white][B]NOMEDASESAO1[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<subchannel>
+<name>[COLOR white][B]NOMEDASERIE1 (DATA)[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+<year>ANO</year>
+<duration>TIME</duration>
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T01[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+</subitem>
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIOTORRENT[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIOGDRIVE[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iWLB_EdmtUCrS02HyvO940OK94Oacvk5/view</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIOUNIVERSAL[/B][/COLOR]</title>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/76102.mp4</link>	
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO - T02[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+</subitem>
               
-            </subitems>	
+</subitems>	
             
       <subchannel>
         <name>[COLOR white][B]NOMEDASERIE2 (DATA)[/B][/COLOR]</name>
