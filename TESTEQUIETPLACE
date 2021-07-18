@@ -81,14 +81,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 <subchannel>
-<name>[COLOR orange][B]COLEÇÃO[COLOR yellow] -> [COLOR white]NOMEDACOLESAOOUSERIE[/B][/COLOR]</name>
-<thumbnail><LINKDOICONEDACOLESAOOUSERIE></thumbnail>
-<fanart><LINKDOICONEDACOLESAOOUSERIE></fanart> 
-<info><COLEÇÃO SÉRIE NOME></info>
-<genre>GENERO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+<name>[COLOR orange][B]COLEÇÃO[COLOR yellow] -> [COLOR white]THOR[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gsmwnqBdTJxVciOXA2lkdIflBpX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4HrSeIXC0Ratx0vhyz2rxIMd65T.jpg</fanart> 
+<info><COLEÇÃO THOR></info>
+<genre>SUPER-HERÓIS</genre>
 <subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
@@ -98,23 +97,52 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILMEOUEPISODIO[/B][/COLOR]</title>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Thor [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
-<thumbnail><ICONEDOFILMEOUEPISODIO></thumbnail>
-<fanart><FUNDODOFILMEOUEPISODIO></fanart>
-<info><SINOPSE></info>
-<genre>GENERO</genre>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jWnbuXuzMIl3FDIs0qY9ZdDPxCl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg</fanart>
+<info>Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça..</info>
+<genre>SUPER-HERÓIS</genre>
 </subitem>
 <subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NOMEDOFILMEOUEPISODIO (DATA)[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE></link>
-<thumbnail><ICONEDOFILMEOUEPISODIO></thumbnail>
-<fanart><FUNDODOFILMEOUEPISODIO></fanart>
-<info><SINOPSE></info>
-<genre>GENERO</genre>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Thor (2011) [/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OCcBQjdheNcX8Jt9jt7nGdeshjRmszK2/view</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jWnbuXuzMIl3FDIs0qY9ZdDPxCl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg</fanart>
+<info>Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça..</info>
+<genre>SUPER-HERÓIS</genre>
 </subitem>
-ACRESCENTAR NOVO ITEM AQUI
-
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Thor: O Mundo Sombrio[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZgNyh3Z8xfBXPszT5GmAeVtsAT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uhYoytlNaq46dG81wLmHqaSuzWu.jpg</fanart>
+<info>Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.</info>
+<genre>SUPER-HERÓIS</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Thor: O Mundo Sombrio (2013) [/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a92vlaCQZ-5BKisEOgqr-eiBgSZLQL4f/view</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZgNyh3Z8xfBXPszT5GmAeVtsAT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uhYoytlNaq46dG81wLmHqaSuzWu.jpg</fanart>
+<info>Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.</info>
+<genre>SUPER-HERÓIS</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Thor: Ragnarok[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2DUM9mN9ahauSJtsWqrWrnriLfd.jpg</fanart>
+<info>Thor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.</info>
+<genre>SUPER-HERÓIS</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Thor: Ragnarok (2017) [/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oW78Af6HM1D9hVagcaBgWwt9BmcWgHHs/view</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2DUM9mN9ahauSJtsWqrWrnriLfd.jpg</fanart>
+<info>Thor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.</info>
+<genre>SUPER-HERÓIS</genre>
+</subitem>
 </subitems>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
