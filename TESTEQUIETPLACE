@@ -146,3 +146,102 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 </subitems>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channel>
+<name>[COLOR orange][B]SEÇÃO COLEÇÕES[COLOR yellow] -> [COLOR white]AVENTURA[/B][/COLOR]</name>
+<thumbnail><LINKDOICONEDASESAO></thumbnail>
+<fanart><FUNDODOICNODASESAO></fanart>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]COLEÇÃO[COLOR yellow] -> [COLOR white]INDIANA JONES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/T0j60pz/9024922-so.jpg</thumbnail>
+<fanart>https://i.ibb.co/j4CKhwq/images.jpg</fanart> 
+<info><COLEÇÃO INDIANA JONES</info>
+<genre>AVENTURA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitems>
+
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Indiana Jones e os Caçadores da Arca Perdida[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DanNhL_Poh8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crTawmZ7K9erVTm2UgznJ18hoL7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kCiMExsYuNhYluHxPP2OTmWw7hp.jpg</fanart>
+<info>Em 1936, o arqueólogo Indiana Jones é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
+<genre>AVENTURA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Indiana Jones e os Caçadores da Arca Perdida (1981) [/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NdKtMBwZ21z-uuh1LhsdWWvn9rixAus4/view</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crTawmZ7K9erVTm2UgznJ18hoL7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kCiMExsYuNhYluHxPP2OTmWw7hp.jpg</fanart>
+<info>Em 1936, o arqueólogo Indiana Jones é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
+<genre>AVENTURA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Indiana Jones e o Templo da Perdição[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WBdyLyijZhU</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/we7AZegHzRAe2sIui4F74dAJ2b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg</fanart>
+<info>Em 1935, o professor, arqueólogo e aventureiro Indiana Jones tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos.</info>
+<genre>AVENTURA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Indiana Jones e o Templo da Perdição (1984) [/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ju87sihTQod54dQJhvEa6BHtWc4m5gKA/view</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/we7AZegHzRAe2sIui4F74dAJ2b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg</fanart>
+<info>Em 1935, o professor, arqueólogo e aventureiro Indiana Jones tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos.</info>
+<genre>AVENTURA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Indiana Jones e a Última Cruzada[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DKg36LBVgfg</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vTBem2ZGmLKVgaD3EtJUfMQ9AH1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r48vHoEjYnZtkfcbJBm4JZF4f1Q.jpg</fanart>
+<info>O arqueólogo Indiana Jones tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones, é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas.</info>
+<genre>AVENTURA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Indiana Jones e a Última Cruzada (1989) [/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13pPw35CiVt8w7UQsrWAvxEo1dhs5hR6l/view</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vTBem2ZGmLKVgaD3EtJUfMQ9AH1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r48vHoEjYnZtkfcbJBm4JZF4f1Q.jpg</fanart>
+<info>O arqueólogo Indiana Jones tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones, é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas.</info>
+<genre>AVENTURA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Indiana Jones e o Reino da Caveira de Cristal[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kTJy1rFBtVw</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftcnTl9gExKXtmDkOCx7ztgp3Tz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nYlIeYdPjpkgmJBaZW8yDLnG89M.jpg</fanart>
+<info>Durante a Guerra Fria, Indiana Jones e o jovem Mutt buscam a Caveira de Cristal, um objeto místico de grande valor, mas logo percebem que não estão sozinhos. Soviéticos liderados pela cruel Irina Spalko também querem o objeto para tentar dominar o mundo através dele.</info>
+<genre>AVENTURA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Indiana Jones e o Reino da Caveira de Cristal (2008) [/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iBHqvoMzKbSK7mq6hNPPBSWwXB2UOLFJ/view</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftcnTl9gExKXtmDkOCx7ztgp3Tz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nYlIeYdPjpkgmJBaZW8yDLnG89M.jpg</fanart>
+<info>Durante a Guerra Fria, Indiana Jones e o jovem Mutt buscam a Caveira de Cristal, um objeto místico de grande valor, mas logo percebem que não estão sozinhos. Soviéticos liderados pela cruel Irina Spalko também querem o objeto para tentar dominar o mundo através dele.</info>
+<genre>AVENTURA</genre>
+</subitem>
+</subitems>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ACRESCENTAR NOVA COLEÇÃO AQUI
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
