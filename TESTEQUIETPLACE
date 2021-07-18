@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
@@ -29,6 +29,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
 </subitem>
+
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white] Homem de Ferro[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
@@ -37,6 +38,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  <info>Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.</info>
 <genre>SUPER-HERÓIS</genre>   
 </subitem>
+
 <subitem>
 <title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white] Homem de Ferro (2008) [/B][/COLOR]</title>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/76102.mp4</link>
@@ -45,6 +47,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.</info>
 <genre>SUPER-HERÓIS</genre>
 </subitem>
+
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white] Homem de Ferro 2[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
@@ -53,6 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  <info>Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.</info>
 <genre>SUPER-HERÓIS</genre>  
 </subitem>
+
 <subitem>
 <title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white] Homem de Ferro 2 (2010)[/B][/COLOR]</title>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/76102.mp4</link>
@@ -61,6 +65,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  <info>Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.</info>
 <genre>SUPER-HERÓIS</genre>  
 </subitem>
+
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white] Homem de Ferro 3[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
@@ -69,6 +74,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  <info>Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.</info>
 <genre>SUPER-HERÓIS</genre>  
 </subitem>
+
 <subitem>
 <title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white] Homem de Ferro 3 (2013)[/B][/COLOR]</title>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/76102.mp4</link>	
