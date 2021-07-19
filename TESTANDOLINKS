@@ -1,11 +1,76 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBQKKZg/TVs24hrs-SERVER2.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-id="" tvg-name="BAND Campinas HD" tvg-logo="https://logos.servidor.tv/band.png" ,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TESTE 1 - JOSE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2 - ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/46559
-#EXTINF:-1 tvg-id="" tvg-name="Agro Brasil TV HD" tvg-logo="https://logos.servidor.tv/agrobrasil.png" ,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TESTE 2[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2 - ONLINE[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/63328
-#EXTINF:-1 tvg-id="" tvg-name="BAND Campinas HD" tvg-logo="https://logos.servidor.tv/band.png" ,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TESTE 3[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2 - ONLINE[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/63323
-#EXTINF:-1 tvg-id="" tvg-name="Agro Brasil TV HD" tvg-logo="https://logos.servidor.tv/agrobrasil.png" ,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TESTE 4[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2 - ONLINE[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/63328
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]SÉRIES[/B][/COLOR]</name>
+<thumbnail><LINKDOICONEDASESAO></thumbnail>
+<fanart><FUNDODOICNODASESAO></fanart>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR white]Vis a Vis (2015) [/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>SÉRIE VIS A VIS</info>
+<genre>DRAMA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitems>
+
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Vis a Vis[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nY50Kz3M4LU</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+<genre>DRAMA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T01[COLOR yellow] -> [COLOR white]Vis a Vis (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48d321ef9ee2f473ac53697ac8abb641ddb142b2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+<genre>DRAMA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T02[COLOR yellow] -> [COLOR white]Vis a Vis (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:043d019e398cb0e0b5d356bacd0eedd8e8a4acc5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+<genre>DRAMA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T03[COLOR yellow] -> [COLOR white]Vis a Vis (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0d703d4fc8c0a099555fcf38e480503a39fcdb5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+<genre>DRAMA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T04[COLOR yellow] -> [COLOR white]Vis a Vis (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48d321ef9ee2f473ac53697ac8abb641ddb142b2</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e9645e37ed559c0979c60a6b9e5a46258288479</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+<genre>DRAMA</genre>
+</subitem>
+</subitems>
+
+          
