@@ -49,3 +49,47 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ACRESCENTAR NOVO ITEM AQUI
 
 </subitems>
+
+<channel>
+<name>[COLOR orange][B]SEÇÃO ESPECIAL[COLOR yellow] -> [COLOR white]COLEÇÕES DE FILMES DE GUERRA[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]COLEÇÃO[COLOR yellow] -> [COLOR white]NOMEDACOLEÇÃO[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
+<info><COLEÇÃO SÉRIE NOME></info>
+<genre>GENERO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitems>
+
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Exército Esquecido[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NG6PUj-TUfY</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
+<info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>
+<genre>GUERRA</genre> 
+</subitem>
+<subitem>
+<title>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]O Exército Esquecido - 2020 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DD35A408006B46A1FF0463D332194A4A4B0ED6F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
+<info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>
+<genre>GUERRA</genre> 
+</subitem>
+ACRESCENTAR NOVO ITEM AQUI
+
+</subitems>
