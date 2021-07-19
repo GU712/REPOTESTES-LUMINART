@@ -144,22 +144,92 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre> 
 </subitem>
 
-<subitem>
+subitem>
 <title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]The Liberator - 2020 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3922fd2c6bf3a6f13fd7eff7d4846904d328a62</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
 <info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>
 <genre>GUERRA</genre>  
 </subitem>
 
-subitem>
+<subitem>
 <title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]The Liberator - 2020 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DD35A408006B46A1FF0463D332194A4A4B0ED6F</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3922fd2c6bf3a6f13fd7eff7d4846904d328a62</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
 <info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>
 <genre>GUERRA</genre>  
+</subitem>
+ACRESCENTAR NOVO ITEM AQUI
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]World on Fire[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
+<info>Série Band of Brothers
+[COLOR orange][B]GUERRA[/B][/COLOR]
+[COLOR orange][B]ANO - 2001[/B][/COLOR]
+[COLOR orange][B]1 TEMP - 10 EPS[/B][/COLOR]
+</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> 
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]World on Fire[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LPebr-6x3s0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]World on Fire - 2021[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cb3fc68fc696194928fdcb53c651b1f06e72842</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>
+<info>A ameaça nazista na Europa dá início à Segunda Guerra Mundial. Sob o olhar de pessoas comuns, a série mostra os dilemas humanos por trás do início de um conflito histórico.</info>
+<genre>GUERRA</genre>
+</subitem>
+
+subitem>
+<title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]World on Fire - 2021[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3922fd2c6bf3a6f13fd7eff7d4846904d328a62</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>
+<info>A ameaça nazista na Europa dá início à Segunda Guerra Mundial. Sob o olhar de pessoas comuns, a série mostra os dilemas humanos por trás do início de um conflito histórico.</info>
+<genre>GUERRA</genre> 
+</subitem>
+
+subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]World on Fire - 2019 - DUB[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ooqmk4jo2wGPJbnpyZccRKUTEou-4619/view$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Episodio 01[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15Yx6hPztZfBChUTTuN_aMaRbVsqOGnMD/view$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Episodio 02[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I3FXqUSQiWcGypmK97d3euZmSAoETBvc/view$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Episodio 03[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u1_4J4jkHTdEYIA_cXsi-EQhFn6Xc1GP/view$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Episodio 04[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PsWaqURJmAsZ9xnV7QOiDQ5IJwaZ6-Lc/view$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Episodio 05[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KDdzBsUHojDelfIDOHLwk0uBNNOy7-IB/view$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Episodio 06[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JDA162JwHAw4TxFlCwMaUGQSDOIEH9tW/view$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Episodio 07[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>
+<info>World On Fire é um drama que se debruça na Segunda Guerra Mundial através dos olhos de pessoas comuns de todos os lados do conflito. A primeira temporada de sete episódios seguirá o primeiro ano da guerra, começando com a invasão alemã da Polônia em setembro de 1939 e terminando com a Batalha da Inglaterra</info>
+<genre>GUERRA</genre>
 </subitem>
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
