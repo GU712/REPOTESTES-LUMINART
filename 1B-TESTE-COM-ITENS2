@@ -1,16 +1,73 @@
 <item>
-<title>[B][COLOR white]Viúva Negra - 2021 [/COLOR][/B]</title>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<link>plugin://plugin.video.youtube/play/?video_id=uNAxHLp7wv8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Viuva Negra[/B][/COLOR]</link>
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]SÉRIES[/B][/COLOR]</title>
+<thumbnail><LINKDOICONEDASESAO></thumbnail>
+<fanart><FUNDODOICNODASESAO></fanart>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM&dn=Vi%C3%BAva%20Negra%202021%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Viuva Negra - DUB[/B][/COLOR]</link>
+<item>
+<title>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR white]Vis a Vis (2015) [/B][/COLOR]</title>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>SÉRIE VIS A VIS</info>
+<genre>DRAMA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ea2e1760aa474d29d111c64fc9025008a1b0ad2&dn=Black.Widow.2021.720p.WEB.H264-TIMECUT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2780&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12760&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14750$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Viuva Negra - LEG[/B][/COLOR]</link>
+<subitems>
 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/38SVfXq1O45HKQ2RFUPvECz8Pse.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/a6dDJW2xlKhwQRpDtWxzmy5Aq6s.jpg</fanart>
-<info>Natasha Romanoff "Viúva Negra" precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, Natasha terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.</info>
-<genre>SUPER-HERÓIS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Vis a Vis[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nY50Kz3M4LU</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+<genre>DRAMA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T01[COLOR yellow] -> [COLOR white]Vis a Vis (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48d321ef9ee2f473ac53697ac8abb641ddb142b2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+<genre>DRAMA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T02[COLOR yellow] -> [COLOR white]Vis a Vis (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:043d019e398cb0e0b5d356bacd0eedd8e8a4acc5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+<genre>DRAMA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T03[COLOR yellow] -> [COLOR white]Vis a Vis (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0d703d4fc8c0a099555fcf38e480503a39fcdb5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+<genre>DRAMA</genre>
+</subitem>
+<subitem>
+<title>[COLOR orange][B]T04[COLOR yellow] -> [COLOR white]Vis a Vis (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48d321ef9ee2f473ac53697ac8abb641ddb142b2</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e9645e37ed559c0979c60a6b9e5a46258288479</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+<genre>DRAMA</genre>
+</subitem>
+</subitems>
