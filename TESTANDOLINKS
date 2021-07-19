@@ -1,75 +1,8 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]VIS A VIS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/2W8fFsm/torrent-5.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>  
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subchannel>
-<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Vis a Vis (2015) [/B][/COLOR]</name>
+<item>
+<title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Vis a Vis[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48d321ef9ee2f473ac53697ac8abb641ddb142b2</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
-<info>SÉRIE VIS A VIS</info>
-<genre>DRAMA</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitems>
-
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Vis a Vis[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=nY50Kz3M4LU</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vIFsPAn5EFHZnimvekXhi4LJf1p.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ck4WJ3dLXzUd3cNgujxuuk0QvlW.jpg</fanart>
 <info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
 <genre>DRAMA</genre>
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T01[COLOR yellow] -> [COLOR white]Vis a Vis (2015)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48d321ef9ee2f473ac53697ac8abb641ddb142b2</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/aaVkpxuhpfn09wKl6KAyahYtZfn.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ck4WJ3dLXzUd3cNgujxuuk0QvlW.jpg</fanart>
-<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
-<genre>DRAMA</genre>
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T02[COLOR yellow] -> [COLOR white]Vis a Vis (2016)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:043d019e398cb0e0b5d356bacd0eedd8e8a4acc5</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/JHodKMDhQmZhUHZWmXdJlTJWaJ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ck4WJ3dLXzUd3cNgujxuuk0QvlW.jpg</fanart>
-<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
-<genre>DRAMA</genre>
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T03[COLOR yellow] -> [COLOR white]Vis a Vis (2018)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0d703d4fc8c0a099555fcf38e480503a39fcdb5</link>
-<thumbnail>https://pausaprocafe.blog.br/wp-content/uploads/2020/04/maxresdefault.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ck4WJ3dLXzUd3cNgujxuuk0QvlW.jpg</fanart>
-<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
-<genre>DRAMA</genre>
-</subitem>
-<subitem>
-<title>[COLOR orange][B]T04[COLOR yellow] -> [COLOR white]Vis a Vis (2018)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e9645e37ed559c0979c60a6b9e5a46258288479</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fyrleIjyr1CBQ9px3XYSr8T1Xjn.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ck4WJ3dLXzUd3cNgujxuuk0QvlW.jpg</fanart>
-<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
-<genre>DRAMA</genre>
-</subitem>
-</subitems>
-
-          
+</item>
