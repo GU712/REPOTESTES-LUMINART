@@ -703,13 +703,13 @@ NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]NOMEDACOLEÇÃO[/B][/COLOR]</name>
-<thumbnail><ICONEDACOLEÇÃO></thumbnail>
-<fanart><FUNDODDACOLEÇÃO></fanart>
-<info>Coleção Nomedacoleção
+<name>[COLOR white][B]Braddock[/B][/COLOR]</name>
+<thumbnail>https://fireinthejungle.files.wordpress.com/2011/10/mia.jpg</thumbnail>
+<fanart>https://p4.wallpaperbetter.com/wallpaper/943/246/322/vietnam-chuck-norris-action-missing-in-action-wallpaper-preview.jpg</fanart>
+<info>Coleção Braddock
 [COLOR orange][B]GUERRA[/B][/COLOR]
-[COLOR orange][B]0 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1984 a 1988[/B][/COLOR]
 </info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -725,18 +725,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>
 <title>[COLOR white][B]TRAILER[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
-<thumbnail>ICONEDOFILME</thumbnail>
-<fanart><FUNDODOFILME></fanart>
+<thumbnail>https://fireinthejungle.files.wordpress.com/2011/10/mia.jpg</thumbnail>
+<fanart>https://p4.wallpaperbetter.com/wallpaper/943/246/322/vietnam-chuck-norris-action-missing-in-action-wallpaper-preview.jpg</fanart>
 <info>ASSISTA AO TRAILER</info>
 <genre>GUERRA</genre> 
 </subitem>
 
 <subitem>
-<title>[COLOR white][B]NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
-<thumbnail>ICONEDOFILME</thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSE></info>
+<title>[COLOR white][B]Braddock - 3 X 1 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA31876E40D3F13AD1319C23DDF3539D6F2CED56</link>
+<thumbnail>https://fireinthejungle.files.wordpress.com/2011/10/mia.jpg</thumbnail>
+<fanart>https://p4.wallpaperbetter.com/wallpaper/943/246/322/vietnam-chuck-norris-action-missing-in-action-wallpaper-preview.jpg</fanart>
+<info>Coleção completa com todos os filmes da franquia Braddock - Braddock - O Super Comando (1984), Braddock 2 - O Início da Missão (1985) e Braddock 3 - O Resgate (1988). O coronel das Forças Especiais, James Braddock, precisa trazer de volta soldados norte-americanos que ainda estão sendo mantidos como prisioneiros no Vietnã. Contando com a ajuda da funcionária do Departamento de Estado e de um ex-colega de Exército, Braddock, reúne informação altamente confidencial e armamento de última geração. Braddock, forma então, um exército de um homem só, disposto a invadir o Vietnã, para localizar e salvar seus companheiros restantes desaparecidos em combate. </info>
 <genre>GUERRA</genre>  
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
