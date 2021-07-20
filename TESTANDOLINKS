@@ -14,109 +14,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Band of Brothers[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
-<info>Série Band of Brothers
-[COLOR orange][B]GUERRA[/B][/COLOR]
-[COLOR orange][B]ANO - 2001[/B][/COLOR]
-[COLOR orange][B]1 TEMP - 10 EPS[/B][/COLOR]
-</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> 
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Band of Brothers[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=1wlYPlwjGOY</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre> 
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]Band of Brothers - 2020 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23B3F21FCDD23B58CCB39133864407D347FDB047</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
-<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
-<genre>GUERRA</genre>  
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]Band of Brothers - 2020 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DD35A408006B46A1FF0463D332194A4A4B0ED6F</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
-<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
-<genre>GUERRA</genre>  
-</subitem>
-ACRESCENTAR NOVO ITEM AQUI
-</subitems>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subchannel>
-<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]The Pacific[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
-<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
-<info>Série The Pacific
-[COLOR orange][B]GUERRA[/B][/COLOR]
-[COLOR orange][B]ANO - 2010[/B][/COLOR]
-[COLOR orange][B]1 TEMP - 10 EPS[/B][/COLOR]
-</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> 
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Pacific[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=LPebr-6x3s0</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre>
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]The Pacific - 2010 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ac1e6383376e756fe3c49f62da9fa82900deb55</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
-<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
-<genre>GUERRA</genre>  
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]The Pacific - 2010 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BBCACED5E91C280BEDEBA9AC3EB5C724A141577F</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
-<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
-<genre>GUERRA</genre>  
-</subitem>
-ACRESCENTAR NOVO ITEM AQUI
-</subitems>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<subchannel>
 <name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]The Liberator[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
@@ -161,6 +58,57 @@ subitem>
 <fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
 <info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>
 <genre>GUERRA</genre>  
+</subitem>
+ACRESCENTAR NOVO ITEM AQUI
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]O Exército Esquecido[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
+<info>Série O Exército Esquecido
+[COLOR orange][B]GUERRA[/B][/COLOR]
+[COLOR orange][B]ANO - 2020[/B][/COLOR]
+[COLOR orange][B]1 TEMP - 5 EPS[/B][/COLOR]
+</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> 
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Exército Esquecido[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NG6PUj-TUfY</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]O Exército Esquecido - 2020 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23B3F21FCDD23B58CCB39133864407D347FDB047</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
+<info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>
+<genre>GUERRA</genre>  
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]O Exército Esquecido - 2020 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8D892798DC2243234B83C109ADC7226E347A63A0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
+<info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>
+<genre>GUERRA</genre>   
 </subitem>
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
@@ -239,13 +187,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]O Exército Esquecido[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
-<info>Série O Exército Esquecido
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]The Pacific[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
+<info>Série The Pacific
 [COLOR orange][B]GUERRA[/B][/COLOR]
-[COLOR orange][B]ANO - 2020[/B][/COLOR]
-[COLOR orange][B]1 TEMP - 5 EPS[/B][/COLOR]
+[COLOR orange][B]ANO - 2010[/B][/COLOR]
+[COLOR orange][B]1 TEMP - 10 EPS[/B][/COLOR]
 </info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -259,30 +208,82 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Exército Esquecido[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=NG6PUj-TUfY</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Pacific[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LPebr-6x3s0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre>
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]The Pacific - 2010 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ac1e6383376e756fe3c49f62da9fa82900deb55</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
+<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
+<genre>GUERRA</genre>  
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]The Pacific - 2010 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BBCACED5E91C280BEDEBA9AC3EB5C724A141577F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
+<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
+<genre>GUERRA</genre>  
+</subitem>
+ACRESCENTAR NOVO ITEM AQUI
+</subitems>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Band of Brothers[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
+<info>Série Band of Brothers
+[COLOR orange][B]GUERRA[/B][/COLOR]
+[COLOR orange][B]ANO - 2001[/B][/COLOR]
+[COLOR orange][B]1 TEMP - 10 EPS[/B][/COLOR]
+</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> 
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Band of Brothers[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1wlYPlwjGOY</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
 <info>ASSISTA AO TRAILER</info>
 <genre>GUERRA</genre> 
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]O Exército Esquecido - 2020 - DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]Band of Brothers - 2020 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23B3F21FCDD23B58CCB39133864407D347FDB047</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
-<info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
+<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
 <genre>GUERRA</genre>  
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]O Exército Esquecido - 2020 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8D892798DC2243234B83C109ADC7226E347A63A0</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
-<info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>
-<genre>GUERRA</genre>   
+<title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]Band of Brothers - 2020 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DD35A408006B46A1FF0463D332194A4A4B0ED6F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
+<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
+<genre>GUERRA</genre>  
 </subitem>
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
@@ -292,10 +293,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]COLEÇÕES DE FILMES DE GUERRA[/B][/COLOR]</name>
