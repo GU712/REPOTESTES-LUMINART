@@ -1,3 +1,4 @@
+<channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
@@ -24,7 +25,7 @@ NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]Iª GUERRA[/B][/COLOR]</name>
+<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]Iª GUERRA[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/92Q2f6W/primeira.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>FILMES COM TEMÁTICA DA PRIMEIRA GUERRA</info>
@@ -38,38 +39,143 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]1917 - 2020[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917 [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a16fd666dabc7e20ffdfd04621bcd17cdcecf5c0$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]1917 - 2020 - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]1917 - 2020 - DUB [/B][/COLOR]</link>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]1917[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]1917 - 2020 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a16fd666dabc7e20ffdfd04621bcd17cdcecf5c0</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
 <info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>
 <genre>GUERRA</genre>  
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NOMEDOFILME - DATA[/B][/COLOR]</title>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Great War[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7HPKPCje4lw</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9MmSZbC7KFgCjEkP3hH3vJAzw9T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jnOHkANcd0RC4ns708moAUAU8AC.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]The Great War - 2019 - LEG[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9MmSZbC7KFgCjEkP3hH3vJAzw9T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jnOHkANcd0RC4ns708moAUAU8AC.jpg</fanart>
+<info>Durante os últimos dias da Grande Guerra, um grupo de soldados dos EUA é enviado para trás das linhas inimigas para resgatar um pelotão perdido</info>
+<genre>GUERRA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DATA - DUB [/B][/COLOR]</link>
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Heróis de uma Guerra[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=oCp-kCIycKE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2qzEhkJlNoTwb61UiWGeJP347N.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c078bsFfSRRuyMZ56Krs8L99dhu.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DATA - DUB [/B][/COLOR]</link>
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Heróis de uma Guerra - 2018 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2qzEhkJlNoTwb61UiWGeJP347N.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c078bsFfSRRuyMZ56Krs8L99dhu.jpg</fanart>
+<info>Esta é uma história, inspirada em eventos reais, sobre os soldados de uma bateria de canhões na Primeira Guerra Mundial que, como centenas de milhares de outras pessoas, fizeram com que a glória do exército sérvio se tornasse imortal.</info>
+<genre>GUERRA</genre>   
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Silêncio da Montanha[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HKmgysrB-hs</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0VXZnoOdgvnBwBzEpMtU26d9I9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wZA1EEL7spQuw0FoHoEfJ2R8UAK.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]O Silêncio da Montanha - 2014 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF8727D896D8CAFC7393C5DF39F24A238BB88E37</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0VXZnoOdgvnBwBzEpMtU26d9I9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wZA1EEL7spQuw0FoHoEfJ2R8UAK.jpg</fanart>
+<info>Itália, 1915. Os jovens Andreas (William Moseley) e Francesca (Eugenia Costantini) se conhecem no casamento da irmã dele e logo se apaixonam perdidamente. Na mesma época, a Itália declara guerra a Áustria-Hungria e a Primeira Guerra Mundial eclode. Andreas é chamado a lutar no fronte, nas montanhas Dolomitri, localizadas no norte da Itália, mas deixa com Francesca um sinalizador para que ela acenda caso esteja em perigo. Quando o conflito se agrava, o batalhão do rapaz descobre que o seu vilarejo está sendo atacado, e no momento em que a moça pede ajuda, ele precisa decidir entre lutar pelo seu país ou por sua amada.</info>
+<genre>GUERRA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Terreno Proibido[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jAE_eiX6-hY</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbADqCeTMMhyUqXWXGlbQgY6oK1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9R3KZBH5leWgaOCfwywpYYqFRau.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Terreno Proibido - 2013 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e199557abdb089b20a2f2085a37ec03a11ecdd53</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbADqCeTMMhyUqXWXGlbQgY6oK1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9R3KZBH5leWgaOCfwywpYYqFRau.jpg</fanart>
+<info>Três soldados ingleses ficam encurralados entre duas trincheiras alemãs após serem surpreendidos por um explosão durante a Primeira Guerra Mundial. Situado em França 1916.</info>
+<genre>GUERRA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Cavalo de Guerra[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CSOjiqy0Q4g</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KCu49IhGK5IpqKRO1i2UGLQt6A.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/64YOcrslrijllDRCpQvXkSKvXQV.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Cavalo de Guerra - 2011 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07b89a0472f2779ad2b55c9e4c37d839243bd9bb</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KCu49IhGK5IpqKRO1i2UGLQt6A.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/64YOcrslrijllDRCpQvXkSKvXQV.jpg</fanart>
+<info>Albert vive com o pai e a mãe no campo e tem uma intensa ligação com seu cavalo. Depois de ser vendido para a cavalaria inglesa durante a Primeira Guerra Mundial, Albert se alista para recuperar o animal e acaba conhecendo o major.</info>
+<genre>GUERRA</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
+<thumbnail>ICONEDOFILME</thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
-<genre>GUERRA</genre>
+<genre>GUERRA</genre>  
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NOVA SUB-SEÇÃO
@@ -92,37 +198,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NOMEDOFILME - DATA[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DATA - DUB [/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DATA - DUB [/B][/COLOR]</link>
-
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
-<info><SINOPSE></info>
-<genre>GUERRA</genre>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NOMEDOFILME - DATA[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DATA - DUB [/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DATA - DUB [/B][/COLOR]</link>
-
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
-<genre>GUERRA</genre>
+<genre>GUERRA</genre>  
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+ACRESCENTAR NOVO ITEM AQUI
+</subitems>
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -146,25 +241,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NOMEDOFILME - DATA[/B][/COLOR]</title>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
+<thumbnail>ICONEDOFILME</thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DATA - DUB [/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DATA - DUB [/B][/COLOR]</link>
-
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
-<genre>GUERRA</genre>
+<genre>GUERRA</genre>  
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-NOVA SEÇÃO
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ACRESCENTAR NOVO ITEM AQUI
+</subitems>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NOVA SEÇÃO
