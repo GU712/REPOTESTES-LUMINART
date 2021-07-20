@@ -10,7 +10,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]FILMES DE GUERRA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Kj3x3BQ/guerra.png</thumbnail>
+<thumbnail>https://i.ibb.co/Nx6z3Ww/filmeseseriesguerra.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
@@ -26,8 +26,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]Iª GUERRA[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
+<thumbnail>https://i.ibb.co/92Q2f6W/primeira.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>FILMES COM TEMÁTICA DA PRIMEIRA GUERRA</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -66,8 +66,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]IIª GUERRA[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
+<thumbnail>https://i.ibb.co/f06WLSF/segunda.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> 
 <info>FILMES COM TEMÁTICA DA SEGUNDA GUERRA</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -107,7 +107,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]SÉRIES DE GUERRA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Kj3x3BQ/guerra.png</thumbnail>
+<thumbnail>https://i.ibb.co/Nx6z3Ww/filmeseseriesguerra.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
@@ -548,7 +548,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]COLEÇÕES DE FILMES DE GUERRA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Kj3x3BQ/guerra.png</thumbnail>
+<thumbnail>https://i.ibb.co/Nx6z3Ww/filmeseseriesguerra.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
