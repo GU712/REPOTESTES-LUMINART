@@ -41,23 +41,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]1917[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre> 
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]1917 - 2020 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a16fd666dabc7e20ffdfd04621bcd17cdcecf5c0</link>
+<title>[COLOR white][B]1917 - 2020[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917 [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a16fd666dabc7e20ffdfd04621bcd17cdcecf5c0$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]1917 - 2020 - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]1917 - 2020 - DUB [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
 <info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>
 <genre>GUERRA</genre>  
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Great War[/B][/COLOR]</title>
@@ -278,7 +271,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -320,6 +312,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>
 <genre>GUERRA</genre>  
 </subitem>
+
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
 
