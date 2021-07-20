@@ -41,22 +41,62 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Liberator[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=LPebr-6x3s0</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]1917[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
 <info>ASSISTA AO TRAILER</info>
 <genre>GUERRA</genre> 
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Liberator[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=LPebr-6x3s0</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]1917 - 2020[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a16fd666dabc7e20ffdfd04621bcd17cdcecf5c0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
+<info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>
+<genre>GUERRA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Great War[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9MmSZbC7KFgCjEkP3hH3vJAzw9T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jnOHkANcd0RC4ns708moAUAU8AC.jpg</fanart>
 <info>ASSISTA AO TRAILER</info>
 <genre>GUERRA</genre> 
 </subitem>
+
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]The Great War - 2019[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9MmSZbC7KFgCjEkP3hH3vJAzw9T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jnOHkANcd0RC4ns708moAUAU8AC.jpg</fanart>
+<info>Durante os últimos dias da Grande Guerra, um grupo de soldados dos EUA é enviado para trás das linhas inimigas para resgatar um pelotão perdido</info>
+<genre>GUERRA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
+<thumbnail>ICONEDOFILME</thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NOMEDOFILME - DATA[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<thumbnail>ICONEDOFILME</thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSE></info>
+<genre>GUERRA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
 
