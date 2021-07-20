@@ -25,7 +25,7 @@ NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]Iª GUERRA[/B][/COLOR]</name>
+<name>[COLOR white][B]Iª GUERRA[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/92Q2f6W/primeira.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>FILMES COM TEMÁTICA DA PRIMEIRA GUERRA</info>
@@ -137,7 +137,7 @@ NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]IIª GUERRA[/B][/COLOR]</name>
+<name>[COLOR white][B]IIª GUERRA[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/f06WLSF/segunda.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> 
 <info>FILMES COM TEMÁTICA DA SEGUNDA GUERRA</info>
@@ -153,23 +153,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
-<thumbnail>ICONEDOFILME</thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre> 
-</subitem>
+<title>[COLOR white][B]NOMEDOFILME (DATA)[/B][/COLOR]</title>
 
-<subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
-<genre>GUERRA</genre>  
+<genre>GUERRA</genre>
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
@@ -180,7 +177,7 @@ NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]NOMEDASEÇÃO[/B][/COLOR]</name>
+<name>[COLOR white][B]NOMEDASEÇÃO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/92Q2f6W/primeira.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>FILMES COM TEMÁTICA DA XXXXXXXXXXXXX</info>
@@ -196,23 +193,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
-<thumbnail>ICONEDOFILME</thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre> 
-</subitem>
+<title>[COLOR white][B]NOMEDOFILME (DATA)[/B][/COLOR]</title>
 
-<subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
-<genre>GUERRA</genre>  
+<genre>GUERRA</genre>
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
@@ -709,7 +703,7 @@ NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]COLEÇÃO[COLOR yellow] -> [COLOR white]NOMEDACOLEÇÃO[/B][/COLOR]</name>
+<name>[COLOR white][B]NOMEDACOLEÇÃO[/B][/COLOR]</name>
 <thumbnail><ICONEDACOLEÇÃO></thumbnail>
 <fanart><FUNDODDACOLEÇÃO></fanart>
 <info>Coleção Nomedacoleção
@@ -729,7 +723,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</title>
+<title>[COLOR white][B]TRAILER[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
@@ -738,7 +732,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
