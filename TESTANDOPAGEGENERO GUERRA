@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]1917 - 2020[/B][/COLOR]</title>
+<title>[COLOR white][B]1917 (2020)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917 [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a16fd666dabc7e20ffdfd04621bcd17cdcecf5c0$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]1917 - 2020 - DUB [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]1917 - 2020 - DUB [/B][/COLOR]</link>
@@ -53,7 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]The Great War - 2019[/B][/COLOR]</title>
+<title>[COLOR white][B]The Great War (2019)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=7HPKPCje4lw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]The Great War[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]The Great War - 2019 - DUB [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]The Great War - 2019 - DUB [/B][/COLOR]</link>
@@ -65,10 +65,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Heróis de uma Guerra - DATA[/B][/COLOR]</title>
+<title>[COLOR white][B]Heróis de uma Guerra (2018)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=oCp-kCIycKE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra - DATA - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra - DATA - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra - 2018 - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra - 2018 - DUB [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2qzEhkJlNoTwb61UiWGeJP347N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/c078bsFfSRRuyMZ56Krs8L99dhu.jpg</fanart>
 <info>Esta é uma história, inspirada em eventos reais, sobre os soldados de uma bateria de canhões na Primeira Guerra Mundial que, como centenas de milhares de outras pessoas, fizeram com que a glória do exército sérvio se tornasse imortal.</info>
@@ -77,23 +77,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Silêncio da Montanha[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=HKmgysrB-hs</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0VXZnoOdgvnBwBzEpMtU26d9I9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wZA1EEL7spQuw0FoHoEfJ2R8UAK.jpg</fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre> 
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]O Silêncio da Montanha - 2014 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF8727D896D8CAFC7393C5DF39F24A238BB88E37</link>
+<title>[COLOR white][B] O Silêncio da Montanha (2014) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HKmgysrB-hs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Silencio da Montanha[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF8727D896D8CAFC7393C5DF39F24A238BB88E37$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]O Silencio da Montanha - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]O Silencio da Montanha - DUB [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0VXZnoOdgvnBwBzEpMtU26d9I9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wZA1EEL7spQuw0FoHoEfJ2R8UAK.jpg</fanart>
 <info>Itália, 1915. Os jovens Andreas (William Moseley) e Francesca (Eugenia Costantini) se conhecem no casamento da irmã dele e logo se apaixonam perdidamente. Na mesma época, a Itália declara guerra a Áustria-Hungria e a Primeira Guerra Mundial eclode. Andreas é chamado a lutar no fronte, nas montanhas Dolomitri, localizadas no norte da Itália, mas deixa com Francesca um sinalizador para que ela acenda caso esteja em perigo. Quando o conflito se agrava, o batalhão do rapaz descobre que o seu vilarejo está sendo atacado, e no momento em que a moça pede ajuda, ele precisa decidir entre lutar pelo seu país ou por sua amada.</info>
-<genre>GUERRA</genre>  
+<genre>GUERRA</genre> 
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Terreno Proibido[/B][/COLOR]</title>
