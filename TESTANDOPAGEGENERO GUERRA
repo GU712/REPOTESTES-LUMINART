@@ -55,8 +55,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>
 <title>[COLOR white][B]The Great War - 2019[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=7HPKPCje4lw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]The Great War[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]The Great War - DATA - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]The Great War - DATA - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]The Great War - 2019 - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]The Great War - 2019 - DUB [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9MmSZbC7KFgCjEkP3hH3vJAzw9T.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jnOHkANcd0RC4ns708moAUAU8AC.jpg</fanart>
 <info>Durante os últimos dias da Grande Guerra, um grupo de soldados dos EUA é enviado para trás das linhas inimigas para resgatar um pelotão perdido</info>
@@ -65,23 +65,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Heróis de uma Guerra[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=oCp-kCIycKE</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2qzEhkJlNoTwb61UiWGeJP347N.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/c078bsFfSRRuyMZ56Krs8L99dhu.jpg</fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre> 
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Heróis de uma Guerra - 2018 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993</link>
+<title>[COLOR white][B]Heróis de uma Guerra - DATA[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=oCp-kCIycKE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra - DATA - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra - DATA - DUB [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2qzEhkJlNoTwb61UiWGeJP347N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/c078bsFfSRRuyMZ56Krs8L99dhu.jpg</fanart>
 <info>Esta é uma história, inspirada em eventos reais, sobre os soldados de uma bateria de canhões na Primeira Guerra Mundial que, como centenas de milhares de outras pessoas, fizeram com que a glória do exército sérvio se tornasse imortal.</info>
 <genre>GUERRA</genre>   
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Silêncio da Montanha[/B][/COLOR]</title>
