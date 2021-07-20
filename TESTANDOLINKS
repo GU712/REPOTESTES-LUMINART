@@ -284,6 +284,57 @@ ACRESCENTAR NOVO ITEM AQUI
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<subchannel>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]O Naufrágio do Lacônia[/B][/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/8185A1Um23L._AC_SL1200_.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
+<info>Série O Naufrágio do Lacônia
+[COLOR orange][B]GUERRA[/B][/COLOR]
+[COLOR orange][B]ANO - 2011[/B][/COLOR]
+[COLOR orange][B]1 TEMP - 2 EPS[/B][/COLOR]
+</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> 
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Naufrágio do Lacônia[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VkfhmF3vfak</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/8185A1Um23L._AC_SL1200_.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Naufrágio do Lacônia - 2010 - Leg-Fix - Parte 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BJQ_EvQbIqlSwAxPfmwE2bYjm16p6Qvm/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/8185A1Um23L._AC_SL1200_.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
+<info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>
+<genre>GUERRA</genre>
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Naufrágio do Lacônia - 2010 - Leg-Fix - Parte 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PmOMQ9cvATHlsh329QGsAJSbHLJrhraV/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/8185A1Um23L._AC_SL1200_.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
+<info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>
+<genre>GUERRA</genre>
+</subitem>
+ACRESCENTAR NOVO ITEM AQUI
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <subchannel>
 <name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]The Pacific[/B][/COLOR]</name>
