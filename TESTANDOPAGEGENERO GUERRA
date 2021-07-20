@@ -89,61 +89,44 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Terreno Proibido[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=jAE_eiX6-hY</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbADqCeTMMhyUqXWXGlbQgY6oK1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9R3KZBH5leWgaOCfwywpYYqFRau.jpg</fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre> 
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Terreno Proibido - 2013 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e199557abdb089b20a2f2085a37ec03a11ecdd53</link>
+<title>[COLOR white][B]Terreno Proibido (2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jAE_eiX6-hY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Terreno Proibido[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e199557abdb089b20a2f2085a37ec03a11ecdd53$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]Terreno Proibido - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]Terreno Proibido - DUB [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbADqCeTMMhyUqXWXGlbQgY6oK1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9R3KZBH5leWgaOCfwywpYYqFRau.jpg</fanart>
 <info>Três soldados ingleses ficam encurralados entre duas trincheiras alemãs após serem surpreendidos por um explosão durante a Primeira Guerra Mundial. Situado em França 1916.</info>
 <genre>GUERRA</genre>  
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Cavalo de Guerra[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=CSOjiqy0Q4g</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KCu49IhGK5IpqKRO1i2UGLQt6A.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/64YOcrslrijllDRCpQvXkSKvXQV.jpg</fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre> 
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Cavalo de Guerra - 2011 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07b89a0472f2779ad2b55c9e4c37d839243bd9bb</link>
+<title>[COLOR white][B]Cavalo de Guerra (2011)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CSOjiqy0Q4g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cavalo de Guerra[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07b89a0472f2779ad2b55c9e4c37d839243bd9bb$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]Cavalo de Guerra - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]Cavalo de Guerra - DUB [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KCu49IhGK5IpqKRO1i2UGLQt6A.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/64YOcrslrijllDRCpQvXkSKvXQV.jpg</fanart>
 <info>Albert vive com o pai e a mãe no campo e tem uma intensa ligação com seu cavalo. Depois de ser vendido para a cavalaria inglesa durante a Primeira Guerra Mundial, Albert se alista para recuperar o animal e acaba conhecendo o major.</info>
 <genre>GUERRA</genre> 
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
-<thumbnail>ICONEDOFILME</thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre> 
-</subitem>
+<title>[COLOR white][B]NOMEDOFILME (DATA)[/B][/COLOR]</title>
 
-<subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
-<genre>GUERRA</genre>  
+<genre>GUERRA</genre>
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
