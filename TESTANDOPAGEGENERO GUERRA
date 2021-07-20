@@ -117,9 +117,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - LEG [/B][/COLOR]</link>
 
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
@@ -157,9 +157,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - LEG [/B][/COLOR]</link>
 
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
@@ -197,9 +197,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - LEG [/B][/COLOR]</link>
 
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
@@ -303,7 +303,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]O Exército Esquecido - 2020 - DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Exército Esquecido - 2020 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A7817DDF48C7FA1B32A042DD930190B2AC1CC18</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
@@ -346,7 +346,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]World on Fire - 2021[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]World on Fire - 2021[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cb3fc68fc696194928fdcb53c651b1f06e72842</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>
@@ -355,7 +355,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 subitem>
-<title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]World on Fire - 2021[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]World on Fire - 2021[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3922fd2c6bf3a6f13fd7eff7d4846904d328a62</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>
@@ -565,7 +565,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]The Pacific - 2010 - DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Pacific - 2010 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ac1e6383376e756fe3c49f62da9fa82900deb55</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
@@ -574,7 +574,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]The Pacific - 2010 - DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Pacific - 2010 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BBCACED5E91C280BEDEBA9AC3EB5C724A141577F</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
@@ -616,7 +616,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]Band of Brothers - 2020 - DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Band of Brothers - 2020 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23B3F21FCDD23B58CCB39133864407D347FDB047</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
@@ -625,7 +625,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT - FHD[COLOR yellow] -> [COLOR white]Band of Brothers - 2020 - DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Band of Brothers - 2020 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DD35A408006B46A1FF0463D332194A4A4B0ED6F</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
@@ -667,7 +667,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]SERVIDOR[COLOR yellow] -> [COLOR white]NOMEDASÉRIE - DATA - DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDASÉRIE - DATA - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
 <thumbnail>ICONEDOFILME</thumbnail>
 <fanart><FUNDODOFILME></fanart>
