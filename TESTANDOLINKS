@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -40,15 +40,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
 <info>ASSISTA AO TRAILER</info>
 <genre>GUERRA</genre> 
-</subitem>
-
-subitem>
-<title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]The Liberator - 2020 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
-<info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>
-<genre>GUERRA</genre>  
 </subitem>
 
 <subitem>
@@ -95,7 +86,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]O Exército Esquecido - 2020 - DUB[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23B3F21FCDD23B58CCB39133864407D347FDB047</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A7817DDF48C7FA1B32A042DD930190B2AC1CC18</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>
 <info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>
