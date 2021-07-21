@@ -9,7 +9,7 @@ NOVA SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE GENERODASEÇÃO[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
 <thumbnail><ICONEDASEÇÃO></thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
@@ -232,10 +232,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR white][B]NomedaColeçãodeFilmes[/B][/COLOR]</name>
-<thumbnail>https://fireinthejungle.files.wordpress.com/2011/10/mia.jpg</thumbnail>
-<fanart>https://p4.wallpaperbetter.com/wallpaper/943/246/322/vietnam-chuck-norris-action-missing-in-action-wallpaper-preview.jpg</fanart>
+<thumbnail><ICONEDACOLEÇÃODEFILMES></thumbnail>
+<fanart><FUNDODACOLEÇÃODEFILMES></fanart>
 <info>Coleção NomedaColeçãodeFilmes
-[COLOR orange][B]genero[/B][/COLOR]
+[COLOR orange][B]GENERO[/B][/COLOR]
 [COLOR orange][B]0 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
 </info>
