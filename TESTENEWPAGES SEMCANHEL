@@ -25,10 +25,10 @@ NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<title>[COLOR white][B]NomedoFilme (DATA) [/B][/COLOR]</name>
-<info>Assista aqui o filme NomedoFilme
+<title>[COLOR white][B]Velozes e Furiosos 9 (2021) [/B][/COLOR]</name>
+<info>Assista aqui o filme Velozes e Furiosos 9
 [COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]ANO - 2020[/B][/COLOR]
+[COLOR orange][B]ANO - 2021[/B][/COLOR]
 </info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
@@ -43,8 +43,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedoFilme[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N2dx2M4L8T0</link>
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info>ASSISTA AO TRAILER</info>
@@ -52,14 +52,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUB [/B][/COLOR]</title>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO></link></link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>GENERO</genre>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9 - DUB [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE294E82C796E17751FCE89F1D2BC6E8067A23E4</link></link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg</fanart>
+<info>Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.</info>
+<genre>AÇÃO</genre>
 </subitem>
 
 <subitem>
