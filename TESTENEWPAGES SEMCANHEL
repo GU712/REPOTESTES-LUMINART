@@ -10,10 +10,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE NOMEDOGENERO[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
 <thumbnail>ICONEDOGENERO</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro NOMEDOGENERO[/B]</info>
+<info>[B]Assista aqui os melhores filmes do genêro AÇÃO[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -26,9 +26,9 @@ SUB-SEÇÃO DE COLEÇÕES DE FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</name>
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
+<name>[COLOR white][B]Infiltrado (2021)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dAtAp4IeT6EYGhewfnNNhalobme.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg</fanart>
 <info>Assista aqui o filme NomedoFilme
 [COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
 [COLOR orange][B]ANO - 0000[/B][/COLOR]
@@ -47,11 +47,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedoFilme[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
+<link>plugin://plugin.video.youtube/play/?video_id=9_PTB062yec</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dAtAp4IeT6EYGhewfnNNhalobme.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg</fanart>
 <info>Assista ao trailer</info>
-<genre>NOMEDOGENERO</genre> 
+<genre>AÇÃO</genre> 
 </subitem>
 
 <subitem>	
