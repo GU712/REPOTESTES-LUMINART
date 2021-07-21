@@ -25,21 +25,41 @@ NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]1917[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/92Q2f6W/primeira.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>FILMES COM TEMÁTICA DA PRIMEIRA GUERRA</info>
+<name>[COLOR white][B]NOME DO FILME[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/imYhKyT1tjFX3QLgzwIDa7JZhxi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gEkQGnvPbpcVERU0kjWkSzU3New.jpg</fanart> 
+<info>COLEÇÃO HOMEM DE FERRO</info>
+<genre>SUPER-HERÓIS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
 <subitems>
+
 <subitem>
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white] Homem de Ferro[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kbzdSrF9RltJTlaVkLW8gakB0CL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cyecB7godJ6kNHGONFjUyVN9OX5.jpg</fanart>
+ <info>Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.</info>
+<genre>SUPER-HERÓIS</genre>   
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white] Homem de Ferro (2008) [/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Kz5SjTKkUMV8pGjeIRqKNN7-sWOjpKJ/view</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kbzdSrF9RltJTlaVkLW8gakB0CL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cyecB7godJ6kNHGONFjUyVN9OX5.jpg</fanart>
+<info>Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.</info>
+<genre>SUPER-HERÓIS</genre>
+</subitem>
+
+<subitems>
 <subitem>
 <title>[COLOR white][B]1917 (2020)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917 [/B][/COLOR]</link>
@@ -52,21 +72,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subitem>
-<title>[COLOR white][B]NOMEDOFILME (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - LEG [/B][/COLOR]</link>
-
-<thumbnail>ICONEDOFILME</thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSE></info>
-<genre>GUERRA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
