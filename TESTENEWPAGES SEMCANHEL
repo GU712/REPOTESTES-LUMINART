@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO1[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -10,10 +10,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE GENERODASEÇÃO[/B][/COLOR]</name>
-<thumbnail><thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail></thumbnail>
-<fanart><FUNDODACOLEÇÃODEFILMES></fanart>
-<info>[B]OS MELHORES FILMES DO GENERO AÇÃO[/B]</info>
+<name>[COLOR white][B]FILMES DE NOMEDOGENERO[/B][/COLOR]</name>
+<thumbnail>ICONEDOGENERO</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro NOMEDOGENERO[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info>Assista aqui o filme NomedoFilme
-[COLOR orange][B]GENERO[/B][/COLOR]
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
 [COLOR orange][B]ANO - 0000[/B][/COLOR]
 </info>
 
@@ -50,8 +50,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GENERO</genre> 
+<info>Assista ao trailer</info>
+<genre>NOMEDOGENERO</genre> 
 </subitem>
 
 <subitem>
@@ -62,7 +62,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>GENERO</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 
 <subitem>
@@ -73,7 +73,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>GENERO</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -89,10 +89,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]SÉRIES DE GENERODASERIES[/B][/COLOR]</name>
-<thumbnail><thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail></thumbnail>
+<name>[COLOR white][B]SÉRIES DE NOMEDOGENERO[/B][/COLOR]</name>
+<thumbnail>ICONEDOGENERO</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+<info>[B]Assista aqui as melhores séries de NOMEDOGENERO[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -109,7 +109,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDASÉRIE></thumbnail>
 <fanart><FUNDODASÉRIE></fanart>
 <info>Assista aqui a série NomedaSérie
-[COLOR orange][B]GENERO[/B][/COLOR]
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
 [COLOR orange][B]00 TEMPS  - 00 EPS[/B][/COLOR]
 </info>
@@ -126,16 +126,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedaSérieletrasminúsculas[/B][/COLOR]</title>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedaSérie[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
 <thumbnail>ICONEDASÉRIE</thumbnail>
 <fanart><FUNDODASÉRIE></fanart>
-<info><SINOPSEDASÉRIE></info>
-<genre>GUERRA</genre>
+<info>Assista ao trailer</info>
+<genre>NOMEDOGENERO</genre> 
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedaSérieletrasminúsculas - (DATA) - DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA) - DUB[/B][/COLOR]</title>
 
 <link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>	
 
@@ -163,10 +163,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE GENERODOSFILMES[/B][/COLOR]</name>
-<thumbnail><thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail></thumbnail>
-<fanart><FUNDODACOLEÇÃODEFILMES></fanart>
-<info>[B]OS MELHORES FILMES DE GENERO COM SUAS SEQUÊNCIAS.[/B]</info>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE NOMEDOGENERO[/B][/COLOR]</name>
+<thumbnail>ICONEDOGENERO</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro NOMEDOGENERO e suas seguências[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -183,7 +183,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDACOLEÇÃODEFILMES></thumbnail>
 <fanart><FUNDODACOLEÇÃODEFILMES></fanart>
 <info>Coleção NomedaColeçãodeFilmes
-[COLOR orange][B]GENERO[/B][/COLOR]
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
 [COLOR orange][B]0 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
 </info>
@@ -213,7 +213,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>GENERO</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 
 <subitem>
@@ -230,7 +230,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>GENERO</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 
 ACRESCENTAR NOVO ITEM AQUI
