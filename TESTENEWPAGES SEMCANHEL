@@ -93,24 +93,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedoFilme[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
 <thumbnail>ICONEDOFILME</thumbnail>	
 <fanart>FUNDODOFILME</fanart>	
-<fanart>https://www.themoviedb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>AÇÃO</genre> 
 </subitem>
 
 <subitem>	
 <title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white][B]TORRENT - (DATA)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=9_PTB062yec$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedoFilme[/B][/COLOR]</link>	
+
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUB [/B][/COLOR]</link>	
+
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - LEG [/B][/COLOR]</link>	
+
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
 <genre>AÇÃO</genre>
 </subitem> 	
-</subitem>
 
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
