@@ -10,8 +10,8 @@ NOVA SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/rxbFBg7/filmeseseriesguerra.png</thumbnail>
+<name>[COLOR white][B]FILMES DE GENERODASEÇÃO[/B][/COLOR]</name>
+<thumbnail><ICONEDASEÇÃO></thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
@@ -26,13 +26,12 @@ NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]Velozes e Furiosos 9 (2021)[/B][/COLOR]</name>
+<name>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg</fanart>
-<info>Coleção NomedaColeçãodeFilmes
+<info>Assista aqui o filme NomedoFilme
 [COLOR orange][B]GENERO[/B][/COLOR]
-[COLOR orange][B]0 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
+[COLOR orange][B]ANO - 0000[/B][/COLOR]
 </info>
 
 <subitems>
@@ -46,21 +45,118 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=N2dx2M4L8T0</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg</fanart>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedoFilme[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
 <info>ASSISTA AO TRAILER</info>
 <genre>GENERO</genre> 
 </subitem>
 
 <subitem>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9 - DUB [/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE294E82C796E17751FCE89F1D2BC6E8067A23E4</link></link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg</fanart>
-<info>Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.</info>
-<genre>AÇÃO</genre>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO></link></link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>GENERO</genre>
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - LEG [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO></link></link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>GENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ACRESCENTAR NOVO ITEM AQUI
+</subitems>
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ACRESCENTE AQUI NOVA SUB-SEÇÃO DE FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ACRESCENTE AQUI NOVA SUB-SEÇÃO DE FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+NOVA SEÇÃO
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
+<thumbnail><ICONEDASEÇÃO></thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+NOVA SUB-SEÇÃO
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<title>[COLOR white][B]NomedoFilme (DATA) [/B][/COLOR]</name>
+<info>Assista aqui o filme NomedoFilme
+[COLOR orange][B]GENERODOFILME[/B][/COLOR]
+[COLOR orange][B]ANO - 2020[/B][/COLOR]
+[COLOR orange][B]1 TEMP - 5 EPS[/B][/COLOR]
+</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>    
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedoFilme[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GENERO</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO></link></link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>GENERO</genre>
 </subitem>
 
 <subitem>
@@ -99,6 +195,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+<subchannel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  SUB-SEÇÃO DE SÉRIES
