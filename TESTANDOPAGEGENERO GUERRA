@@ -445,6 +445,46 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
+<title>[COLOR white][B]O Jogo da Imitação (2014)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=AFiXqNAUW1I$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffb4262ccfbd6f9c411ed2c804a20ee3c1d5e4c2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao - LEG [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qIqIK3XgRJDxxQSnvMAbt6gOJ3U.jpg</fanart>
+<info>Em 1939, a recém-criada agência de inteligência britânica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender códigos nazistas, incluindo o "Enigma", que criptógrafos acreditavam ser inquebrável. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de "Enigma", enquanto ele constrói uma máquina para decifrá-las.</info>
+<genre>GUERRA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]O Grande Herói (2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=G1DxVCgpI34$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Grande Heroi[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3856A0C9E19E78FA5D475E0B718A1FCB7FE343E&$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Grande Heroi - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Grande Heroi - LEG [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Xcir0rOyYydPhGRYgG0Ctt1sqf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9qoGxUOswegkDTAYo0Moi5VHl1V.jpg</fanart>
+<info>Marcus Luttrell, oficial da marinha norte-americana , é enviado ao Afeganistão em busca de um homem de confiança de Osama Bin Laden. Quando ele se depara com um homem idoso e três crianças, ele recebe ordens para matar os quatro, mas Marcus não tem coragem de fazê-lo. O paradeiro dos americanos é descoberto e logo toda a equipe é atacada por 250 homens armados, enviados pela Al Qaeda.</info>
+<genre>GUERRA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NOMEDOFILME (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - LEG [/B][/COLOR]</link>
+
+<thumbnail>ICONEDOFILME</thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSE></info>
+<genre>GUERRA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
 <title>[COLOR white][B]NOMEDOFILME (DATA)[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>
@@ -462,6 +502,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NOVA SEÇÃO
