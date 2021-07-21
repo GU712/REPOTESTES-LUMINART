@@ -8,23 +8,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NOVA SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subchannel>
-<name>[COLOR white][B]FILMES DE GUERRA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/rxbFBg7/filmeseseriesguerra.png</thumbnail>
+<channel>
+<name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+<subchannel>
 
+<subitems>
 <subitem>
 <title>[COLOR white][B]1917 (2020)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917 [/B][/COLOR]</link>
