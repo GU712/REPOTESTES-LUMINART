@@ -9,8 +9,8 @@ NOVA SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail>
+<name>[COLOR white][B]FILMES DE GUERRA[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/rxbFBg7/filmeseseriesguerra.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
@@ -19,9 +19,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+NOVA SUB-SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<subchannel>
+<name>[COLOR white][B]1917[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/92Q2f6W/primeira.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FILMES COM TEMÁTICA DA PRIMEIRA GUERRA</info>
+
 <subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <subitem>
 <title>[COLOR white][B]1917 (2020)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917 [/B][/COLOR]</link>
@@ -30,115 +48,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
 <info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>
-<genre>GUERRA</genre>  
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]The Great War (2019)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=7HPKPCje4lw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]The Great War[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]The Great War - 2019 - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]The Great War - 2019 - DUB [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9MmSZbC7KFgCjEkP3hH3vJAzw9T.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jnOHkANcd0RC4ns708moAUAU8AC.jpg</fanart>
-<info>Durante os últimos dias da Grande Guerra, um grupo de soldados dos EUA é enviado para trás das linhas inimigas para resgatar um pelotão perdido</info>
-<genre>GUERRA</genre>  
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Heróis de uma Guerra (2018)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=oCp-kCIycKE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra - 2018 - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra - 2018 - DUB [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2qzEhkJlNoTwb61UiWGeJP347N.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/c078bsFfSRRuyMZ56Krs8L99dhu.jpg</fanart>
-<info>Esta é uma história, inspirada em eventos reais, sobre os soldados de uma bateria de canhões na Primeira Guerra Mundial que, como centenas de milhares de outras pessoas, fizeram com que a glória do exército sérvio se tornasse imortal.</info>
-<genre>GUERRA</genre>   
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]O Silêncio da Montanha (2014) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=HKmgysrB-hs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Silencio da Montanha[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF8727D896D8CAFC7393C5DF39F24A238BB88E37$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Silencio da Montanha - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Silencio da Montanha - DUB [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0VXZnoOdgvnBwBzEpMtU26d9I9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wZA1EEL7spQuw0FoHoEfJ2R8UAK.jpg</fanart>
-<info>Itália, 1915. Os jovens Andreas (William Moseley) e Francesca (Eugenia Costantini) se conhecem no casamento da irmã dele e logo se apaixonam perdidamente. Na mesma época, a Itália declara guerra a Áustria-Hungria e a Primeira Guerra Mundial eclode. Andreas é chamado a lutar no fronte, nas montanhas Dolomitri, localizadas no norte da Itália, mas deixa com Francesca um sinalizador para que ela acenda caso esteja em perigo. Quando o conflito se agrava, o batalhão do rapaz descobre que o seu vilarejo está sendo atacado, e no momento em que a moça pede ajuda, ele precisa decidir entre lutar pelo seu país ou por sua amada.</info>
-<genre>GUERRA</genre> 
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Terreno Proibido (2013)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=jAE_eiX6-hY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Terreno Proibido[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e199557abdb089b20a2f2085a37ec03a11ecdd53$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Terreno Proibido - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Terreno Proibido - DUB [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbADqCeTMMhyUqXWXGlbQgY6oK1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9R3KZBH5leWgaOCfwywpYYqFRau.jpg</fanart>
-<info>Três soldados ingleses ficam encurralados entre duas trincheiras alemãs após serem surpreendidos por um explosão durante a Primeira Guerra Mundial. Situado em França 1916.</info>
-<genre>GUERRA</genre>  
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Cavalo de Guerra (2011)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=CSOjiqy0Q4g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cavalo de Guerra[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07b89a0472f2779ad2b55c9e4c37d839243bd9bb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Cavalo de Guerra - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Cavalo de Guerra - DUB [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KCu49IhGK5IpqKRO1i2UGLQt6A.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/64YOcrslrijllDRCpQvXkSKvXQV.jpg</fanart>
-<info>Albert vive com o pai e a mãe no campo e tem uma intensa ligação com seu cavalo. Depois de ser vendido para a cavalaria inglesa durante a Primeira Guerra Mundial, Albert se alista para recuperar o animal e acaba conhecendo o major.</info>
-<genre>GUERRA</genre> 
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Flyboys (2006)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=qhKnuKFEKcA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Flyboys[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3972F71683FCF9AADCA49FCD43333C39AE553F18$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Flyboys - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Flyboys - LEG [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/trKRuWe6zReYFhfA8m6DdHbTWs9.jpg</fanart>
-<info>O filme segue no alistamento, treinamento e experiências de combate de um grupo de jovens americanos que se voluntariaram para se tornarem pilotos de caça da Esquadrilha Lafayette, o 124 º esquadrão aéreo, formada pelos franceses em 1916. O esquadrão foi composta por 5 oficiais franceses e 38 voluntários americanos que queria voar e combater na I Guerra Mundial, durante os anos do conflito principal, 1914-1917, antes dos Estados Unidos se juntar à guerra contra as Potências Centrais</info>
-<genre>GUERRA</genre>  
-</item> 
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Eterno Amor (2004)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=KwSkzQ97fao$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Eterno Amor[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CDB31057C5E7CE77D2CAAFB111B2C0D0632F5BDB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Eterno Amor - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Eterno Amor - LEG [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t73m7lX0eFYDjlB1Gcb7r3S5Yt.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2DTEVxyeR70hskIm94fQ413hUox.jpg</fanart>
-<info>Mathilde e Manech cresceram juntos e descobriram o amor. A 1ª Guerra Mundial os separa. Ao fim da guerra Mathilde faz uma incansável busca para encontrar Manech.</info>
-<genre>GUERRA</genre> 
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]O Último Batalhão (2001)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=KwSkzQ97fao$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ultimo Batalhao[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b66134930b38e39ef6df3ab8d378bdb2a3fa5674$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Ultimo Batalhao - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Ultimo Batalhao - LEG [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/48j8HSTJ40BXHnnu3dIBhiwGbll.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/6Qxl17SKyxPBsmf6yGLCOEnFenA.jpg</fanart>
-<info>Durante a Primeira Guerra Mundial, o jovem advogado nova-iorquino Charles White é promovido a major e enviado ao combate à frente de um Batalhao formado por quinhentos outros nova-iorquinos e caipiras do interior do país. O resultado foi a concessão de 3 medalhas de honra.</info>
-<genre>GUERRA</genre>  
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Gallipoli (1981)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=9LBpsMqNEV0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Gallipoli[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F5D481E7C3B892943CBBE9FACD68E345D2B8D5B$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Gallipoli - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Gallipoli - LEG [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hZ18YsrzRn0Ybb4P4LOCviRryn.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vGW80WruxhWoAWsgE4t1ZHc15rV.jpg</fanart>
-<info>Unidos pelo idealismo, dois amigos velocistas australianos se alistam no exército em 1915. Enviados para lutar contra os turcos na lendária batalha de Gallipoli, eles se deparam com os horrores da guerra.</info>
 <genre>GUERRA</genre>  
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
