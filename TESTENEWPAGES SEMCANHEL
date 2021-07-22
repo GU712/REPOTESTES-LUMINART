@@ -224,7 +224,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Coleção Mortal Kombat
 [COLOR orange][B]AÇÃO[/B][/COLOR]
 [COLOR orange][B]4 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
+[COLOR orange][B]ANOS - 1995 a 2021[/B][/COLOR]
 </info>
 
 <subitems>
@@ -240,9 +240,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR white][B]Mortal Kombat - (2021)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=UM1gXYWO1mc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mortal Kombat - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=UM1gXYWO1mc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mortal Kombat[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/gislene/102030/103369.mkv$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/gislene/102030/103984.mp4$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/103984.mp4$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat - LEG[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ijvC2w2yANsfgLT3LMu2zFr0fxh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A2g2Ogh5dLBMNQxcuu6QfS1YR3s.jpg</fanart>
 <info>Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.</info>
