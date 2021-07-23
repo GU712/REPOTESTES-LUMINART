@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sem Remorso[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
+<link>plugin://plugin.video.youtube/play/?video_id=do-OmONBTss</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qV7HOOZvBLYnjQpSWIVl7mQiAjx.jpg</fanart>
 <info>Assista ao trailer</info>
@@ -209,7 +209,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AÇÃO</genre> 
 </subitem>
 
-<item>																																	
+<subitem>																																
 <title>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white][B]Marvel - O Justiceiro - 2017[/B][/COLOR]</title>																																	
 																																																																		
 <link>NOLINK$$lsname=[COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>																																	
@@ -248,7 +248,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/q9L1VXNMcSnfAUTTzGQR5pDUewK.jpg</fanart>																																	
 <info>O ex-marine Frank Castle só quer punir os criminosos responsáveis pela morte da sua família, mas torna-se alvo de uma conspiração militar.</info>																																	
 <genre>AÇÃO</genre>  																																	
-</item>																																	
+</subitem>																																	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
