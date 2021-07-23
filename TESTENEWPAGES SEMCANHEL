@@ -25,7 +25,7 @@ SUB-SEÇÃO DE FILMES COPIAR E COLAR DAQUI PRA BAIXO PARA ACRESCENTAR NOVO FILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]ANTOLOGIAS[COLOR yellow] -> [COLOR white]Star Wars[/B][/COLOR]</name>	
+<name>[COLOR orange][B]ANTOLOGIA[COLOR yellow] -> [COLOR white]Star Wars[/B][/COLOR]</name>	
 <thumbnail>https://i.pinimg.com/736x/6b/60/ee/6b60ee39a698ffe8c2f5dac8ca988bcd.jpg</thumbnail>
 <fanart>https://i1.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/05/wallpapers-do-star-wars-07.jpg?resize=950%2C534&ssl=1</fanart>
 <info>Assista aqui os filmes "spin-off" pré saga.
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Han Solo - Uma História Star Wars (2018)[/B][/COLOR]</title>
+<title>[COLOR white][B] Han Solo - Uma História Star Wars (2018)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=UtpnRFzZWlM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Han Solo - Uma Historia Star Wars[/B][/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20abfe3f7db04a24a0c8a0f775bf1ddd02c8dfad$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
@@ -81,8 +81,8 @@ ACRESCENTAR NOVO ITEM AQUI
 
 <subchannel>
 <name>[COLOR orange][B]TRILOGIA 2[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
+<thumbnail>https://i.pinimg.com/736x/6b/60/ee/6b60ee39a698ffe8c2f5dac8ca988bcd.jpg</thumbnail>
+<fanart>https://i1.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/05/wallpapers-do-star-wars-07.jpg?resize=950%2C534&ssl=1</fanart>
 <info>Assista aqui os filmes da segunda trilogia.
 [COLOR orange][B]STAR WARS[/B][/COLOR]
 [COLOR orange][B]ANOS - 1999 a 2005[/B][/COLOR]
@@ -171,9 +171,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]TRILOGIA 2[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
+<name>[COLOR orange][B]TRILOGIA 1[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
+<thumbnail>https://i.pinimg.com/736x/6b/60/ee/6b60ee39a698ffe8c2f5dac8ca988bcd.jpg</thumbnail>
+<fanart>https://i1.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/05/wallpapers-do-star-wars-07.jpg?resize=950%2C534&ssl=1</fanart>
 <info>Assista aqui os filmes da segunda trilogia.
 [COLOR orange][B]STAR WARS[/B][/COLOR]
 [COLOR orange][B]ANOS - 1999 a 2005[/B][/COLOR]
@@ -261,9 +261,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]TRILOGIA 2[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
+<name>[COLOR orange][B]TRILOGIA 3[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
+<thumbnail>https://i.pinimg.com/736x/6b/60/ee/6b60ee39a698ffe8c2f5dac8ca988bcd.jpg</thumbnail>
+<fanart>https://i1.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/05/wallpapers-do-star-wars-07.jpg?resize=950%2C534&ssl=1</fanart>
 <info>Assista aqui os filmes da segunda trilogia.
 [COLOR orange][B]STAR WARS[/B][/COLOR]
 [COLOR orange][B]ANOS - 1999 a 2005[/B][/COLOR]
