@@ -4,9 +4,8 @@
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- SEÇÃO DE COLEÇÕES DE FILMES
+NOVA SEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
@@ -46,6 +45,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<subitems>
+
+<subitem>
+<title>[COLOR white][B]1917 (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917 [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a16fd666dabc7e20ffdfd04621bcd17cdcecf5c0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]1917 - 2020 - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]1917 - 2020 - DUB [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
+<info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>
+<genre>GUERRA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <subitem>
 <title>[COLOR white][B]Han Solo - Uma História Star Wars (2018)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=UtpnRFzZWlM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Han Solo - Uma Historia Star Wars[/B][/COLOR]</link>
@@ -77,9 +90,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+ACRESCENTAR NOVO ITEM AQUI
 </subitems>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]TRILOGIA 2[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
@@ -380,7 +392,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Assista aqui a série Star Wars O Lote Estragado
 [COLOR orange][B]STAR WARS[/B][/COLOR]
 [COLOR orange][B]ANO - 2021[/B][/COLOR]
-[COLOR orange][B]1 TEMP  - 14 EPS[/B][/COLOR]
+[COLOR orange][B]1 TEMPS  - 14 EPS[/B][/COLOR]
 </info>
 
 <subitems>
@@ -454,7 +466,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>
 <title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Wars O Lote Estragado (2021)[/B][/COLOR]</title>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>
 
 <link>http://b5.vc:80/series/gislene/102030/104628.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Rescaldo [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/gislene/102030/104629.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cortar e Executar [/B][/COLOR]</link>
