@@ -10,7 +10,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]STAR WARS - ORDEM CRONOLÓGICA[/B][/COLOR]</name>
+<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]STAR WARS[/B][/COLOR]</name>
 <thumbnail>https://i.pinimg.com/736x/6b/60/ee/6b60ee39a698ffe8c2f5dac8ca988bcd.jpg</thumbnail>
 <fanart>https://i1.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/05/wallpapers-do-star-wars-07.jpg?resize=950%2C534&ssl=1</fanart>
 <info>[B]Assista aqui os filmes da franquia STAR WARS[/B]</info>
@@ -26,13 +26,15 @@ SUB-SEÇÃO DE FILMES COPIAR E COLAR DAQUI PRA BAIXO PARA ACRESCENTAR NOVO FILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]ANTOLOGIA[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
+<name>[COLOR orange][B]ANTOLOGIAS[COLOR yellow] -> [COLOR white]Star Wars[/B][/COLOR]</name>	
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
-<info>Assista aqui os filmes da segunda trilogia.
-[COLOR orange][B]STAR WARS[/B][/COLOR]
-[COLOR orange][B]ANOS - 1999 a 2005[/B][/COLOR]
+<info>Assista aqui os filmes "spin-off" pré saga.
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
+[COLOR orange][B] Definição "Antologia" : Coleção de trabalhos notáveis agrupados por período.[/B][/COLOR]
 </info>
+
 
 <subitems>
 <subitem>
@@ -46,47 +48,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitems>
+
 <subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - LEG[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info>SINOPSEDOFILME></info>
-<genre>NOMEDOGENERO</genre>
+<title>[COLOR white][B]Han Solo - Uma História Star Wars (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UtpnRFzZWlM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Han Solo - Uma Historia Star Wars[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20abfe3f7db04a24a0c8a0f775bf1ddd02c8dfad$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35272f9f7eb4436a4ccf61458e2d30c1680192c8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MKnTvYIjuHXG3b0E8lrVsDnrhy2VVAAY/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27113.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/21301.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jAMEX0syUh6sbjBiysibzrFpbo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j1l9zqe5ZQPEHGsz91FyZxMldq4.jpg</fanart>
+<info>Embarque na Millennium Falcon e viaje para uma galáxia distante em uma nova aventura com o mais amado canalha da galáxia. Através de uma série de ousadas aventuras no obscuro e perigoso submundo do crime, Han Solo encontra seu poderoso futuro copiloto Chewbacca e encontra o famoso jogador Lando Calrissian, em uma jornada que definirá o curso de um dos heróis mais improváveis da saga Star Wars.</info>
+<genre>STARWARS</genre>
 <subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - LEG[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info>SINOPSEDOFILME></info>
-<genre>NOMEDOGENERO</genre>
+<title>[COLOR white][B] Rogue One: Uma História Star Wars (2016) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=frdj1zb9sMY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Rogue One: Uma Historia Star Wars[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1658962aa36f1dcbbb9411a62405b06ca4c3267c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE52BF62F3300ADF1A8E6A798D680D76C1563E27$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MKnTvYIjuHXG3b0E8lrVsDnrhy2VVAAY/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48584.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/20218.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74C2YX0NLWnozVMRS56d5CKDdEv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ed6weN8CXEWRrt2uj5MILEdtyCE.jpg</fanart>
+<info>Em busca de uma nova esperança para a galáxia, a Aliança Rebelde enfrenta uma arriscada missão: roubar os planos que revelam uma falha na construção da Estrela da Morte. Para isso, eles contam com a ajuda de Jyn Erso, filha do criador da arma mais poderosa do império.</info>
+<genre>STAR WARS</genre>
 <subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -370,7 +359,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR white]STAR WARS - ORDEM CRONOLÓGICA[/B][/COLOR]</name>
+<name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR white]STAR WARS[/B][/COLOR]</name>
 <thumbnail>https://i.pinimg.com/736x/6b/60/ee/6b60ee39a698ffe8c2f5dac8ca988bcd.jpg</thumbnail>
 <fanart>https://i1.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/05/wallpapers-do-star-wars-07.jpg?resize=950%2C534&ssl=1</fanart>
 <info>[B]Assista aqui as séries da franquia STAR WARS[/B]</info>
