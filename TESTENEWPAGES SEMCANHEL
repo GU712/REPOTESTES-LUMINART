@@ -375,13 +375,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]NomedaSérie (DATA)[/B][/COLOR]</name>
-<thumbnail><ICONEDASÉRIE></thumbnail>
-<fanart><FUNDODASÉRIE></fanart>
-<info>Assista aqui a série NomedaSérie
+<name>[COLOR white][B]Star Wars O Lote Estragado (2021)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>
+<info>Assista aqui a série Star Wars O Lote Estragado
 [COLOR orange][B]STAR WARS[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
-[COLOR orange][B]00 TEMPS  - 00 EPS[/B][/COLOR]
+[COLOR orange][B]ANO - 2021[/B][/COLOR]
+[COLOR orange][B]1 TEMPS  - 14 EPS[/B][/COLOR]
 </info>
 
 <subitems>
@@ -396,10 +396,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedaSérie[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
-<thumbnail>ICONEDASÉRIE</thumbnail>
-<fanart><FUNDODASÉRIE></fanart>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Star Wars O Lote Estragado[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ACJUDh2bE9k</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>STAR WARS</genre> 
 </subitem>
@@ -453,19 +453,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Wars O Lote Estragado (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ACJUDh2bE9k$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]Star Wars O Lote Estragado[/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<thumbnail>ICONEDASÉRIE</thumbnail>
-<fanart><FUNDODASÉRIE></fanart>
-<info><SINOPSEDASÉRIE></info>
-<genre>STAR WARS</genre>
-</subitem>
+<link>http://b5.vc:80/series/gislene/102030/104628.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Rescaldo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/104629.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cortar e Executar [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/104630.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Substituisoes [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/104631.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Encurralado [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/104632.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Alvoroso [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/104633.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Descomissionado [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/104634.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Cicatrizes de Batalha [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/104635.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Reuniao [/B][/COLOR]</link>
+link>http://b5.vc:80/series/gislene/102030/.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Recompensa Perdida [/B][/COLOR]</link>
+link>http://b5.vc:80/series/gislene/102030/.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Terreno Comum [/B][/COLOR]</link>
+link>http://b5.vc:80/series/gislene/102030/.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Acordo do Diabo [/B][/COLOR]</link>
+link>http://b5.vc:80/series/gislene/102030/.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Resgate em Ryloth [/B][/COLOR]</link>
+link>http://b5.vc:80/series/gislene/102030/.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Infestado [/B][/COLOR]</link>
+link>http://b5.vc:80/series/gislene/102030/.mp4$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Manto de Guerra [/B][/COLOR]</link>
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>
+<info>Os Mal Feitos precisam encontrar seu caminho numa galáxia em rápida transformação.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
