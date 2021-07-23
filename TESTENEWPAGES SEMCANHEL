@@ -11,7 +11,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]STAR WARS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/media/EXNlPyXWoAAgFWK.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
 <info>[B]Assista aqui os filmes da franquia STAR WARS[/B]</info>
 
 <subchannel>
@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subchannel>
 <name>[COLOR orange][B]ANTOLOGIA[COLOR yellow] -> [COLOR white]Star Wars[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/media/EXNlPyXWoAAgFWK.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
 <info>Assista aqui os filmes "spin-off" pré saga.
 [COLOR orange][B]2 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
@@ -82,7 +82,7 @@ ACRESCENTAR NOVO ITEM AQUI
 <subchannel>
 <name>[COLOR orange][B]TRILOGIA 2[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/media/EXNlPyXWoAAgFWK.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
 <info>Assista aqui os filmes da segunda trilogia.
 [COLOR orange][B]STAR WARS[/B][/COLOR]
 [COLOR orange][B]ANOS - 1999 a 2005[/B][/COLOR]
@@ -105,7 +105,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=ppl9q5wCon4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Ameasa Fantasma[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1412FD75DCDD033CD1F5CA23358F99B3B898C4DB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9179cfc61eb3aa5001d2be2d773d7f0467802e9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JIxYM9r4-OQskqjgv7iwRYwLiVsHohgl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - DUB - DUB+LEGFORÇFIX[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JIxYM9r4-OQskqjgv7iwRYwLiVsHohgl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48585.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/gislene/102030/21350.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bcZKWW6V20rhk7ic0NPi5RWyyPu.jpg</thumbnail>
@@ -120,7 +120,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=zcpygp8QKN8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Ataque dos Clones[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F093673AEA7C1F871B10AC9EBC27EDE6627E53B2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ataque dos Clones - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea23f1b835f817aa742403a77350a33fd84cff7a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ataque dos Clones - LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X7R-16YM9ibxeJ-_f0VTjg9nBtGSfbdc/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Ataque dos Clones - DUB - DUB+LEGFORÇFIX[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X7R-16YM9ibxeJ-_f0VTjg9nBtGSfbdc/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Ataque dos Clones - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48586.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Ataque dos Clones - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/gislene/102030/21351.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Ataque dos Clones - DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/und4ZGuJu2jSk8sTYYT6vyoxP5d.jpg</thumbnail>
@@ -150,12 +150,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]TRILOGIA 1[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
+<name>[COLOR orange][B]TRILOGIA 1[COLOR yellow] -> [COLOR white]Star Wars (1977 a 1980)[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/media/EXNlPyXWoAAgFWK.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
 <info>Assista aqui os filmes da segunda trilogia.
 [COLOR orange][B]STAR WARS[/B][/COLOR]
-[COLOR orange][B]ANOS - 1999 a 2005[/B][/COLOR]
+[COLOR orange][B]ANOS - 1977 a 1980[/B][/COLOR]
 </info>
 
 <subitems>
@@ -174,11 +174,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=ppl9q5wCon4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Wars - Uma Nova Esperansa[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1412FD75DCDD033CD1F5CA23358F99B3B898C4DB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ad627b1dd1ffa6b46e977796a42d34ddf3a0dde$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TCBP1B3Fak1ENQ2St0KH1mw9CCTzXXEl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - DUB+LEGFORÇFIX[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TCBP1B3Fak1ENQ2St0KH1mw9CCTzXXEl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - DUB+LEGFORFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48585.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/gislene/102030/21350.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iSNdwFauC1QODm1ntk07wqJV1pf.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/snyjKTAQXaAu2cNcTWekvhjW3o8.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g5G8CV8iJeG1Q0WFiB1ghreJ8qd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r7dNNDrAVRDi1acgh1nAe0nCVSt.jpg</fanart>
 <info>A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.</info>
 <genre>STAR WARS</genre>
 <subitem>
@@ -189,7 +189,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=3Ocn-_ZCPSg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Retorno de Jedi[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EAAF9371C6D606A4499BD1E4237CBE8455C41409$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Retorno de Jedi - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6828df5e1037a95695a8713b99dbe57a20ae8530$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Retorno de Jedi - LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EVEhybUQF8ek-VyCtslHLoK5SBlDMExs/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Retorno de Jedi - DUB - DUB+LEGFORÇFIX[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EVEhybUQF8ek-VyCtslHLoK5SBlDMExs/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Retorno de Jedi - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48590.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Retorno de Jedi - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/gislene/102030/21354.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Retorno de Jedi - DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e4bOlc2gGLpsnjOsl0J1VJCtH86.jpg</thumbnail>
@@ -204,7 +204,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=PkEKIw0FU6Y$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Imperio Contra-Ataca[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EC766ADD76D7919FE4E0119E71132A0BB2352FD$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e5519dbb0678bc824ce863cb2f4ddd37d0c1c9a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11gwwuC2n1Y8f48vXnPwcXhUysTD4n-cl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB - DUB+LEGFORÇFIX[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11gwwuC2n1Y8f48vXnPwcXhUysTD4n-cl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48589.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/gislene/102030/21355.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eXpSZV9ZCyXT4fRmVd1PqYviltG.jpg</thumbnail>
@@ -221,7 +221,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subchannel>
 <name>[COLOR orange][B]TRILOGIA 3[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg	</thumbnail>
-<fanart>https://pbs.twimg.com/media/EXNlPyXWoAAgFWK.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
 <info>Assista aqui os filmes da segunda trilogia.
 [COLOR orange][B]STAR WARS[/B][/COLOR]
 [COLOR orange][B]ANOS - 1999 a 2005[/B][/COLOR]
@@ -247,7 +247,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - LEG[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB - DUB+LEGFORÇFIX[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 
 <link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
@@ -269,7 +269,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - LEG[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB - DUB+LEGFORÇFIX[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 
 <link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
@@ -291,7 +291,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - LEG[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB - DUB+LEGFORÇFIX[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 
 <link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
@@ -316,7 +316,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR white]STAR WARS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg	</thumbnail>
-<fanart><fanart>https://pbs.twimg.com/media/EXNlPyXWoAAgFWK.jpg</fanart></fanart>
+<fanart><fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart></fanart>
 <info>[B]Assista aqui as séries da franquia STAR WARS[/B]</info>
 
 <subchannel>
