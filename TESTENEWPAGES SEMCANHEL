@@ -25,44 +25,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 SUB-SEÇÃO DE FILMES COPIAR E COLAR DAQUI PRA BAIXO PARA ACRESCENTAR NOVO FILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subchannel>
-<name>[COLOR white][B]Sem Remorso (2021)[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qV7HOOZvBLYnjQpSWIVl7mQiAjx.jpg</fanart>
-<info>Assista aqui o filme Sem Remorso
-[COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]ANO - 2021[/B][/COLOR]
-</info>
-
-<subitems>
 <subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sem Remorso[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=do-OmONBTss</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qV7HOOZvBLYnjQpSWIVl7mQiAjx.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>AÇÃO</genre> 
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Sem Remorso - DUB [/B][/COLOR]</title>
-<link>http://b5.vc:80/movie/gislene/102030/104142.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qV7HOOZvBLYnjQpSWIVl7mQiAjx.jpg</fanart>
-<info>Um agente da CIA busca vingança depois de sua namorada ter sido morta por um traficante de Baltimore.</info>
+<title>[COLOR white][B]Mortal Kombat 1 (1995)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BcZPPorAmG8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mortal Kombat 1 - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/20112.mp4$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat 1t - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aVotlc03uy62YJUFGxlQUF7FZXV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ryoecT58pf8gapZtWC6Z3fVj6Ya.jpg</fanart>
+<info>Os planetas estão desalinhados. Para deter as forças do mal e salvar a humanidade, Lord Rayden, o protetor da Terra, escolhe as três pessoas capazes de vencer o Mortal Kombat, disputado pelos melhores lutadores do universo.</info>
 <genre>AÇÃO</genre>
 </subitem>
-</subitems>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
