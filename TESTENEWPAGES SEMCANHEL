@@ -6,22 +6,21 @@
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- SEÇÃO DE COLEÇÕES DE FILMES
+ SEÇÃO DE FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail>
+<name>[COLOR white][B]FILMES DE NOMEDOGENERO[/B][/COLOR]</name>
+<thumbnail><ICONEDOGENERO></thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro AÇÃO[/B]</info>
+<info>[B]Assista aqui os melhores filmes do genêro NOMEDOGENERO[/B]</info>
 
-<item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
-</item>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 SUB-SEÇÃO DE FILMES COPIAR E COLAR DAQUI PRA BAIXO PARA ACRESCENTAR NOVO FILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -37,51 +36,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<subchannel>
-<name>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</name>
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info>Assista aqui o filme NomedoFilme
-[COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]ANO - 0000[/B][/COLOR]
-</info>
-
-<subitems>
 <subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
 
-<subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedoFilme[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info>Assista ao trailer</info>
-<genre>AÇÃO</genre> 
-</subitem>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
-<subitem>
-<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NomedoFilme - DUB [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - LEG[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL></link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>AÇÃO</genre>
+<info>SINOPSEDOFILME></info>
+<genre>NOMEDOGENERO</genre>
 </subitem>
-</subitems>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-ACRESCENTE AQUI UM NOVO FILME COPIAR E COLAR ATÉ AQUI MANTER TAG DE FECHAMENTO
+ACRESCENTE AQUI UM NOVO FILME COPIAR E COLAR 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
@@ -90,10 +67,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE NOMEDOGENERO[/B][/COLOR]</name>
+<thumbnail>ICONEDOGENERO</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro AÇÃO e suas seguências[/B]</info>
+<info>[B]Assista aqui os melhores filmes do genêro NOMEDOGENERO e suas seguências[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -110,7 +87,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.pinimg.com/736x/29/30/14/293014b1776bad00400dadaf80173e6f.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg</fanart>
 <info>Coleção Mortal Kombat
-[COLOR orange][B]AÇÃO[/B][/COLOR]
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
 [COLOR orange][B]4 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 1995 a 2021[/B][/COLOR]
 </info>
@@ -134,7 +111,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ijvC2w2yANsfgLT3LMu2zFr0fxh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A2g2Ogh5dLBMNQxcuu6QfS1YR3s.jpg</fanart>
 <info>Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.</info>
-<genre>AÇÃO</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -144,19 +121,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/movie/gislene/102030/43841.mp4$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat Legends: A Vingansa de Scorpion - DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zO5913BWcWYrhgACNpaaw9CCycX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vw3zNfzvnVNF7nIjpiEgcdznfeC.jpg</fanart>
-<info>Após o massacre cruel de sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca de sua servidão ao sinistro Quan Chi, ele tem a chance de vingar sua família - e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipe de guerreiros de elite - o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de ação Johnny Cage - um grupo improvável de heróis com uma chance de salvar a humanidade. Para fazer isso, eles devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat.</info>
-<genre>AÇÃO</genre>
+<info>Após o massacre cruel de sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca de sua servidão ao sinistro Quan Chi, ele tem a chance de vingar sua família - e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipe de guerreiros de elite - o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de NOMEDOGENERO Johnny Cage - um grupo improvável de heróis com uma chance de salvar a humanidade. Para fazer isso, eles devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat.</info>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Mortal Kombat - A Aniquilação (1997)[/B][/COLOR]</title>
+<title>[COLOR white][B]Mortal Kombat - A AniquilNOMEDOGENERO (1997)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=CdAyj5wC9aE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mortal Kombat - A Aniquilasao - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/gislene/102030/20113.mp4$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat - A Aniquilasao - DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jnqPIhG2nn0cGZujaSG9ojIGgq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uL9qzzezu3tk2QTi2h4Y4MZwZOt.jpg</fanart>
 <info>Shao Kahn, o imperador do Outworld, desrespeita todas as regras de Mortal Kombat e abre ilegalmente as portas entre o seu reino e a Terra. Se elas permanecerem abertas por sete dias será o fim dos humanos, assim, um grupo de guerreiros tem seis dias para fechar as portas e salvar a Terra, mas para isto precisam enfrentar e vencer as demoníacas forças do Outworld.</info>
-<genre>AÇÃO</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -167,7 +144,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aVotlc03uy62YJUFGxlQUF7FZXV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ryoecT58pf8gapZtWC6Z3fVj6Ya.jpg</fanart>
 <info>Os planetas estão desalinhados. Para deter as forças do mal e salvar a humanidade, Lord Rayden, o protetor da Terra, escolhe as três pessoas capazes de vencer o Mortal Kombat, disputado pelos melhores lutadores do universo.</info>
-<genre>AÇÃO</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -181,7 +158,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>AÇÃO</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -214,31 +191,50 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NomedoFilme - (DATA)[/B][/COLOR]</title>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - LEG[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
+<info>SINOPSEDOFILME></info>
 <genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <subitem>
-<title>[COLOR white][B]NomedoFilme - (DATA)[/B][/COLOR]</title>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - LEG[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
+<info>SINOPSEDOFILME></info>
 <genre>NOMEDOGENERO</genre>
 </subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ACRESCENTE AQUI NOVO ITEM DA COLEÇÃO
