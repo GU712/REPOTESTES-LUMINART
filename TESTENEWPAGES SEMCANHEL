@@ -11,7 +11,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>ICONEDOGENERO</thumbnail>
+<thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]Assista aqui os melhores filmes do genêro AÇÃO[/B]</info>
 
@@ -118,7 +118,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]SÉRIES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>ICONEDOGENERO</thumbnail>
+<thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]Assista aqui as melhores séries de AÇÃO[/B]</info>
 
@@ -264,7 +264,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>ICONEDOGENERO</thumbnail>
+<thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]Assista aqui os melhores filmes do genêro AÇÃO e suas seguências[/B]</info>
 
