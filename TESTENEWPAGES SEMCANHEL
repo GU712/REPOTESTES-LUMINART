@@ -295,7 +295,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR white]STAR WARS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg	</thumbnail>
-<fanart><fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart></fanart>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
 <info>[B]Assista aqui as séries da franquia STAR WARS[/B]</info>
 
 <subchannel>
@@ -410,8 +410,125 @@ link>http://b5.vc:80/series/gislene/102030/.mp4$$lsname=[COLOR orange][B]T01E14[
 <fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>
 <info>Os Mal Feitos precisam encontrar seu caminho numa galáxia em rápida transformação.</info>
 <genre>ANIMAÇÃO</genre>  
-</item>
+</subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ACRESCENTE AQUI UMA NOVA SÉRIE COPIAR E COLAR ATÉ AQUI MANTER TAG DE FECHAMENTO
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+</subitems>
+
+<subchannel>
+<name>[COLOR white][B]Star Wars - O Mandaloriano (2019 e 2021)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
+<info>Assista aqui a série Star Wars O Lote Estragado
+[COLOR orange][B]STAR WARS[/B][/COLOR]
+[COLOR orange][B]ANOS  - 2019 e 2021[/B][/COLOR]
+[COLOR orange][B]1 TEMPS  - 16 EPS[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Star Wars - O Mandaloriano[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ra8sFRnLOJM</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>STAR WARS</genre> 
+</subitem>
+
+subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail>ICONEDASÉRIE</thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre>STAR WARS</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail>ICONEDASÉRIE</thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre>STAR WARS</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+subitem>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail>ICONEDASÉRIE</thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre>STAR WARS</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Mandaloriano - 2019[/B][/COLOR] </title>		
+				
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - LEG FIX[/B][/COLOR]</link>		
+		
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE01.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE02.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE03.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE04.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE05.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE06.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE07.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE08.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
+		
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - LEG FIX[/B][/COLOR]</link>		
+		
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E01.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E02.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E03.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E04.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E05.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E06.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E07.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E08.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>		
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>		
+<genre>STAR WARS</genre>  		
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ACRESCENTE AQUI UMA NOVA SÉRIE COPIAR E COLAR ATÉ AQUI MANTER TAG DE FECHAMENTO
