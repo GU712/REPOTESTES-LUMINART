@@ -570,7 +570,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>STAR WARS</genre> 
 </subitem>
 
-<item>
+<subitem>
 <title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white][B]Star Wars - A Guerra Dos Clones (2008)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=1YLnFn8PLUg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Wars - A Guerra Dos Clones[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6ef23e5d4f0eca48ec39cd5d01c1fb0d2f16b5d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars - A Guerra Dos Clones - DUB[/B][/COLOR]</link>
@@ -582,7 +582,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/uK15I3sGd8AudO9z6J6vi0HH1UU.jpg</fanart>
 <info>A galáxia é consumida pelas Guerras Clônicas, uma massiva guerra civil que entrincheirou os malvados Separatistas e seus exércitos andróides contra a República e seus protetores, os Jedis. </info>
 <genre>STAR WARS</genre>  
-</item>
+</subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 subitem>
