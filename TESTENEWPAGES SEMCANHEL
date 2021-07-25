@@ -445,21 +445,37 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>STAR WARS</genre> 
 </subitem>
 
-subitem>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<thumbnail>ICONEDASÉRIE</thumbnail>
-<fanart><FUNDODASÉRIE></fanart>
-<info><SINOPSEDASÉRIE></info>
-<genre>STAR WARS</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<subitem>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars - O Mandaloriano (2019 e 2021)[/B][/COLOR] </title>		
+				
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>		
+		
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:676c40c2c329eac808f2d8e91141aa198f6ab27a$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db0d61145bf062c71ce731a5df060b58b82c36e$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47f041bf00e7cd74693143258df967a553661911$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66f4b98d2f053d249d0b2424b73f23b29377f2d0$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba2e14f8c958f22ccdc54653c9142f91883d7c3a$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ee343e93c6125b0202e2fe456747495a7e6a635$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83aae53a8f194bd5369355a6ea4e49fda16e39b$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ce752babfff0fc4ea507d2d86c3041922577a0c$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
+		
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - DUB[/B][/COLOR]</link>		
+		
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4d233a9a8672827fc3a17e9517705ccb46d4a4e$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a23ff7c7ab6a6746e6d67946ee55e6e2831f9566$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec2c5dcb0e1cd92ed801116a2857fe7b32f9ccb0$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37db255c75fef9d8bc709c30$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>		
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>		
+<genre>STAR WARS</genre>  		
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
 subitem>
 <title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Wars - O Mandaloriano (2019 e 2021)[/B][/COLOR]</title>
