@@ -64,9 +64,174 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 </subitems>
 
+<subchannel>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
+<thumbnail>ICONEDOGENERO</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro NOMEDOGENERO e suas seguências[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- SEÇÃO DE COLEÇÕES DE FILMES
+SUB-SEÇÃO DE COLEÇÕES DE FILMES COPIAR E COLAR DAQUI PRA BAIXO PARA ACRESCENTAR NOVA COLEÇÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Mortal Kombat[/B][/COLOR]</name>
+<thumbnail>https://i.pinimg.com/736x/29/30/14/293014b1776bad00400dadaf80173e6f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg</fanart>
+<info>Coleção Mortal Kombat
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
+[COLOR orange][B]4 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1995 a 2021[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Mortal Kombat - (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UM1gXYWO1mc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mortal Kombat[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/103369.mkv$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/103984.mp4$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat - LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ijvC2w2yANsfgLT3LMu2zFr0fxh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A2g2Ogh5dLBMNQxcuu6QfS1YR3s.jpg</fanart>
+<info>Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.</info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Mortal Kombat Legends: A Vingança de Scorpion (2020) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8wgQ8GUl-js$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mortal Kombat Legends: A Vingansa de Scorpion - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/43841.mp4$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat Legends: A Vingansa de Scorpion - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zO5913BWcWYrhgACNpaaw9CCycX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vw3zNfzvnVNF7nIjpiEgcdznfeC.jpg</fanart>
+<info>Após o massacre cruel de sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca de sua servidão ao sinistro Quan Chi, ele tem a chance de vingar sua família - e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipe de guerreiros de elite - o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de NOMEDOGENERO Johnny Cage - um grupo improvável de heróis com uma chance de salvar a humanidade. Para fazer isso, eles devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat.</info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Mortal Kombat - A Aniquilação (1997)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CdAyj5wC9aE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mortal Kombat - A Aniquilasao - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/20113.mp4$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat - A Aniquilasao - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jnqPIhG2nn0cGZujaSG9ojIGgq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uL9qzzezu3tk2QTi2h4Y4MZwZOt.jpg</fanart>
+<info>Shao Kahn, o imperador do Outworld, desrespeita todas as regras de Mortal Kombat e abre ilegalmente as portas entre o seu reino e a Terra. Se elas permanecerem abertas por sete dias será o fim dos humanos, assim, um grupo de guerreiros tem seis dias para fechar as portas e salvar a Terra, mas para isto precisam enfrentar e vencer as demoníacas forças do Outworld.</info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Mortal Kombat 1 (1995)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BcZPPorAmG8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mortal Kombat 1 - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/20112.mp4$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]Mortal Kombat 1t - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aVotlc03uy62YJUFGxlQUF7FZXV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ryoecT58pf8gapZtWC6Z3fVj6Ya.jpg</fanart>
+<info>Os planetas estão desalinhados. Para deter as forças do mal e salvar a humanidade, Lord Rayden, o protetor da Terra, escolhe as três pessoas capazes de vencer o Mortal Kombat, disputado pelos melhores lutadores do universo.</info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme - (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ACRESCENTE AQUI NOVO ITEM DA COLEÇÃO
+</subitems>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SUB-SEÇÃO DE COLEÇÕES DE FILMES COPIAR E COLAR DAQUI PRA BAIXO PARA ACRESCENTAR NOVA COLEÇÃO
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO  DE FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]EPICOS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
+<info>[B]Assista aqui os filmes da franquia STAR WARS[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SUB-SEÇÃO DE FILMES COPIAR E COLAR DAQUI PRA BAIXO PARA ACRESCENTAR NOVO FILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]ANTOLOGIA[COLOR yellow] -> [COLOR white]FILMES[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
+<info>Assista aqui os filmes "spin-off" pré saga.
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
+[COLOR orange][B] Definição "Antologia" : Coleção de trabalhos notáveis agrupados por período.[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] Han Solo - Uma História Star Wars (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UtpnRFzZWlM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Han Solo - Uma Historia Star Wars[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20abfe3f7db04a24a0c8a0f775bf1ddd02c8dfad$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35272f9f7eb4436a4ccf61458e2d30c1680192c8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MKnTvYIjuHXG3b0E8lrVsDnrhy2VVAAY/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB+LEGFORÇFIX[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27113.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/21301.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jAMEX0syUh6sbjBiysibzrFpbo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j1l9zqe5ZQPEHGsz91FyZxMldq4.jpg</fanart>
+<info>Embarque na Millennium Falcon e viaje para uma galáxia distante em uma nova aventura com o mais amado canalha da galáxia. Através de uma série de ousadas aventuras no obscuro e perigoso submundo do crime, Han Solo encontra seu poderoso futuro copiloto Chewbacca e encontra o famoso jogador Lando Calrissian, em uma jornada que definirá o curso de um dos heróis mais improváveis da saga Star Wars.</info>
+<genre>STARWARS</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+</subitems>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  SEÇÃO DE COLEÇÕES DE FILMES
