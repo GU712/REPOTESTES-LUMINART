@@ -1,6 +1,25 @@
 <item>
-<title>NOME DO CANAL .m3u8</title>
+<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT SP[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aV9q6XPA4R19dzhwEmj5W20fhY5.jpg</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<thumbnail>http://i.imgur.com/KMXfp4h.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
 <item>
+<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT RJ[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8</link>
+<thumbnail>http://i.imgur.com/KMXfp4h.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
+<item>
+<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT RS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8</link>
+<thumbnail>http://i.imgur.com/KMXfp4h.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
+<item>
+<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT PR[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8</link>
+<thumbnail>http://i.imgur.com/KMXfp4h.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
+<item>
+<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT BA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8</link>
+<thumbnail>http://i.imgur.com/KMXfp4h.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
+<item>
+<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT PA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_240p414k/index.m3u8</link>
+<thumbnail>LOGODOCANAL</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
+
