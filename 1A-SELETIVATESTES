@@ -116,10 +116,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]ACESSO VTV[/B][/COLOR]</name>
+<name>[COLOR lime][B]ACESSO VTV SERIES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series-categorias/main/Categorias</externallink>
+<info>AGRADECEMOS SUA PREFERÊNCIA </info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]ACESSO VTV FILMES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/entraricon</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series-categorias/main/Menu%20Filmes</externallink>
 <info>AGRADECEMOS SUA PREFERÊNCIA </info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
