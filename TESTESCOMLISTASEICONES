@@ -1,10 +1,5 @@
-<item>
-<title>[COLOR white][B] Catherine the Great (2019) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=PxKKgeGBzF0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Catherine the Great[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bc271b28cbcfc65dd9e81dc459fabeb42708e92$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Catherine the Great - COMPLETA[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nmu9NbHHcgkuMbXZlSS7XHBeucb.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aoUJkGp6c58R5pje3anrwoFE4c7.jpg</fanart>
-<info>Por entre escândalos, intriga e muito conflito, a imperatriz russa Catarina, a Grande, desenvolve uma relação fervorosa e singular com Grigory Potemkin enquanto ambos vencem adversários e agem como os arquitetos da Rússia moderna.</info>
-<genre>DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]A Cegonha Perna Fina[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/edielson/Edielson123/47461.ts
