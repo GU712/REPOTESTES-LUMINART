@@ -4,4 +4,5 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]A Cegonha Perna Fina[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/edielson/Edielson123/47461.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]A Cegonha Perna Fina[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/edielson/Edielson123/47461.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://cdn99.one:80/edielson/Edielson123/47461.ts
+
