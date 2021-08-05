@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="GOIABA/A&E.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]A&E[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/898
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="GOIABA/A&E.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]A&E HD[/B][/COLOR] 
