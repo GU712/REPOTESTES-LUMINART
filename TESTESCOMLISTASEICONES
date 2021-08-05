@@ -1,8 +1,52 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]A Cegonha Perna Fina[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/edielson/Edielson123/47461.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",A Cegonha Perna Fina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://cdn99.one:80/edielson/Edielson123/47461.ts
-
+#EXTINF:-1 tvg-ID="" tvg-name="Bob Esponja 24H" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Bob Esponja[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12033
+#EXTINF:-1 tvg-ID="" tvg-name="Cavaleiros dos Zodiacos Saga Doze Casas" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Cavaleiros dos Zodiacos Saga Doze Casas[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12034
+#EXTINF:-1 tvg-ID="" tvg-name="Classicos Disney" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Classicos Disney[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12035
+#EXTINF:-1 tvg-ID="" tvg-name="Coragem o Cão Covarde" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Coragem o Cão Covarde[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12036
+#EXTINF:-1 tvg-ID="" tvg-name="Dois Homens e Meio" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Dois Homens e Meio[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12037
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Dragon Ball[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12038
+#EXTINF:-1 tvg-ID="" tvg-name="Familia da Pesada (Family Guy)" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Familia da Pesada (Family Guy)[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12039
+#EXTINF:-1 tvg-ID="" tvg-name="Formiga Atomica" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Formiga Atomica[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12040
+#EXTINF:-1 tvg-ID="" tvg-name="FUTURAMA" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FUTURAMA[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12041
+#EXTINF:-1 tvg-ID="" tvg-name="Galinha Pintadinha" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Galinha Pintadinha[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12042
+#EXTINF:-1 tvg-ID="" tvg-name="Luluzinha" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Luluzinha[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12043
+#EXTINF:-1 tvg-ID="" tvg-name="Mickey e Donald" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Mickey e Donald[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12044
+#EXTINF:-1 tvg-ID="" tvg-name="Os Trapalhões" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Os Trapalhões[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12045
+#EXTINF:-1 tvg-ID="" tvg-name="Peppa Pig" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Peppa Pig[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12046
+#EXTINF:-1 tvg-ID="" tvg-name="South Parks" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]South Parks[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12047
+#EXTINF:-1 tvg-ID="" tvg-name="Thundercats" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Thundercats[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12048
+#EXTINF:-1 tvg-ID="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Todo Mundo Odeia o Cris[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12049
+#EXTINF:-1 tvg-ID="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Um Maluco no Pedaço[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12050
+#EXTINF:-1 tvg-ID="" tvg-name="As aventuras de Jackie Chan" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]As aventuras de Jackie Chan[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12051
+#EXTINF:-1 tvg-ID="" tvg-name="Corrida Maluca" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Corrida Maluca[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12052
+#EXTINF:-1 tvg-ID="" tvg-name="Kenan e Kel" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Kenan e Kel[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12053
+#EXTINF:-1 tvg-ID="" tvg-name="O Mascara" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O Mascara[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12054
+#EXTINF:-1 tvg-ID="" tvg-name="The Big Bang Theory" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]The Big Bang Theory[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12055
+#EXTINF:-1 tvg-ID="" tvg-name="Tico e Teco" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Tico e Teco[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12056
+[/B][/COLOR] 
