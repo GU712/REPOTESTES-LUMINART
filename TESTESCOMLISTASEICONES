@@ -1,6 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="GOIABA/A&E.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]A&E[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/898
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="GOIABA/A&E.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]A&E HD[/B][/COLOR] 
@@ -65,7 +62,7 @@ http://a.srvbr.me:8880/Rosemara/Rosemara/888
 http://a.srvbr.me:8880/Rosemara/Rosemara/1831
 #EXTINF:-1 tvg-ID="CBR" tvg-name="Canal Brasil" tvg-logo="GOIABA/Canal_Brasil.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Canal Brasil[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/883
-#EXTINF:-1 tvg-ID="LBV" tvg-name="Rede Boa Vontade" tvg-logo="GOIABA/lbv.png" group-title="Religiosos",Rede Boa Vontade[/B][/COLOR] 
+#EXTINF:-1 tvg-ID="LBV" tvg-name="Rede Boa Vontade" tvg-logo="GOIABA/lbv.png" ,[COLOR orange][B]LS - TVs - RELIGIOSOS[COLOR yellow] -> [COLOR white]Rede Boa Vontade[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/5328
 #EXTINF:-1 tvg-ID="BMG" tvg-name="Boomerang" tvg-logo="GOIABA/Boomerang_HD.png" ,[COLOR orange][B]LS - TVs - INFANTIL[COLOR yellow] -> [COLOR white]Boomerang[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/884
@@ -73,7 +70,7 @@ http://a.srvbr.me:8880/Rosemara/Rosemara/884
 http://a.srvbr.me:8880/Rosemara/Rosemara/5327
 #EXTINF:-1 tvg-ID="BMG" tvg-name="Boomerang Full HD" tvg-logo="GOIABA/Boomerang.png" ,[COLOR orange][B]LS - TVs - INFANTIL[COLOR yellow] -> [COLOR white]Boomerang Full HD[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/5434
-#EXTINF:-1 tvg-ID="CNV" tvg-name="Canção Nova" tvg-logo="GOIABA/Cancao_Nova.png" group-title="Religiosos",Canção Nova[/B][/COLOR] 
+#EXTINF:-1 tvg-ID="CNV" tvg-name="Canção Nova" tvg-logo="GOIABA/Cancao_Nova.png" ,[COLOR orange][B]LS - TVs - RELIGIOSOS[COLOR yellow] -> [COLOR white]Canção Nova[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/879
 #EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network" tvg-logo="GOIABA/Cartoon_Network.png" ,[COLOR orange][B]LS - TVs - INFANTIL[COLOR yellow] -> [COLOR white]Cartoon Network[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/878
@@ -101,9 +98,9 @@ http://a.srvbr.me:8880/Rosemara/Rosemara/874
 http://a.srvbr.me:8880/Rosemara/Rosemara/5474
 #EXTINF:-1 tvg-ID="135" tvg-name="Combate HD [PLUS]" tvg-logo="GOIABA/Combate.png" ,[COLOR orange][B]LS - TVs - ESPORTES[COLOR yellow] -> [COLOR white]Combate HD [PLUS][/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/1832
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="COPA LIBERTADORES HD" tvg-logo="https://img.miptv.ws/1552071549m.jpg" group-title="ESPECIAL / ESPORTES",COPA LIBERTADORES HD[/B][/COLOR] 
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="COPA LIBERTADORES HD" tvg-logo="https://img.miptv.ws/1552071549m.jpg" ,[COLOR orange][B]LS - TVs - ESPECIAL / ESPORTES[COLOR yellow] -> [COLOR white]COPA LIBERTADORES HD[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/11444
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="DAZN HD" tvg-logo="https://img.miptv.ws/9AAq0LjW_400x400.jpg" group-title="ESPECIAL / ESPORTES",DAZN HD[/B][/COLOR] 
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="DAZN HD" tvg-logo="https://img.miptv.ws/9AAq0LjW_400x400.jpg" ,[COLOR orange][B]LS - TVs - ESPECIAL / ESPORTES[COLOR yellow] -> [COLOR white]DAZN HD[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/11443
 #EXTINF:-1 tvg-ID="BQ4" tvg-name="Curta!" tvg-logo="GOIABA/Curta!.png" ,[COLOR orange][B]LS - TVs - VARIEDADESL[COLOR yellow] -> [COLOR white]Curta![/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/872
@@ -187,9 +184,9 @@ http://a.srvbr.me:8880/Rosemara/Rosemara/4152
 http://a.srvbr.me:8880/Rosemara/Rosemara/857
 #EXTINF:-1 tvg-ID="EET" tvg-name="E! HD" tvg-logo="GOIABA/E!.png" ,[COLOR orange][B]LS - TVs - VARIEDADESL[COLOR yellow] -> [COLOR white]E! HD[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/4204
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS SD" tvg-logo="GOIABA/eiplus.png" group-title="ESPECIAL / ESPORTES",EI PLUS SD[/B][/COLOR] 
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS SD" tvg-logo="GOIABA/eiplus.png" ,[COLOR orange][B]LS - TVs - ESPECIAL / ESPORTES[COLOR yellow] -> [COLOR white]EI PLUS SD[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/11483
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS HD" tvg-logo="GOIABA/eiplus.png" group-title="ESPECIAL / ESPORTES",EI PLUS HD[/B][/COLOR] 
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS HD" tvg-logo="GOIABA/eiplus.png" ,[COLOR orange][B]LS - TVs - ESPECIAL / ESPORTES[COLOR yellow] -> [COLOR white]EI PLUS HD[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/11484
 #EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN" tvg-logo="GOIABA/ESPN.png" ,[COLOR orange][B]LS - TVs - ESPORTES[COLOR yellow] -> [COLOR white]ESPN[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/4643
@@ -647,9 +644,9 @@ http://a.srvbr.me:8880/Rosemara/Rosemara/759
 http://a.srvbr.me:8880/Rosemara/Rosemara/758
 #EXTINF:-1 tvg-ID="RTV" tvg-name="RedeTV! HD [PLUS]" tvg-logo="GOIABA/RedeTV!.png" ,[COLOR orange][B]LS - TVs - ABERTAS[COLOR yellow] -> [COLOR white]RedeTV! HD [PLUS][/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/4119
-#EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida" tvg-logo="GOIABA/Rede_Vida.png" group-title="Religiosos",Rede Vida[/B][/COLOR] 
+#EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida" tvg-logo="GOIABA/Rede_Vida.png" ,[COLOR orange][B]LS - TVs - RELIGIOSOS[COLOR yellow] -> [COLOR white]Rede Vida[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/757
-#EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida HD" tvg-logo="GOIABA/Rede_Vida.png" group-title="Religiosos",Rede Vida HD[/B][/COLOR] 
+#EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida HD" tvg-logo="GOIABA/Rede_Vida.png" ,[COLOR orange][B]LS - TVs - RELIGIOSOS[COLOR yellow] -> [COLOR white]Rede Vida HD[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/5653
 #EXTINF:-1 tvg-ID="SBD" tvg-name="SBT" tvg-logo="GOIABA/SBT.png" ,[COLOR orange][B]LS - TVs - ABERTAS[COLOR yellow] -> [COLOR white]SBT[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/756
@@ -811,7 +808,7 @@ http://a.srvbr.me:8880/Rosemara/Rosemara/4106
 http://a.srvbr.me:8880/Rosemara/Rosemara/719
 #EXTINF:-1 tvg-ID="TRU" tvg-name="TruTV HD" tvg-logo="GOIABA/TruTV.png" ,[COLOR orange][B]LS - TVs - VARIEDADESL[COLOR yellow] -> [COLOR white]TruTV HD[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/5291
-#EXTINF:-1 tvg-ID="APA" tvg-name="TV Aparecida" tvg-logo="GOIABA/TV_Aparecida.png" group-title="Religiosos",TV Aparecida[/B][/COLOR] 
+#EXTINF:-1 tvg-ID="APA" tvg-name="TV Aparecida" tvg-logo="GOIABA/TV_Aparecida.png" ,[COLOR orange][B]LS - TVs - RELIGIOSOS[COLOR yellow] -> [COLOR white]TV Aparecida[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/895
 #EXTINF:-1 tvg-ID="CUL" tvg-name="TV Cultura" tvg-logo="GOIABA/TV_Cultura.png" ,[COLOR orange][B]LS - TVs - VARIEDADESL[COLOR yellow] -> [COLOR white]TV Cultura[/B][/COLOR] 
 http://a.srvbr.me:8880/Rosemara/Rosemara/5161
