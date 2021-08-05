@@ -1,25 +1,5 @@
-<item>
-<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT SP1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRYname=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8</link>
-<thumbnail>http://i.imgur.com/KMXfp4h.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-<item>
-<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT RJ[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8</link>
-<thumbnail>http://i.imgur.com/KMXfp4h.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-<item>
-<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT RS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8</link>
-<thumbnail>http://i.imgur.com/KMXfp4h.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-<item>
-<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT PR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8</link>
-<thumbnail>http://i.imgur.com/KMXfp4h.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-<item>
-<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT BA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8</link>
-<thumbnail>http://i.imgur.com/KMXfp4h.png</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-<item>
-<title>[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT PA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_240p414k/index.m3u8</link>
-<thumbnail>LOGODOCANAL</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L6tbqYp/oficialtvonline.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO7[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet SD[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]url=httphttp://b5.vc:80/gislene/102030/71776
