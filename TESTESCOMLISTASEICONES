@@ -1,52 +1,1108 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-ID="" tvg-name="Bob Esponja 24H" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Bob Esponja[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12033
-#EXTINF:-1 tvg-ID="" tvg-name="Cavaleiros dos Zodiacos Saga Doze Casas" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Cavaleiros dos Zodiacos Saga Doze Casas[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12034
-#EXTINF:-1 tvg-ID="" tvg-name="Classicos Disney" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Classicos Disney[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12035
-#EXTINF:-1 tvg-ID="" tvg-name="Coragem o Cão Covarde" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Coragem o Cão Covarde[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12036
-#EXTINF:-1 tvg-ID="" tvg-name="Dois Homens e Meio" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Dois Homens e Meio[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12037
-#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Dragon Ball[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12038
-#EXTINF:-1 tvg-ID="" tvg-name="Familia da Pesada (Family Guy)" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Familia da Pesada (Family Guy)[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12039
-#EXTINF:-1 tvg-ID="" tvg-name="Formiga Atomica" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Formiga Atomica[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12040
-#EXTINF:-1 tvg-ID="" tvg-name="FUTURAMA" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FUTURAMA[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12041
-#EXTINF:-1 tvg-ID="" tvg-name="Galinha Pintadinha" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Galinha Pintadinha[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12042
-#EXTINF:-1 tvg-ID="" tvg-name="Luluzinha" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Luluzinha[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12043
-#EXTINF:-1 tvg-ID="" tvg-name="Mickey e Donald" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Mickey e Donald[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12044
-#EXTINF:-1 tvg-ID="" tvg-name="Os Trapalhões" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Os Trapalhões[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12045
-#EXTINF:-1 tvg-ID="" tvg-name="Peppa Pig" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Peppa Pig[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12046
-#EXTINF:-1 tvg-ID="" tvg-name="South Parks" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]South Parks[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12047
-#EXTINF:-1 tvg-ID="" tvg-name="Thundercats" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Thundercats[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12048
-#EXTINF:-1 tvg-ID="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Todo Mundo Odeia o Cris[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12049
-#EXTINF:-1 tvg-ID="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Um Maluco no Pedaço[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12050
-#EXTINF:-1 tvg-ID="" tvg-name="As aventuras de Jackie Chan" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]As aventuras de Jackie Chan[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12051
-#EXTINF:-1 tvg-ID="" tvg-name="Corrida Maluca" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Corrida Maluca[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12052
-#EXTINF:-1 tvg-ID="" tvg-name="Kenan e Kel" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Kenan e Kel[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12053
-#EXTINF:-1 tvg-ID="" tvg-name="O Mascara" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O Mascara[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12054
-#EXTINF:-1 tvg-ID="" tvg-name="The Big Bang Theory" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]The Big Bang Theory[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12055
-#EXTINF:-1 tvg-ID="" tvg-name="Tico e Teco" tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Tico e Teco[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://a.srvbr.me:8880/Rosemara/Rosemara/12056
-[/B][/COLOR] 
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="GOIABA/A&E.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]A&E[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/898
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="GOIABA/A&E.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]A&E HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4203
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E [PLUS]" tvg-logo="GOIABA/A&E.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]A&E [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4167
+#EXTINF:-1 tvg-ID="MGH" tvg-name="AMC" tvg-logo="GOIABA/AMC_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]AMC[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5077
+#EXTINF:-1 tvg-ID="MGM" tvg-name="AMC HD" tvg-logo="GOIABA/AMC_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]AMC HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5076
+#EXTINF:-1 tvg-ID="MGH" tvg-name="AMC [PLUS]" tvg-logo="GOIABA/AMC_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]AMC [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4644
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="GOIABA/AXN_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]AXN[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/893
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD" tvg-logo="GOIABA/AXN_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]AXN HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/892
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD [PLUS]" tvg-logo="GOIABA/AXN_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]AXN HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4165
+#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet" tvg-logo="GOIABA/Animal_Planet_HD.png" group-title="Documentários",Animal Planet[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/897
+#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet HD" tvg-logo="GOIABA/Animal_Planet_HD.png" group-title="Documentários",Animal Planet HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/896
+#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet Full HD" tvg-logo="GOIABA/Animal_Planet.png" group-title="Documentários",Animal Planet Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5436
+#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet [PLUS]" tvg-logo="GOIABA/Animal_Planet_HD.png" group-title="Documentários",Animal Planet [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4166
+#EXTINF:-1 tvg-ID="BQ5" tvg-name="Arte 1" tvg-logo="GOIABA/Arte_1.png" group-title="Documentários",Arte 1[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/894
+#EXTINF:-1 tvg-ID="BQ5" tvg-name="Arte 1 HD" tvg-logo="GOIABA/Arte_1.png" group-title="Documentários",Arte 1 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5329
+#EXTINF:-1 tvg-ID="BAB" tvg-name="Baby TV" tvg-logo="GOIABA/Baby_TV.png" group-title="Infantil",Baby TV[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5078
+#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS" tvg-logo="GOIABA/BIS.png" group-title="Variedades",BIS[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/886
+#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS HD" tvg-logo="GOIABA/BIS.png" group-title="Variedades",BIS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/885
+#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS Full HD" tvg-logo="GOIABA/BIS.png" group-title="Variedades",BIS Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5447
+#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS HD [PLUS]" tvg-logo="GOIABA/BIS.png" group-title="Variedades",BIS HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4162
+#EXTINF:-1 tvg-ID="BAN" tvg-name="Band" tvg-logo="GOIABA/Band_HD.png" group-title="TV Aberta",Band[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/887
+#EXTINF:-1 tvg-ID="BAN" tvg-name="Band HD" tvg-logo="GOIABA/Band_HD.png" group-title="TV Aberta",Band HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/891
+#EXTINF:-1 tvg-ID="BAN" tvg-name="Band Full HD" tvg-logo="GOIABA/Band_HD.png" group-title="TV Aberta",Band Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5475
+#EXTINF:-1 tvg-ID="BAN" tvg-name="Band HD [PLUS]" tvg-logo="GOIABA/Band_HD.png" group-title="TV Aberta",Band HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4164
+#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News" tvg-logo="GOIABA/BandNews.png" group-title="Notícias",Band News[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/890
+#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News HD" tvg-logo="GOIABA/BandNews.png" group-title="Notícias",Band News HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5162
+#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News Full HD" tvg-logo="GOIABA/BandNews.png" group-title="Notícias",Band News Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5435
+#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News [PLUS]" tvg-logo="GOIABA/BandNews.png" group-title="Notícias",Band News [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4163
+#EXTINF:-1 tvg-ID="BSU" tvg-name="Band Sports" tvg-logo="GOIABA/BandSports.png" group-title="Esportes",Band Sports[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/889
+#EXTINF:-1 tvg-ID="BSP" tvg-name="Band Sports HD" tvg-logo="GOIABA/BandSports.png" group-title="Esportes",Band Sports HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/888
+#EXTINF:-1 tvg-ID="BSP" tvg-name="Band Sports [PLUS]" tvg-logo="GOIABA/BandSports.png" group-title="Esportes",Band Sports [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1831
+#EXTINF:-1 tvg-ID="CBR" tvg-name="Canal Brasil" tvg-logo="GOIABA/Canal_Brasil.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Canal Brasil[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/883
+#EXTINF:-1 tvg-ID="LBV" tvg-name="Rede Boa Vontade" tvg-logo="GOIABA/lbv.png" group-title="Religiosos",Rede Boa Vontade[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5328
+#EXTINF:-1 tvg-ID="BMG" tvg-name="Boomerang" tvg-logo="GOIABA/Boomerang_HD.png" group-title="Infantil",Boomerang[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/884
+#EXTINF:-1 tvg-ID="BMF" tvg-name="Boomerang HD" tvg-logo="GOIABA/Boomerang.png" group-title="Infantil",Boomerang HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5327
+#EXTINF:-1 tvg-ID="BMG" tvg-name="Boomerang Full HD" tvg-logo="GOIABA/Boomerang.png" group-title="Infantil",Boomerang Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5434
+#EXTINF:-1 tvg-ID="CNV" tvg-name="Canção Nova" tvg-logo="GOIABA/Cancao_Nova.png" group-title="Religiosos",Canção Nova[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/879
+#EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network" tvg-logo="GOIABA/Cartoon_Network.png" group-title="Infantil",Cartoon Network[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/878
+#EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network HD" tvg-logo="GOIABA/Cartoon_Network.png" group-title="Infantil",Cartoon Network HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/877
+#EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network [PLUS]" tvg-logo="GOIABA/Cartoon_Network.png" group-title="Infantil",Cartoon Network [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4159
+#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax" tvg-logo="GOIABA/Cinemax.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Cinemax[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/876
+#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax HD" tvg-logo="GOIABA/Cinemax.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Cinemax HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1495
+#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax HD [PLUS]" tvg-logo="GOIABA/Cinemax.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Cinemax HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5124
+#EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central" tvg-logo="GOIABA/Comedy_Central.png" group-title="Variedades",Comedy Central[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/873
+#EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central HD" tvg-logo="GOIABA/Comedy_Central.png" group-title="Variedades",Comedy Central HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5326
+#EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central HD [PLUS]" tvg-logo="GOIABA/Comedy_Central.png" group-title="Variedades",Comedy Central HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1833
+#EXTINF:-1 tvg-ID="135" tvg-name="Combate" tvg-logo="GOIABA/Combate.png" group-title="Esportes",Combate[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/875
+#EXTINF:-1 tvg-ID="135" tvg-name="Combate HD" tvg-logo="GOIABA/Combate.png" group-title="Esportes",Combate HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/874
+#EXTINF:-1 tvg-ID="135" tvg-name="Combate Full HD" tvg-logo="GOIABA/Combate_HD.png" group-title="Esportes",Combate Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5474
+#EXTINF:-1 tvg-ID="135" tvg-name="Combate HD [PLUS]" tvg-logo="GOIABA/Combate.png" group-title="Esportes",Combate HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1832
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="COPA LIBERTADORES HD" tvg-logo="https://img.miptv.ws/1552071549m.jpg" group-title="ESPECIAL / ESPORTES",COPA LIBERTADORES HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11444
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="DAZN HD" tvg-logo="https://img.miptv.ws/9AAq0LjW_400x400.jpg" group-title="ESPECIAL / ESPORTES",DAZN HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11443
+#EXTINF:-1 tvg-ID="BQ4" tvg-name="Curta!" tvg-logo="GOIABA/Curta!.png" group-title="Variedades",Curta![/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/872
+#EXTINF:-1 tvg-ID="BQ4" tvg-name="Curta! HD" tvg-logo="GOIABA/Curta!.png" group-title="Variedades",Curta! HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5325
+#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health" tvg-logo="GOIABA/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/868
+#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health HD" tvg-logo="GOIABA/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/867
+#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health Full HD" tvg-logo="GOIABA/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5433
+#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health [PLUS]" tvg-logo="GOIABA/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4156
+#EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization" tvg-logo="GOIABA/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/869
+#EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization HD" tvg-logo="GOIABA/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5324
+#EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization [PLUS]" tvg-logo="GOIABA/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4157
+#EXTINF:-1 tvg-ID="DIS" tvg-name="Discovery Channel" tvg-logo="GOIABA/Discovery_Channel_HD.png" group-title="Documentários",Discovery Channel[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/871
+#EXTINF:-1 tvg-ID="DIS" tvg-name="Discovery Channel HD" tvg-logo="GOIABA/Discovery_Channel_HD.png" group-title="Documentários",Discovery Channel HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/870
+#EXTINF:-1 tvg-ID="DIH" tvg-name="Discovery Channel Full HD" tvg-logo="GOIABA/Discovery_Channel.png" group-title="Documentários",Discovery Channel Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5448
+#EXTINF:-1 tvg-ID="DIH" tvg-name="Discovery Channel HD [PLUS]" tvg-logo="GOIABA/Discovery_Channel.png" group-title="Documentários",Discovery Channel HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1834
+#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids" tvg-logo="GOIABA/Discovery_Kids.png" group-title="Infantil",Discovery Kids[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/866
+#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids HD" tvg-logo="GOIABA/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1494
+#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery kids Full HD" tvg-logo="GOIABA/Discovery_Kids.png" group-title="Infantil",Discovery kids Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5432
+#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids HD [PLUS]" tvg-logo="GOIABA/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1835
+#EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science" tvg-logo="GOIABA/Discovery_Science.png" group-title="Documentários",Discovery Science[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/865
+#EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science HD" tvg-logo="GOIABA/Discovery_Science.png" group-title="Documentários",Discovery Science HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5075
+#EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science [PLUS]" tvg-logo="GOIABA/Discovery_Science.png" group-title="Documentários",Discovery Science [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4154
+#EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater" tvg-logo="GOIABA/Discovery_Theater.png" group-title="Documentários",Discovery Theater[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5323
+#EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater HD" tvg-logo="GOIABA/Discovery_Theater.png" group-title="Documentários",Discovery Theater HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/864
+#EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater HD [PLUS]" tvg-logo="GOIABA/Discovery_Theater.png" group-title="Documentários",Discovery Theater HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4153
+#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World" tvg-logo="GOIABA/Discovery_World.png" group-title="Documentários",Discovery World[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5322
+#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World HD" tvg-logo="GOIABA/Discovery_World.png" group-title="Documentários",Discovery World HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/861
+#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World Full HD" tvg-logo="GOIABA/Discovery_World.png" group-title="Documentários",Discovery World Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5430
+#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World [PLUS]" tvg-logo="GOIABA/Discovery_World.png" group-title="Documentários",Discovery World [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4151
+#EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel" tvg-logo="GOIABA/Disney_Channel.png" group-title="Infantil",Disney Channel[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/860
+#EXTINF:-1 tvg-ID="DIH" tvg-name="Disney Channel HD" tvg-logo="GOIABA/Disney_Channel.png" group-title="Infantil",Disney Channel HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1493
+#EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel Full HD" tvg-logo="GOIABA/Disney_Channel.png" group-title="Infantil",Disney Channel Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5446
+#EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel HD [PLUS]" tvg-logo="GOIABA/Disney_Channel.png" group-title="Infantil",Disney Channel HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4150
+#EXTINF:-1 tvg-ID="PHD" tvg-name="Disney Junior" tvg-logo="GOIABA/Disney_Junior.png" group-title="Infantil",Disney Junior[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/859
+#EXTINF:-1 tvg-ID="PHD" tvg-name="Disney Junior HD" tvg-logo="GOIABA/Disney_Junior.png" group-title="Infantil",Disney Junior HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5562
+#EXTINF:-1 tvg-ID="DXD" tvg-name="Disney XD" tvg-logo="GOIABA/Disney_XD.png" group-title="Infantil",Disney XD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/858
+#EXTINF:-1 tvg-ID="DXD" tvg-name="Disney XD [PLUS]" tvg-logo="GOIABA/Disney_XD.png" group-title="Infantil",Disney XD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4149
+#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo" tvg-logo="GOIABA/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/863
+#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo HD" tvg-logo="GOIABA/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/862
+#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo Full HD" tvg-logo="GOIABA/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5431
+#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo HD [PLUS]" tvg-logo="GOIABA/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4152
+#EXTINF:-1 tvg-ID="EET" tvg-name="E!" tvg-logo="GOIABA/E!.png" group-title="Variedades",E![/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/857
+#EXTINF:-1 tvg-ID="EET" tvg-name="E! HD" tvg-logo="GOIABA/E!.png" group-title="Variedades",E! HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4204
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS SD" tvg-logo="GOIABA/eiplus.png" group-title="ESPECIAL / ESPORTES",EI PLUS SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11483
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS HD" tvg-logo="GOIABA/eiplus.png" group-title="ESPECIAL / ESPORTES",EI PLUS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11484
+#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN" tvg-logo="GOIABA/ESPN.png" group-title="Esportes",ESPN[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4643
+#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN HD" tvg-logo="GOIABA/ESPN_HD.png" group-title="Esportes",ESPN HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/848
+#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN Full HD" tvg-logo="GOIABA/ESPN.png" group-title="Esportes",ESPN Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5458
+#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN HD [PLUS]" tvg-logo="GOIABA/ESPN_HD.png" group-title="Esportes",ESPN HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1839
+#EXTINF:-1 tvg-ID="ESH" tvg-name="ESPN +  HD" tvg-logo="GOIABA/ESPN_Mais.png" group-title="Esportes",ESPN +  HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/851
+#EXTINF:-1 tvg-ID="ESH" tvg-name="ESPN EXTRA HD [PLUS]" tvg-logo="GOIABA/ESPN_HD.png" group-title="Esportes",ESPN EXTRA HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1837
+#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil" tvg-logo="GOIABA/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/850
+#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil HD" tvg-logo="GOIABA/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/849
+#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil Full HD" tvg-logo="GOIABA/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5459
+#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil HD [PLUS]" tvg-logo="GOIABA/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1838
+#EXTINF:-1 tvg-ID="ESR" tvg-name="Espn Extra" tvg-logo="GOIABA/ESPN_EXTRA.png" group-title="Esportes",Espn Extra[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5321
+#EXTINF:-1 tvg-ID="ESR" tvg-name="Espn Extra HD" tvg-logo="GOIABA/ESPN_EXTRA.png" group-title="Esportes",Espn Extra HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5320
+#EXTINF:-1 tvg-ID="ESR" tvg-name="ESPN Extra Full HD" tvg-logo="GOIABA/ESPN_EXTRA.png" group-title="Esportes",ESPN Extra Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5457
+#EXTINF:-1 tvg-ID="BQ6" tvg-name="Fish TV" tvg-logo="GOIABA/FishTV.png" group-title="Esportes",Fish TV[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/846
+#EXTINF:-1 tvg-ID="BQ6" tvg-name="Fish TV HD" tvg-logo="GOIABA/FishTV.png" group-title="Esportes",Fish TV HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5319
+#EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network" tvg-logo="GOIABA/Food_Network.png" group-title="Variedades",Food Network[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/845
+#EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network HD" tvg-logo="GOIABA/Food_Network.png" group-title="Variedades",Food Network HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1491
+#EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network [PLUS]" tvg-logo="GOIABA/Food_Network.png" group-title="Variedades",Food Network [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4145
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX" tvg-logo="GOIABA/FOX.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FOX[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/844
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="GOIABA/FOX_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FOX HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/841
+#EXTINF:-1 tvg-ID="FOX" tvg-name="Fox Full HD" tvg-logo="GOIABA/FOX_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Fox Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5473
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX [PLUS]" tvg-logo="GOIABA/FOX_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FOX [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1842
+#EXTINF:-1 tvg-ID="FO1" tvg-name="Fox Premium" tvg-logo="GOIABA/FOX_Premium_1_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Fox Premium[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5318
+#EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD" tvg-logo="GOIABA/FOX_Premium_1_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FOX Premium HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/843
+#EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD [PLUS]" tvg-logo="GOIABA/FOX_Premium_1_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FOX Premium HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4144
+#EXTINF:-1 tvg-ID="FOA" tvg-name="Fox Premium 2" tvg-logo="GOIABA/FOX_Premium_2_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Fox Premium 2[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5317
+#EXTINF:-1 tvg-ID="FOA" tvg-name="FOX Premium 2 HD" tvg-logo="GOIABA/FOX_Premium_2_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FOX Premium 2 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/842
+#EXTINF:-1 tvg-ID="FOA" tvg-name="Fox Premium 2 Full HD" tvg-logo="GOIABA/FOX_Premium_2_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Fox Premium 2 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5429
+#EXTINF:-1 tvg-ID="FOA" tvg-name="FOX Premium 2 HD [PLUS]" tvg-logo="GOIABA/FOX_Premium_2_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FOX Premium 2 HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4143
+#EXTINF:-1 tvg-ID="FLI" tvg-name="Fox Life" tvg-logo="GOIABA/FOX_Life.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Fox Life[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/840
+#EXTINF:-1 tvg-ID="FLI" tvg-name="FOX Life HD" tvg-logo="GOIABA/FOX_Life.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FOX Life HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/839
+#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="GOIABA/Fox_Sports_HD.png" group-title="Esportes",Fox Sports[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/837
+#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports HD" tvg-logo="GOIABA/Fox_Sports_HD.png" group-title="Esportes",Fox Sports HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/838
+#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports Full HD" tvg-logo="GOIABA/Fox_Sports_HD.png" group-title="Esportes",Fox Sports Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5418
+#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports HD [PLUS]" tvg-logo="GOIABA/FOX_Sports.png" group-title="Esportes",Fox Sports HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1844
+#EXTINF:-1 tvg-ID="FS2" tvg-name="Fox Sports 2" tvg-logo="GOIABA/FOX_Sports_2_HD.png" group-title="Esportes",Fox Sports 2[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/836
+#EXTINF:-1 tvg-ID="FS2" tvg-name="FOX Sports 2 HD" tvg-logo="GOIABA/FOX_Sports_2_HD.png" group-title="Esportes",FOX Sports 2 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/835
+#EXTINF:-1 tvg-ID="FS2" tvg-name="Fox Sports 2 Full HD" tvg-logo="GOIABA/FOX_Sports_2.png" group-title="Esportes",Fox Sports 2 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5456
+#EXTINF:-1 tvg-ID="FS1" tvg-name="FOX Sports 2 HD [PLUS]" tvg-logo="GOIABA/FOX_Sports_2.png" group-title="Esportes",FOX Sports 2 HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1843
+#EXTINF:-1 tvg-ID="FUT" tvg-name="Futura" tvg-logo="GOIABA/Futura.png" group-title="TV Aberta",Futura[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/834
+#EXTINF:-1 tvg-ID="FUT" tvg-name="Futura HD" tvg-logo="GOIABA/Futura.png" group-title="TV Aberta",Futura HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5316
+#EXTINF:-1 tvg-ID="CFX" tvg-name="FX" tvg-logo="GOIABA/FX.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FX[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/833
+#EXTINF:-1 tvg-ID="CFX" tvg-name="FX HD" tvg-logo="GOIABA/FX.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FX HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/832
+#EXTINF:-1 tvg-ID="CFX" tvg-name="FX HD [PLUS]" tvg-logo="GOIABA/FX_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]FX HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1845
+#EXTINF:-1 tvg-ID="GAZ" tvg-name="Gazeta HD" tvg-logo="GOIABA/Gazeta_HD.png" group-title="TV Aberta",Gazeta HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/400
+#EXTINF:-1 tvg-ID="GLB" tvg-name="Globo Brasília" tvg-logo="GOIABA/Globo_Brasilia.png" group-title="TV Aberta",Globo Brasília[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/831
+#EXTINF:-1 tvg-ID="GLB" tvg-name="Globo Brasilia HD" tvg-logo="GOIABA/Globo_Brasilia.png" group-title="TV Aberta",Globo Brasilia HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5315
+#EXTINF:-1 tvg-ID="GCB" tvg-name="Globo TV Centro America" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo TV Centro America[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5127
+#EXTINF:-1 tvg-ID="GRC" tvg-name="Globo EPTV Campinas" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo EPTV Campinas[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5130
+#EXTINF:-1 tvg-ID="GRC" tvg-name="Globo EPTV Campinas HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo EPTV Campinas HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5314
+#EXTINF:-1 tvg-ID="GCR" tvg-name="Globo EPTV Sao Carlos" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo EPTV Sao Carlos[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5129
+#EXTINF:-1 tvg-ID="GRP" tvg-name="Globo Ribeirão Preto" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Ribeirão Preto[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5312
+#EXTINF:-1 tvg-ID="GRP" tvg-name="Globo Ribeirão Preto HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Ribeirão Preto HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5313
+#EXTINF:-1 tvg-ID="GBB" tvg-name="Globo - TV Bahia" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo - TV Bahia[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5071
+#EXTINF:-1 tvg-ID="GBB" tvg-name="Globo - TV Bahia HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo - TV Bahia HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5309
+#EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas" tvg-logo="GOIABA/Globo_Minas.png" group-title="TV Aberta",Globo Minas[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/830
+#EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Minas HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5093
+#EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas Full HD" tvg-logo="GOIABA/Globo_Minas.png" group-title="TV Aberta",Globo Minas Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5472
+#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News" tvg-logo="GOIABA/GloboNews.png" group-title="Notícias",Globo News[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/826
+#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News HD" tvg-logo="GOIABA/GloboNews.png" group-title="Notícias",Globo News HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1498
+#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News Full HD" tvg-logo="GOIABA/GloboNews.png" group-title="Notícias",Globo News Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5442
+#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News HD [PLUS]" tvg-logo="GOIABA/GloboNews.png" group-title="Notícias",Globo News HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1846
+#EXTINF:-1 tvg-ID="GPE" tvg-name="Globo Nordeste" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Nordeste[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5067
+#EXTINF:-1 tvg-ID="GPE" tvg-name="Globo Nordeste HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Nordeste HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5073
+#EXTINF:-1 tvg-ID="POA" tvg-name="Globo - RBS TV" tvg-logo="GOIABA/RBS_TV_Porto_Alegre.png" group-title="TV Aberta",Globo - RBS TV[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/764
+#EXTINF:-1 tvg-ID="POA" tvg-name="Globo - RBS TV HD" tvg-logo="GOIABA/RBS_TV_Porto_Alegre.png" group-title="TV Aberta",Globo - RBS TV HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5311
+#EXTINF:-1 tvg-ID="GRJ" tvg-name="Globo RJ" tvg-logo="GOIABA/Globo_RJ_HD.png" group-title="TV Aberta",Globo RJ[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/829
+#EXTINF:-1 tvg-ID="GRJ" tvg-name="Globo RJ HD" tvg-logo="GOIABA/Globo_RJ_HD.png" group-title="TV Aberta",Globo RJ HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/828
+#EXTINF:-1 tvg-ID="GRD" tvg-name="Globo RJ Full HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo RJ Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5471
+#EXTINF:-1 tvg-ID="GRD" tvg-name="Globo Rede HD [PLUS]" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Rede HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1847
+#EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo NSC TV Florianopolis[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5421
+#EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo NSC TV Florianopolis HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5420
+#EXTINF:-1 tvg-ID="TPH" tvg-name="Globo Curitiba" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Curitiba[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5128
+#EXTINF:-1 tvg-ID="TPH" tvg-name="Globo Curitiba HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Curitiba HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5310
+#EXTINF:-1 tvg-ID="TPH" tvg-name="Globo RPC Curitiba Full HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo RPC Curitiba Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5469
+#EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP" tvg-logo="GOIABA/Globo_SP.png" group-title="TV Aberta",Globo SP[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/827
+#EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo SP HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5095
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo TV Gazeta Vitória[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/12077
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória Full HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo TV Gazeta Vitória Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/12078
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo TV Gazeta Vitória HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/12079
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta SUL ES Full HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo TV Gazeta SUL ES Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/12080
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta ES HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo TV Gazeta ES HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/12081
+#EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP Full HD" tvg-logo="GOIABA/Globo_SP.png" group-title="TV Aberta",Globo SP Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5470
+#EXTINF:-1 tvg-ID="GLH" tvg-name="Globo SP HD [PLUS]" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo SP HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5528
+#EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Anhaguera Goiania" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Anhaguera Goiania[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5074
+#EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Goias - TV Anhanguera HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Goias - TV Anhanguera HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5072
+#EXTINF:-1 tvg-ID="TVT" tvg-name="Globo TV Tribuna Santos" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo TV Tribuna Santos[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5126
+#EXTINF:-1 tvg-ID="GVA" tvg-name="TV Vanguarda Sao Jose dos Campos" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",TV Vanguarda Sao Jose dos Campos[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5125
+#EXTINF:-1 tvg-ID="GPA" tvg-name="Globo Para (Belem) - TV Liberal" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo Para (Belem) - TV Liberal[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5069
+#EXTINF:-1 tvg-ID="GJR" tvg-name="Globo TV TEM S.J. Rio Preto" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo TV TEM S.J. Rio Preto[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5307
+#EXTINF:-1 tvg-ID="GJR" tvg-name="Globo TV TEM S.J. Rio Preto HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo TV TEM S.J. Rio Preto HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5308
+#EXTINF:-1 tvg-ID="TEM" tvg-name="Globo - TV TEM Bauru" tvg-logo="GOIABA/TV_Tem_Bauru.png" group-title="TV Aberta",Globo - TV TEM Bauru[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/714
+#EXTINF:-1 tvg-ID="TEM" tvg-name="Globo - TV TEM Sorocaba" tvg-logo="GOIABA/TV_Tem_Bauru.png" group-title="TV Aberta",Globo - TV TEM Sorocaba[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/713
+#EXTINF:-1 tvg-ID="GBF" tvg-name="Globo - TV Verdes Mares" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",Globo - TV Verdes Mares[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5068
+#EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat" tvg-logo="GOIABA/Mais_Globosat.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]+Globosat[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/804
+#EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat HD" tvg-logo="GOIABA/Mais_Globosat.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]+Globosat HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1488
+#EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat HD [PLUS]" tvg-logo="GOIABA/Mais_Globosat.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]+Globosat HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4135
+#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob" tvg-logo="GOIABA/Gloob.png" group-title="Infantil",Gloob[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/825
+#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob HD" tvg-logo="GOIABA/Gloob.png" group-title="Infantil",Gloob HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1490
+#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob Full HD" tvg-logo="GOIABA/Gloob.png" group-title="Infantil",Gloob Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5441
+#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob HD [PLUS]" tvg-logo="GOIABA/Gloob.png" group-title="Infantil",Gloob HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1848
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Gloobinho" tvg-logo="GOIABA/Gloobinho.png" group-title="Infantil",Gloobinho[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5306
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Gloobinho HD" tvg-logo="GOIABA/Gloobinho.png" group-title="Infantil",Gloobinho HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5305
+#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT" tvg-logo="GOIABA/GNT.png" group-title="Variedades",GNT[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/824
+#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT HD" tvg-logo="GOIABA/GNT.png" group-title="Variedades",GNT HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/823
+#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT HD [PLUS]" tvg-logo="GOIABA/GNT.png" group-title="Variedades",GNT HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4142
+#EXTINF:-1 tvg-ID="CH2" tvg-name="H2" tvg-logo="GOIABA/H2.png" group-title="Documentários",H2[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/822
+#EXTINF:-1 tvg-ID="CH2" tvg-name="H2 HD" tvg-logo="GOIABA/H2.png" group-title="Documentários",H2 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/821
+#EXTINF:-1 tvg-ID="CH2" tvg-name="H2 [PLUS]" tvg-logo="GOIABA/H2.png" group-title="Documentários",H2 [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4141
+#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO" tvg-logo="GOIABA/HBO.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/820
+#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO HD" tvg-logo="GOIABA/HBO.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/816
+#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO Full HD" tvg-logo="GOIABA/HBO.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5467
+#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO HD [PLUS]" tvg-logo="GOIABA/HBO_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1850
+#EXTINF:-1 tvg-ID="HB2" tvg-name="HBO 2" tvg-logo="GOIABA/HBO_2_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO 2[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/810
+#EXTINF:-1 tvg-ID="HB2" tvg-name="HBO 2 HD" tvg-logo="GOIABA/HBO_2_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO 2 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/819
+#EXTINF:-1 tvg-ID="H2H" tvg-name="HBO 2 Full HD" tvg-logo="GOIABA/HBO_2.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO 2 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5468
+#EXTINF:-1 tvg-ID="H2H" tvg-name="HBO 2 HD [PLUS]" tvg-logo="GOIABA/HBO_2_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO 2 HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1849
+#EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family" tvg-logo="GOIABA/HBO_Family.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Family[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/818
+#EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family HD" tvg-logo="GOIABA/HBO_Family.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Family HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/817
+#EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family HD [PLUS]" tvg-logo="GOIABA/HBO_Family.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Family HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4140
+#EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus" tvg-logo="GOIABA/HBO_Plus.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Plus[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/815
+#EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus HD" tvg-logo="GOIABA/HBO_Plus.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Plus HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/813
+#EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus HD [PLUS]" tvg-logo="GOIABA/HBO_Plus.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Plus HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4139
+#EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature" tvg-logo="GOIABA/HBO_Signature_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Signature[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/812
+#EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature HD" tvg-logo="GOIABA/HBO_Signature_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Signature HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/811
+#EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature HD [PLUS]" tvg-logo="GOIABA/HBO_Signature_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Signature HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4138
+#EXTINF:-1 tvg-ID="HIS" tvg-name="History" tvg-logo="GOIABA/History_Channel.png" group-title="Documentários",History[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/726
+#EXTINF:-1 tvg-ID="HIS" tvg-name="History HD" tvg-logo="GOIABA/History_Channel.png" group-title="Documentários",History HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/809
+#EXTINF:-1 tvg-ID="HIS" tvg-name="History Full HD" tvg-logo="GOIABA/History.png" group-title="Documentários",History Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5424
+#EXTINF:-1 tvg-ID="HIS" tvg-name="History HD [PLUS]" tvg-logo="GOIABA/History_Channel.png" group-title="Documentários",History HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4137
+#EXTINF:-1 tvg-ID="LIV" tvg-name="ID" tvg-logo="GOIABA/ID.png" group-title="Variedades",ID[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/807
+#EXTINF:-1 tvg-ID="LIV" tvg-name="ID HD" tvg-logo="GOIABA/ID.png" group-title="Variedades",ID HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/806
+#EXTINF:-1 tvg-ID="LIV" tvg-name="ID HD [PLUS]" tvg-logo="GOIABA/ID.png" group-title="Variedades",ID HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4155
+#EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime" tvg-logo="GOIABA/Lifetime.png" group-title="Variedades",Lifetime[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/805
+#EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime HD" tvg-logo="GOIABA/Lifetime.png" group-title="Variedades",Lifetime HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1489
+#EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime [PLUS]" tvg-logo="GOIABA/Lifetime.png" group-title="Variedades",Lifetime [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4136
+#EXTINF:-1 tvg-ID="MHD" tvg-name="HBO MUNDI" tvg-logo="GOIABA/Max_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO MUNDI[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/803
+#EXTINF:-1 tvg-ID="MHD" tvg-name="HBO MUNDI HD" tvg-logo="GOIABA/Max_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO MUNDI HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1497
+#EXTINF:-1 tvg-ID="MAP" tvg-name="HBO XTREME" tvg-logo="GOIABA/Max_Prime.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO XTREME[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/802
+#EXTINF:-1 tvg-ID="SET" tvg-name="Sony" tvg-logo="GOIABA/Canal_Sony.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Sony[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/881
+#EXTINF:-1 tvg-ID="SEH" tvg-name="Sony HD" tvg-logo="GOIABA/Canal_Sony.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Sony HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/880
+#EXTINF:-1 tvg-ID="SEH" tvg-name="Sony HD [PLUS]" tvg-logo="GOIABA/Canal_Sony.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Sony HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4115
+#EXTINF:-1 tvg-ID="MAP" tvg-name="HBO Xtreme HD" tvg-logo="GOIABA/Max_Prime.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]HBO Xtreme HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1487
+#EXTINF:-1 tvg-ID="MHD" tvg-name="Maxup HD [PLUS]" tvg-logo="GOIABA/Max_UP.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Maxup HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4134
+#EXTINF:-1 tvg-ID="MPX" tvg-name="MegaPix" tvg-logo="GOIABA/Megapix_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]MegaPix[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/799
+#EXTINF:-1 tvg-ID="MPX" tvg-name="Megapix HD" tvg-logo="GOIABA/Megapix_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Megapix HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/798
+#EXTINF:-1 tvg-ID="MPX" tvg-name="Megapix HD [PLUS]" tvg-logo="GOIABA/Megapix_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Megapix HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1851
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="GOIABA/MTV.png" group-title="Variedades",MTV[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/797
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV HD" tvg-logo="GOIABA/MTV.png" group-title="Variedades",MTV HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1485
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV HD [PLUS]" tvg-logo="GOIABA/MTV.png" group-title="Variedades",MTV HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4133
+#EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow" tvg-logo="GOIABA/Multishow.png" group-title="Variedades",Multishow[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/796
+#EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow HD" tvg-logo="GOIABA/Multishow.png" group-title="Variedades",Multishow HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/795
+#EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow HD [PLUS]" tvg-logo="GOIABA/Multishow.png" group-title="Variedades",Multishow HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4131
+#EXTINF:-1 tvg-ID="MUB" tvg-name="Music Box Brasil" tvg-logo="GOIABA/Music_Box_Brazil.png" group-title="Variedades",Music Box Brasil[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/794
+#EXTINF:-1 tvg-ID="MUB" tvg-name="Music Box Brasil HD" tvg-logo="GOIABA/Music_Box_Brazil.png" group-title="Variedades",Music Box Brasil HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5304
+#EXTINF:-1 tvg-ID="NGH" tvg-name="NatGeo Wild" tvg-logo="GOIABA/Nat_Geo_Wild_HD.png" group-title="Documentários",NatGeo Wild[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/793
+#EXTINF:-1 tvg-ID="NGH" tvg-name="NatGeo Wild HD" tvg-logo="GOIABA/Nat_Geo_Wild_HD.png" group-title="Documentários",NatGeo Wild HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/702
+#EXTINF:-1 tvg-ID="NGH" tvg-name="Nat Geo Wild Full HD" tvg-logo="GOIABA/Nat_Geo_Wild_HD.png" group-title="Documentários",Nat Geo Wild Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5428
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Natgeo Kids" tvg-logo="GOIABA/Natgeo_Kids.png" group-title="Infantil",Natgeo Kids[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5303
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Natgeo Kids HD" tvg-logo="GOIABA/Natgeo_Kids.png" group-title="Infantil",Natgeo Kids HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5302
+#EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic" tvg-logo="GOIABA/Nat_Geo_HD.png" group-title="Documentários",National Geographic[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/792
+#EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic HD" tvg-logo="GOIABA/Nat_Geo_HD.png" group-title="Documentários",National Geographic HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/791
+#EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic [PLUS]" tvg-logo="GOIABA/Nat_Geo_HD.png" group-title="Documentários",National Geographic [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4129
+#EXTINF:-1 tvg-ID="NHK" tvg-name="NHK" tvg-logo="GOIABA/NHK.png" group-title="Internacional",NHK[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/789
+#EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon" tvg-logo="GOIABA/Nick.png" group-title="Infantil",Nickelodeon[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/787
+#EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon HD" tvg-logo="GOIABA/Nick.png" group-title="Infantil",Nickelodeon HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1484
+#EXTINF:-1 tvg-ID="NIC" tvg-name="Nicklodeon Full HD" tvg-logo="GOIABA/Nick.png" group-title="Infantil",Nicklodeon Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5426
+#EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon HD [PLUS]" tvg-logo="GOIABA/Nick.png" group-title="Infantil",Nickelodeon HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4128
+#EXTINF:-1 tvg-ID="NJR" tvg-name="Nick Jr." tvg-logo="GOIABA/Nick_Jr..png" group-title="Infantil",Nick Jr.[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/788
+#EXTINF:-1 tvg-ID="NJR" tvg-name="Nick Jr. HD" tvg-logo="GOIABA/Nick_Jr..png" group-title="Infantil",Nick Jr. HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5301
+#EXTINF:-1 tvg-ID="NJR" tvg-name="Nick JR Full HD" tvg-logo="GOIABA/Nick_Jr..png" group-title="Infantil",Nick JR Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5427
+#EXTINF:-1 tvg-ID="OFF" tvg-name="OFF" tvg-logo="GOIABA/OFF.png" group-title="Esportes",OFF[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/785
+#EXTINF:-1 tvg-ID="OFF" tvg-name="OFF HD" tvg-logo="GOIABA/OFF.png" group-title="Esportes",OFF HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/784
+#EXTINF:-1 tvg-ID="OFF" tvg-name="OFF HD [PLUS]" tvg-logo="GOIABA/OFF.png" group-title="Esportes",OFF HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4125
+#EXTINF:-1 tvg-ID="PAR" tvg-name="Paramount Channel" tvg-logo="GOIABA/Paramount.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Paramount Channel[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/783
+#EXTINF:-1 tvg-ID="PAQ" tvg-name="Paramount Channel HD" tvg-logo="GOIABA/Paramount.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Paramount Channel HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/782
+#EXTINF:-1 tvg-ID="PAR" tvg-name="Paramount HD [PLUS]" tvg-logo="GOIABA/Paramount.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Paramount HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4124
+#EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes" tvg-logo="GOIABA/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/767
+#EXTINF:-1 tvg-ID="9A1" tvg-name="Premiere Clubes HD" tvg-logo="GOIABA/Premiere_1_HD.png" group-title="Esportes",Premiere Clubes HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/780
+#EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes Full HD" tvg-logo="GOIABA/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5455
+#EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes HD [ALTERNATIVO]" tvg-logo="GOIABA/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes HD [ALTERNATIVO][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1852
+#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2" tvg-logo="GOIABA/Premiere_2.png" group-title="Esportes",PFC 2[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/779
+#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 HD" tvg-logo="GOIABA/Premiere_2.png" group-title="Esportes",PFC 2 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/778
+#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 Full HD" tvg-logo="GOIABA/Premiere_2.png" group-title="Esportes",PFC 2 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5454
+#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 [ALTERNATIVO]" tvg-logo="GOIABA/Premiere_Clubes.png" group-title="Esportes",PFC 2 [ALTERNATIVO][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1853
+#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3" tvg-logo="GOIABA/Premiere_3.png" group-title="Esportes",PFC 3[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/777
+#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 HD" tvg-logo="GOIABA/Premiere_3.png" group-title="Esportes",PFC 3 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/776
+#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 Full HD" tvg-logo="GOIABA/Premiere_3.png" group-title="Esportes",PFC 3 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5453
+#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 [ALTERNATIVO]" tvg-logo="GOIABA/Premiere_Clubes.png" group-title="Esportes",PFC 3 [ALTERNATIVO][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1854
+#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4" tvg-logo="GOIABA/Premiere_4.png" group-title="Esportes",PFC 4[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/775
+#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 HD" tvg-logo="GOIABA/Premiere_4.png" group-title="Esportes",PFC 4 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/774
+#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 Full HD" tvg-logo="GOIABA/Premiere_4.png" group-title="Esportes",PFC 4 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5452
+#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 [ALTERNATIVO]" tvg-logo="GOIABA/Premiere_Clubes.png" group-title="Esportes",PFC 4 [ALTERNATIVO][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1855
+#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5" tvg-logo="GOIABA/Premiere_5.png" group-title="Esportes",PFC 5[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/773
+#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 HD" tvg-logo="GOIABA/Premiere_5.png" group-title="Esportes",PFC 5 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/772
+#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 Full HD" tvg-logo="GOIABA/Premiere_5.png" group-title="Esportes",PFC 5 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5451
+#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 [ALTERNATIVO]" tvg-logo="GOIABA/Premiere_Clubes.png" group-title="Esportes",PFC 5 [ALTERNATIVO][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1856
+#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6" tvg-logo="GOIABA/Premiere_6.png" group-title="Esportes",PFC 6[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/771
+#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 HD" tvg-logo="GOIABA/Premiere_6.png" group-title="Esportes",PFC 6 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4123
+#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 Full HD" tvg-logo="GOIABA/Premiere_6.png" group-title="Esportes",PFC 6 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5450
+#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 [ALTERNATIVO]" tvg-logo="GOIABA/Premiere_6.png" group-title="Esportes",PFC 6 [ALTERNATIVO][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5330
+#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7" tvg-logo="GOIABA/Premiere_7.png" group-title="Esportes",PFC 7[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/770
+#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 HD" tvg-logo="GOIABA/Premiere_7.png" group-title="Esportes",PFC 7 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4122
+#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 Full HD" tvg-logo="GOIABA/Premiere_7.png" group-title="Esportes",PFC 7 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5449
+#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 [ALTERNATIVO]" tvg-logo="GOIABA/Premiere_7.png" group-title="Esportes",PFC 7 [ALTERNATIVO][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5331
+#EXTINF:-1 tvg-ID="9A8" tvg-name="PFC 8" tvg-logo="GOIABA/Premiere_8.png" group-title="Esportes",PFC 8[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/769
+#EXTINF:-1 tvg-ID="781" tvg-name="PFC 9" tvg-logo="GOIABA/Premiere_9.png" group-title="Esportes",PFC 9[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/768
+#EXTINF:-1 tvg-ID="BQ7" tvg-name="Prime Box Brasil HD" tvg-logo="GOIABA/Prime_Box_Brazil.png" group-title="Variedades",Prime Box Brasil HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5300
+#EXTINF:-1 tvg-ID="REC" tvg-name="Record" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/761
+#EXTINF:-1 tvg-ID="REC" tvg-name="Record HD" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/763
+#EXTINF:-1 tvg-ID="REC" tvg-name="Record Full HD" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5466
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Internacional" tvg-logo="GOIABA/Globo_Internacional.png" group-title="Internacional",Globo Internacional[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/604
+#EXTINF:-1 tvg-ID="REC" tvg-name="Record HD [PLUS]" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1857
+#EXTINF:-1 tvg-ID="RSA" tvg-name="Record BA" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record BA[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11072
+#EXTINF:-1 tvg-ID="RSA" tvg-name="Record BA HD" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record BA HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11071
+#EXTINF:-1 tvg-ID="RBH" tvg-name="Record DF" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record DF[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11069
+#EXTINF:-1 tvg-ID="RBH" tvg-name="Record DF HD" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record DF HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11068
+#EXTINF:-1 tvg-ID="RMG" tvg-name="Record MG" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record MG[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/7565
+#EXTINF:-1 tvg-ID="RMG" tvg-name="Record MG HD" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record MG HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/7566
+#EXTINF:-1 tvg-ID="RJH" tvg-name="Record RJ" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record RJ[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/7567
+#EXTINF:-1 tvg-ID="RJH" tvg-name="Record RJ HD" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record RJ HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/7568
+#EXTINF:-1 tvg-ID="GUA" tvg-name="Record RS" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record RS[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11066
+#EXTINF:-1 tvg-ID="GUA" tvg-name="Record RS HD" tvg-logo="GOIABA/Record.png" group-title="TV Aberta",Record RS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11065
+#EXTINF:-1 tvg-ID="" tvg-name="Record Internacional" tvg-logo="https://img.miptv.ws/Record.png" group-title="Internacional",Record Internacional[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/899
+#EXTINF:-1 tvg-ID="RCN" tvg-name="Record News" tvg-logo="GOIABA/Record_News.png" group-title="Notícias",Record News[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/762
+#EXTINF:-1 tvg-ID="TRV" tvg-name="RedeTV!" tvg-logo="GOIABA/RedeTV!.png" group-title="TV Aberta",RedeTV![/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/759
+#EXTINF:-1 tvg-ID="RTV" tvg-name="RedeTV! HD" tvg-logo="GOIABA/RedeTV!.png" group-title="TV Aberta",RedeTV! HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/758
+#EXTINF:-1 tvg-ID="RTV" tvg-name="RedeTV! HD [PLUS]" tvg-logo="GOIABA/RedeTV!.png" group-title="TV Aberta",RedeTV! HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4119
+#EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida" tvg-logo="GOIABA/Rede_Vida.png" group-title="Religiosos",Rede Vida[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/757
+#EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida HD" tvg-logo="GOIABA/Rede_Vida.png" group-title="Religiosos",Rede Vida HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5653
+#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT" tvg-logo="GOIABA/SBT.png" group-title="TV Aberta",SBT[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/756
+#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT HD" tvg-logo="GOIABA/SBT.png" group-title="TV Aberta",SBT HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/755
+#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT Full HD" tvg-logo="GOIABA/SBT.png" group-title="TV Aberta",SBT Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5465
+#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT HD [PLUS]" tvg-logo="GOIABA/SBT.png" group-title="TV Aberta",SBT HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1858
+#EXTINF:-1 tvg-ID="" tvg-name="SBT SP Interior" tvg-logo="GOIABA/SBT_SP_HD.png" group-title="TV Aberta",SBT SP Interior[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5297
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Smithsonian Channel" tvg-logo="GOIABA/smithsonianc1.png" group-title="Documentários",Smithsonian Channel[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11419
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Smithsonian Channel HD" tvg-logo="GOIABA/smithsonianc1.png" group-title="Documentários",Smithsonian Channel HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/11420
+#EXTINF:-1 tvg-ID="" tvg-name="RTP Internacional" tvg-logo="GOIABA/RTP_Internacional.png" group-title="Internacional",RTP Internacional[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/574
+#EXTINF:-1 tvg-ID="SPA" tvg-name="Space" tvg-logo="GOIABA/Space_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Space[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/753
+#EXTINF:-1 tvg-ID="SPA" tvg-name="Space HD" tvg-logo="GOIABA/Space_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Space HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/752
+#EXTINF:-1 tvg-ID="SPA" tvg-name="Space HD [PLUS]" tvg-logo="GOIABA/Space_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Space HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4114
+#EXTINF:-1 tvg-ID="SPO" tvg-name="SporTV" tvg-logo="GOIABA/SporTV.png" group-title="Esportes",SporTV[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/748
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV HD" tvg-logo="GOIABA/SporTV_3.png" group-title="Esportes",SporTV HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/749
+#EXTINF:-1 tvg-ID="SPO" tvg-name="Sportv Full HD" tvg-logo="GOIABA/SporTV.png" group-title="Esportes",Sportv Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5438
+#EXTINF:-1 tvg-ID="SPO" tvg-name="SporTV HD [PLUS]" tvg-logo="GOIABA/SporTV_3.png" group-title="Esportes",SporTV HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1859
+#EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2" tvg-logo="GOIABA/SporTV_2.png" group-title="Esportes",SporTV2[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/747
+#EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2 HD" tvg-logo="GOIABA/SporTV_2.png" group-title="Esportes",SporTV2 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/751
+#EXTINF:-1 tvg-ID="SP2" tvg-name="Sportv 2 Full HD" tvg-logo="GOIABA/SporTV_2.png" group-title="Esportes",Sportv 2 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5439
+#EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2 HD [PLUS]" tvg-logo="GOIABA/SporTV_2.png" group-title="Esportes",SporTV2 HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1860
+#EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3" tvg-logo="GOIABA/SporTV_3.png" group-title="Esportes",SporTV3[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/745
+#EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3 HD" tvg-logo="GOIABA/SporTV_3.png" group-title="Esportes",SporTV3 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/750
+#EXTINF:-1 tvg-ID="SP3" tvg-name="Sportv 3 Full HD" tvg-logo="GOIABA/SporTV_3.png" group-title="Esportes",Sportv 3 Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5440
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4 SD" tvg-logo="" group-title="Esportes",SPORTV 4 SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/14913
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4 HD" tvg-logo="" group-title="Esportes",SPORTV 4 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/14914
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4 FHD" tvg-logo="" group-title="Esportes",SPORTV 4 FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/14915
+#EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3 HD [PLUS]" tvg-logo="GOIABA/SporTV_3.png" group-title="Esportes",SporTV3 HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1861
+#EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal" tvg-logo="GOIABA/Studio_Universal_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Studio Universal[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/743
+#EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal HD" tvg-logo="GOIABA/Studio_Universal.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Studio Universal HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1480
+#EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal HD [PLUS]" tvg-logo="GOIABA/Studio_Universal_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Studio Universal HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4113
+#EXTINF:-1 tvg-ID="SUN" tvg-name="SundanceTV" tvg-logo="GOIABA/Sundance_TV.jpg" group-title="Variedades",SundanceTV[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5296
+#EXTINF:-1 tvg-ID="SUN" tvg-name="SundanceTV HD" tvg-logo="GOIABA/Sundance_TV.jpg" group-title="Variedades",SundanceTV HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5295
+#EXTINF:-1 tvg-ID="SCI" tvg-name="Syfy" tvg-logo="GOIABA/Syfy.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Syfy[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/742
+#EXTINF:-1 tvg-ID="SCI" tvg-name="Syfy HD" tvg-logo="GOIABA/Syfy.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Syfy HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1483
+#EXTINF:-1 tvg-ID="SCI" tvg-name="SyFy HD [PLUS]" tvg-logo="GOIABA/Syfy.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]SyFy HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4111
+#EXTINF:-1 tvg-ID="TBS" tvg-name="TBS" tvg-logo="GOIABA/TBS.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TBS[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/741
+#EXTINF:-1 tvg-ID="TBS" tvg-name="TBS HD" tvg-logo="GOIABA/TBS.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TBS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/740
+#EXTINF:-1 tvg-ID="TBS" tvg-name="TBS [PLUS]" tvg-logo="GOIABA/TBS.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TBS [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4110
+#EXTINF:-1 tvg-ID="TCM" tvg-name="TCM" tvg-logo="GOIABA/TCM.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TCM[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/734
+#EXTINF:-1 tvg-ID="TCM" tvg-name="TCM HD [PLUS]" tvg-logo="GOIABA/TCM.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TCM HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4109
+#EXTINF:-1 tvg-ID="" tvg-name="TCV INTERNACIONAL" tvg-logo="GOIABA/TCV_Internacional.png" group-title="Internacional",TCV INTERNACIONAL[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/983
+#EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action" tvg-logo="GOIABA/Telecine_Action_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Action[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/733
+#EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action HD" tvg-logo="GOIABA/Telecine_Action_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Action HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/739
+#EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action Full HD" tvg-logo="GOIABA/Telecine_Action.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Action Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5464
+#EXTINF:-1 tvg-ID="T2H" tvg-name="Telecine Action HD [PLUS]" tvg-logo="GOIABA/Telecine_Action_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Action HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1862
+#EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult" tvg-logo="GOIABA/Telecine_Cult.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Cult[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/732
+#EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult HD" tvg-logo="GOIABA/Telecine_Cult.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Cult HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1482
+#EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult HD [PLUS]" tvg-logo="GOIABA/Telecine_Cult.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Cult HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4108
+#EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun" tvg-logo="GOIABA/Telecine_Fun_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Fun[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/731
+#EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun HD" tvg-logo="GOIABA/Telecine_Fun_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Fun HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/738
+#EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun Full HD" tvg-logo="GOIABA/Telecine_Fun.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Fun Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5463
+#EXTINF:-1 tvg-ID="T6H" tvg-name="Telecine Fun HD [PLUS]" tvg-logo="GOIABA/Telecine_Fun_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Fun HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1863
+#EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca" tvg-logo="GOIABA/Telecine_Pipoca_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Pipoca[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/730
+#EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca HD" tvg-logo="GOIABA/Telecine_Pipoca_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Pipoca HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/737
+#EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca Full HD" tvg-logo="GOIABA/Telecine_Pipoca.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Pipoca Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5462
+#EXTINF:-1 tvg-ID="T4H" tvg-name="Telecine Pipoca HD [PLUS]" tvg-logo="GOIABA/Telecine_Pipoca_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Pipoca HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1864
+#EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium" tvg-logo="GOIABA/Telecine_Premium_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Premium[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/729
+#EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium HD" tvg-logo="GOIABA/Telecine_Premium_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Premium HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/736
+#EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium Full HD" tvg-logo="GOIABA/Telecine_Premium.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Premium Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5461
+#EXTINF:-1 tvg-ID="TCH" tvg-name="Telecine Premium HD [PLUS]" tvg-logo="GOIABA/Telecine_Premium_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Premium HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1865
+#EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch" tvg-logo="GOIABA/Telecine_Touch_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Touch[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/728
+#EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch HD" tvg-logo="GOIABA/Telecine_Touch_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Touch HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/735
+#EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch Full HD" tvg-logo="GOIABA/Telecine_Touch.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Touch Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5460
+#EXTINF:-1 tvg-ID="T3H" tvg-name="Telecine Touch HD [PLUS]" tvg-logo="GOIABA/Telecine_Touch_HD.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Telecine Touch HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1866
+#EXTINF:-1 tvg-ID="TVV" tvg-name="Terra Viva" tvg-logo="GOIABA/Terra_Viva.png" group-title="TV Aberta",Terra Viva[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/727
+#EXTINF:-1 tvg-ID="TRV" tvg-name="TLC" tvg-logo="GOIABA/TLC.png" group-title="Variedades",TLC[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/725
+#EXTINF:-1 tvg-ID="TRV" tvg-name="TLC HD" tvg-logo="GOIABA/TLC.png" group-title="Variedades",TLC HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1481
+#EXTINF:-1 tvg-ID="TRV" tvg-name="TLC HD [PLUS]" tvg-logo="GOIABA/TLC.png" group-title="Variedades",TLC HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1867
+#EXTINF:-1 tvg-ID="JUS" tvg-name="TV Justica" tvg-logo="GOIABA/TV_Justica.png" group-title="TV Aberta",TV Justica[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5293
+#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="GOIABA/TNT.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TNT[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/724
+#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT HD" tvg-logo="GOIABA/TNT.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TNT HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/723
+#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT HD [PLUS]" tvg-logo="GOIABA/TNT.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TNT HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1868
+#EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Séries" tvg-logo="GOIABA/TNT_Series.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TNT Séries[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/722
+#EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Séries HD" tvg-logo="GOIABA/TNT_Series.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TNT Séries HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/721
+#EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Series HD [PLUS]" tvg-logo="GOIABA/TNT_Series.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]TNT Series HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4107
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="PlayKids" tvg-logo="GOIABA/PlayKids.jpg" group-title="Infantil",PlayKids[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/7563
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="PlayKids HD" tvg-logo="GOIABA/PlayKids.jpg" group-title="Infantil",PlayKids HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/7564
+#EXTINF:-1 tvg-ID="TOC" tvg-name="Tooncast" tvg-logo="GOIABA/Tooncast.png" group-title="Infantil",Tooncast[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/720
+#EXTINF:-1 tvg-ID="TOC" tvg-name="Tooncast HD [PLUS]" tvg-logo="GOIABA/Tooncast.png" group-title="Infantil",Tooncast HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4106
+#EXTINF:-1 tvg-ID="TRU" tvg-name="TruTV" tvg-logo="GOIABA/TruTV.png" group-title="Variedades",TruTV[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/719
+#EXTINF:-1 tvg-ID="TRU" tvg-name="TruTV HD" tvg-logo="GOIABA/TruTV.png" group-title="Variedades",TruTV HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5291
+#EXTINF:-1 tvg-ID="APA" tvg-name="TV Aparecida" tvg-logo="GOIABA/TV_Aparecida.png" group-title="Religiosos",TV Aparecida[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/895
+#EXTINF:-1 tvg-ID="CUL" tvg-name="TV Cultura" tvg-logo="GOIABA/TV_Cultura.png" group-title="Variedades",TV Cultura[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5161
+#EXTINF:-1 tvg-ID="CUL" tvg-name="TV Cultura HD" tvg-logo="GOIABA/TV_Cultura.png" group-title="Variedades",TV Cultura HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5656
+#EXTINF:-1 tvg-ID="TED" tvg-name="TV Brasil" tvg-logo="GOIABA/TV_Brasil.png" group-title="TV Aberta",TV Brasil[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/717
+#EXTINF:-1 tvg-ID="CAM" tvg-name="TV Câmara" tvg-logo="GOIABA/TV_Camara.png" group-title="TV Aberta",TV Câmara[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/602
+#EXTINF:-1 tvg-ID="RTB" tvg-name="TV Rá Tim Bum" tvg-logo="GOIABA/TV_Ra_Tim_Bum.png" group-title="Infantil",TV Rá Tim Bum[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/715
+#EXTINF:-1 tvg-ID="RTB" tvg-name="TV Ra Tim Bum HD" tvg-logo="GOIABA/TV_Ra_Tim_Bum.png" group-title="Infantil",TV Ra Tim Bum HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5292
+#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel" tvg-logo="GOIABA/Universal_Channel.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Universal Channel[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/711
+#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel HD" tvg-logo="GOIABA/Universal_Channel.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Universal Channel HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/710
+#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel HD [PLUS]" tvg-logo="GOIABA/Universal_Channel.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Universal Channel HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4103
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="GOIABA/VH1.png" group-title="Variedades",VH1[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5290
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1 HD" tvg-logo="GOIABA/VH1.png" group-title="Variedades",VH1 HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/1479
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1 HD [PLUS]" tvg-logo="GOIABA/VH1_Channel.png" group-title="Variedades",VH1 HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4101
+#EXTINF:-1 tvg-ID="MTH" tvg-name="VH1 Mega Hits" tvg-logo="GOIABA/VH1_MegaHits.png" group-title="Variedades",VH1 Mega Hits[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/709
+#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva" tvg-logo="GOIABA/Viva.png" group-title="Variedades",Viva[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/708
+#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva HD" tvg-logo="GOIABA/Viva.png" group-title="Variedades",Viva HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/707
+#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva Full HD" tvg-logo="GOIABA/Viva.png" group-title="Variedades",Viva Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5437
+#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva HD [PLUS]" tvg-logo="GOIABA/Viva.png" group-title="Variedades",Viva HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4100
+#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel" tvg-logo="GOIABA/Warner_Channel.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Warner Channel[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/706
+#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel HD" tvg-logo="GOIABA/Warner_Channel.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Warner Channel HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/705
+#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Full HD" tvg-logo="GOIABA/Warner_Channel.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Warner Full HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5425
+#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel HD [PLUS]" tvg-logo="GOIABA/Warner_Channel.png" ,[COLOR orange][B]LS - TVs - FILMES E SÉRIES[COLOR yellow] -> [COLOR white]Warner Channel HD [PLUS][/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/4099
+#EXTINF:-1 tvg-ID="WOO" tvg-name="Woohoo" tvg-logo="GOIABA/Woohoo.png" group-title="Esportes",Woohoo[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/704
+#EXTINF:-1 tvg-ID="WOO" tvg-name="Woohoo HD" tvg-logo="GOIABA/Woohoo.png" group-title="Esportes",Woohoo HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/5657
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC MARINGA FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13578
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC MARINGA HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13579
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC MARINGA SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC MARINGA SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13580
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO NSC TV CHAPECO FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13581
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO NSC TV CHAPECO HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13582
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NSC TV CHAPECO SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO NSC TV CHAPECO SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13583
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC FOZ DO IGUACU SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC FOZ DO IGUACU SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13584
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC FOZ DO IGUACU FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13585
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC FOZ DO IGUACU HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13586
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV CLUBE TERESINA SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13587
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV CLUBE TERESINA FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13588
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV CLUBE TERESINA HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13589
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SERGIPE SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SERGIPE SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13590
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SERGIPE FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13591
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SERGIPE HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13592
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV MIRANTE SAO LUIS FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV MIRANTE SAO LUIS FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13593
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV MIRANTE SAO LUIS HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV MIRANTE SAO LUIS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13594
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV MIRANTE SAO LUIS SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV MIRANTE SAO LUIS SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13595
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV MORENA CAMPO GRANDE FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13596
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV MORENA CAMPO GRANDE HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13597
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV MORENA CAMPO GRANDE SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV MORENA CAMPO GRANDE SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13598
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV GAZETA ALAGOAS SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV GAZETA ALAGOAS SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13599
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV GAZETA ALAGOAS FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13600
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV GAZETA ALAGOAS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13601
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV ALTO LITORAL FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13602
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV ALTO LITORAL HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13603
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV ALTO LITORAL SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13604
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV DOS VALES FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13605
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV DOS VALES HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13606
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV DOS VALES SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV DOS VALES SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13607
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV GRANDE MINAS FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13608
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV GRANDE MINAS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13609
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV GRANDE MINAS SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV GRANDE MINAS SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13610
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV SERRA MAR FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13611
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV SERRA MAR HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13612
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV SERRA MAR SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV SERRA MAR SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13613
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NSC TV BLUMENAU FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO NSC TV BLUMENAU FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13614
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NSC TV BLUMENAU HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO NSC TV BLUMENAU HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13615
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NSC TV BLUMENAU SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO NSC TV BLUMENAU SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13616
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RBS TV CAXIAS DO SUL FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13617
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RBS TV CAXIAS DO SUL HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13618
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RBS TV CAXIAS DO SUL SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13619
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO NSC TV JOINVILLE FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13620
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO NSC TV JOINVILLE HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13621
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NSC TV JOINVILLE SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO NSC TV JOINVILLE SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13622
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RBS TV PELOTAS FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13623
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RBS TV PELOTAS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13624
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RBS TV PELOTAS SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RBS TV PELOTAS SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13625
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV CABO BRANCO FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13626
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV CABO BRANCO HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13627
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV CABO BRANCO SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13628
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV RIO SUL FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13629
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV RIO SUL HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13630
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV RIO SUL SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13631
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SANTA CRUZ FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13632
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SANTA CRUZ HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13633
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SANTA CRUZ SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13634
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV CABUGI NATAL SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV CABUGI NATAL SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13635
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV CENTRO AMERICA CUIABA SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13636
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO EPTV ARARAQUARA SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO EPTV ARARAQUARA SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13637
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA MANAUS SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA MANAUS SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13638
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RBS TV PASSO FUNDO FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13639
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RBS TV PASSO FUNDO HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13640
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RBS TV PASSO FUNDO SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RBS TV PASSO FUNDO SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13641
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC LONDRINA FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC LONDRINA FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13642
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC LONDRINA HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC LONDRINA HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13643
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC LONDRINA SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC LONDRINA SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13644
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO EPTV SAO CARLOS FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO EPTV SAO CARLOS FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13645
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO EPTV SAO CARLOS HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO EPTV SAO CARLOS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13646
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV TEM SOROCABA FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13647
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV TEM SOROCABA HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13648
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV TEM BAURU FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV TEM BAURU FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13649
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV TEM BAURU HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13650
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV TRIBUNA SANTOS FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV TRIBUNA SANTOS FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13651
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV TRIBUNA SANTOS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13652
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13653
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV VANGUARDA S. J. DOS CAMPOS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13654
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV VERDES MARES CARIRI FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV VERDES MARES CARIRI FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13655
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV VERDES MARES CARIRI HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV VERDES MARES CARIRI HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13656
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV VERDES MARES CARIRI SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV VERDES MARES CARIRI SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13657
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA MACAPA FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA MACAPA FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13658
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA MACAPA HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA MACAPA HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13659
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA MACAPA SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA MACAPA SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13660
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC CASCAVEL FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC CASCAVEL FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13661
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC CASCAVEL HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC CASCAVEL HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13662
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RPC CASCAVEL SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO RPC CASCAVEL SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13663
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV CABUGI NATAL FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV CABUGI NATAL FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13664
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTER TV CABUGI NATAL HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO INTER TV CABUGI NATAL HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13665
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV MIRANTE COCAIS FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV MIRANTE COCAIS FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13666
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV MIRANTE COCAIS HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV MIRANTE COCAIS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13667
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV MIRANTE COCAIS SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV MIRANTE COCAIS SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13668
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV INTEGRACAO UBERABA FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV INTEGRACAO UBERABA FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13669
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV INTEGRACAO UBERABA HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13670
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV INTEGRACAO UBERABA SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV INTEGRACAO UBERABA SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13671
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SUBAE FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SUBAE FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13672
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SUBAE HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SUBAE HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13673
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SUBAE SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SUBAE SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13674
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SUDOESTE FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SUDOESTE FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13675
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SUDOESTE HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SUDOESTE HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13676
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV SUDOESTE SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV SUDOESTE SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13677
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA RIO BRANCO SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA RIO BRANCO SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13678
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA RIO BRANCO HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA RIO BRANCO HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13679
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA RIO BRANCO FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA RIO BRANCO FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13680
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV DIARIO MOGI DAS CRUZES SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13681
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV DIARIO MOGI DAS CRUZES HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13682
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV DIARIO MOGI DAS CRUZES FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13683
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV TEM ITAPETININGA SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV TEM ITAPETININGA SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13684
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV TEM ITAPETININGA HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV TEM ITAPETININGA HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13685
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV TEM ITAPETININGA FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV TEM ITAPETININGA FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13686
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA BOA VISTA SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA BOA VISTA SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13687
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA BOA VISTA HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA BOA VISTA HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13688
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA BOA VISTA FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA BOA VISTA FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13689
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV FRONTEIRA P. PRUDENTE SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV FRONTEIRA P. PRUDENTE SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13690
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV FRONTEIRA P. PRUDENTE HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV FRONTEIRA P. PRUDENTE HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13691
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV FRONTEIRA P. PRUDENTE FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV FRONTEIRA P. PRUDENTE FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13692
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA PORTO VELHO SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13693
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA PORTO VELHO HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13694
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA PORTO VELHO FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13695
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV INTEGRACAO UBERLANDIA SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13696
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV INTEGRACAO UBERLANDIA HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13697
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV INTEGRACAO UBERLANDIA FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13698
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV VANGUARDA TAUBATE SD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV VANGUARDA TAUBATE SD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13699
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV VANGUARDA TAUBATE HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV VANGUARDA TAUBATE HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13700
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV VANGUARDA TAUBATE FHD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV VANGUARDA TAUBATE FHD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13701
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO TV REDE AMAZONICA MANAUS HD" tvg-logo="GOIABA/Globo.png" group-title="TV Aberta",GLOBO TV REDE AMAZONICA MANAUS HD[/B][/COLOR] 
+http://a.srvbr.me:8880/Rosemara/Rosemara/13702
