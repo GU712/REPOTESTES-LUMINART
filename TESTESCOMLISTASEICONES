@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
 #EXTINF:-1  tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]Futura[/B][/COLOR]		
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR]&amp;url=http://painel.tvdigitalsbl.net:80/Weslei/123456/12957		
 #EXTINF:-1  tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]TV Camara[/B][/COLOR]		
@@ -1456,9 +1459,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR]&amp;url=http://painel.tvdigitalsbl.net:80/Weslei/123456/19622		
 #EXTINF:-1  tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]HBO Pop | FHD - H264[/B][/COLOR]		
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR]&amp;url=http://painel.tvdigitalsbl.net:80/Weslei/123456/19623		
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
 #EXTINF:-1  tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]Globo Santa Maria[/B][/COLOR]		
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR]&amp;url=http://painel.tvdigitalsbl.net:80/Weslei/123456/19624		
 #EXTINF:-1  tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]Lifetime | FHD - H264[/B][/COLOR]		
