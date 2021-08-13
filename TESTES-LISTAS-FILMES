@@ -2841,7 +2841,7 @@ http://brtv.club:8880/movie/Milton/milton10/41353.mp4
 http://brtv.club:8880/movie/Milton/milton10/41352.mp4
 #EXTINF:-1 tvg-name="Deu a Louca em Hollywood" tvg-logo="https://image.tmdb.org/t/p/w342/kZuxR8SUCjizOhynUtBhmZBSaLU.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Deu a Louca em Hollywood[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41351.mp4
-#EXTINF:-1 tvg-name="Deus é Brasileiro" tvg-logo="https://image.tmdb.org/t/p/w342/xBZ3zMmMEWyvOw1Dh97FRF0Pk1p.jpg" group-title="Nacional",Deus é Brasileiro[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Deus é Brasileiro" tvg-logo="https://image.tmdb.org/t/p/w342/xBZ3zMmMEWyvOw1Dh97FRF0Pk1p.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Deus é Brasileiro[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41349.mp4
 #EXTINF:-1 tvg-name="Cyborg: O Dragão do Futuro" tvg-logo="https://image.tmdb.org/t/p/w342/8xzjJo6aYnFand1WJTAhkj4j4GU.jpg" ,[COLOR orange][B] FICÇÃO E FANTASIA [COLOR yellow] -> [COLOR white]Cyborg: O Dragão do Futuro[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41348.mp4
@@ -2851,13 +2851,13 @@ http://brtv.club:8880/movie/Milton/milton10/41347.mp4
 http://brtv.club:8880/movie/Milton/milton10/41346.mp4
 #EXTINF:-1 tvg-name="Crash: Estranhos Prazeres" tvg-logo="https://image.tmdb.org/t/p/w342/o5YPGu3ipobqsmvMhWtPPOkcvG0.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Crash: Estranhos Prazeres[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41345.mp4
-#EXTINF:-1 tvg-name="Dennis, o Pimentinha Ataca Novamente" tvg-logo="https://image.tmdb.org/t/p/w342/9AnwwTia1JiQH6lItJ3dSz9onvI.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Dennis, o Pimentinha Ataca Novamente[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Dennis o Pimentinha Ataca Novamente" tvg-logo="https://image.tmdb.org/t/p/w342/9AnwwTia1JiQH6lItJ3dSz9onvI.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Dennis, o Pimentinha Ataca Novamente[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41344.mp4
 #EXTINF:-1 tvg-name="Cidade Implacável" tvg-logo="https://image.tmdb.org/t/p/w342/9702nIZf5EVxS3FrzycamQUlSjw.jpg" ,[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]Cidade Implacável[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41343.mp4
 #EXTINF:-1 tvg-name="De quem é o Sutiã?" tvg-logo="https://image.tmdb.org/t/p/w342/8FjS9RtqWAkYfTbUQAMnLl8X04X.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]De quem é o Sutiã?[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41342.mp4
-#EXTINF:-1 tvg-name="Dois na Lona" tvg-logo="https://image.tmdb.org/t/p/w342/ghUvFCnbGmFdBz2antoB4eg2jTj.jpg" group-title="Nacional",Dois na Lona[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Dois na Lona" tvg-logo="https://image.tmdb.org/t/p/w342/ghUvFCnbGmFdBz2antoB4eg2jTj.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Dois na Lona[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41341.mp4
 #EXTINF:-1 tvg-name="Damas De Preto" tvg-logo="https://image.tmdb.org/t/p/w342/pgHaDqcrS3tpkBgVP7KFIhokBrP.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Damas De Preto[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41340.mp4
@@ -2893,9 +2893,9 @@ http://brtv.club:8880/movie/Milton/milton10/41319.mp4
 http://brtv.club:8880/movie/Milton/milton10/41318.mp4
 #EXTINF:-1 tvg-name="Force 10 from Navarone" tvg-logo="https://image.tmdb.org/t/p/w342/jXtm5fvu05TDR3UNdGiN9By7cma.jpg" ,[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]Force 10 from Navarone[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41317.mp4
-#EXTINF:-1 tvg-name="Conspir[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] Atômica" tvg-logo="https://image.tmdb.org/t/p/w342/eLJy8xLQ6BkK3iroYBfbL7hMH3Z.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Conspir[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] Atômica[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Conspiração Atômica" tvg-logo="https://image.tmdb.org/t/p/w342/eLJy8xLQ6BkK3iroYBfbL7hMH3Z.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Conspiração Atômica[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41316.mp4
-#EXTINF:-1 tvg-name="Conspir[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] Internacional" tvg-logo="https://image.tmdb.org/t/p/w342/sskPR7rDTcbKcQmyy3E5ZVFhccb.jpg" ,[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]Conspir[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] Internacional[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Conspiração Internacional" tvg-logo="https://image.tmdb.org/t/p/w342/sskPR7rDTcbKcQmyy3E5ZVFhccb.jpg" ,[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]Conspiração Internacional[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41315.mp4
 #EXTINF:-1 tvg-name="Casa de Antiguidades" tvg-logo="https://image.tmdb.org/t/p/w342/vTFtzLzTd9cDkVrw73yNNVRMcm7.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Casa de Antiguidades[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41314.mp4
@@ -2947,7 +2947,7 @@ http://brtv.club:8880/movie/Milton/milton10/41273.mp4
 http://brtv.club:8880/movie/Milton/milton10/41272.mp4
 #EXTINF:-1 tvg-name="Boyhood - Da Infância à Juventude" tvg-logo="https://image.tmdb.org/t/p/w342/rr1rlDZXOeLqtYMEC6xEunxqsD3.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Boyhood - Da Infância à Juventude[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41271.mp4
-#EXTINF:-1 tvg-name="Antônia" tvg-logo="https://image.tmdb.org/t/p/w342/8PEq58TpTzGV5b0QtQw3AXDSLTY.jpg" group-title="Nacional",Antônia[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Antônia" tvg-logo="https://image.tmdb.org/t/p/w342/8PEq58TpTzGV5b0QtQw3AXDSLTY.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Antônia[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41269.mp4
 #EXTINF:-1 tvg-name="Cabra Marcado Para Morrer" tvg-logo="https://image.tmdb.org/t/p/w342/fdll4h8DHM4W1AXDh44WlfvY1rC.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Cabra Marcado Para Morrer[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41268.mp4
@@ -2995,7 +2995,7 @@ http://brtv.club:8880/movie/Milton/milton10/41246.mp4
 http://brtv.club:8880/movie/Milton/milton10/41245.mp4
 #EXTINF:-1 tvg-name="A Noite nos Persegue" tvg-logo="https://image.tmdb.org/t/p/w342/3AHS5LvHBKkUVDsfCkya93NGTd2.jpg" ,[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]A Noite nos Persegue[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41244.mp4
-#EXTINF:-1 tvg-name="Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] de Cavaleiro" tvg-logo="https://image.tmdb.org/t/p/w342/anPLktBJ0pfjaYD8HPNGP3nfaPV.jpg" ,[COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white]Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] de Cavaleiro[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Coração de Cavaleiro" tvg-logo="https://image.tmdb.org/t/p/w342/anPLktBJ0pfjaYD8HPNGP3nfaPV.jpg" ,[COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white]Coração de Cavaleiro[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41225.mp4
 #EXTINF:-1 tvg-name="Valente" tvg-logo="https://image.tmdb.org/t/p/w342/gYbCpjAsyJ0uO0rKcvJ295INZZp.jpg" ,[COLOR orange][B] INFANTIL [COLOR yellow] -> [COLOR white]Valente[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41224.mp4
@@ -3009,7 +3009,7 @@ http://brtv.club:8880/movie/Milton/milton10/41219.mp4
 http://brtv.club:8880/movie/Milton/milton10/41218.mp4
 #EXTINF:-1 tvg-name="Alpha Dog" tvg-logo="https://image.tmdb.org/t/p/w342/wZLNsRq9TSwHCqLlmjrkDH9MqTR.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Alpha Dog[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41215.mp4
-#EXTINF:-1 tvg-name="Anatomia de um [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/7IE3JtGsqd8bXMwhP4S0JKA7swM.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Anatomia de um [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white][/B][/COLOR] 
+#EXTINF:-1 tvg-name="Anatomia de um Crime" tvg-logo="https://image.tmdb.org/t/p/w342/7IE3JtGsqd8bXMwhP4S0JKA7swM.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Anatomia de um Crime[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41214.mp4
 #EXTINF:-1 tvg-name="Amores de Chumbo" tvg-logo="https://image.tmdb.org/t/p/w342/fZPUSJsCEuhDhBqzwF5sd9vuv3w.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]Amores de Chumbo[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41213.mp4
@@ -3053,7 +3053,7 @@ http://brtv.club:8880/movie/Milton/milton10/41190.mp4
 http://brtv.club:8880/movie/Milton/milton10/41184.mp4
 #EXTINF:-1 tvg-name="A Guerra de Hart" tvg-logo="https://image.tmdb.org/t/p/w342/hePkUbOc3d0uV6Nt576Hvs9m8kK.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]A Guerra de Hart[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41183.mp4
-#EXTINF:-1 tvg-name="Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso" tvg-logo="https://image.tmdb.org/t/p/w342/7DhdFeIxE9zCnjF7qGkjNxHQIr9.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Alexandre e o Dia Terrível Horrível Espantoso e Horroroso" tvg-logo="https://image.tmdb.org/t/p/w342/7DhdFeIxE9zCnjF7qGkjNxHQIr9.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41182.mp4
 #EXTINF:-1 tvg-name="O Marido Perdido" tvg-logo="https://image.tmdb.org/t/p/w342/27C9BpXNKsirPBWjuKuqsZn466u.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]O Marido Perdido[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41180.mp4
@@ -3061,7 +3061,7 @@ http://brtv.club:8880/movie/Milton/milton10/41180.mp4
 http://brtv.club:8880/movie/Milton/milton10/41179.mp4
 #EXTINF:-1 tvg-name="Alice Júnior" tvg-logo="https://image.tmdb.org/t/p/w342/pcrJuO9z9uGGhb4h8L0Q5VgNFyX.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]Alice Júnior[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41178.mp4
-#EXTINF:-1 tvg-name="Ali Babá e os Quarenta Ladrões" tvg-logo="https://image.tmdb.org/t/p/w342/AuoLAGJvUFGv6LtvWv2EgtCJWfw.jpg" group-title="Nacional",Ali Babá e os Quarenta Ladrões[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Ali Babá e os Quarenta Ladrões" tvg-logo="https://image.tmdb.org/t/p/w342/AuoLAGJvUFGv6LtvWv2EgtCJWfw.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Ali Babá e os Quarenta Ladrões[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41177.mp4
 #EXTINF:-1 tvg-name="O Destino de Grace" tvg-logo="https://image.tmdb.org/t/p/w342/5p9HB3AmHE2W6U0NlLsjuMFj27g.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]O Destino de Grace[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41176.mp4
@@ -3097,7 +3097,7 @@ http://brtv.club:8880/movie/Milton/milton10/41153.mp4
 http://brtv.club:8880/movie/Milton/milton10/41151.mp4
 #EXTINF:-1 tvg-name="Caminhos da Floresta" tvg-logo="https://image.tmdb.org/t/p/w342/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg" ,[COLOR orange][B] FICÇÃO E FANTASIA [COLOR yellow] -> [COLOR white]Caminhos da Floresta[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41150.mp4
-#EXTINF:-1 tvg-name="As [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white]s de Sharkboy e Lavagirl" tvg-logo="https://image.tmdb.org/t/p/w342/6WUV2wPCFDX2LRQY5Iv6ElxdDe6.jpg" ,[COLOR orange][B] FICÇÃO E FANTASIA [COLOR yellow] -> [COLOR white]As [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white]s de Sharkboy e Lavagirl[/B][/COLOR] 
+#EXTINF:-1 tvg-name="As Aventuras de Sharkboy e Lavagirl" tvg-logo="https://image.tmdb.org/t/p/w342/6WUV2wPCFDX2LRQY5Iv6ElxdDe6.jpg" ,[COLOR orange][B] FICÇÃO E FANTASIA [COLOR yellow] -> [COLOR white]As Aventuras de Sharkboy e Lavagirl[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41149.mp4
 #EXTINF:-1 tvg-name="Julie & Julia" tvg-logo="https://image.tmdb.org/t/p/w342/r1bFBBj3VMek0oEtgm9N51OqVjF.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]Julie & Julia[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41146.mp4
@@ -3135,7 +3135,7 @@ http://brtv.club:8880/movie/Milton/milton10/41127.mp4
 http://brtv.club:8880/movie/Milton/milton10/41126.mp4
 #EXTINF:-1 tvg-name="Gloria Bell" tvg-logo="https://image.tmdb.org/t/p/w342/eiZYpUaxz1BVGnlQ4Ew7jtU8AO4.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]Gloria Bell[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41119.mp4
-#EXTINF:-1 tvg-name="Desejo e Repar[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/dsRIEXMBEH68nuwADNdnsC7NppU.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]Desejo e Repar[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white][/B][/COLOR] 
+#EXTINF:-1 tvg-name="Desejo e Reparação" tvg-logo="https://image.tmdb.org/t/p/w342/dsRIEXMBEH68nuwADNdnsC7NppU.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]Desejo e Reparação[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41118.mp4
 #EXTINF:-1 tvg-name="Meu Eterno Talvez" tvg-logo="https://image.tmdb.org/t/p/w342/borvKS97pqj3jnkumWHpKmnoAIZ.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]Meu Eterno Talvez[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41117.mp4
@@ -3157,7 +3157,7 @@ http://brtv.club:8880/movie/Milton/milton10/41100.mp4
 http://brtv.club:8880/movie/Milton/milton10/41099.mp4
 #EXTINF:-1 tvg-name="A Duquesa" tvg-logo="https://image.tmdb.org/t/p/w342/77ckyYrWmR12kl3qToqmDySnuwv.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]A Duquesa[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41098.mp4
-#EXTINF:-1 tvg-name="A Esperança é a Última Que Morre" tvg-logo="https://image.tmdb.org/t/p/w342/xuoipRTX1LhKAUtAhllB7yZgjOv.jpg" group-title="Nacional",A Esperança é a Última Que Morre[/B][/COLOR] 
+#EXTINF:-1 tvg-name="A Esperança é a Última Que Morre" tvg-logo="https://image.tmdb.org/t/p/w342/xuoipRTX1LhKAUtAhllB7yZgjOv.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]A Esperança é a Última Que Morre[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41097.mp4
 #EXTINF:-1 tvg-name="Agente Mirim" tvg-logo="https://image.tmdb.org/t/p/w342/xPT8BftMAQtFjSiv6eeU1Y5N7h0.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Agente Mirim[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/41095.mp4
@@ -3225,17 +3225,17 @@ http://brtv.club:8880/movie/Milton/milton10/40979.mp4
 http://brtv.club:8880/movie/Milton/milton10/40978.mp4
 #EXTINF:-1 tvg-name="Maverick" tvg-logo="https://image.tmdb.org/t/p/w342/f4quUawXzMMRQ11uoxPjddAftcv.jpg" ,[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]Maverick[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40977.mp4
-#EXTINF:-1 tvg-name="Johnny Mnemonic, o Cyborg do Futuro" tvg-logo="https://image.tmdb.org/t/p/w342/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg" ,[COLOR orange][B] FICÇÃO E FANTASIA [COLOR yellow] -> [COLOR white]Johnny Mnemonic, o Cyborg do Futuro[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Johnny Mnemonic o Cyborg do Futuro" tvg-logo="https://image.tmdb.org/t/p/w342/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg" ,[COLOR orange][B] FICÇÃO E FANTASIA [COLOR yellow] -> [COLOR white]Johnny Mnemonic, o Cyborg do Futuro[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40976.mp4
 #EXTINF:-1 tvg-name="Grito de Horror 2" tvg-logo="https://image.tmdb.org/t/p/w342/asSWwGrIL8NXvElIvclSvMoSWR8.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Grito de Horror 2[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40975.mp4
 #EXTINF:-1 tvg-name="Grease: Ao Vivo" tvg-logo="https://image.tmdb.org/t/p/w342/7lo5RHz9lENyOdS5bo6kXhuyToX.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Grease: Ao Vivo[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40974.mp4
-#EXTINF:-1 tvg-name="Christine, O Carro Assassino" tvg-logo="https://image.tmdb.org/t/p/w342/lQgflKBffMBXkOsM0PpLl2nWFyn.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Christine, O Carro Assassino[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Christine O Carro Assassino" tvg-logo="https://image.tmdb.org/t/p/w342/lQgflKBffMBXkOsM0PpLl2nWFyn.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Christine, O Carro Assassino[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40973.mp4
 #EXTINF:-1 tvg-name="Benção Mortal" tvg-logo="https://image.tmdb.org/t/p/w342/afVFFmEd1zFJ553hmK1djKHVnkk.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Benção Mortal[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40972.mp4
-#EXTINF:-1 tvg-name="Planeta [COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/y3ECeijaWMxYah9tMtbfXbngTyh.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Planeta [COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white][/B][/COLOR] 
+#EXTINF:-1 tvg-name="Planeta Terror" tvg-logo="https://image.tmdb.org/t/p/w342/y3ECeijaWMxYah9tMtbfXbngTyh.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Planeta Terror[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40971.mp4
 #EXTINF:-1 tvg-name="A Coisa" tvg-logo="https://image.tmdb.org/t/p/w342/EmkhpcP1UPfDLnWwILlU1nwV0p.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]A Coisa[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40970.mp4
@@ -3265,11 +3265,11 @@ http://brtv.club:8880/movie/Milton/milton10/40948.mp4
 http://brtv.club:8880/movie/Milton/milton10/40947.mp4
 #EXTINF:-1 tvg-name="O Porteiro do Dia" tvg-logo="https://image.tmdb.org/t/p/w342/AhBl1adNM94MGzIG7nEBVAD3pub.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]O Porteiro do Dia[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40946.mp4
-#EXTINF:-1 tvg-name="O Hotel do [COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/ktV0aYTTwkqdQceEvAHl2vsA66u.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]O Hotel do [COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white][/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Hotel do [COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/ktV0aYTTwkqdQceEvAHl2vsA66u.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]O Hotel do Terror[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40945.mp4
 #EXTINF:-1 tvg-name="Nosso Professor é um Herói" tvg-logo="https://image.tmdb.org/t/p/w342/wiO6LZ6FyHkqTBklR011vlkEZyK.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Nosso Professor é um Herói[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40944.mp4
-#EXTINF:-1 tvg-name="Meu País" tvg-logo="https://image.tmdb.org/t/p/w342/2IaoLQ6kX8ulWSBozI6B9sgwt0y.jpg" group-title="Nacional",Meu País[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Meu País" tvg-logo="https://image.tmdb.org/t/p/w342/2IaoLQ6kX8ulWSBozI6B9sgwt0y.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Meu País[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40943.mp4
 #EXTINF:-1 tvg-name="Fora da Trilha" tvg-logo="https://image.tmdb.org/t/p/w342/rxzv8AG98NsBZh8qwDL0RZnE4br.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Fora da Trilha[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40942.mp4
@@ -3301,7 +3301,7 @@ http://brtv.club:8880/movie/Milton/milton10/40926.mp4
 http://brtv.club:8880/movie/Milton/milton10/40925.mp4
 #EXTINF:-1 tvg-name="Anna Karenina" tvg-logo="https://image.tmdb.org/t/p/w342/gKI66eHbl8dBcF0p4BhBYg275jU.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Anna Karenina[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40923.mp4
-#EXTINF:-1 tvg-name="Alvo Número Um" tvg-logo="https://image.tmdb.org/t/p/w342/kLBW854UbuYqTx5CjlUr0FzkCKq.jpg" group-title="Nacional",Alvo Número Um[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Alvo Número Um" tvg-logo="https://image.tmdb.org/t/p/w342/kLBW854UbuYqTx5CjlUr0FzkCKq.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Alvo Número Um[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40922.mp4
 #EXTINF:-1 tvg-name="Vai Que Dá Certo" tvg-logo="https://image.tmdb.org/t/p/w342/srKeBp0kbjVg33zcshCAXznl6nI.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Vai Que Dá Certo[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40921.mp4
@@ -3313,9 +3313,9 @@ http://brtv.club:8880/movie/Milton/milton10/40919.mp4
 http://brtv.club:8880/movie/Milton/milton10/40918.mp4
 #EXTINF:-1 tvg-name="Isto é Spinal Tap" tvg-logo="https://image.tmdb.org/t/p/w342/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Isto é Spinal Tap[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40917.mp4
-#EXTINF:-1 tvg-name="Boi Neon" tvg-logo="https://image.tmdb.org/t/p/w342/5REKpLfRp9eM6s1G75kPhJkBJ0W.jpg" group-title="Nacional",Boi Neon[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Boi Neon" tvg-logo="https://image.tmdb.org/t/p/w342/5REKpLfRp9eM6s1G75kPhJkBJ0W.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Boi Neon[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40916.mp4
-#EXTINF:-1 tvg-name="George, O Curioso 2: Siga Aquele Macaco!" tvg-logo="https://image.tmdb.org/t/p/w342/meH51XPPx2coyFa8gRIyNmHWDec.jpg" ,[COLOR orange][B] INFANTIL [COLOR yellow] -> [COLOR white]George, O Curioso 2: Siga Aquele Macaco![/B][/COLOR] 
+#EXTINF:-1 tvg-name="George O Curioso 2: Siga Aquele Macaco!" tvg-logo="https://image.tmdb.org/t/p/w342/meH51XPPx2coyFa8gRIyNmHWDec.jpg" ,[COLOR orange][B] INFANTIL [COLOR yellow] -> [COLOR white]George, O Curioso 2: Siga Aquele Macaco![/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40863.avi
 #EXTINF:-1 tvg-name="Meu Eterno Primeiro Amor" tvg-logo="https://image.tmdb.org/t/p/w342/t7N2cST1tBJVH4iU3ns67zq8PuV.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Meu Eterno Primeiro Amor[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40861.mp4
@@ -3437,7 +3437,7 @@ http://brtv.club:8880/movie/Milton/milton10/40654.mp4
 http://brtv.club:8880/movie/Milton/milton10/40653.mp4
 #EXTINF:-1 tvg-name="As Mães de Chico Xavier" tvg-logo="https://image.tmdb.org/t/p/w342/9znC61R03glG9UV0YqtRg97L9Mf.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]As Mães de Chico Xavier[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40652.mp4
-#EXTINF:-1 tvg-name="Cheetah - Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] na África" tvg-logo="https://image.tmdb.org/t/p/w342/h2xj3S7VotlrKAm61WfsfFLP1fX.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Cheetah - Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] na África[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Cheetah - Uma Aventura na África" tvg-logo="https://image.tmdb.org/t/p/w342/h2xj3S7VotlrKAm61WfsfFLP1fX.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Cheetah - Uma Aventura na África[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40651.mp4
 #EXTINF:-1 tvg-name="As Horas" tvg-logo="https://image.tmdb.org/t/p/w342/qegXA9gw7uJ5AE0Kp4k5dBgw5IJ.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]As Horas[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40650.mp4
@@ -3445,7 +3445,7 @@ http://brtv.club:8880/movie/Milton/milton10/40650.mp4
 http://brtv.club:8880/movie/Milton/milton10/40649.mp4
 #EXTINF:-1 tvg-name="Cisne Negro" tvg-logo="https://image.tmdb.org/t/p/w342/dcj2nZwSRFIUm0Qv1roHNkUtOEm.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Cisne Negro[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40648.mp4
-#EXTINF:-1 tvg-name="Atr[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] Perigosa" tvg-logo="https://image.tmdb.org/t/p/w342/cnMnU6TVUUD1B1ZDrm1TB1y7dS2.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Atr[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] Perigosa[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Atração Perigosa" tvg-logo="https://image.tmdb.org/t/p/w342/cnMnU6TVUUD1B1ZDrm1TB1y7dS2.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Atração Perigosa[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40647.mp4
 #EXTINF:-1 tvg-name="A Vida Gira" tvg-logo="https://image.tmdb.org/t/p/w342/dOIb7faqFhXJwvG5jPO0yT3KkzK.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]A Vida Gira[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40646.mp4
@@ -3557,9 +3557,9 @@ http://brtv.club:8880/movie/Milton/milton10/40566.mp4
 http://brtv.club:8880/movie/Milton/milton10/40565.mp4
 #EXTINF:-1 tvg-name="Depois do Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w342/bDuE9wvdil8rm5x3i6ZSDwFa5uh.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Depois do Apocalipse[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40564.mp4
-#EXTINF:-1 tvg-name="Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] de Cowboy" tvg-logo="https://image.tmdb.org/t/p/w342/gHxxFvAb5m8yOQSLrvM7peLvhX3.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] de Cowboy[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Coração de Cowboy" tvg-logo="https://image.tmdb.org/t/p/w342/gHxxFvAb5m8yOQSLrvM7peLvhX3.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Coração de Cowboy[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40563.mp4
-#EXTINF:-1 tvg-name="[COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white]s Na Escola" tvg-logo="https://image.tmdb.org/t/p/w342/x0fSsTZpeNjMmjI2uFV69nYuwHW.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white][COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white]s Na Escola[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Crimes Na Escola" tvg-logo="https://image.tmdb.org/t/p/w342/x0fSsTZpeNjMmjI2uFV69nYuwHW.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Crimes Na Escola[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40562.mp4
 #EXTINF:-1 tvg-name="Os Demônios" tvg-logo="https://image.tmdb.org/t/p/w342/m6otjenPyLxqbKZyg1AvLKsJ45J.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Os Demônios[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40561.mp4
@@ -3573,7 +3573,7 @@ http://brtv.club:8880/movie/Milton/milton10/40558.mp4
 http://brtv.club:8880/movie/Milton/milton10/40557.mp4
 #EXTINF:-1 tvg-name="Corpo Fechado" tvg-logo="https://image.tmdb.org/t/p/w342/t0NieBaFxHuHr692RkjccBAnU9X.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Corpo Fechado[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40556.mp4
-#EXTINF:-1 tvg-name="Comer, Rezar, Amar" tvg-logo="https://image.tmdb.org/t/p/w342/5CMhiQnnLsKx5bgtndz6C5vhgRr.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Comer, Rezar, Amar[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Comer Rezar Amar" tvg-logo="https://image.tmdb.org/t/p/w342/5CMhiQnnLsKx5bgtndz6C5vhgRr.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Comer, Rezar, Amar[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40555.mp4
 #EXTINF:-1 tvg-name="Colateral" tvg-logo="https://image.tmdb.org/t/p/w342/wM8VULsX6hl365sGmr7puLkxgHQ.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Colateral[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40554.mp4
@@ -3583,11 +3583,11 @@ http://brtv.club:8880/movie/Milton/milton10/40553.mp4
 http://brtv.club:8880/movie/Milton/milton10/40552.mp4
 #EXTINF:-1 tvg-name="Em Busca de um Lar" tvg-logo="https://image.tmdb.org/t/p/w342/2A7xvsyhofE0gPKzi4WYVo5507h.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Em Busca de um Lar[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40551.mp4
-#EXTINF:-1 tvg-name="Free Willy 2 - A [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] Continua" tvg-logo="https://image.tmdb.org/t/p/w342/44l5WNsywfEaZVz7JbcRYUXTpr6.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Free Willy 2 - A [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] Continua[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Free Willy 2 - A Avenura Continua" tvg-logo="https://image.tmdb.org/t/p/w342/44l5WNsywfEaZVz7JbcRYUXTpr6.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Free Willy 2 - A Aventura Continua[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40550.mp4
 #EXTINF:-1 tvg-name="Escritores da Liberdade" tvg-logo="https://image.tmdb.org/t/p/w342/rNomEgNkKuTQJPUvUz9MyMu94qJ.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Escritores da Liberdade[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40549.mp4
-#EXTINF:-1 tvg-name="Fargo: Uma [COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white] de Erros" tvg-logo="https://image.tmdb.org/t/p/w342/JrnxuijI6XCKyZaiPPrJ3TbZi.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Fargo: Uma [COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white] de Erros[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Fargo: Uma Comédia de Erros" tvg-logo="https://image.tmdb.org/t/p/w342/JrnxuijI6XCKyZaiPPrJ3TbZi.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Fargo: Uma Comédia de Erros[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40548.mp4
 #EXTINF:-1 tvg-name="Duelo de Titãs" tvg-logo="https://image.tmdb.org/t/p/w342/kuKyp6Owly8yWXeqdi4H8NAXhU6.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Duelo de Titãs[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40547.mp4
@@ -3855,7 +3855,7 @@ http://brtv.club:8880/movie/Milton/milton10/40299.mp4
 http://brtv.club:8880/movie/Milton/milton10/40298.mp4
 #EXTINF:-1 tvg-name="Mais Forte que o Mundo - A História de José Aldo" tvg-logo="https://image.tmdb.org/t/p/w342/A3rXuspFEELkquYwrFOl4RJWoSK.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Mais Forte que o Mundo - A História de José Aldo[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40297.mp4
-#EXTINF:-1 tvg-name="Fala Sério, Mãe!" tvg-logo="https://image.tmdb.org/t/p/w342/p4YiseA6zPrXQMAJ7dj9GxCTHmo.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Fala Sério, Mãe![/B][/COLOR] 
+#EXTINF:-1 tvg-name="Fala Sério Mãe!" tvg-logo="https://image.tmdb.org/t/p/w342/p4YiseA6zPrXQMAJ7dj9GxCTHmo.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Fala Sério, Mãe![/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40296.mp4
 #EXTINF:-1 tvg-name="Lutero" tvg-logo="https://image.tmdb.org/t/p/w342/41bE4D3cbBkmO3cC6c36SthV8ZD.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Lutero[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40295.mp4
@@ -3957,13 +3957,13 @@ http://brtv.club:8880/movie/Milton/milton10/40060.mp4
 http://brtv.club:8880/movie/Milton/milton10/40059.mp4
 #EXTINF:-1 tvg-name="O Filme da Minha Vida" tvg-logo="https://image.tmdb.org/t/p/w342/tZ544US8qblE1saWrvbH2U17vUD.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]O Filme da Minha Vida[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40058.mp4
-#EXTINF:-1 tvg-name="Buck, O Encantador de Cavalos" tvg-logo="https://image.tmdb.org/t/p/w342/kqrxtt1xSIRxaUHWNxBqq7lVEVD.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Buck, O Encantador de Cavalos[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Buck O Encantador de Cavalos" tvg-logo="https://image.tmdb.org/t/p/w342/kqrxtt1xSIRxaUHWNxBqq7lVEVD.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Buck, O Encantador de Cavalos[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40057.mp4
 #EXTINF:-1 tvg-name="Malasartes e o Duelo com a Morte" tvg-logo="https://image.tmdb.org/t/p/w342/A7wR2bxwQfiFJJqw8G4YMBtjpSv.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Malasartes e o Duelo com a Morte[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40056.mp4
 #EXTINF:-1 tvg-name="O Diário de Uma Adolescente" tvg-logo="https://image.tmdb.org/t/p/w342/dmaO958Hq0EP2LxqRXxWrWwnSnD.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]O Diário de Uma Adolescente[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40055.mp4
-#EXTINF:-1 tvg-name="O Destino de Uma N[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/mvB7rx0RwwRWweO05CbDU5T5c5a.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]O Destino de Uma N[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white][/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Destino de Uma Nação" tvg-logo="https://image.tmdb.org/t/p/w342/mvB7rx0RwwRWweO05CbDU5T5c5a.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]O Destino de Uma Nação[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40054.mp4
 #EXTINF:-1 tvg-name="O Conto de Natal dos Muppets" tvg-logo="https://image.tmdb.org/t/p/w342/19cvLHClTd0lbxjt7NKPoR9N6v3.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]O Conto de Natal dos Muppets[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40053.mp4
@@ -4005,7 +4005,7 @@ http://brtv.club:8880/movie/Milton/milton10/40020.mp4
 http://brtv.club:8880/movie/Milton/milton10/40019.mp4
 #EXTINF:-1 tvg-name="Os Dez Mandamentos: O Filme" tvg-logo="https://image.tmdb.org/t/p/w342/yctfYDrHAPcJP54D2BCH9R5GTY2.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Os Dez Mandamentos: O Filme[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40018.mp4
-#EXTINF:-1 tvg-name="Oper[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] Valquíria" tvg-logo="https://image.tmdb.org/t/p/w342/9KfelzsdBZXjcE0jyIMs6xXJcMY.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Oper[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] Valquíria[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Operação Valquíria" tvg-logo="https://image.tmdb.org/t/p/w342/9KfelzsdBZXjcE0jyIMs6xXJcMY.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Operação Valquíria[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40017.mp4
 #EXTINF:-1 tvg-name="Olhos da Justiça" tvg-logo="https://image.tmdb.org/t/p/w342/hqI5wUX12RLvkoOwMiKwnI7EOpi.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Olhos da Justiça[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/40015.mp4
@@ -4149,7 +4149,7 @@ http://brtv.club:8880/movie/Milton/milton10/43474.mp4
 http://brtv.club:8880/movie/Milton/milton10/43471.mp4
 #EXTINF:-1 tvg-name="O Corcel Negro" tvg-logo="https://image.tmdb.org/t/p/w342/1v9aB9b5j1kkoedcJhTyjdkdVZs.jpg" ,[COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white]O Corcel Negro[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/43469.mp4
-#EXTINF:-1 tvg-name="Páginas de um [COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white] 2" tvg-logo="https://image.tmdb.org/t/p/w342/7hSlUL6MtRdyJsLRj84au5KxXyK.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Páginas de um [COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white] 2[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Páginas de um Romance 2" tvg-logo="https://image.tmdb.org/t/p/w342/7hSlUL6MtRdyJsLRj84au5KxXyK.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Páginas de um Romance 2[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39863.mp4
 #EXTINF:-1 tvg-name="O Último Amor de Casanova" tvg-logo="https://image.tmdb.org/t/p/w342/ggMja8I9ukADMNDZHQi9c9yfFtV.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]O Último Amor de Casanova[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39862.mp4
@@ -4245,7 +4245,7 @@ http://brtv.club:8880/movie/Milton/milton10/39788.mp4
 http://brtv.club:8880/movie/Milton/milton10/39787.mp4
 #EXTINF:-1 tvg-name="Relatos Selvagens" tvg-logo="https://image.tmdb.org/t/p/w342/bkhHsHoa5PYBmhT93mYOC28Hhd2.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Relatos Selvagens[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39786.mp4
-#EXTINF:-1 tvg-name="Rel[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] em Risco" tvg-logo="https://image.tmdb.org/t/p/w342/968EbINo97rHeWDBkRPA5eYwofM.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Rel[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] em Risco[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Relação em Risco" tvg-logo="https://image.tmdb.org/t/p/w342/968EbINo97rHeWDBkRPA5eYwofM.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Relação em Risco[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39785.mp4
 #EXTINF:-1 tvg-name="Recuperando a Esperança" tvg-logo="https://image.tmdb.org/t/p/w342/7eNp72UT2BwxqVRAgyo8UoOCqjN.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Recuperando a Esperança[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39784.mp4
@@ -4283,7 +4283,7 @@ http://brtv.club:8880/movie/Milton/milton10/39750.mp4
 http://brtv.club:8880/movie/Milton/milton10/39748.mp4
 #EXTINF:-1 tvg-name="Segredos Oficiais" tvg-logo="https://image.tmdb.org/t/p/w342/oir3fmegKofO0VoADz5jDIYdYk4.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Segredos Oficiais[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39747.mp4
-#EXTINF:-1 tvg-name="Separ[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] e Reencontro" tvg-logo="https://image.tmdb.org/t/p/w342/uFmC2QHAOOmhvN5oEesR4Q8oBKL.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Separ[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] e Reencontro[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Separação e Reencontro" tvg-logo="https://image.tmdb.org/t/p/w342/uFmC2QHAOOmhvN5oEesR4Q8oBKL.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Separação e Reencontro[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39746.mp4
 #EXTINF:-1 tvg-name="Sonora" tvg-logo="https://image.tmdb.org/t/p/w342/a5JoieisiLZLm814K81oRK7pNBA.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Sonora[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39745.mp4
@@ -4375,7 +4375,7 @@ http://brtv.club:8880/movie/Milton/milton10/39695.mp4
 http://brtv.club:8880/movie/Milton/milton10/39694.mp4
 #EXTINF:-1 tvg-name="Tudo e Todas as Coisas" tvg-logo="https://image.tmdb.org/t/p/w342/24NQ87f9LI5Md9vSkSCtpRPiFAq.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Tudo e Todas as Coisas[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39693.mp4
-#EXTINF:-1 tvg-name="Três Anúncios Para Um [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/v6xTMvGWWEReIs8B3BrVF8KYz4c.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Três Anúncios Para Um [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white][/B][/COLOR] 
+#EXTINF:-1 tvg-name="Três Anúncios Para Um Crime" tvg-logo="https://image.tmdb.org/t/p/w342/v6xTMvGWWEReIs8B3BrVF8KYz4c.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Três Anúncios Para Um Crime[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39692.mp4
 #EXTINF:-1 tvg-name="Todo Dia" tvg-logo="https://image.tmdb.org/t/p/w342/4oGwEZS1QkZTxn2eyjH49rcHs6y.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Todo Dia[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39691.mp4
@@ -4401,7 +4401,7 @@ http://brtv.club:8880/movie/Milton/milton10/39665.mp4
 http://brtv.club:8880/movie/Milton/milton10/39664.mp4
 #EXTINF:-1 tvg-name="Uma Lição de Vida" tvg-logo="https://image.tmdb.org/t/p/w342/1ONOsIo5gby9hABPdknL7OAYBLm.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Uma Lição de Vida[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39663.mp4
-#EXTINF:-1 tvg-name="Um Amor, Mil Casamentos" tvg-logo="https://image.tmdb.org/t/p/w342/8HmGeaNdzKRX9O1farSm3bBwciD.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Um Amor, Mil Casamentos[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Um Amor Mil Casamentos" tvg-logo="https://image.tmdb.org/t/p/w342/8HmGeaNdzKRX9O1farSm3bBwciD.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Um Amor, Mil Casamentos[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39662.mp4
 #EXTINF:-1 tvg-name="Um Amor de Filhote" tvg-logo="https://image.tmdb.org/t/p/w342/kL07g2jfYdiHgJDZKaHiInh0nuC.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Um Amor de Filhote[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39661.mp4
@@ -4419,11 +4419,11 @@ http://brtv.club:8880/movie/Milton/milton10/39656.mp4
 http://brtv.club:8880/movie/Milton/milton10/39655.mp4
 #EXTINF:-1 tvg-name="Ufo - Estamos Sozinhos?" tvg-logo="https://image.tmdb.org/t/p/w342/jdy1GTdaAXqhsCVOpIXokifYdCh.jpg" ,[COLOR orange][B] FICÇÃO E FANTASIA [COLOR yellow] -> [COLOR white]Ufo - Estamos Sozinhos?[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39654.mp4
-#EXTINF:-1 tvg-name="Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] Perigosa" tvg-logo="https://image.tmdb.org/t/p/w342/xvQu0cQPwgbtUNvLZazSZ4b9Kkt.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] Perigosa[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Uma Aventura Perigosa" tvg-logo="https://image.tmdb.org/t/p/w342/xvQu0cQPwgbtUNvLZazSZ4b9Kkt.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Uma Aventura Perigosa[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39653.mp4
 #EXTINF:-1 tvg-name="Um Homem de Sorte" tvg-logo="https://image.tmdb.org/t/p/w342/bka5V6BESl3BH60a1TDBfWg1clb.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Um Homem de Sorte[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39652.mp4
-#EXTINF:-1 tvg-name="A Primeira Noite de [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/mDeTqCBAoRHD9zQXZefhtJs2sez.jpg" ,[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]A Primeira Noite de [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white][/B][/COLOR] 
+#EXTINF:-1 tvg-name="A Primeira Noite de Crime" tvg-logo="https://image.tmdb.org/t/p/w342/mDeTqCBAoRHD9zQXZefhtJs2sez.jpg" ,[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]A Primeira Noite de Crime[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39651.mp4
 #EXTINF:-1 tvg-name="Um Lugar Chamado Notting Hill" tvg-logo="https://image.tmdb.org/t/p/w342/jiqJDogqlyveqlwV8ZijO5FoMQ4.jpg" ,[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]Um Lugar Chamado Notting Hill[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39650.mp4
@@ -4437,9 +4437,9 @@ http://brtv.club:8880/movie/Milton/milton10/39646.mp4
 http://brtv.club:8880/movie/Milton/milton10/39645.mp4
 #EXTINF:-1 tvg-name="Uma Floresta Muito Louca" tvg-logo="https://image.tmdb.org/t/p/w342/w0IgQuk4NMBp2il1WvcZhJQkRB1.jpg" ,[COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white]Uma Floresta Muito Louca[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39644.mp4
-#EXTINF:-1 tvg-name="Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] Lego" tvg-logo="https://image.tmdb.org/t/p/w342/Akt1i1g47sS4Bhz5bR43U371E0k.jpg" ,[COLOR orange][B] INFANTIL [COLOR yellow] -> [COLOR white]Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] Lego[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Uma Aventura Lego" tvg-logo="https://image.tmdb.org/t/p/w342/Akt1i1g47sS4Bhz5bR43U371E0k.jpg" ,[COLOR orange][B] INFANTIL [COLOR yellow] -> [COLOR white]Uma Aventura Lego[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39643.mp4
-#EXTINF:-1 tvg-name="Stalking Chernobyl - Explor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] Após o Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w342/At68XeIDZOfn1yRKyVgPMjSz64r.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Stalking Chernobyl - Explor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] Após o Apocalipse[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Stalking Chernobyl - Exploração Após o Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w342/At68XeIDZOfn1yRKyVgPMjSz64r.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Stalking Chernobyl - Exploração Após o Apocalipse[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39620.mp4
 #EXTINF:-1 tvg-name="No Matarás" tvg-logo="https://image.tmdb.org/t/p/w342/nyu5ze6jlO2BksTu0npMK1NxO3l.jpg" ,[COLOR orange][B] SUSPENSE [COLOR yellow] -> [COLOR white]No Matarás[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39619.mp4
@@ -4491,7 +4491,7 @@ http://brtv.club:8880/movie/Milton/milton10/39579.mp4
 http://brtv.club:8880/movie/Milton/milton10/39577.mp4
 #EXTINF:-1 tvg-name="Ligue Djá: O Lendário Walter Mercado" tvg-logo="https://image.tmdb.org/t/p/w342/mBqSHu6jkWHbyNFmIvc2rmKQspN.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Ligue Djá: O Lendário Walter Mercado[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39576.mp4
-#EXTINF:-1 tvg-name="Maior Viagem: Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] Psicodélica" tvg-logo="https://image.tmdb.org/t/p/w342/hUEdgqgl7OSL3hoCOes7lTQGzTM.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Maior Viagem: Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] Psicodélica[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Maior Viagem: Uma Aventura Psicodélica" tvg-logo="https://image.tmdb.org/t/p/w342/hUEdgqgl7OSL3hoCOes7lTQGzTM.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Maior Viagem: Uma Aventura Psicodélica[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39574.mp4
 #EXTINF:-1 tvg-name="Nos Bastidores de Elefante" tvg-logo="https://image.tmdb.org/t/p/w342/A5MNeo1jsBUFyPo890tWILvKuzS.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Nos Bastidores de Elefante[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39573.mp4
@@ -4533,7 +4533,7 @@ http://brtv.club:8880/movie/Milton/milton10/39554.mp4
 http://brtv.club:8880/movie/Milton/milton10/39553.mp4
 #EXTINF:-1 tvg-name="Free Solo" tvg-logo="https://image.tmdb.org/t/p/w342/3vE3t4Pa2CAe8RmjOfp93hL6zXn.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Free Solo[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39552.mp4
-#EXTINF:-1 tvg-name="Pegue a Bola, Passe a Bola" tvg-logo="https://image.tmdb.org/t/p/w342/ncNuVIVSQqKJ3xDoMC3DxhElqgO.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Pegue a Bola, Passe a Bola[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Pegue a Bola Passe a Bola" tvg-logo="https://image.tmdb.org/t/p/w342/ncNuVIVSQqKJ3xDoMC3DxhElqgO.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Pegue a Bola, Passe a Bola[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39551.mp4
 #EXTINF:-1 tvg-name="Adrenalina 2 - Alta Voltagem" tvg-logo="https://image.tmdb.org/t/p/w342/yZzRqVfeKHU05O99kT8sS41Keh7.jpg" ,[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]Adrenalina 2 - Alta Voltagem[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39539.mp4
@@ -4587,7 +4587,7 @@ http://brtv.club:8880/movie/Milton/milton10/39513.mp4
 http://brtv.club:8880/movie/Milton/milton10/39512.mp4
 #EXTINF:-1 tvg-name="Feministas: O Que Elas Estavam Pensando?" tvg-logo="https://image.tmdb.org/t/p/w342/1JNfXy6qGYNW8hAJurTramSe9mF.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]Feministas: O Que Elas Estavam Pensando?[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39511.mp4
-#EXTINF:-1 tvg-name="Um Toque no Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/botp2R9eZcLgMmJQUkRceENsXrO.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Um Toque no Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white][/B][/COLOR] 
+#EXTINF:-1 tvg-name="Um Toque no Coração" tvg-logo="https://image.tmdb.org/t/p/w342/botp2R9eZcLgMmJQUkRceENsXrO.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Um Toque no Coração][/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39498.mp4
 #EXTINF:-1 tvg-name="Vanilla Sky" tvg-logo="https://image.tmdb.org/t/p/w342/2nyj8JzNbsUY7tSzkDwFndU4bN5.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]Vanilla Sky[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39495.mp4
@@ -4625,9 +4625,9 @@ http://brtv.club:8880/movie/Milton/milton10/39472.mp4
 http://brtv.club:8880/movie/Milton/milton10/39471.mp4
 #EXTINF:-1 tvg-name="Homens Brancos Não Sabem Enterrar" tvg-logo="https://image.tmdb.org/t/p/w342/tEiP4tdJiztrHu7gV9fFmQZ9nrW.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Homens Brancos Não Sabem Enterrar[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39470.mp4
-#EXTINF:-1 tvg-name="Ó Pai, Ó" tvg-logo="https://image.tmdb.org/t/p/w342/eS5G6BCbUBU77Ueo07HllIBBc53.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Ó Pai, Ó[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Ó Pai Ó" tvg-logo="https://image.tmdb.org/t/p/w342/eS5G6BCbUBU77Ueo07HllIBBc53.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Ó Pai, Ó[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39443.mp4
-#EXTINF:-1 tvg-name="Viol[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] de Privacidade" tvg-logo="https://image.tmdb.org/t/p/w342/m7c4Wxpo7ZxzTldPd0UfHwpMpFi.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Viol[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] de Privacidade[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Violação de Privacidade" tvg-logo="https://image.tmdb.org/t/p/w342/m7c4Wxpo7ZxzTldPd0UfHwpMpFi.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Violação de Privacidade[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39442.mp4
 #EXTINF:-1 tvg-name="16 Desejos" tvg-logo="https://image.tmdb.org/t/p/w342/cl8nemnK7RZ9U9wxOTEGnzKiU4t.jpg" ,[COLOR orange][B] FICÇÃO E FANTASIA [COLOR yellow] -> [COLOR white]16 Desejos[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39441.mp4
@@ -4635,13 +4635,13 @@ http://brtv.club:8880/movie/Milton/milton10/39441.mp4
 http://brtv.club:8880/movie/Milton/milton10/39440.mp4
 #EXTINF:-1 tvg-name="48 Horas" tvg-logo="https://image.tmdb.org/t/p/w342/lgW4inpyJKv9KkUYEaaA6MFk0eY.jpg" ,[COLOR orange][B] SUSPENSE [COLOR yellow] -> [COLOR white]48 Horas[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39439.mp4
-#EXTINF:-1 tvg-name="48 Horas, Parte 2" tvg-logo="https://image.tmdb.org/t/p/w342/lO4DyHX0vYkeUTuZpFStMTFbaI4.jpg" ,[COLOR orange][B] SUSPENSE [COLOR yellow] -> [COLOR white]48 Horas, Parte 2[/B][/COLOR] 
+#EXTINF:-1 tvg-name="48 Horas Parte 2" tvg-logo="https://image.tmdb.org/t/p/w342/lO4DyHX0vYkeUTuZpFStMTFbaI4.jpg" ,[COLOR orange][B] SUSPENSE [COLOR yellow] -> [COLOR white]48 Horas, Parte 2[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39438.mp4
 #EXTINF:-1 tvg-name="13 - O Jogador" tvg-logo="https://image.tmdb.org/t/p/w342/2sn3dMJYxhxCJ6cMCXAtBUjAeg1.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]13 - O Jogador[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39437.mp4
 #EXTINF:-1 tvg-name="47 Ronins" tvg-logo="https://image.tmdb.org/t/p/w342/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]47 Ronins[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39436.mp4
-#EXTINF:-1 tvg-name="Visões de um [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/y5Q0m0QMg5kWdwtz3RkIiJEKAwE.jpg" ,[COLOR orange][B] SUSPENSE [COLOR yellow] -> [COLOR white]Visões de um [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white][/B][/COLOR] 
+#EXTINF:-1 tvg-name="Visões de um Crime" tvg-logo="https://image.tmdb.org/t/p/w342/y5Q0m0QMg5kWdwtz3RkIiJEKAwE.jpg" ,[COLOR orange][B] SUSPENSE [COLOR yellow] -> [COLOR white]Visões de um Crime[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39435.mp4
 #EXTINF:-1 tvg-name="Wyatt Earp" tvg-logo="https://image.tmdb.org/t/p/w342/51LItgyecu2KMAtIchYogEykCIu.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]Wyatt Earp[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39434.mp4
@@ -4667,153 +4667,153 @@ http://brtv.club:8880/movie/Milton/milton10/39424.mp4
 http://brtv.club:8880/movie/Milton/milton10/39421.mp4
 #EXTINF:-1 tvg-name="O Bom Pastor" tvg-logo="https://image.tmdb.org/t/p/w342/ApS1M1YQXbz6JfDlLE2W3vpvpiP.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow] -> [COLOR white]O Bom Pastor[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39400.mp4
-#EXTINF:-1 tvg-name="Tapete Vermelho" tvg-logo="https://image.tmdb.org/t/p/w342/zh8PPoN82hV73GOfwZ6LD14Q1zp.jpg" group-title="Nacional",Tapete Vermelho[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Tapete Vermelho" tvg-logo="https://image.tmdb.org/t/p/w342/zh8PPoN82hV73GOfwZ6LD14Q1zp.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Tapete Vermelho[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39399.mp4
-#EXTINF:-1 tvg-name="Simbad, O Marujo Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/rxrYij1gxwIakNrrVP5LNPrEMV8.jpg" group-title="Nacional",Simbad, O Marujo Trapalhão[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Simbad, O Marujo Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/rxrYij1gxwIakNrrVP5LNPrEMV8.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Simbad, O Marujo Trapalhão[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39398.mp4
-#EXTINF:-1 tvg-name="Simão, o Fantasma Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/hp6PFaJr7PXwl3Ci2Fgpq2OhLyt.jpg" group-title="Nacional",Simão, o Fantasma Trapalhão[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Simão o Fantasma Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/hp6PFaJr7PXwl3Ci2Fgpq2OhLyt.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Simão, o Fantasma Trapalhão[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39397.mp4
-#EXTINF:-1 tvg-name="Robin Hood O Trapalhão da Floresta" tvg-logo="https://image.tmdb.org/t/p/w342/kPH0ZO12dNVn05mhW8eW33qOK0a.jpg" group-title="Nacional",Robin Hood O Trapalhão da Floresta[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Robin Hood O Trapalhão da Floresta" tvg-logo="https://image.tmdb.org/t/p/w342/kPH0ZO12dNVn05mhW8eW33qOK0a.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Robin Hood O Trapalhão da Floresta[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39396.mp4
-#EXTINF:-1 tvg-name="O Trapalhão no Planalto dos Macacos" tvg-logo="https://image.tmdb.org/t/p/w342/w9OqnqJ6WsMYSqV194O3LkdYzSe.jpg" group-title="Nacional",O Trapalhão no Planalto dos Macacos[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Trapalhão no Planalto dos Macacos" tvg-logo="https://image.tmdb.org/t/p/w342/w9OqnqJ6WsMYSqV194O3LkdYzSe.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Trapalhão no Planalto dos Macacos[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39395.mp4
 #EXTINF:-1 tvg-name="O Trapalhão nas Minas do Rei Salomão" tvg-logo="https://image.tmdb.org/t/p/w342/dcGPEgJp95zk00XiWYUAFy7F4ro.jpg" group-title="Nacional",O Trapalhão nas Minas do Rei Salomão[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39394.mp4
-#EXTINF:-1 tvg-name="O Trapalhão na Ilha do Tesouro" tvg-logo="https://image.tmdb.org/t/p/w342/azrBKuXCdKAIfg7P60SS3RhnEXB.jpg" group-title="Nacional",O Trapalhão na Ilha do Tesouro[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Trapalhão na Ilha do Tesouro" tvg-logo="https://image.tmdb.org/t/p/w342/azrBKuXCdKAIfg7P60SS3RhnEXB.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Trapalhão na Ilha do Tesouro[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39393.mp4
-#EXTINF:-1 tvg-name="O Trapalhão na Arca de Noé" tvg-logo="https://image.tmdb.org/t/p/w342/wA6v0Rw9pmUI1DiWWB5ytxqYW4E.jpg" group-title="Nacional",O Trapalhão na Arca de Noé[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Trapalhão na Arca de Noé" tvg-logo="https://image.tmdb.org/t/p/w342/wA6v0Rw9pmUI1DiWWB5ytxqYW4E.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Trapalhão na Arca de Noé[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39392.mp4
-#EXTINF:-1 tvg-name="O Trapalhão e a Luz Azul" tvg-logo="https://image.tmdb.org/t/p/w342/r8h5xaVCsEBCAUEUdUPtYzMHv6K.jpg" group-title="Nacional",O Trapalhão e a Luz Azul[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Trapalhão e a Luz Azul" tvg-logo="https://image.tmdb.org/t/p/w342/r8h5xaVCsEBCAUEUdUPtYzMHv6K.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Trapalhão e a Luz Azul[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39391.mp4
-#EXTINF:-1 tvg-name="Os Vagabundos Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/sSIaLy7vbvmIRUx6J7IVXTZB9fo.jpg" group-title="Nacional",Os Vagabundos Trapalhões[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Vagabundos Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/sSIaLy7vbvmIRUx6J7IVXTZB9fo.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Vagabundos Trapalhões[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39390.mp4
-#EXTINF:-1 tvg-name="Os Três Mosqueteiros Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/nzi3t6CzLqHlJw9mUucH2Nq4bQx.jpg" group-title="Nacional",Os Três Mosqueteiros Trapalhões[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Três Mosqueteiros Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/nzi3t6CzLqHlJw9mUucH2Nq4bQx.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Três Mosqueteiros Trapalhões[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39389.mp4
-#EXTINF:-1 tvg-name="Os Trapalhões no Reino da Fantasia" tvg-logo="https://image.tmdb.org/t/p/w342/4vQYLnT3fOE1CfyHfRSYOsU1Xhc.jpg" group-title="Nacional",Os Trapalhões no Reino da Fantasia[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Trapalhões no Reino da Fantasia" tvg-logo="https://image.tmdb.org/t/p/w342/4vQYLnT3fOE1CfyHfRSYOsU1Xhc.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Trapalhões no Reino da Fantasia[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39388.mp4
-#EXTINF:-1 tvg-name="Os Trapalhões no Rabo do Cometa" tvg-logo="https://image.tmdb.org/t/p/w342/8XoZzttXVWuoYt8L6nxqP0xFAas.jpg" group-title="Nacional",Os Trapalhões no Rabo do Cometa[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Trapalhões no Rabo do Cometa" tvg-logo="https://image.tmdb.org/t/p/w342/8XoZzttXVWuoYt8L6nxqP0xFAas.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Trapalhões no Rabo do Cometa[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39387.mp4
-#EXTINF:-1 tvg-name="Os Trapalhões no Auto da Compadecida" tvg-logo="https://image.tmdb.org/t/p/w342/7HqZlijQFlX31MmKMiEl8kALZ5k.jpg" group-title="Nacional",Os Trapalhões no Auto da Compadecida[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Trapalhões no Auto da Compadecida" tvg-logo="https://image.tmdb.org/t/p/w342/7HqZlijQFlX31MmKMiEl8kALZ5k.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Trapalhões no Auto da Compadecida[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39386.mp4
-#EXTINF:-1 tvg-name="Os Trapalhões na Terra dos Monstros" tvg-logo="https://image.tmdb.org/t/p/w342/pinxZ81xfig6sNeVPCSfTIbGgBI.jpg" group-title="Nacional",Os Trapalhões na Terra dos Monstros[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Trapalhões na Terra dos Monstros" tvg-logo="https://image.tmdb.org/t/p/w342/pinxZ81xfig6sNeVPCSfTIbGgBI.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Trapalhões na Terra dos Monstros[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39385.mp4
-#EXTINF:-1 tvg-name="Os Trapalhões na Serra Pelada" tvg-logo="https://image.tmdb.org/t/p/w342/wYwUK4lmYx5bhb2Mprxy3j1tJ8q.jpg" group-title="Nacional",Os Trapalhões na Serra Pelada[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Trapalhões na Serra Pelada" tvg-logo="https://image.tmdb.org/t/p/w342/wYwUK4lmYx5bhb2Mprxy3j1tJ8q.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Trapalhões na Serra Pelada[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39384.mp4
-#EXTINF:-1 tvg-name="Suburbia - O Filme" tvg-logo="https://image.tmdb.org/t/p/w342/mUcj6Gk5QmhlXQi7lrRnW9Q1D2C.jpg" group-title="Nacional",Suburbia - O Filme[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Suburbia - O Filme" tvg-logo="https://image.tmdb.org/t/p/w342/mUcj6Gk5QmhlXQi7lrRnW9Q1D2C.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Suburbia - O Filme[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39383.mp4
-#EXTINF:-1 tvg-name="Pendular" tvg-logo="https://image.tmdb.org/t/p/w342/6yU9lmNDBihsPpxxdHAi8PbiqmB.jpg" group-title="Nacional",Pendular[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Pendular" tvg-logo="https://image.tmdb.org/t/p/w342/6yU9lmNDBihsPpxxdHAi8PbiqmB.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Pendular[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39382.mp4
-#EXTINF:-1 tvg-name="Todo Clichê do Amor" tvg-logo="https://image.tmdb.org/t/p/w342/1zJIxQ8BDq4dIRhDJCTMfTk5rj1.jpg" group-title="Nacional",Todo Clichê do Amor[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Todo Clichê do Amor" tvg-logo="https://image.tmdb.org/t/p/w342/1zJIxQ8BDq4dIRhDJCTMfTk5rj1.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Todo Clichê do Amor[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39381.mp4
-#EXTINF:-1 tvg-name="Praça Paris" tvg-logo="https://image.tmdb.org/t/p/w342/5xtukR0jCsBodtnLHj212sT0TOJ.jpg" group-title="Nacional",Praça Paris[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Praça Paris" tvg-logo="https://image.tmdb.org/t/p/w342/5xtukR0jCsBodtnLHj212sT0TOJ.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Praça Paris[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39380.mp4
-#EXTINF:-1 tvg-name="Todas As Canções de Amor" tvg-logo="https://image.tmdb.org/t/p/w342/qihRwggb2hpH3XbNqGOysAXRPh5.jpg" group-title="Nacional",Todas As Canções de Amor[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Todas As Canções de Amor" tvg-logo="https://image.tmdb.org/t/p/w342/qihRwggb2hpH3XbNqGOysAXRPh5.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Todas As Canções de Amor[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39379.mp4
-#EXTINF:-1 tvg-name="Vazante" tvg-logo="https://image.tmdb.org/t/p/w342/pK1CHVJ8A3MzRE6JrkWdIm1aQ60.jpg" group-title="Nacional",Vazante[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Vazante" tvg-logo="https://image.tmdb.org/t/p/w342/pK1CHVJ8A3MzRE6JrkWdIm1aQ60.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Vazante[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39378.mp4
-#EXTINF:-1 tvg-name="Rei David" tvg-logo="https://image.tmdb.org/t/p/w342/l7IVgnaZtnT7K0I7jsaZUAq90dy.jpg" group-title="Nacional",Rei David[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Rei David" tvg-logo="https://image.tmdb.org/t/p/w342/l7IVgnaZtnT7K0I7jsaZUAq90dy.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Rei David[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39377.mp4
-#EXTINF:-1 tvg-name="Sai de Baixo: O Filme" tvg-logo="https://image.tmdb.org/t/p/w342/30L6WkIEW2ipB9OHKGkmiY9YDp0.jpg" group-title="Nacional",Sai de Baixo: O Filme[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Sai de Baixo: O Filme" tvg-logo="https://image.tmdb.org/t/p/w342/30L6WkIEW2ipB9OHKGkmiY9YDp0.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Sai de Baixo: O Filme[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39376.mp4
-#EXTINF:-1 tvg-name="Sequestro Relâmpago" tvg-logo="https://image.tmdb.org/t/p/w342/d5x6yP7mc5NNhJittysbb5bO0Sn.jpg" group-title="Nacional",Sequestro Relâmpago[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Sequestro Relâmpago" tvg-logo="https://image.tmdb.org/t/p/w342/d5x6yP7mc5NNhJittysbb5bO0Sn.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Sequestro Relâmpago[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39374.mp4
-#EXTINF:-1 tvg-name="Rasga Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/21TGdSdl4zPtggfmhNyNgPpFzfN.jpg" group-title="Nacional",Rasga Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white][/B][/COLOR] 
+#EXTINF:-1 tvg-name="Rasga Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white]" tvg-logo="https://image.tmdb.org/t/p/w342/21TGdSdl4zPtggfmhNyNgPpFzfN.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Rasga Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white][/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39373.mp4
-#EXTINF:-1 tvg-name="Polícia Federal: A Lei é Para Todos" tvg-logo="https://image.tmdb.org/t/p/w342/lYOBHagDwOv66TUzRy265qSWwTP.jpg" group-title="Nacional",Polícia Federal: A Lei é Para Todos[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Polícia Federal: A Lei é Para Todos" tvg-logo="https://image.tmdb.org/t/p/w342/lYOBHagDwOv66TUzRy265qSWwTP.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Polícia Federal: A Lei é Para Todos[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39372.mp4
-#EXTINF:-1 tvg-name="O Doutrinador" tvg-logo="https://image.tmdb.org/t/p/w342/1CTLPePcpr1knfbPhgJkHgnX3H.jpg" group-title="Nacional",O Doutrinador[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Doutrinador" tvg-logo="https://image.tmdb.org/t/p/w342/1CTLPePcpr1knfbPhgJkHgnX3H.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Doutrinador[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39356.mp4
-#EXTINF:-1 tvg-name="O Milagre dos Pássaros" tvg-logo="https://image.tmdb.org/t/p/w342/EHWl65aDiESNqkgFxfVuA1qsEd.jpg" group-title="Nacional",O Milagre dos Pássaros[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Milagre dos Pássaros" tvg-logo="https://image.tmdb.org/t/p/w342/EHWl65aDiESNqkgFxfVuA1qsEd.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Milagre dos Pássaros[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39355.mp4
-#EXTINF:-1 tvg-name="O Homem do Futuro" tvg-logo="https://image.tmdb.org/t/p/w342/ajjvpHJcO9TD45Y0aLZU5yBeW2G.jpg" group-title="Nacional",O Homem do Futuro[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Homem do Futuro" tvg-logo="https://image.tmdb.org/t/p/w342/ajjvpHJcO9TD45Y0aLZU5yBeW2G.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Homem do Futuro[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39354.mp4
-#EXTINF:-1 tvg-name="Os Trapalhões e o Mágico de Oróz" tvg-logo="https://image.tmdb.org/t/p/w342/vuqGUnWLyLC17zYXWPwfT43145A.jpg" group-title="Nacional",Os Trapalhões e o Mágico de Oróz[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Trapalhões e o Mágico de Oróz" tvg-logo="https://image.tmdb.org/t/p/w342/vuqGUnWLyLC17zYXWPwfT43145A.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Trapalhões e o Mágico de Oróz[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39353.mp4
-#EXTINF:-1 tvg-name="Os Trapalhões e o Rei do Futebol" tvg-logo="https://image.tmdb.org/t/p/w342/uEie8BuqKLzX5WFXQ6HExwPiqwJ.jpg" group-title="Nacional",Os Trapalhões e o Rei do Futebol[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Trapalhões e o Rei do Futebol" tvg-logo="https://image.tmdb.org/t/p/w342/uEie8BuqKLzX5WFXQ6HExwPiqwJ.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Trapalhões e o Rei do Futebol[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39352.mp4
-#EXTINF:-1 tvg-name="Os Trapalhões e a Árvore da Juventude" tvg-logo="https://image.tmdb.org/t/p/w342/bhnNNuHs9qs45gy98GmdUIGKDh2.jpg" group-title="Nacional",Os Trapalhões e a Árvore da Juventude[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Trapalhões e a Árvore da Juventude" tvg-logo="https://image.tmdb.org/t/p/w342/bhnNNuHs9qs45gy98GmdUIGKDh2.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Trapalhões e a Árvore da Juventude[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39351.mp4
-#EXTINF:-1 tvg-name="Os Heróis Trapalhões - Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] na Selva" tvg-logo="https://image.tmdb.org/t/p/w342/sghqwymNH187Vg5bOY3vX7g1KD2.jpg" group-title="Nacional",Os Heróis Trapalhões - Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] na Selva[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Heróis Trapalhões - Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] na Selva" tvg-logo="https://image.tmdb.org/t/p/w342/sghqwymNH187Vg5bOY3vX7g1KD2.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Heróis Trapalhões - Uma [COLOR orange][B] AVENTURA [COLOR yellow] -> [COLOR white] na Selva[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39350.mp4
-#EXTINF:-1 tvg-name="Os Fantasmas Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/iZ7QSsfkqJJNIT1GQcXVs01Rjq8.jpg" group-title="Nacional",Os Fantasmas Trapalhões[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Fantasmas Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/iZ7QSsfkqJJNIT1GQcXVs01Rjq8.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Fantasmas Trapalhões[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39349.mp4
-#EXTINF:-1 tvg-name="O Rei e os Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/uawG2ASZPyBHujOuljEd0BqZaF1.jpg" group-title="Nacional",O Rei e os Trapalhões[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Rei e os Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/uawG2ASZPyBHujOuljEd0BqZaF1.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Rei e os Trapalhões[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39348.mp4
-#EXTINF:-1 tvg-name="O Noviço Rebelde" tvg-logo="https://image.tmdb.org/t/p/w342/hgaouQPWXu4Kezmb65569B9QsWS.jpg" group-title="Nacional",O Noviço Rebelde[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Noviço Rebelde" tvg-logo="https://image.tmdb.org/t/p/w342/hgaouQPWXu4Kezmb65569B9QsWS.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Noviço Rebelde[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39347.mp4
-#EXTINF:-1 tvg-name="O Mundo Mágico dos Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/qhfbiQ5UZXUhqvnzF0TVL8JIl5U.jpg" group-title="Nacional",O Mundo Mágico dos Trapalhões[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Mundo Mágico dos Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/qhfbiQ5UZXUhqvnzF0TVL8JIl5U.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Mundo Mágico dos Trapalhões[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39346.mp4
-#EXTINF:-1 tvg-name="O Mistério de Robin Hood" tvg-logo="https://image.tmdb.org/t/p/w342/3VBItZiqd8FWzfNcJAAFY6no3Uc.jpg" group-title="Nacional",O Mistério de Robin Hood[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Mistério de Robin Hood" tvg-logo="https://image.tmdb.org/t/p/w342/3VBItZiqd8FWzfNcJAAFY6no3Uc.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Mistério de Robin Hood[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39345.mp4
-#EXTINF:-1 tvg-name="O Incrível Monstro Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/xAP2ZzCdiOdrynIwPR702gMK668.jpg" group-title="Nacional",O Incrível Monstro Trapalhão[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Incrível Monstro Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/xAP2ZzCdiOdrynIwPR702gMK668.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Incrível Monstro Trapalhão[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39344.mp4
-#EXTINF:-1 tvg-name="O Cinderelo Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/r7rTd4fzL9NgrslkYOZBGKAhja1.jpg" group-title="Nacional",O Cinderelo Trapalhão[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Cinderelo Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/r7rTd4fzL9NgrslkYOZBGKAhja1.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Cinderelo Trapalhão[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39343.mp4
-#EXTINF:-1 tvg-name="O Casamento dos Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/xKoM05UcZEFznOwrs0RjX4afS1g.jpg" group-title="Nacional",O Casamento dos Trapalhões[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Casamento dos Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/xKoM05UcZEFznOwrs0RjX4afS1g.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Casamento dos Trapalhões[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39342.mp4
-#EXTINF:-1 tvg-name="O Cangaceiro Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/vTeVkngp93Cxw1t5RpWy8ErSN4f.jpg" group-title="Nacional",O Cangaceiro Trapalhão[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Cangaceiro Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/vTeVkngp93Cxw1t5RpWy8ErSN4f.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Cangaceiro Trapalhão[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39341.mp4
-#EXTINF:-1 tvg-name="Na Onda do Iê-Iê-Iê" tvg-logo="https://image.tmdb.org/t/p/w342/pdg1Lk37DounkeqcRaLsKNkhV0a.jpg" group-title="Nacional",Na Onda do Iê-Iê-Iê[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Na Onda do Iê-Iê-Iê" tvg-logo="https://image.tmdb.org/t/p/w342/pdg1Lk37DounkeqcRaLsKNkhV0a.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Na Onda do Iê-Iê-Iê[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39340.mp4
-#EXTINF:-1 tvg-name="Os Trapalhões na Guerra dos Planetas" tvg-logo="https://image.tmdb.org/t/p/w342/91JvtJlDKz7PPqpaIKuMuus1hbf.jpg" group-title="Nacional",Os Trapalhões na Guerra dos Planetas[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Os Trapalhões na Guerra dos Planetas" tvg-logo="https://image.tmdb.org/t/p/w342/91JvtJlDKz7PPqpaIKuMuus1hbf.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Os Trapalhões na Guerra dos Planetas[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39338.mp4
-#EXTINF:-1 tvg-name="O [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white] da Cabra" tvg-logo="https://image.tmdb.org/t/p/w342/dmTB39jwwttoMAIR6RiJulKoNH8.jpg" group-title="Nacional",O [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white] da Cabra[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white] da Cabra" tvg-logo="https://image.tmdb.org/t/p/w342/dmTB39jwwttoMAIR6RiJulKoNH8.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O [COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white] da Cabra[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39337.mp4
-#EXTINF:-1 tvg-name="Embarque Imediato" tvg-logo="https://image.tmdb.org/t/p/w342/nB4pMR8AvDVGRh3gzT3UKu8vINl.jpg" group-title="Nacional",Embarque Imediato[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Embarque Imediato" tvg-logo="https://image.tmdb.org/t/p/w342/nB4pMR8AvDVGRh3gzT3UKu8vINl.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Embarque Imediato[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39336.mp4
-#EXTINF:-1 tvg-name="Nise - O Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] da Loucura" tvg-logo="https://image.tmdb.org/t/p/w342/eDEu2l4xvmhVuLerpHzzz2i1lgm.jpg" group-title="Nacional",Nise - O Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] da Loucura[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Nise - O Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] da Loucura" tvg-logo="https://image.tmdb.org/t/p/w342/eDEu2l4xvmhVuLerpHzzz2i1lgm.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Nise - O Cor[COLOR orange][B] AÇÃO [COLOR yellow] -> [COLOR white] da Loucura[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39334.mp4
-#EXTINF:-1 tvg-name="Meu Nome Não é Johnny" tvg-logo="https://image.tmdb.org/t/p/w342/q0f9hmTPMqNne3HiIy5LVlXFx0b.jpg" group-title="Nacional",Meu Nome Não é Johnny[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Meu Nome Não é Johnny" tvg-logo="https://image.tmdb.org/t/p/w342/q0f9hmTPMqNne3HiIy5LVlXFx0b.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Meu Nome Não é Johnny[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39333.mp4
-#EXTINF:-1 tvg-name="Dias Vazios" tvg-logo="https://image.tmdb.org/t/p/w342/rUNpAJN6ApR7ERF5FCPqJ59LUoX.jpg" group-title="Nacional",Dias Vazios[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Dias Vazios" tvg-logo="https://image.tmdb.org/t/p/w342/rUNpAJN6ApR7ERF5FCPqJ59LUoX.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Dias Vazios[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39332.mp4
-#EXTINF:-1 tvg-name="Gabriel e a Montanha" tvg-logo="https://image.tmdb.org/t/p/w342/wS4CN3Yc5tVLikxJFZHd988SH40.jpg" group-title="Nacional",Gabriel e a Montanha[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Gabriel e a Montanha" tvg-logo="https://image.tmdb.org/t/p/w342/wS4CN3Yc5tVLikxJFZHd988SH40.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Gabriel e a Montanha[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39330.mp4
-#EXTINF:-1 tvg-name="Entre Idas e Vindas" tvg-logo="https://image.tmdb.org/t/p/w342/rzzwDQVAQhVrayMuOoWkPtnaTNu.jpg" group-title="Nacional",Entre Idas e Vindas[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Entre Idas e Vindas" tvg-logo="https://image.tmdb.org/t/p/w342/rzzwDQVAQhVrayMuOoWkPtnaTNu.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Entre Idas e Vindas[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39329.mp4
-#EXTINF:-1 tvg-name="O Grande Circo Místico" tvg-logo="https://image.tmdb.org/t/p/w342/mGb7dmGFIWSigLou8FYq8zlqF45.jpg" group-title="Nacional",O Grande Circo Místico[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Grande Circo Místico" tvg-logo="https://image.tmdb.org/t/p/w342/mGb7dmGFIWSigLou8FYq8zlqF45.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Grande Circo Místico[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39328.mp4
-#EXTINF:-1 tvg-name="Não Se Aceitam Devoluções" tvg-logo="https://image.tmdb.org/t/p/w342/2I7tRFLss54Kjyq9p0gPf74lXXo.jpg" group-title="Nacional",Não Se Aceitam Devoluções[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Não Se Aceitam Devoluções" tvg-logo="https://image.tmdb.org/t/p/w342/2I7tRFLss54Kjyq9p0gPf74lXXo.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Não Se Aceitam Devoluções[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39327.mp4
-#EXTINF:-1 tvg-name="O Homem Perfeito" tvg-logo="https://image.tmdb.org/t/p/w342/A7cZjJDYmHUFYmbIFJmPuOrNgMw.jpg" group-title="Nacional",O Homem Perfeito[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Homem Perfeito" tvg-logo="https://image.tmdb.org/t/p/w342/A7cZjJDYmHUFYmbIFJmPuOrNgMw.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Homem Perfeito[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39326.mp4
-#EXTINF:-1 tvg-name="D.P.A. Detetives do Prédio Azul 2 - O Mistério Italiano" tvg-logo="https://image.tmdb.org/t/p/w342/eLJpPkLUbH2xiHn6onKQ0D0Y7fA.jpg" group-title="Nacional",D.P.A. Detetives do Prédio Azul 2 - O Mistério Italiano[/B][/COLOR] 
+#EXTINF:-1 tvg-name="D.P.A. Detetives do Prédio Azul 2 - O Mistério Italiano" tvg-logo="https://image.tmdb.org/t/p/w342/eLJpPkLUbH2xiHn6onKQ0D0Y7fA.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]D.P.A. Detetives do Prédio Azul 2 - O Mistério Italiano[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39325.mp4
-#EXTINF:-1 tvg-name="D.P.A. Detetives do Prédio Azul - O Filme" tvg-logo="https://image.tmdb.org/t/p/w342/4ezEwZp2gUCfiT5STguLWNV4BYR.jpg" group-title="Nacional",D.P.A. Detetives do Prédio Azul - O Filme[/B][/COLOR] 
+#EXTINF:-1 tvg-name="D.P.A. Detetives do Prédio Azul - O Filme" tvg-logo="https://image.tmdb.org/t/p/w342/4ezEwZp2gUCfiT5STguLWNV4BYR.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]D.P.A. Detetives do Prédio Azul - O Filme[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39324.mp4
-#EXTINF:-1 tvg-name="Cidade dos Homens" tvg-logo="https://image.tmdb.org/t/p/w342/6qVGJe9JcFtLQ6FUjrtckZCc9WS.jpg" group-title="Nacional",Cidade dos Homens[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Cidade dos Homens" tvg-logo="https://image.tmdb.org/t/p/w342/6qVGJe9JcFtLQ6FUjrtckZCc9WS.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Cidade dos Homens[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39284.mp4
 #EXTINF:-1 tvg-name="Tom & Jerry - O Dragão Perdido" tvg-logo="https://image.tmdb.org/t/p/w342/kmXPSPsuheav0vLCV6MsLDHV1jE.jpg" ,[COLOR orange][B] INFANTIL [COLOR yellow] -> [COLOR white]Tom & Jerry - O Dragão Perdido[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39283.mp4
-#EXTINF:-1 tvg-name="Bróder" tvg-logo="https://image.tmdb.org/t/p/w342/s9dpx9p9h6mmhnBXVaqEuapVx7B.jpg" group-title="Nacional",Bróder[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Bróder" tvg-logo="https://image.tmdb.org/t/p/w342/s9dpx9p9h6mmhnBXVaqEuapVx7B.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Bróder[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39282.mp4
-#EXTINF:-1 tvg-name="Bonga, o Vagabundo" tvg-logo="https://image.tmdb.org/t/p/w342/bvz6oCiQmd8VqSenDuyhKOg0tUP.jpg" group-title="Nacional",Bonga, o Vagabundo[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Bonga, o Vagabundo" tvg-logo="https://image.tmdb.org/t/p/w342/bvz6oCiQmd8VqSenDuyhKOg0tUP.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Bonga, o Vagabundo[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39281.mp4
-#EXTINF:-1 tvg-name="A Princesa Xuxa e os Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/bFIv5EDwRjSt80H4Mkd3bMVsx1b.jpg" group-title="Nacional",A Princesa Xuxa e os Trapalhões[/B][/COLOR] 
+#EXTINF:-1 tvg-name="A Princesa Xuxa e os Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/bFIv5EDwRjSt80H4Mkd3bMVsx1b.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]A Princesa Xuxa e os Trapalhões[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39280.mp4
-#EXTINF:-1 tvg-name="Aladim e a Lâmpada Maravilhosa" tvg-logo="https://image.tmdb.org/t/p/w342/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg" group-title="Nacional",Aladim e a Lâmpada Maravilhosa[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Aladim e a Lâmpada Maravilhosa" tvg-logo="https://image.tmdb.org/t/p/w342/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Aladim e a Lâmpada Maravilhosa[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39278.mp4
-#EXTINF:-1 tvg-name="A Filha dos Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/xK3k94RSkW7u1walQlTxP16G5Tj.jpg" group-title="Nacional",A Filha dos Trapalhões[/B][/COLOR] 
+#EXTINF:-1 tvg-name="A Filha dos Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w342/xK3k94RSkW7u1walQlTxP16G5Tj.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]A Filha dos Trapalhões[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39277.mp4
-#EXTINF:-1 tvg-name="Adorável Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/eTgzZS59Q2l6jfYX8knYMS100qh.jpg" group-title="Nacional",Adorável Trapalhão[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Adorável Trapalhão" tvg-logo="https://image.tmdb.org/t/p/w342/eTgzZS59Q2l6jfYX8knYMS100qh.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Adorável Trapalhão[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39276.mp4
 #EXTINF:-1 tvg-name="Tina & Téo - A Pedra Encantada" tvg-logo="https://image.tmdb.org/t/p/w342/gNygVjotBeHHMSfVfhuTWZvkTr9.jpg" ,[COLOR orange][B] INFANTIL [COLOR yellow] -> [COLOR white]Tina & Téo - A Pedra Encantada[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39275.mp4
-#EXTINF:-1 tvg-name="Copa de Elite" tvg-logo="https://image.tmdb.org/t/p/w342/lnYUVBcw8xk5a3UMzNjFDcKAJc8.jpg" group-title="Nacional",Copa de Elite[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Copa de Elite" tvg-logo="https://image.tmdb.org/t/p/w342/lnYUVBcw8xk5a3UMzNjFDcKAJc8.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Copa de Elite[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39273.mp4
 #EXTINF:-1 tvg-name="Um Panda em Apuros" tvg-logo="https://image.tmdb.org/t/p/w342/bMfqHLb6UJHVFH2lqy1wt9gQ1lG.jpg" ,[COLOR orange][B] INFANTIL [COLOR yellow] -> [COLOR white]Um Panda em Apuros[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39272.mp4
-#EXTINF:-1 tvg-name="Carrossel 2: O Sumiço de Maria Joaquina" tvg-logo="https://image.tmdb.org/t/p/w342/kQveggVHP2HRf4edTY4aNkDTPZA.jpg" group-title="Nacional",Carrossel 2: O Sumiço de Maria Joaquina[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Carrossel 2: O Sumiço de Maria Joaquina" tvg-logo="https://image.tmdb.org/t/p/w342/kQveggVHP2HRf4edTY4aNkDTPZA.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Carrossel 2: O Sumiço de Maria Joaquina[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39270.mp4
 #EXTINF:-1 tvg-name="Uma Família Feliz" tvg-logo="https://image.tmdb.org/t/p/w342/rwc96zw4nW7nXg59dJKq4pPtZs8.jpg" ,[COLOR orange][B] INFANTIL [COLOR yellow] -> [COLOR white]Uma Família Feliz[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39267.mp4
-#EXTINF:-1 tvg-name="Assalto ao Banco Central" tvg-logo="https://image.tmdb.org/t/p/w342/sbUymWDX82csyNaTj3AmKGKqzrG.jpg" group-title="Nacional",Assalto ao Banco Central[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Assalto ao Banco Central" tvg-logo="https://image.tmdb.org/t/p/w342/sbUymWDX82csyNaTj3AmKGKqzrG.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Assalto ao Banco Central[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39266.mp4
-#EXTINF:-1 tvg-name="Como Nossos Pais" tvg-logo="https://image.tmdb.org/t/p/w342/qnB014Lkp5oq6yuSJpr6jH8U91J.jpg" group-title="Nacional",Como Nossos Pais[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Como Nossos Pais" tvg-logo="https://image.tmdb.org/t/p/w342/qnB014Lkp5oq6yuSJpr6jH8U91J.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Como Nossos Pais[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39265.mp4
-#EXTINF:-1 tvg-name="Chocante" tvg-logo="https://image.tmdb.org/t/p/w342/dokMmYTOzQVChqUrYNnGDm9TwWk.jpg" group-title="Nacional",Chocante[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Chocante" tvg-logo="https://image.tmdb.org/t/p/w342/dokMmYTOzQVChqUrYNnGDm9TwWk.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Chocante[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39264.mp4
-#EXTINF:-1 tvg-name="Albatroz" tvg-logo="https://image.tmdb.org/t/p/w342/gmRKjdDfElqgq72kJhHHbiERZG2.jpg" group-title="Nacional",Albatroz[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Albatroz" tvg-logo="https://image.tmdb.org/t/p/w342/gmRKjdDfElqgq72kJhHHbiERZG2.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]Albatroz[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/39263.mp4
 #EXTINF:-1 tvg-name="Calafrios" tvg-logo="https://image.tmdb.org/t/p/w342/ngntYqeKvDLieQhJKryQZoCLyCf.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Calafrios[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/43360.mp4
@@ -5251,7 +5251,7 @@ http://brtv.club:8880/movie/Milton/milton10/38960.mp4
 http://brtv.club:8880/movie/Milton/milton10/38959.mp4
 #EXTINF:-1 tvg-name="Lobisomem: A Besta Entre Nós" tvg-logo="https://image.tmdb.org/t/p/w342/fw0MlWcVzzOXSS1KLwIMyN3lOPs.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Lobisomem: A Besta Entre Nós[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/38958.mp4
-#EXTINF:-1 tvg-name="O Roubo da Taça" tvg-logo="https://image.tmdb.org/t/p/w342/jTpawXfV72mMfJYpIgJt4Yd9GZQ.jpg" group-title="Nacional",O Roubo da Taça[/B][/COLOR] 
+#EXTINF:-1 tvg-name="O Roubo da Taça" tvg-logo="https://image.tmdb.org/t/p/w342/jTpawXfV72mMfJYpIgJt4Yd9GZQ.jpg" ,[COLOR orange][B] NACIONAL [COLOR yellow] -> [COLOR white]O Roubo da Taça[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/38957.mp4
 #EXTINF:-1 tvg-name="Feitiço Havaiano" tvg-logo="https://image.tmdb.org/t/p/w342/tHrypSJmyPeinq6kUmy9ebIsrAj.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Feitiço Havaiano[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/38956.mp4
@@ -5819,7 +5819,7 @@ http://brtv.club:8880/movie/Milton/milton10/38351.mp4
 http://brtv.club:8880/movie/Milton/milton10/38350.mp4
 #EXTINF:-1 tvg-name="Deslize" tvg-logo="https://image.tmdb.org/t/p/w342/wLViITv88pT7zP7MNeJmSkAqQRk.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Deslize[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/38349.mp4
-#EXTINF:-1 tvg-name="Tal Mãe, Tal Filha" tvg-logo="https://image.tmdb.org/t/p/w342/2vpJlRahVcSGzcLRt6KtAFUkWzM.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Tal Mãe, Tal Filha[/B][/COLOR] 
+#EXTINF:-1 tvg-name="Tal Mãe Tal Filha" tvg-logo="https://image.tmdb.org/t/p/w342/2vpJlRahVcSGzcLRt6KtAFUkWzM.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Tal Mãe, Tal Filha[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/38348.mp4
 #EXTINF:-1 tvg-name="Tal Pai, Tal Filha" tvg-logo="https://image.tmdb.org/t/p/w342/myIqVgGUEgIMFdD752azAak8rQ3.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Tal Pai, Tal Filha[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/38347.mp4
