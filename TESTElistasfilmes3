@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ThfP8Pb/filmes-SERV4.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-id="" tvg-name="O Enigma de Outro Mundo (2011)" tvg-logo="http://canaishd.servidor.tv:8080/images/EmkhpcP1UPfDLnWwILlU1nwV0p_big.jpg" ,[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo (2011)[/B][/COLOR]
+http://canaishd.servidor.tv:8080/movie/guedes33/guedes33/70435.mp4
