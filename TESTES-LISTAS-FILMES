@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ThfP8Pb/filmes-SERV4.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-name="Assalto em Dose Dupla" tvg-logo="https://image.tmdb.org/t/p/w342/gBd4dWEWlar5CZfuPdwFuxPH68F.jpg" ,[COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white]Assalto em Dose Dupla[/B][/COLOR] 
-http://brtv.club:8880/movie/Milton/milton10/44860.mp4
+#EXTINF:-1 tvg-name="Assalto em Dose Dupla" tvg-logo="https://image.tmdb.org/t/p/w342/gBd4dWEWlar5CZfuPdwFuxPH68F.jpg" ,[COLOR orange][B] CRIME [COLOR yellow] -> [COLOR white]Assalto em Dose Dupla vdk[/B][/COLOR] 
+http://vdk10.life:8080/movie/jordane12/12jordane/41413.mp4
 #EXTINF:-1 tvg-name="O Renascimento do Parto 3" tvg-logo="https://image.tmdb.org/t/p/w342/tAzwxHJc8xiQGr2Oj6jbjkhsgtL.jpg" ,[COLOR orange][B] DOCUMENTARIOS [COLOR yellow] -> [COLOR white]O Renascimento do Parto 3[/B][/COLOR] 
 http://brtv.club:8880/movie/Milton/milton10/45083.mp4
 #EXTINF:-1 tvg-name="Um Jantar para Idiotas" tvg-logo="https://image.tmdb.org/t/p/w342/9UaJdctmPERzKEsW2jPlzBDna1f.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Um Jantar para Idiotas[/B][/COLOR] 
