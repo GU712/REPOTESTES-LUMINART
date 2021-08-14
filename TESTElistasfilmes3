@@ -1,13 +1,15 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ThfP8Pb/filmes-SERV4.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-id="" tvg-name="71: Esquecido em Belfast - 2015" tvg-logo="http://dns.clientetv.xyz:8000/images/tiCiAp9WGY33T40XuMsqbSy9gnnKYiV5.jpg" ,[COLOR orange][B] GUERRA/POLICIAL [COLOR yellow] -> [COLOR white]71: Esquecido em Belfast - 2015[/B][/COLOR]
-http://dns.clientetv.xyz:8080/movie/bira2021/2021bira/10626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: O Espião Que Me Amava (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZss61yM6uKT2KU1aGX7W8ElsPE.jpg" ,[COLOR orange][B] AÇÃO/CRIME [COLOR yellow] -> [COLOR white]007: O Espião Que Me Amava (1977)[/B][/COLOR]
-http://dns.clientetv.xyz:8080/movie/bira2021/2021bira/8914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Na Mira dos Assassinos (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbytkyUibUnksjBEpIwcMxQJTfJ.jpg" ,[COLOR orange][B] AÇÃO/CRIME [COLOR yellow] -> [COLOR white]007: Na Mira dos Assassinos (1985)[/B][/COLOR]
-http://dns.clientetv.xyz:8080/movie/bira2021/2021bira/8911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: A Serviço Secreto de Sua Majestade (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFIX4ZDjpcGwGvOSVrWxboBZAzb.jpg" ,[COLOR orange][B] AÇÃO/CRIME [COLOR yellow] -> [COLOR white]007: A Serviço Secreto de Sua Majestade (1969)[/B][/COLOR]
-http://dns.clientetv.xyz:8080/movie/bira2021/2021bira/8896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 Contra o Foguete da Morte (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLIklqHcFZzRKi2mJjRfiI50lzJ.jpg" ,[COLOR orange][B] AÇÃO/CRIME [COLOR yellow] -> [COLOR white]007 Contra o Foguete da Morte (1979)[/B][/COLOR]
-http://dns.clientetv.xyz:8080/movie/bira2021/2021bira/8904.mp4
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>	
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>	
+<title>[COLOR white][B]007: O Espião Que Me Amava (1977)[/B][/COLOR]</title>	
+<link>http://dns.clientetv.xyz:8080/movie/bira2021/2021bira/8914.mp4</link>	
+<thumbnail>https://i.ibb.co/BfRrLxh/Server-1-2.png</thumbnail> <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> </item>	
+<item>	
