@@ -1,657 +1,160 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD [H265] ¹" tvg-logo="https://i.imgur.com/f2pJ8uW.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]A&E FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856913
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD ¹" tvg-logo="https://i.imgur.com/f2pJ8uW.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]A&E FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847862
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD ²" tvg-logo="https://i.imgur.com/f2pJ8uW.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]A&E HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847861
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD ¹" tvg-logo="https://i.imgur.com/f2pJ8uW.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]A&E HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856687
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD ²" tvg-logo="https://i.imgur.com/f2pJ8uW.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]A&E SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847860
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD ¹" tvg-logo="https://i.imgur.com/f2pJ8uW.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]A&E SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857103
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD [H265] ¹" tvg-logo="https://i.imgur.com/5ID1n5P.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AMC FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856914
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD ¹" tvg-logo="https://i.imgur.com/5ID1n5P.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AMC FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847859
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD ²" tvg-logo="https://i.imgur.com/5ID1n5P.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AMC HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847858
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD ¹" tvg-logo="https://i.imgur.com/5ID1n5P.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AMC HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856688
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD ²" tvg-logo="https://i.imgur.com/5ID1n5P.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AMC SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847857
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD ¹" tvg-logo="https://i.imgur.com/5ID1n5P.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AMC SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857104
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD ¹" tvg-logo="https://i.imgur.com/uMpJuHE.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]ANIMAL PLANET FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847856
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD ²" tvg-logo="https://i.imgur.com/uMpJuHE.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]ANIMAL PLANET HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847855
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD ¹" tvg-logo="https://i.imgur.com/uMpJuHE.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]ANIMAL PLANET HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856689
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD ²" tvg-logo="https://i.imgur.com/uMpJuHE.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]ANIMAL PLANET SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847854
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD ¹" tvg-logo="https://i.imgur.com/uMpJuHE.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]ANIMAL PLANET SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857105
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD ¹" tvg-logo="https://i.imgur.com/1dKnSXj.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]ARTE 1 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856844
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD ²" tvg-logo="https://i.imgur.com/1dKnSXj.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]ARTE 1 SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847853
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD ¹" tvg-logo="https://i.imgur.com/ctgIH07.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AXN FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847852
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD ²" tvg-logo="https://i.imgur.com/ctgIH07.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AXN HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847851
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD ¹" tvg-logo="https://i.imgur.com/ctgIH07.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AXN HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856690
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD ²" tvg-logo="https://i.imgur.com/ctgIH07.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AXN SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847850
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD ¹" tvg-logo="https://i.imgur.com/ctgIH07.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AXN SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857106
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN [H265] ¹" tvg-logo="https://i.imgur.com/ctgIH07.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AXN [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856915
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD ¹" tvg-logo="https://i.imgur.com/WFa3DYA.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]BABY TV SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857107
-#EXTINF:-1 tvg-id="Band Brasília" tvg-name="BAND BSB HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND BSB HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857010
-#EXTINF:-1 tvg-id="Band Brasília HD" tvg-name="BAND CAMPINAS FHD [H265] ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND CAMPINAS FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857084
-#EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND CAMPINAS HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND CAMPINAS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857011
-#EXTINF:-1 tvg-id="Band Curitiba HD" tvg-name="BAND CURITIBA HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND CURITIBA HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857077
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND INTERIOR  HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND INTERIOR  HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857014
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND INTERIOR BA HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND INTERIOR BA HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857108
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND INTERIOR MG FHD [H265] ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND INTERIOR MG FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/861013
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND INTERIOR MG HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND INTERIOR MG HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/861017
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD [H265] ¹" tvg-logo="https://i.imgur.com/lIwPTDV.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]BAND NEWS FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856916
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS FHD ¹" tvg-logo="https://i.imgur.com/lIwPTDV.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]BAND NEWS FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847849
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS HD ²" tvg-logo="https://i.imgur.com/lIwPTDV.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]BAND NEWS HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847848
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD ¹" tvg-logo="https://i.imgur.com/lIwPTDV.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]BAND NEWS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856806
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS SD ²" tvg-logo="https://i.imgur.com/lIwPTDV.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]BAND NEWS SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847847
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS SD ¹" tvg-logo="https://i.imgur.com/lIwPTDV.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]BAND NEWS SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857110
-#EXTINF:-1 tvg-id="Band RJ HD" tvg-name="BAND RJ FHD [H265] ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND RJ FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857009
-#EXTINF:-1 tvg-id="Band RJ HD" tvg-name="BAND RJ HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND RJ HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857012
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND RS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857013
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND SP FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/861629
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BAND SP HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857015
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD [H265] ¹" tvg-logo="https://i.imgur.com/0OZ0ReM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]BAND SPORTS FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856917
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD ¹" tvg-logo="https://i.imgur.com/0OZ0ReM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]BAND SPORTS FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847846
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD ²" tvg-logo="https://i.imgur.com/0OZ0ReM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]BAND SPORTS HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847845
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD ¹" tvg-logo="https://i.imgur.com/0OZ0ReM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]BAND SPORTS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856691
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD ²" tvg-logo="https://i.imgur.com/0OZ0ReM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]BAND SPORTS SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847844
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD ¹" tvg-logo="https://i.imgur.com/0OZ0ReM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]BAND SPORTS SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857111
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BANDEIRANTES HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BANDEIRANTES HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857109
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BANDEIRANTES SP HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BANDEIRANTES SP HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/861630
-#EXTINF:-1 tvg-id="bbc.entertainment.pt" tvg-name="BBC WORLD HD ¹" tvg-logo="https://i.imgur.com/9MsmEcU.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]BBC WORLD HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856848
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD [H265] ¹" tvg-logo="https://i.imgur.com/3inGYNL.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]BIS FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856918
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD ¹" tvg-logo="https://i.imgur.com/3inGYNL.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]BIS FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847843
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD ²" tvg-logo="https://i.imgur.com/3inGYNL.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]BIS HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847842
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD ¹" tvg-logo="https://i.imgur.com/3inGYNL.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]BIS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856692
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD ²" tvg-logo="https://i.imgur.com/3inGYNL.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]BIS SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847841
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD ¹" tvg-logo="https://i.imgur.com/3inGYNL.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]BIS SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857112
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG FHD [H265] ¹" tvg-logo="https://i.imgur.com/sBtv1cO.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]BOOMERANG FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856919
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD ¹" tvg-logo="https://i.imgur.com/sBtv1cO.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]BOOMERANG FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847840
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD ²" tvg-logo="https://i.imgur.com/sBtv1cO.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]BOOMERANG HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847839
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD ¹" tvg-logo="https://i.imgur.com/sBtv1cO.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]BOOMERANG HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856836
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD ²" tvg-logo="https://i.imgur.com/sBtv1cO.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]BOOMERANG SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847838
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG SD ¹" tvg-logo="https://i.imgur.com/sBtv1cO.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]BOOMERANG SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857113
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 01 HD ²" tvg-logo="https://i.imgur.com/NXVBwQW.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO CARIOCA 01 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847473
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 02 HD ²" tvg-logo="https://i.imgur.com/NXVBwQW.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO CARIOCA 02 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847472
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 03 HD ²" tvg-logo="https://i.imgur.com/NXVBwQW.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO CARIOCA 03 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847471
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2021 FHD [H265] ¹" tvg-logo="https://i.imgur.com/NXVBwQW.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO CARIOCA 2021 FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856857
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2021 HD ¹" tvg-logo="https://i.imgur.com/NXVBwQW.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO CARIOCA 2021 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856858
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO 1)" tvg-logo="https://i.imgur.com/d133u1T.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO CATARINENSE (JOGO 1)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856799
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO 5)" tvg-logo="https://i.imgur.com/d133u1T.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO CATARINENSE (JOGO 5)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856860
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO2)" tvg-logo="https://i.imgur.com/d133u1T.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO CATARINENSE (JOGO2)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856798
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO3)" tvg-logo="https://i.imgur.com/d133u1T.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO CATARINENSE (JOGO3)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856800
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO4)" tvg-logo="https://i.imgur.com/d133u1T.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO CATARINENSE (JOGO4)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856801
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO HD ²" tvg-logo="https://i.imgur.com/ApHr0IX.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO PARAIBANO HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847467
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO ( JOOGO 1)" tvg-logo="https://i.imgur.com/gekVBXY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO SERGIPANO ( JOOGO 1)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856854
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO (JOGO 2)" tvg-logo="https://i.imgur.com/gekVBXY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO SERGIPANO (JOGO 2)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856855
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 01 HD ²" tvg-logo="https://i.imgur.com/gekVBXY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO SERGIPANO 01 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847470
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 02 HD ²" tvg-logo="https://i.imgur.com/gekVBXY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO SERGIPANO 02 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847469
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 03 HD ²" tvg-logo="https://i.imgur.com/gekVBXY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CAMPEONATO SERGIPANO 03 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847468
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD [H265] ¹" tvg-logo="https://i.imgur.com/GXE4jMU.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]CANAL BRASIL FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856920
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD ¹" tvg-logo="https://i.imgur.com/GXE4jMU.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]CANAL BRASIL HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856849
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD ¹" tvg-logo="https://i.imgur.com/GXE4jMU.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]CANAL BRASIL SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857114
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD ²" tvg-logo="https://i.imgur.com/QWiKn9T.png" ,[COLOR orange][B]LS-TVs-  ABERTOS [COLOR yellow] -> [COLOR white]CANAL DO BOI HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857115
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD ¹" tvg-logo="https://i.imgur.com/GFgqNpF.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]CANAL OFF FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847663
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD ²" tvg-logo="https://i.imgur.com/GFgqNpF.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]CANAL OFF HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847662
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF SD ²" tvg-logo="https://i.imgur.com/GFgqNpF.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]CANAL OFF SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847661
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL HD ¹" tvg-logo="https://i.imgur.com/RaIJoOf.png" ,[COLOR orange][B]LS-TVs-  ABERTOS [COLOR yellow] -> [COLOR white]CANAL RURAL HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/861228
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD ¹" tvg-logo="https://i.imgur.com/1M78zPj.png" ,[COLOR orange][B]LS-TVs-  RELIGIOSOS [COLOR yellow] -> [COLOR white]CANCAO NOVA SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857117
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD ¹" tvg-logo="https://i.imgur.com/URSYnf5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]CARTOON NETWORK FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847828
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD ²" tvg-logo="https://i.imgur.com/URSYnf5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]CARTOON NETWORK HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847827
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD ¹" tvg-logo="https://i.imgur.com/URSYnf5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]CARTOON NETWORK HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856694
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD ²" tvg-logo="https://i.imgur.com/URSYnf5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]CARTOON NETWORK SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847826
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD ¹" tvg-logo="https://i.imgur.com/URSYnf5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]CARTOON NETWORK SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857118
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK [H265]" tvg-logo="https://i.imgur.com/URSYnf5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]CARTOON NETWORK [H265][/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856922
-#EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEFE TV HD ¹" tvg-logo="https://i.imgur.com/4tXvrh6.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]CHEFE TV HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856876
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1 FHD [H265] ¹" tvg-logo="https://i.imgur.com/Bn1WcRI.png" ,[COLOR orange][B]LS-TVs-  CINE PIPOCA [COLOR yellow] -> [COLOR white]CINE SKY 1 FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857354
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2 FHD [H265] ¹" tvg-logo="https://i.imgur.com/Bn1WcRI.png" ,[COLOR orange][B]LS-TVs-  CINE PIPOCA [COLOR yellow] -> [COLOR white]CINE SKY 2 FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857355
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3  FHD [H265] ¹" tvg-logo="https://i.imgur.com/Bn1WcRI.png" ,[COLOR orange][B]LS-TVs-  CINE PIPOCA [COLOR yellow] -> [COLOR white]CINE SKY 3  FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857356
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4 FHD [H265] ¹" tvg-logo="https://i.imgur.com/Bn1WcRI.png" ,[COLOR orange][B]LS-TVs-  CINE PIPOCA [COLOR yellow] -> [COLOR white]CINE SKY 4 FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857357
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5 FHD [H265] ¹" tvg-logo="https://i.imgur.com/Bn1WcRI.png" ,[COLOR orange][B]LS-TVs-  CINE PIPOCA [COLOR yellow] -> [COLOR white]CINE SKY 5 FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857358
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD [H265] ¹" tvg-logo="https://i.imgur.com/oeeAOs3.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]CINEMAX FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856923
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD ¹" tvg-logo="https://i.imgur.com/oeeAOs3.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]CINEMAX FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847825
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD ²" tvg-logo="https://i.imgur.com/oeeAOs3.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]CINEMAX HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847824
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD ¹" tvg-logo="https://i.imgur.com/oeeAOs3.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]CINEMAX HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856695
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD ²" tvg-logo="https://i.imgur.com/oeeAOs3.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]CINEMAX SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847823
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD ¹" tvg-logo="https://i.imgur.com/oeeAOs3.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]CINEMAX SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857119
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL FHD [H265] ¹" tvg-logo="https://i.imgur.com/TXUGFuN.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]CNN BRASIL FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857008
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD ¹" tvg-logo="https://i.imgur.com/TXUGFuN.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]CNN BRASIL FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847822
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD ²" tvg-logo="https://i.imgur.com/TXUGFuN.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]CNN BRASIL HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847821
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL HD ¹" tvg-logo="https://i.imgur.com/TXUGFuN.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]CNN BRASIL HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856805
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD ²" tvg-logo="https://i.imgur.com/TXUGFuN.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]CNN BRASIL SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847820
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL SD ¹" tvg-logo="https://i.imgur.com/TXUGFuN.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]CNN BRASIL SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857248
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN ESPANHOL SD ¹" tvg-logo="https://i.imgur.com/X8znyfx.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]CNN ESPANHOL SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856875
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD ¹" tvg-logo="https://i.imgur.com/WfYB35W.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]CNN INTERNACIONAL SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856874
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD [H265] ¹" tvg-logo="https://i.imgur.com/vndT82p.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]COMBATE FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856924
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD ¹" tvg-logo="https://i.imgur.com/vndT82p.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]COMBATE FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847819
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD ²" tvg-logo="https://i.imgur.com/vndT82p.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]COMBATE HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847818
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD ¹" tvg-logo="https://i.imgur.com/vndT82p.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]COMBATE HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856696
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD ²" tvg-logo="https://i.imgur.com/vndT82p.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]COMBATE SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847817
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD ¹" tvg-logo="https://i.imgur.com/vndT82p.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]COMBATE SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857120
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD [H265] ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856925
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847816
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD ²" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847815
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856697
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD ²" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847814
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857121
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD ¹ (JOGO 1)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV FHD ¹ (JOGO 1)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856829
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD ¹ (JOGO 2)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV FHD ¹ (JOGO 2)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856830
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD ¹ (JOGO 3)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV FHD ¹ (JOGO 3)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856833
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD ¹ (JOGO 4 )" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV FHD ¹ (JOGO 4 )[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856862
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD ¹ (JOGO 1)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV HD ¹ (JOGO 1)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856831
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD ¹ (JOGO 2)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV HD ¹ (JOGO 2)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856832
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD ¹ (JOGO 3)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV HD ¹ (JOGO 3)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856834
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD ¹ (JOGO 4)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV HD ¹ (JOGO 4)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856861
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD ¹ (JOGO 1)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV SD ¹ (JOGO 1)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857252
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD ¹ (JOGO 2)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV SD ¹ (JOGO 2)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857255
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD ¹ (JOGO 3)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV SD ¹ (JOGO 3)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857257
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD ¹ (JOGO 4)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV SD ¹ (JOGO 4)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857253
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD ¹" tvg-logo="https://i.imgur.com/vRfOC9Z.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]CURTA! SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857122
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 01 HD ¹" tvg-logo="https://i.imgur.com/sqd6LyM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]DAZN 01 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857016
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 02 HD ¹" tvg-logo="https://i.imgur.com/sqd6LyM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]DAZN 02 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857017
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 03 HD ¹" tvg-logo="https://i.imgur.com/sqd6LyM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]DAZN 03 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857018
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 04 HD ¹" tvg-logo="https://i.imgur.com/sqd6LyM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]DAZN 04 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856824
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/sqd6LyM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]DAZN 1[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847492
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/sqd6LyM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]DAZN 2[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847491
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/sqd6LyM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]DAZN 3[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847490
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD [H265] ¹" tvg-logo="https://i.imgur.com/W26d4Fq.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY CHANNEL FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856926
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD ¹" tvg-logo="https://i.imgur.com/W26d4Fq.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY CHANNEL FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847807
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD ²" tvg-logo="https://i.imgur.com/W26d4Fq.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY CHANNEL HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847806
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD ¹" tvg-logo="https://i.imgur.com/W26d4Fq.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY CHANNEL HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856698
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD ²" tvg-logo="https://i.imgur.com/W26d4Fq.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY CHANNEL SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847805
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD ¹" tvg-logo="https://i.imgur.com/W26d4Fq.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY CHANNEL SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857123
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&amp;H FHD [H265] ¹" tvg-logo="https://i.imgur.com/EKPaDs6.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY H&amp;H FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856928
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&amp;H FHD ¹" tvg-logo="https://i.imgur.com/EKPaDs6.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY H&amp;H FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847804
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&amp;H HD ²" tvg-logo="https://i.imgur.com/EKPaDs6.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY H&amp;H HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847803
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&amp;H HD ¹" tvg-logo="https://i.imgur.com/EKPaDs6.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY H&amp;H HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856700
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&amp;H SD ²" tvg-logo="https://i.imgur.com/EKPaDs6.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY H&amp;H SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847802
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&amp;H SD ¹" tvg-logo="https://i.imgur.com/EKPaDs6.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY H&amp;H SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857124
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD [H265] ¹" tvg-logo="https://i.imgur.com/Lp56sC5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISCOVERY KIDS FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856929
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD ¹" tvg-logo="https://i.imgur.com/Lp56sC5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISCOVERY KIDS FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847801
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD ²" tvg-logo="https://i.imgur.com/Lp56sC5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISCOVERY KIDS HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847800
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD ¹" tvg-logo="https://i.imgur.com/Lp56sC5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISCOVERY KIDS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856701
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD ²" tvg-logo="https://i.imgur.com/Lp56sC5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISCOVERY KIDS SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847799
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD ¹" tvg-logo="https://i.imgur.com/12l0Omn.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISCOVERY KIDS SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857125
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD ¹" tvg-logo="https://i.imgur.com/5db7nmT.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY SCIENCE FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847798
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD ²" tvg-logo="https://i.imgur.com/5db7nmT.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY SCIENCE HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847797
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD ¹" tvg-logo="https://i.imgur.com/5db7nmT.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY SCIENCE HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856702
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD ²" tvg-logo="https://i.imgur.com/5db7nmT.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY SCIENCE SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847796
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE [H265] ¹" tvg-logo="https://i.imgur.com/5db7nmT.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY SCIENCE [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856930
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD [H265] ¹" tvg-logo="https://i.imgur.com/Adiw1CS.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY THEATER FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856931
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD ¹" tvg-logo="https://i.imgur.com/Adiw1CS.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY THEATER FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847795
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD ²" tvg-logo="https://i.imgur.com/Adiw1CS.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY THEATER HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847794
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD ¹" tvg-logo="https://i.imgur.com/Adiw1CS.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY THEATER HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856703
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD ²" tvg-logo="https://i.imgur.com/Adiw1CS.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY THEATER SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847793
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD [H265] ¹" tvg-logo="https://i.imgur.com/tYWcfMx.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY TURBO FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856932
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD ¹" tvg-logo="https://i.imgur.com/tYWcfMx.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY TURBO FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847792
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD ²" tvg-logo="https://i.imgur.com/tYWcfMx.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY TURBO HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847791
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD ¹" tvg-logo="https://i.imgur.com/tYWcfMx.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY TURBO HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856704
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD ²" tvg-logo="https://i.imgur.com/tYWcfMx.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY TURBO SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847790
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD ¹" tvg-logo="https://i.imgur.com/tYWcfMx.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY TURBO SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857126
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD [H265] ¹" tvg-logo="https://i.imgur.com/w37PObs.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY WORLD FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856933
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD ¹" tvg-logo="https://i.imgur.com/w37PObs.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY WORLD FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847789
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD ²" tvg-logo="https://i.imgur.com/w37PObs.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY WORLD HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847788
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD ¹" tvg-logo="https://i.imgur.com/w37PObs.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY WORLD HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856705
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD ²" tvg-logo="https://i.imgur.com/w37PObs.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]DISCOVERY WORLD SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847787
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD [H265] ¹" tvg-logo="https://i.imgur.com/34NMPhF.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY CHANNEL FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856934
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD ¹" tvg-logo="https://i.imgur.com/34NMPhF.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY CHANNEL FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847786
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD ²" tvg-logo="https://i.imgur.com/34NMPhF.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY CHANNEL HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847785
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD ¹" tvg-logo="https://i.imgur.com/34NMPhF.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY CHANNEL HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856706
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD ²" tvg-logo="https://i.imgur.com/34NMPhF.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY CHANNEL SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847784
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD ¹" tvg-logo="https://i.imgur.com/1FVW2Fx.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY CHANNEL SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857127
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD [H265] ¹" tvg-logo="https://i.imgur.com/A2KNbiB.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY JUNIOR FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856935
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD ¹" tvg-logo="https://i.imgur.com/A2KNbiB.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY JUNIOR FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847783
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD ²" tvg-logo="https://i.imgur.com/A2KNbiB.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY JUNIOR HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847782
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD ¹" tvg-logo="https://i.imgur.com/A2KNbiB.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY JUNIOR HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856707
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD ²" tvg-logo="https://i.imgur.com/A2KNbiB.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY JUNIOR SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847781
-#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="DISNEY JUNIOR SD ¹" tvg-logo="https://i.imgur.com/A2KNbiB.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY JUNIOR SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857128
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD ¹" tvg-logo="https://i.imgur.com/jQ2154E.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY XD SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857129
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD ¹" tvg-logo="https://i.imgur.com/sfpVDnt.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]DOG TV HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856852
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT FHD ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! ENTERTAINMENT FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847780
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT HD ²" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! ENTERTAINMENT HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847779
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT SD ²" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! ENTERTAINMENT SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847778
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD [H265] ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856936
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856708
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857130
-#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="ELEVEN SPORTS 01 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 01 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847461
-#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="ELEVEN SPORTS 01 HD ¹" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 01 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856882
-#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="ELEVEN SPORTS 02 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 02 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847460
-#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="ELEVEN SPORTS 02 HD ¹" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 02 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856883
-#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="ELEVEN SPORTS 03 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 03 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847459
-#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="ELEVEN SPORTS 03 HD ¹" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 03 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856884
-#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="ELEVEN SPORTS 04 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 04 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847458
-#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="ELEVEN SPORTS 04 HD ¹" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 04 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856885
-#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="ELEVEN SPORTS 05 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 05 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847457
-#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="ELEVEN SPORTS 05 HD ¹" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 05 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856886
-#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="ELEVEN SPORTS 06 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 06 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847456
-#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="ELEVEN SPORTS 06 HD ¹" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 06 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856887
-#EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 07 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 07 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847455
-#EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 07 HD ¹" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 07 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856888
-#EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 08 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 08 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847454
-#EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 08 HD ¹" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 08 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856889
-#EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 09 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 09 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847453
-#EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 09 HD ¹" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 09 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856890
-#EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 10 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 10 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847452
-#EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 10 HD ¹" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 10 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856891
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="EPTV CAMPINAS FHD [H265] ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]EPTV CAMPINAS FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857059
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="EPTV CAMPINAS HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]EPTV CAMPINAS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857058
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="EPTV CAMPINAS SD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]EPTV CAMPINAS SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857132
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="EPTV RIBEIRAO PRETO HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]EPTV RIBEIRAO PRETO HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857374
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="EPTV RIBEIRAO PRETO SD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]EPTV RIBEIRAO PRETO SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857133
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="EPTV SAO CARLOS SD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]EPTV SAO CARLOS SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857131
-#EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="EPTV SUL DE MINAS FHD [H265] ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]EPTV SUL DE MINAS FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857065
-#EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="EPTV SUL DE MINAS HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]EPTV SUL DE MINAS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857373
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2 FHD [H265] ¹" tvg-logo="https://i.imgur.com/6tJCxTm.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN 2 FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856939
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD ¹" tvg-logo="https://i.imgur.com/6tJCxTm.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN 2 FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847777
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD ²" tvg-logo="https://i.imgur.com/6tJCxTm.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN 2 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847776
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD ¹" tvg-logo="https://i.imgur.com/6tJCxTm.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN 2 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856709
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD ²" tvg-logo="https://i.imgur.com/6tJCxTm.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN 2 SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847775
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2 SD ¹" tvg-logo="https://i.imgur.com/6tJCxTm.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN 2 SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857135
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD [H265] ¹" tvg-logo="https://i.imgur.com/LJuuOMf.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN BRASIL FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856940
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD ¹" tvg-logo="https://i.imgur.com/LJuuOMf.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN BRASIL FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847774
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD ²" tvg-logo="https://i.imgur.com/LJuuOMf.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN BRASIL HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847773
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD ¹" tvg-logo="https://i.imgur.com/LJuuOMf.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN BRASIL HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856710
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD ²" tvg-logo="https://i.imgur.com/LJuuOMf.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN BRASIL SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847772
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD ¹" tvg-logo="https://i.imgur.com/LJuuOMf.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN BRASIL SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857136
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD [H265] ¹" tvg-logo="https://i.imgur.com/xMfxpFk.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN EXTRA FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856937
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD ¹" tvg-logo="https://i.imgur.com/xMfxpFk.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN EXTRA FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847771
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD ²" tvg-logo="https://i.imgur.com/xMfxpFk.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN EXTRA HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847770
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD ¹" tvg-logo="https://i.imgur.com/xMfxpFk.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN EXTRA HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856712
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD ²" tvg-logo="https://i.imgur.com/xMfxpFk.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN EXTRA SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847769
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD [H265] ¹" tvg-logo="https://i.imgur.com/kd3IBDz.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856938
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD ¹" tvg-logo="https://i.imgur.com/kd3IBDz.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847768
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD ²" tvg-logo="https://i.imgur.com/kd3IBDz.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847767
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD ¹" tvg-logo="https://i.imgur.com/kd3IBDz.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856711
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD ²" tvg-logo="https://i.imgur.com/kd3IBDz.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847766
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD ¹" tvg-logo="https://i.imgur.com/kd3IBDz.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]ESPN SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857134
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS  (JOGOS 02)" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNT SPORTS  (JOGOS 02)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857020
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS (JOGO 1)" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNT SPORTS (JOGO 1)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857019
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="ESTADIO TNT SPORTS (JOGO 4)" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNT SPORTS (JOGO 4)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857022
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 01 HD ²" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNT SPORTS 01 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847488
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 02 HD ²" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNT SPORTS 02 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847487
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 03 HD ²" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNT SPORTS 03 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847486
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 04 HD ²" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNT SPORTS 04 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847485
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 05 HD ²" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNT SPORTS 05 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847484
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD ¹" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNT SPORTS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857023
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNTN SPORTS (JOGO 3)" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNTN SPORTS (JOGO 3)[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857021
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV FHD ¹" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847765
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV HD ²" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847764
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD ¹" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856842
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV SD ²" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847763
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM &amp; ART HD ¹" tvg-logo="https://i.imgur.com/qXuboaZ.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FILM &amp; ART HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856839
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM &amp; ARTS SD ¹" tvg-logo="https://i.imgur.com/qXuboaZ.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FILM &amp; ARTS SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857137
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV SD ¹" tvg-logo="https://i.imgur.com/mmJtU42.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FISH TV SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857138
-#EXTINF:-1 tvg-id="" tvg-name="FISHTV FHD [H265] ¹" tvg-logo="https://i.imgur.com/mmJtU42.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FISHTV FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856941
-#EXTINF:-1 tvg-id="" tvg-name="FLA TV" tvg-logo="https://i.imgur.com/K3HkTwe.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]FLA TV[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856856
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847762
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD ²" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847761
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856713
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD ²" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847760
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857139
-#EXTINF:-1 tvg-id="" tvg-name="FOODNETWORK FHD [H265] ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOODNETWORK FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856942
-#EXTINF:-1 tvg-id="F1" tvg-name="FORMULA 1 TV HD ²" tvg-logo="https://i.imgur.com/bOvcO4j.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]FORMULA 1 TV HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847489
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD [H265] ¹" tvg-logo="https://i.imgur.com/uvjIrfv.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS 2 FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856947
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD ¹" tvg-logo="https://i.imgur.com/uvjIrfv.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS 2 FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847759
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD ²" tvg-logo="https://i.imgur.com/uvjIrfv.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS 2 HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847758
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD ¹" tvg-logo="https://i.imgur.com/uvjIrfv.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS 2 HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856718
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD ²" tvg-logo="https://i.imgur.com/uvjIrfv.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS 2 SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847757
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD ¹" tvg-logo="https://i.imgur.com/uvjIrfv.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS 2 SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857143
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD [H265] ¹" tvg-logo="https://i.imgur.com/Cu7yweR.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856946
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD ¹" tvg-logo="https://i.imgur.com/Cu7yweR.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847756
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD ²" tvg-logo="https://i.imgur.com/Cu7yweR.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847755
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD ¹" tvg-logo="https://i.imgur.com/Cu7yweR.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856719
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD ²" tvg-logo="https://i.imgur.com/Cu7yweR.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847754
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD ¹" tvg-logo="https://i.imgur.com/Cu7yweR.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FOX SPORTS SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857142
-#EXTINF:-1 tvg-id="Live: Furacão play" tvg-name="FURACAO LIVE HD ²" tvg-logo="https://i.imgur.com/ZJjmoI9.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]FURACAO LIVE HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847451
-#EXTINF:-1 tvg-id="Live: Furacão play" tvg-name="FURACAO LIVE HD ¹" tvg-logo="https://i.imgur.com/ZJjmoI9.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]FURACAO LIVE HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856827
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD ¹" tvg-logo="https://i.imgur.com/nrjd43P.png" ,[COLOR orange][B]LS-TVs-  ABERTOS [COLOR yellow] -> [COLOR white]FUTURA SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857144
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD [H265] ¹" tvg-logo="https://i.imgur.com/6j1dJ29.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]FX FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856948
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD ¹" tvg-logo="https://i.imgur.com/6j1dJ29.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]FX FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847750
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD ²" tvg-logo="https://i.imgur.com/6j1dJ29.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]FX HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847749
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD ¹" tvg-logo="https://i.imgur.com/6j1dJ29.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]FX HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856720
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD ²" tvg-logo="https://i.imgur.com/6j1dJ29.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]FX SD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847748
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD ¹" tvg-logo="https://i.imgur.com/6j1dJ29.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]FX SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857145
-#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="GAZETA HD ¹ SP ²" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GAZETA HD ¹ SP ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857024
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA  FHD ¹ (SALVADOR) ²" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO BAHIA  FHD ¹ (SALVADOR) ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857075
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA HD ¹ (SALVADOR) ²" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO BAHIA HD ¹ (SALVADOR) ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857076
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD [H265] ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO BRASILIA FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857364
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO BRASILIA HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857025
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO BRASILIA SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857146
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO INTEGRAÇÃO MG FHD [H265] ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO INTEGRAÇÃO MG FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857092
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO INTEGRAÇÃO MG HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO INTEGRAÇÃO MG HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857091
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO INTER DO VALE MG FHD [H265] ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO INTER DO VALE MG FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857088
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO INTER VALE MG HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO INTER VALE MG HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857087
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO INTERNACIONAL HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO INTERNACIONAL HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857026
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="GLOBO MANAUS HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO MANAUS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857368
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO Minas FHD [H265] ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO Minas FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857365
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO MINAS HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO MINAS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857369
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO MINAS SD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]GLOBO MINAS SD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857147
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD [H265] ¹" tvg-logo="https://i.imgur.com/Mk27aNQ.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]GLOBO NEWS FHD [H265] ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856949
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD ¹" tvg-logo="https://i.imgur.com/Mk27aNQ.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]GLOBO NEWS FHD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847747
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD ²" tvg-logo="https://i.imgur.com/Mk27aNQ.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]GLOBO NEWS HD ²[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/847746
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD ¹" tvg-logo="https://i.imgur.com/Mk27aNQ.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]GLOBO NEWS HD ¹[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/856721
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD ²" tvg-logo="https://i.imgur.com/Mk27aNQ.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]GLOBO NEWS SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="ANIME STATION SD" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]ANIME STATION SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861964
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]ANIME TV[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861963
+#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]CAVERNA DO DRAGÃO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857264
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN COLORADO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]CHAPOLIN COLORADO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857265
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]CHAVES 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857266
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]CHAVES DESENHO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857267
+#EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]URSINHOS CARINHOS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857330
+#EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA 24HRS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]VAI QUE COLA 24HRS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857349
+#EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]VAI QUE COLA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857350
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]UM MALUCO NO PEDAÇO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857328
+#EXTINF:-1 tvg-id="" tvg-name="UMA FAMÍLIA DA PESADA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]UMA FAMÍLIA DA PESADA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857329
+#EXTINF:-1 tvg-id="" tvg-name="TV MANCHETE" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TV MANCHETE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861962
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TRES ESPIAS DEMAIS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857327
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TODO MUNDO ODEIA O CHRIS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857325
+#EXTINF:-1 tvg-id="" tvg-name="TOM &amp; JERRY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TOM &amp; JERRY 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857326
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]THUNDERCATS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857323
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TIMAO E PUMBA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857324
+#EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TARTARUGAS NINJAS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857322
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHOQUE 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SUPER CHOQUE 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857351
+#EXTINF:-1 tvg-id="" tvg-name="SUPERMAN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SUPERMAN 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857321
+#EXTINF:-1 tvg-id="" tvg-name="STEVEN UNIVERSE 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]STEVEN UNIVERSE 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857320
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SOUTH PARK 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857319
+#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SOBRENATURAL 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857318
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SCOOBY-DOO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857316
+#EXTINF:-1 tvg-id="" tvg-name="SHOP TIME HD ¹" tvg-logo="https://i.imgur.com/gZrh4Px.png" group-title="CANAIS | VARIEDADES",SHOP TIME HD ¹[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/856864
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SMALLVILLE 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857317
+#EXTINF:-1 tvg-id="" tvg-name="RAMBO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]RAMBO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857315
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE O MARINHEIRO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]POPEYE O MARINHEIRO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857314
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PEPPA PIG 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857308
+#EXTINF:-1 tvg-id="" tvg-name="PAPA-LÉGUAS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PAPA-LÉGUAS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857307
+#EXTINF:-1 tvg-id="" tvg-name="OS ANJINHOS - RUGRATS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]OS ANJINHOS - RUGRATS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857302
+#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]OS CAVALEIROS DO ZODIACO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857303
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]OS FLINTSTONES 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857304
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]OS SIMPSONS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857305
+#EXTINF:-1 tvg-id="" tvg-name="OS VINGADORES 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]OS VINGADORES 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857306
+#EXTINF:-1 tvg-id="" tvg-name="O FANTÁSTICO MUNDO DE BOBBY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]O FANTÁSTICO MUNDO DE BOBBY 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857299
+#EXTINF:-1 tvg-id="" tvg-name="O INSPETOR 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]O INSPETOR 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857300
+#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]O MASKARA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857301
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]NARUTO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857297
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO SHIPPUDEN DUB 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]NARUTO SHIPPUDEN DUB 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857298
+#EXTINF:-1 tvg-id="" tvg-name="MORTAL KOMBAT 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]MORTAL KOMBAT 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857295
+#EXTINF:-1 tvg-id="" tvg-name="MR.BEN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]MR.BEN 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857296
+#EXTINF:-1 tvg-id="" tvg-name="MEDABOTS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]MEDABOTS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857293
+#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]LULUZINHA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857292
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTICA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]LIGA DA JUSTICA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857348
+#EXTINF:-1 tvg-id="" tvg-name="JACK-CHAN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]JACK-CHAN 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857288
+#EXTINF:-1 tvg-id="" tvg-name="JASPION 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]JASPION 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857289
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA O INCRÍVEL NINJA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]JIRAYA O INCRÍVEL NINJA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857290
+#EXTINF:-1 tvg-id="" tvg-name="KENAN E KEL 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]KENAN E KEL 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857291
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HOMEM ARANHA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857284
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HOMEM DE FERRO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857285
+#EXTINF:-1 tvg-id="" tvg-name="HOMEMS DE PRETO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HOMEMS DE PRETO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857286
+#EXTINF:-1 tvg-id="" tvg-name="HÉRCULES 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HÉRCULES 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857282
+#EXTINF:-1 tvg-id="Ilha Record" tvg-name="ILHA RECORD HD ¹" tvg-logo="https://i.imgur.com/8Gm4iCY.png" group-title="CANAIS | REALITY SHOW",ILHA RECORD HD ¹[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861217
+#EXTINF:-1 tvg-id="" tvg-name="INCRÍVEL HULK 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]INCRÍVEL HULK 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857287
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIAS DISNEY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HISTORIAS DISNEY 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857283
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HE-MAN 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857281
+#EXTINF:-1 tvg-id="" tvg-name="GUARDIÕES DA GALAXIA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]GUARDIÕES DA GALAXIA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857280
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]GALINHA PINTADINHA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857279
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATÓMICA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]FORMIGA ATÓMICA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857278
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]EU A PATROA E AS CRIANÇAS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857277
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DOIS HOMENS E MEIO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857272
+#EXTINF:-1 tvg-id="" tvg-name="DOUG 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DOUG 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857273
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DRAGON BALL 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857274
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DRAGON BALL SUPER 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857275
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DRAGON BALL Z 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857276
+#EXTINF:-1 tvg-id="" tvg-name="DENIS O PIMENTINHA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DENIS O PIMENTINHA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857268
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DESENHOS BIBLICOS 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857269
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS DISNEY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DESENHOS DISNEY 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857270
+#EXTINF:-1 tvg-id="" tvg-name="DIGIMON 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DIGIMON 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857271
+#EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]CORRIDA MALUCA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857353
+#EXTINF:-1 tvg-id="" tvg-name="MEGAMAN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]MEGAMAN 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857294
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PERNALONGA 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857309
+#EXTINF:-1 tvg-id="" tvg-name="PHINEAS E FERB 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PHINEAS E FERB 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857310
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PICA PAU 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857311
+#EXTINF:-1 tvg-id="" tvg-name="PINK-E-CEREBRO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PINK-E-CEREBRO 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857312
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]POKEMON 24HS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857313
 http://dazul.me:80/Marquinhos/marquinhos/847745
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD ¹" tvg-logo="https://i.imgur.com/Mk27aNQ.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]GLOBO NEWS SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857148
