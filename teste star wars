@@ -1069,109 +1069,99 @@ http://dazul.me:80/Marquinhos/marquinhos/847655
 http://dazul.me:80/Marquinhos/marquinhos/857179
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL [H265] ¹" tvg-logo="https://i.imgur.com/hr8hSi0.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]PARAMOUNT CHANNEL [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856974
-#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",PERNALONGA 24HS[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857309
-#EXTINF:-1 tvg-id="" tvg-name="PHINEAS E FERB 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",PHINEAS E FERB 24HS[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857310
-#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",PICA PAU 24HS[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857311
-#EXTINF:-1 tvg-id="" tvg-name="PINK-E-CEREBRO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",PINK-E-CEREBRO 24HS[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857312
 #EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY KIDS SD ¹" tvg-logo="https://i.imgur.com/LEDAUvs.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]PLAY KIDS SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857250
 #EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAYTV SD ¹" tvg-logo="https://i.imgur.com/LEDAUvs.png" ,[COLOR orange][B]LS-TVs-  ABERTOS [COLOR yellow] -> [COLOR white]PLAYTV SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857181
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",POKEMON 24HS[/B][/COLOR]
-http://dazul.me:80/Marquinhos/marquinhos/857313
 #EXTINF:-1 tvg-id="" tvg-name="POLISHOPTV SD ¹" tvg-logo="https://i.imgur.com/l6QiB1Z.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]POLISHOPTV SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857182
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2  SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 2  SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2  SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 2  SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857183
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 2 FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856976
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 2 FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847651
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 2 HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847650
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 2 HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856747
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 2 SD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847649
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 3 FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856977
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 3 FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847648
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 3 HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847647
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 3 HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856748
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 3 SD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847646
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 3 SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857184
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 4 FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856978
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 4 FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847645
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 4 HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847644
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 4 HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856749
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 4 SD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847643
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 4 SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857185
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 5 FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856979
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 5 FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847642
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 5 HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847641
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 5 HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856750
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 5 SD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847640
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 5 SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857186
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 6 FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856980
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 6 FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847639
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 6 HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847638
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 6 HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856751
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 6 SD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847637
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 6 SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857187
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD [H265] ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 7 FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856981
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 7 FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847636
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 7 HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847635
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 7 HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856752
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD ²" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 7 SD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847634
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 7 SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857188
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 8 SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 8 SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857189
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 9 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 9 SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 9 SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE 9 SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857190
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD [H265] ¹" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD [H265] ¹" tvg-logo="https://i.imgur.com/kUPUyf2.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE CLUBES FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847633
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD [H265] ¹" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD [H265] ¹" tvg-logo="https://i.imgur.com/kUPUyf2.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE CLUBES FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856975
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD ²" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD ²" tvg-logo="https://i.imgur.com/kUPUyf2.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE CLUBES HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847632
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD ¹" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD ¹" tvg-logo="https://i.imgur.com/kUPUyf2.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE CLUBES HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856753
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD ²" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD ²" tvg-logo="https://i.imgur.com/kUPUyf2.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE CLUBES SD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847631
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD ¹" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD ¹" tvg-logo="https://i.imgur.com/kUPUyf2.png" ,[COLOR orange][B]LS-TVs- PREMIERE [COLOR yellow] -> [COLOR white]PREMIERE CLUBES SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857191
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL FHD ¹" tvg-logo="https://i.imgur.com/9L7lwdN.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]PRIME BOX BRASIL FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847630
