@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://189.91.128.150:4444/udp/227.10.20.129:1234
-#EXTINF:-1,AgroMinas TV
-http://189.91.128.150:4444/udp/227.10.20.108:1234
-#EXTINF:-1,ANIMAL PLANET HD
-http://189.91.128.150:4444/udp/227.10.20.118:1234
-#EXTINF:-1,Band News
-http://189.91.128.150:4444/udp/227.10.20.131:1234
+#EXTINF:-1,[COLOR orange][B]LS - CANAIS: HD[COLOR yellow] -> [COLOR white]A&E
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER T[/B][/COLOR];url=http://189.91.128.150:4444/udp/227.10.20.129:1234
+#EXTINF:-1,[COLOR orange][B]LS - CANAIS: HD[COLOR yellow] -> [COLOR white]AgroMinas TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER T[/B][/COLOR];url=http://189.91.128.150:4444/udp/227.10.20.108:1234
+#EXTINF:-1,[COLOR orange][B]LS - CANAIS: HD[COLOR yellow] -> [COLOR white]ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER T[/B][/COLOR];url=http://189.91.128.150:4444/udp/227.10.20.118:1234
+#EXTINF:-1,[COLOR orange][B]LS - CANAIS: HD[COLOR yellow] -> [COLOR white]Band News
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER T[/B][/COLOR];url=http://189.91.128.150:4444/udp/227.10.20.131:1234:1234
