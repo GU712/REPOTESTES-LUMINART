@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO1[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD [H265] ¹" tvg-logo="https://i.imgur.com/f2pJ8uW.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]A&E FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856913
