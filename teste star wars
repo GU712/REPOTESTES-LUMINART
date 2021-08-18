@@ -32,9 +32,9 @@ http://dazul.me:80/Lua123/Lua123/856689
 http://dazul.me:80/Lua123/Lua123/847854
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD ¹" tvg-logo="https://i.imgur.com/uMpJuHE.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]ANIMAL PLANET SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857105
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD ¹" tvg-logo="https://i.imgur.com/1dKnSXj.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]ARTE 1 HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD ¹" tvg-logo="https://i.imgur.com/1dKnSXj.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]ARTE 1 HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856844
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD ²" tvg-logo="https://i.imgur.com/1dKnSXj.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]ARTE 1 SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD ²" tvg-logo="https://i.imgur.com/1dKnSXj.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]ARTE 1 SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847853
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD ¹" tvg-logo="https://i.imgur.com/ctgIH07.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]AXN FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847852
@@ -104,7 +104,7 @@ http://dazul.me:80/Lua123/Lua123/857111
 http://dazul.me:80/Lua123/Lua123/857109
 #EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BANDEIRANTES SP HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" ,[COLOR orange][B]LS-TVs-  BAND [COLOR yellow] -> [COLOR white]BANDEIRANTES SP HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/861630
-#EXTINF:-1 tvg-id="bbc.entertainment.pt" tvg-name="BBC WORLD HD ¹" tvg-logo="https://i.imgur.com/9MsmEcU.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]BBC WORLD HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="bbc.entertainment.pt" tvg-name="BBC WORLD HD ¹" tvg-logo="https://i.imgur.com/9MsmEcU.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]BBC WORLD HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856848
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD [H265] ¹" tvg-logo="https://i.imgur.com/3inGYNL.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]BIS FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856918
@@ -192,7 +192,7 @@ http://dazul.me:80/Lua123/Lua123/847826
 http://dazul.me:80/Lua123/Lua123/857118
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK [H265]" tvg-logo="https://i.imgur.com/URSYnf5.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]CARTOON NETWORK [H265][/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856922
-#EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEFE TV HD ¹" tvg-logo="https://i.imgur.com/4tXvrh6.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]CHEFE TV HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEFE TV HD ¹" tvg-logo="https://i.imgur.com/4tXvrh6.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]CHEFE TV HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856876
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1 FHD [H265] ¹" tvg-logo="https://i.imgur.com/Bn1WcRI.png" ,[COLOR orange][B]LS-TVs-  CINE PIPOCA [COLOR yellow] -> [COLOR white]CINE SKY 1 FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857354
@@ -244,17 +244,17 @@ http://dazul.me:80/Lua123/Lua123/856696
 http://dazul.me:80/Lua123/Lua123/847817
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD ¹" tvg-logo="https://i.imgur.com/vndT82p.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]COMBATE SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857120
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD [H265] ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD [H265] ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856925
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847816
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD ²" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD ²" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847815
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856697
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD ²" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD ²" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847814
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD ¹" tvg-logo="https://i.imgur.com/VFUqLY2.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]COMEDY CENTRAL SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857121
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD ¹ (JOGO 1)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV FHD ¹ (JOGO 1)[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856829
@@ -280,7 +280,7 @@ http://dazul.me:80/Lua123/Lua123/857255
 http://dazul.me:80/Lua123/Lua123/857257
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD ¹ (JOGO 4)" tvg-logo="https://i.imgur.com/gOsKfSY.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]CONMEBOL TV SD ¹ (JOGO 4)[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857253
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD ¹" tvg-logo="https://i.imgur.com/vRfOC9Z.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]CURTA! SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD ¹" tvg-logo="https://i.imgur.com/vRfOC9Z.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]CURTA! SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857122
 #EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 01 HD ¹" tvg-logo="https://i.imgur.com/sqd6LyM.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]DAZN 01 HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857016
@@ -400,19 +400,19 @@ http://dazul.me:80/Lua123/Lua123/847781
 http://dazul.me:80/Lua123/Lua123/857128
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD ¹" tvg-logo="https://i.imgur.com/jQ2154E.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]DISNEY XD SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857129
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD ¹" tvg-logo="https://i.imgur.com/sfpVDnt.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]DOG TV HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD ¹" tvg-logo="https://i.imgur.com/sfpVDnt.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]DOG TV HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856852
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT FHD ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]E! ENTERTAINMENT FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT FHD ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! ENTERTAINMENT FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847780
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT HD ²" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]E! ENTERTAINMENT HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT HD ²" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! ENTERTAINMENT HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847779
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT SD ²" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]E! ENTERTAINMENT SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT SD ²" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! ENTERTAINMENT SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847778
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD [H265] ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]E! FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD [H265] ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856936
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]E! HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856708
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]E! SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD ¹" tvg-logo="https://i.imgur.com/qxfLv9r.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]E! SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857130
 #EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="ELEVEN SPORTS 01 HD ²" tvg-logo="https://i.imgur.com/P1qiMcA.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ELEVEN SPORTS 01 HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847461
@@ -536,17 +536,17 @@ http://dazul.me:80/Lua123/Lua123/847484
 http://dazul.me:80/Lua123/Lua123/857023
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNTN SPORTS (JOGO 3)" tvg-logo="https://i.imgur.com/YERkSUS.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]ESTADIO TNTN SPORTS (JOGO 3)[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857021
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV FHD ¹" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV FHD ¹" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847765
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV HD ²" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV HD ²" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847764
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD ¹" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD ¹" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856842
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV SD ²" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV SD ²" tvg-logo="https://i.imgur.com/F0rRKao.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FASHION TV SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847763
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM &amp; ART HD ¹" tvg-logo="https://i.imgur.com/qXuboaZ.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FILM &amp; ART HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM &amp; ART HD ¹" tvg-logo="https://i.imgur.com/qXuboaZ.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FILM &amp; ART HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856839
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM &amp; ARTS SD ¹" tvg-logo="https://i.imgur.com/qXuboaZ.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FILM &amp; ARTS SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM &amp; ARTS SD ¹" tvg-logo="https://i.imgur.com/qXuboaZ.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FILM &amp; ARTS SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857137
 #EXTINF:-1 tvg-id="" tvg-name="FISH TV SD ¹" tvg-logo="https://i.imgur.com/mmJtU42.png" ,[COLOR orange][B]LS-TVs-  ESPORTES [COLOR yellow] -> [COLOR white]FISH TV SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857138
@@ -554,17 +554,17 @@ http://dazul.me:80/Lua123/Lua123/857138
 http://dazul.me:80/Lua123/Lua123/856941
 #EXTINF:-1 tvg-id="" tvg-name="FLA TV" tvg-logo="https://i.imgur.com/K3HkTwe.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]FLA TV[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856856
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847762
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD ²" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD ²" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847761
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856713
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD ²" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD ²" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847760
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOOD NETWORK SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857139
-#EXTINF:-1 tvg-id="" tvg-name="FOODNETWORK FHD [H265] ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]FOODNETWORK FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="FOODNETWORK FHD [H265] ¹" tvg-logo="https://i.imgur.com/u6ilW0S.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]FOODNETWORK FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856942
 #EXTINF:-1 tvg-id="F1" tvg-name="FORMULA 1 TV HD ²" tvg-logo="https://i.imgur.com/bOvcO4j.png" ,[COLOR orange][B]LS-TVs-  ESPORTES PPW [COLOR yellow] -> [COLOR white]FORMULA 1 TV HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847489
@@ -698,17 +698,17 @@ http://dazul.me:80/Lua123/Lua123/847740
 http://dazul.me:80/Lua123/Lua123/856837
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD ²" tvg-logo="https://i.imgur.com/lzaavhX.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]GLOOBINHO SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847739
-#EXTINF:-1 tvg-id="" tvg-name="GNT FHD [H265] ¹" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]GNT FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD [H265] ¹" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]GNT FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856951
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD ¹" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]GNT FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD ¹" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]GNT FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847738
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD ²" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]GNT HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD ²" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]GNT HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847737
-#EXTINF:-1 tvg-id="" tvg-name="GNT HD ¹" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]GNT HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD ¹" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]GNT HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856724
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD ²" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]GNT SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD ²" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]GNT SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847736
-#EXTINF:-1 tvg-id="" tvg-name="GNT SD ¹" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]GNT SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD ¹" tvg-logo="https://i.imgur.com/q7F7LPD.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]GNT SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857153
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="GOSPEL CARTOON HD ¹" tvg-logo="https://i.imgur.com/zDAZP9B.png" ,[COLOR orange][B]LS-TVs-  RELIGIOSOS [COLOR yellow] -> [COLOR white]GOSPEL CARTOON HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856869
@@ -868,15 +868,15 @@ http://dazul.me:80/Lua123/Lua123/856733
 http://dazul.me:80/Lua123/Lua123/847697
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD ¹" tvg-logo="https://i.imgur.com/89mH5L2.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]LIFETIME SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857162
-#EXTINF:-1 tvg-id="" tvg-name="LIKE FHD ¹" tvg-logo="https://i.imgur.com/zpYRpZe.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]LIKE FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="LIKE FHD ¹" tvg-logo="https://i.imgur.com/zpYRpZe.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]LIKE FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847696
-#EXTINF:-1 tvg-id="" tvg-name="LIKE HD ²" tvg-logo="https://i.imgur.com/zpYRpZe.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]LIKE HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="LIKE HD ²" tvg-logo="https://i.imgur.com/zpYRpZe.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]LIKE HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847695
-#EXTINF:-1 tvg-id="" tvg-name="LIKE SD ²" tvg-logo="https://i.imgur.com/zpYRpZe.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]LIKE SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="LIKE SD ²" tvg-logo="https://i.imgur.com/zpYRpZe.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]LIKE SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847694
-#EXTINF:-1 tvg-id="loading" tvg-name="LOADING HD ¹" tvg-logo="https://i.imgur.com/Mz3L6ZK.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]LOADING HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="loading" tvg-name="LOADING HD ¹" tvg-logo="https://i.imgur.com/Mz3L6ZK.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]LOADING HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856847
-#EXTINF:-1 tvg-id="loading" tvg-name="LOADING SD ¹" tvg-logo="https://i.imgur.com/Mz3L6ZK.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]LOADING SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="loading" tvg-name="LOADING SD ¹" tvg-logo="https://i.imgur.com/Mz3L6ZK.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]LOADING SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857045
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="LOVE NATURE FHD [H265] ¹" tvg-logo="https://i.imgur.com/xihWsFr.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]LOVE NATURE FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857007
@@ -938,17 +938,17 @@ http://dazul.me:80/Lua123/Lua123/847682
 http://dazul.me:80/Lua123/Lua123/857168
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV [H265] ¹" tvg-logo="https://i.imgur.com/WZhuIdj.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]MTV [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856966
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD ¹" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD ¹" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847681
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD ²" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD ²" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847680
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD ¹" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD ¹" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856739
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD ²" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD ²" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847679
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW SD ¹" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW SD ¹" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857169
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW [H265] ¹" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW [H265] ¹" tvg-logo="https://i.imgur.com/gaol5T0.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]MULTISHOW [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856967
 #EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL FHD ¹" tvg-logo="https://i.imgur.com/cuHirvC.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]MUSIC BOX BRAZIL FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847528
@@ -996,7 +996,7 @@ http://dazul.me:80/Lua123/Lua123/856742
 http://dazul.me:80/Lua123/Lua123/847673
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD ¹" tvg-logo="https://i.imgur.com/kkW4h35.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]NATGEO WILD SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857173
-#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK WORLD SD ¹" tvg-logo="https://i.imgur.com/4e7wRWs.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]NHK WORLD SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK WORLD SD ¹" tvg-logo="https://i.imgur.com/4e7wRWs.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]NHK WORLD SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857175
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD ¹" tvg-logo="https://i.imgur.com/UW72UP3.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]NICK JR FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847669
@@ -1084,7 +1084,7 @@ http://dazul.me:80/Lua123/Lua123/857250
 http://dazul.me:80/Lua123/Lua123/857181
 #EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",POKEMON 24HS[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857313
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOPTV SD ¹" tvg-logo="https://i.imgur.com/l6QiB1Z.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]POLISHOPTV SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOPTV SD ¹" tvg-logo="https://i.imgur.com/l6QiB1Z.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]POLISHOPTV SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857182
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2  SD ¹" tvg-logo="https://i.imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 2  SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857183
@@ -1180,7 +1180,7 @@ http://dazul.me:80/Lua123/Lua123/847630
 http://dazul.me:80/Lua123/Lua123/847629
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD ²" tvg-logo="https://i.imgur.com/9L7lwdN.png" ,[COLOR orange][B]LS-TVs-  MUSICAS [COLOR yellow] -> [COLOR white]PRIME BOX BRASIL SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847628
-#EXTINF:-1 tvg-id="" tvg-name="RAI INTERNACIONAL HD ¹" tvg-logo="https://i.imgur.com/8F0YoJa.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]RAI INTERNACIONAL HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RAI INTERNACIONAL HD ¹" tvg-logo="https://i.imgur.com/8F0YoJa.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]RAI INTERNACIONAL HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856851
 #EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RBS CAXIAS FHD [H265] ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]RBS CAXIAS FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857069
@@ -1534,9 +1534,9 @@ http://dazul.me:80/Lua123/Lua123/856762
 http://dazul.me:80/Lua123/Lua123/847589
 #EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD ¹" tvg-logo="https://i.imgur.com/qYfJeLf.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]TBS SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857209
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD ¹" tvg-logo="https://i.imgur.com/053CNKB.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]TCM HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD ¹" tvg-logo="https://i.imgur.com/053CNKB.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]TCM HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856845
-#EXTINF:-1 tvg-id="" tvg-name="TCM SD ¹" tvg-logo="https://i.imgur.com/053CNKB.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]TCM SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD ¹" tvg-logo="https://i.imgur.com/053CNKB.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]TCM SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857210
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD [H265] ¹" tvg-logo="https://i.imgur.com/Xdl0FU1.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856991
@@ -1610,7 +1610,7 @@ http://dazul.me:80/Lua123/Lua123/856768
 http://dazul.me:80/Lua123/Lua123/847571
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD ¹" tvg-logo="https://i.imgur.com/f5TPZe4.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857216
-#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA SD ¹" tvg-logo="https://i.imgur.com/vPQtEhm.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]TERRA VIVA SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA SD ¹" tvg-logo="https://i.imgur.com/vPQtEhm.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]TERRA VIVA SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857217
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD [H265] ¹" tvg-logo="https://i.imgur.com/S37uvno.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]TLC FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856997
@@ -1652,17 +1652,17 @@ http://dazul.me:80/Lua123/Lua123/856999
 http://dazul.me:80/Lua123/Lua123/856838
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD ¹" tvg-logo="https://i.imgur.com/kzBwVLm.png" ,[COLOR orange][B]LS-TVs-  INFANTIS [COLOR yellow] -> [COLOR white]TOONCAST SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857221
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL HD ¹" tvg-logo="https://i.imgur.com/12NiJeq.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]TRAVEL BOX BRASIL HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL HD ¹" tvg-logo="https://i.imgur.com/12NiJeq.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]TRAVEL BOX BRASIL HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856850
-#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRAZIL FHD ¹" tvg-logo="https://i.imgur.com/12NiJeq.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]TRAVEL BOX BRAZIL FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRAZIL FHD ¹" tvg-logo="https://i.imgur.com/12NiJeq.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]TRAVEL BOX BRAZIL FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847561
-#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRAZIL HD ²" tvg-logo="https://i.imgur.com/12NiJeq.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]TRAVEL BOX BRAZIL HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRAZIL HD ²" tvg-logo="https://i.imgur.com/12NiJeq.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]TRAVEL BOX BRAZIL HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847560
-#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRAZIL SD ²" tvg-logo="https://i.imgur.com/12NiJeq.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]TRAVEL BOX BRAZIL SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRAZIL SD ²" tvg-logo="https://i.imgur.com/12NiJeq.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]TRAVEL BOX BRAZIL SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847559
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV HD ¹" tvg-logo="https://i.imgur.com/vsOu5CN.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]TRU TV HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV HD ¹" tvg-logo="https://i.imgur.com/vsOu5CN.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]TRU TV HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856846
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV SD ¹" tvg-logo="https://i.imgur.com/vsOu5CN.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]TRU TV SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV SD ¹" tvg-logo="https://i.imgur.com/vsOu5CN.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]TRU TV SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857222
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV  SAO FRANCISCO FHD ¹ ( GLOBO JUAZEIRO BAHIA) ²" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]TV  SAO FRANCISCO FHD ¹ ( GLOBO JUAZEIRO BAHIA) ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857096
@@ -1814,15 +1814,15 @@ http://dazul.me:80/Lua123/Lua123/847541
 http://dazul.me:80/Lua123/Lua123/857245
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV [H265] ¹" tvg-logo="https://i.imgur.com/I1qcMwK.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]UNIVERSAL TV [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857003
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD ¹" tvg-logo="https://i.imgur.com/xJBcvcI.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]VIVA FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD ¹" tvg-logo="https://i.imgur.com/xJBcvcI.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]VIVA FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847537
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD ²" tvg-logo="https://i.imgur.com/xJBcvcI.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]VIVA HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD ²" tvg-logo="https://i.imgur.com/xJBcvcI.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]VIVA HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847536
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD ¹" tvg-logo="https://i.imgur.com/xJBcvcI.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]VIVA HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD ¹" tvg-logo="https://i.imgur.com/xJBcvcI.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]VIVA HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856778
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD ²" tvg-logo="https://i.imgur.com/xJBcvcI.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]VIVA SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD ²" tvg-logo="https://i.imgur.com/xJBcvcI.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]VIVA SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847535
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD ¹" tvg-logo="https://i.imgur.com/xJBcvcI.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]VIVA SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD ¹" tvg-logo="https://i.imgur.com/xJBcvcI.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]VIVA SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857240
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD [H265] ¹" tvg-logo="https://i.imgur.com/xbg9PhB.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]WARNER CHANNEL FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857005
@@ -1836,15 +1836,15 @@ http://dazul.me:80/Lua123/Lua123/856779
 http://dazul.me:80/Lua123/Lua123/847532
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD ¹" tvg-logo="https://i.imgur.com/xbg9PhB.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]WARNER CHANNEL SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857241
-#EXTINF:-1 tvg-id="" tvg-name="WOOHOO FHD [H265] ¹" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO FHD [H265] ¹" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857006
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD ¹" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD ¹" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO FHD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847531
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD ²" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD ²" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO HD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847530
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD ²" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD ²" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO SD ²[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/847529
-#EXTINF:-1 tvg-id="" tvg-name="WOOHOO SD ¹" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO SD ¹" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO SD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/857242
-#EXTINF:-1 tvg-id="" tvg-name="WOOHOO TV HD ¹" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs-  VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO TV HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO TV HD ¹" tvg-logo="https://i.imgur.com/lRhTz6m.png" ,[COLOR orange][B]LS-TVs- VARIEDADES [COLOR yellow] -> [COLOR white]WOOHOO TV HD ¹[/B][/COLOR]
 http://dazul.me:80/Lua123/Lua123/856843
