@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO1[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD [H265] ¹" tvg-logo="https://i.imgur.com/f2pJ8uW.png" ,[COLOR orange][B]LS-TVs- FILMES/SÉRIES [COLOR yellow] -> [COLOR white]A&E FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856913
@@ -1185,59 +1185,59 @@ http://dazul.me:80/Marquinhos/marquinhos/857071
 http://dazul.me:80/Marquinhos/marquinhos/857192
 #EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RBS TV STA MARIA SD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]RBS TV STA MARIA SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857375
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BH MINAS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD BH MINAS HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BH MINAS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD BH MINAS HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856825
-#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD BRASILIA HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD BRASILIA HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857030
-#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="RECORD ITAPOAN HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD ITAPOAN HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="RECORD ITAPOAN HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD ITAPOAN HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856865
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MANAUS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD MANAUS HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MANAUS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD MANAUS HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857067
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MINAS FHD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD MINAS FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MINAS FHD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD MINAS FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/861014
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MINAS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD MINAS HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MINAS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD MINAS HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/861016
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NATAL RN HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD NATAL RN HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NATAL RN HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD NATAL RN HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857388
 #EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD ¹" tvg-logo="https://i.imgur.com/T1qFlzc.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]RECORD NEWS HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856807
 #EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS SD ¹" tvg-logo="https://i.imgur.com/T1qFlzc.png" ,[COLOR orange][B]LS-TVs-  NOTÍCIAS [COLOR yellow] -> [COLOR white]RECORD NEWS SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857193
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ FHD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD RJ FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ FHD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD RJ FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857037
-#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RJ HD ²" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD RJ HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RJ HD ²" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD RJ HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/861915
-#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD RS HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD RS HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857031
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SAO JOSE RIO PRETO HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SAO JOSE RIO PRETO HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SAO JOSE RIO PRETO HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD SAO JOSE RIO PRETO HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857032
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SERGIPE ATALAIA HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SERGIPE ATALAIA HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SERGIPE ATALAIA HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD SERGIPE ATALAIA HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857033
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP FHD [H265] ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SP FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP FHD [H265] ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD SP FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857372
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SP HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD SP HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857371
-#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD TV BELEM HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV BELEM HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD TV BELEM HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV BELEM HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857034
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV CAMPINAS FHD [H265] ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV CAMPINAS FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV CAMPINAS FHD [H265] ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV CAMPINAS FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857083
-#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="RECORD TV GOIANIA FHD [H265] ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV GOIANIA FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="RECORD TV GOIANIA FHD [H265] ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV GOIANIA FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856982
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV GOIANIA HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV GOIANIA HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV GOIANIA HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV GOIANIA HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856754
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV LITORAL HD ¹ SANTOS ²" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV LITORAL HD ¹ SANTOS ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV LITORAL HD ¹ SANTOS ²" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV LITORAL HD ¹ SANTOS ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857035
-#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="RECORD TV MINAS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV MINAS HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="RECORD TV MINAS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV MINAS HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857036
-#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="RECORD TV PARANÁ FHD [H265] ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV PARANÁ FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="RECORD TV PARANÁ FHD [H265] ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV PARANÁ FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857094
-#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="RECORD TV PARANÁ HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV PARANÁ HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="RECORD TV PARANÁ HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV PARANÁ HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857055
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV SANTA CATARINA HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV SANTA CATARINA HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV SANTA CATARINA HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV SANTA CATARINA HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857050
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV SD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV SD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857194
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV THATHI CAMPINAS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV THATHI CAMPINAS HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV THATHI CAMPINAS HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]RECORD TV THATHI CAMPINAS HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857048
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="REDE 21 HD ¹" tvg-logo="https://i.imgur.com/DtuBXM6.png" ,[COLOR orange][B]LS-TVs-  RELIGIOSOS [COLOR yellow] -> [COLOR white]REDE 21 HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856872
@@ -1331,47 +1331,47 @@ http://dazul.me:80/Marquinhos/marquinhos/856905
 http://dazul.me:80/Marquinhos/marquinhos/856906
 #EXTINF:-1 tvg-id="" tvg-name="RÁDIO VILA MIX FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO VILA MIX FM[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856896
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT INTERIOS HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT INTERIOS HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT INTERIOS HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT INTERIOS HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857053
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANÁ FHD [H265] ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT PARANÁ FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANÁ FHD [H265] ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT PARANÁ FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857093
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANÁ HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT PARANÁ HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANÁ HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT PARANÁ HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857054
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ FHD [H265] ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT RJ FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ FHD [H265] ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT RJ FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857066
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT RJ FHD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT RJ FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT RJ FHD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT RJ FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847510
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT RJ HD ²" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT RJ HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT RJ HD ²" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT RJ HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847508
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT RJ HD ²" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT RJ HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT RJ HD ²" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT RJ HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847509
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT RJ HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT RJ HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857063
-#EXTINF:-1 tvg-id="SBTRS.BR" tvg-name="SBT RS HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT RS HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="SBTRS.BR" tvg-name="SBT RS HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT RS HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857039
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT SD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857200
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT SP HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT SP HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857041
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ALTEROSA FHD [H265] ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT TV ALTEROSA FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ALTEROSA FHD [H265] ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT TV ALTEROSA FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857062
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ALTEROSA HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT TV ALTEROSA HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ALTEROSA HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT TV ALTEROSA HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857051
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT TV ARATU HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT TV ARATU HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857042
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV SERRA DOURADA FHD [H265] ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT TV SERRA DOURADA FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV SERRA DOURADA FHD [H265] ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT TV SERRA DOURADA FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857002
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV SERRA DOURADA HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT TV SERRA DOURADA HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV SERRA DOURADA HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT TV SERRA DOURADA HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856775
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT VTV CAMPINAS FHD [H265] ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT VTV CAMPINAS FHD [H265] ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT VTV CAMPINAS FHD [H265] ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT VTV CAMPINAS FHD [H265] ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857082
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT VTV CAMPINAS FHD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT VTV CAMPINAS FHD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT VTV CAMPINAS FHD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT VTV CAMPINAS FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847519
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT VTV CAMPINAS HD ²" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT VTV CAMPINAS HD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT VTV CAMPINAS HD ²" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT VTV CAMPINAS HD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847518
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT VTV CAMPINAS HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT VTV CAMPINAS HD ¹[/B][/COLOR]
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT VTV CAMPINAS HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT VTV CAMPINAS HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857081
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT VTV CAMPINAS SD ²" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT VTV CAMPINAS SD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT VTV CAMPINAS SD ²" tvg-logo="https://i.imgur.com/xLcleQG.png" ,[COLOR orange][B]LS-TVs- SBT [COLOR yellow] -> [COLOR white]SBT VTV CAMPINAS SD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847517
 #EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="SMITHSONIAN CHANNEL  FHD ¹" tvg-logo="https://i.imgur.com/7yHXetn.png" ,[COLOR orange][B]LS-TVs-  DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]SMITHSONIAN CHANNEL  FHD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/847624
@@ -1679,7 +1679,7 @@ http://dazul.me:80/Marquinhos/marquinhos/857362
 http://dazul.me:80/Marquinhos/marquinhos/857225
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD ¹" tvg-logo="https://i.imgur.com/66hPRpp.png" ,[COLOR orange][B]LS-TVs-  ABERTOS [COLOR yellow] -> [COLOR white]TV BRASIL HD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/856835
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="TV CABRALIA HD ¹ BAHIA RECORD ²" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",TV CABRALIA HD ¹ BAHIA RECORD ²[/B][/COLOR]
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="TV CABRALIA HD ¹ BAHIA RECORD ²" tvg-logo="https://i.imgur.com/CVqgeup.png" ,[COLOR orange][B]LS-TVs- RECORD [COLOR yellow] -> [COLOR white]TV CABRALIA HD ¹ BAHIA RECORD ²[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857043
 #EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV CENTRO AMERICA CUIABA SD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" ,[COLOR orange][B]LS-TVs-  GLOBO [COLOR yellow] -> [COLOR white]TV CENTRO AMERICA CUIABA SD ¹[/B][/COLOR]
 http://dazul.me:80/Marquinhos/marquinhos/857227
