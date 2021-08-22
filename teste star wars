@@ -1,7 +1,7 @@
 <item>
-<title>[COLOR white][B]teste (DATA)[/B][/COLOR]</title>
+<title>[COLOR white][B]O Homem nas Trevas 2 (2021)[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=gRbG2tjHYCA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
 
@@ -9,13 +9,14 @@
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
-<link>https://867320391.tapecontent.net/radosgw/Lkl9PpXKPzU73a/g7LOXIaPnKqFl-xngrmeBmGUS9ix2oIrduNVncUhOeS-jbBjOwuur685IYqCr-iXO7icFLEV4rClxPJPtERzhcbAOgHTYz-yJG6ePVxpJ_wj9yqyVu6bEF84roFcBQRUIqJszPxeivY53iiXJtu9EXyef2rEgSLAIVgGQ4GbgZXI0dnOFXqL4zPUX2R6ZpNlvZcthHa-xLazdYbpcQRIPEODsZL1BBjFlKg8aBq0VdhJ2RUncjSjRZvtuvHcyuhm4UxaaCRNM_zzoq5i_XsFnxclroKNCsY7D2diYiLs_Uus0zPuNh91BRyN7LIRVxu4yfv5tBlb4vcrJTqY/O+Homem+nas+Trevas+2016+Bluray+720p+Dublado+-+TPF.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]teste - DUB[/B][/COLOR]</link>
+<link>https://867320391.tapecontent.net/radosgw/Lkl9PpXKPzU73a/g7LOXIaPnKqFl-xngrmeBmGUS9ix2oIrduNVncUhOeS-jbBjOwuur685IYqCr-iXO7icFLEV4rClxPJPtERzhcbAOgHTYz-yJG6ePVxpJ_wj9yqyVu6bEF84roFcBQRUIqJszPxeivY53iiXJtu9EXyef2rEgSLAIVgGQ4GbgZXI0dnOFXqL4zPUX2R6ZpNlvZcthHa-xLazdYbpcQRIPEODsZL1BBjFlKg8aBq0VdhJ2RUncjSjRZvtuvHcyuhm4UxaaCRNM_zzoq5i_XsFnxclroKNCsY7D2diYiLs_Uus0zPuNh91BRyN7LIRVxu4yfv5tBlb4vcrJTqY/O+Homem+nas+Trevas+2016+Bluray+720p+Dublado+-+TPF.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Homem nas Trevas 2 - DUB[/B][/COLOR]</link>
 
 <link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
 
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info>SINOPSEDOFILME></info>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9-E4xa6CxYZ4IRi-a91yDVkMYOOQLDzzWaMtNtm_g4L880v5</thumbnail>
+<fanart>https://i2.wp.com/www.arrobanerd.com.br/wp-content/uploads/2021/07/cartaz-nacional-o-homem-nas-trevas-2.jpeg?fit=800%2C450&ssl=1</fanart>
+<info>A história de um homem cego que aterroriza invasores de sua casa. A sequência se passa anos após a primeira invasão; quando Norman Nordstrom (Stephen Lang) vive isolado na tranquilidade de sua residência até que os pecados do seu passado voltam para cobrar seu preço.</info>
 <genre>SUSPENSE E TERROR</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
