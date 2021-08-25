@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]A&E[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://189.91.128.150:4444/udp/227.10.20.129:1234
