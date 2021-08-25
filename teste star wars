@@ -1,134 +1,133 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBQKKZg/TVs24hrs-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]A&E[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]A&E[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.129:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]AgroMinas TV[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]AgroMinas TV[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.108:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]ANIMAL PLANET HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]ANIMAL PLANET HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.118:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Band News[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Band News[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.131:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Band Sports HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Band Sports HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.119:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Canal Rural[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Canal Rural[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.125:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]CCTV[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]CCTV[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.144:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]CINEMAX[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]CINEMAX[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.101:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]CNT ISDB TV HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]CNT ISDB TV HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.111:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Disc. Kids[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Disc. Kids[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.83:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Disc. Science[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Disc. Science[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.92:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Disc. turbo[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Disc. turbo[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.82:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]DISCOVERY CHANNEL HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]DISCOVERY CHANNEL HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.80:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Discovery Home[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Discovery Home[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.85:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Disney Channel[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Disney Channel[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.90:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]DISNEY 😆 HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]DISNEY 😆 HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.110:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Ei HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Ei HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.121:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]ESPN BR HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]ESPN BR HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.81:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]ESPN HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]ESPN HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.128:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]ESPN Int.[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]ESPN Int.[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.86:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Fashion HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Fashion HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.113:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]FISHTV-SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]FISHTV-SD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.117:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]FOX HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]FOX HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.139:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]FOX SPORT HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]FOX SPORT HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.116:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]FOX Sports 2[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]FOX Sports 2[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.132:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]FX HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]FX HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.138:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Gloob[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Gloob[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.91:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]HBO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]HBO[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.94:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]HBO FAMILY[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]HBO FAMILY[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.97:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]HBO PLUS[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]HBO PLUS[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.96:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]HBO SIGNATURE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]HBO SIGNATURE[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.98:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]HBO2[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]HBO2[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.95:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]HISTORY HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]HISTORY HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.130:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]ID[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]ID[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.93:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]IDEAL TV HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]IDEAL TV HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.143:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]MAX PRIME[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]MAX PRIME[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.100:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]MAX UP[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]MAX UP[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.99:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Megapix[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Megapix[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.89:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]New HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]New HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.133:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]PARAMOUNT HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]PARAMOUNT HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.140:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]PFC 2 HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]PFC 2 HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.104:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]PFC 3 HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]PFC 3 HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.105:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]PFC 4 HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]PFC 4 HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.106:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]PFC 5 HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]PFC 5 HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.107:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]PFC 6 HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]PFC 6 HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.123:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]PREMIERE CLUBES HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]PREMIERE CLUBES HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.102:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Prime SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Prime SD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.114:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]RADIO SERTANEJA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]RADIO SERTANEJA[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.141:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Rede TV[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Rede TV[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.122:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]SBT HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]SBT HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.120:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]SONY HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]SONY HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.127:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Studio Universal[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Studio Universal[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.88:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]TC Action HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]TC Action HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.135:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]TC Fun HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]TC Fun HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.137:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]TC Pipoca HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]TC Pipoca HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.87:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]TC Premium HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]TC Premium HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.134:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]TC Touch HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]TC Touch HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.136:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]TCM[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]TCM[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.124:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Terra Viva[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Terra Viva[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.142:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]TLC[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]TLC[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.84:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]Travel HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]Travel HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.115:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]TV Globo[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]TV Globo[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.109:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]UNIVALE TV[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]UNIVALE TV[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.103:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]WARNER HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]WARNER HD[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.126:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs ONLINE - SERVER LS [COLOR yellow] -> [COLOR white]WooHoo[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]WooHoo[/B][/COLOR]
 http://189.91.128.150:4444/udp/227.10.20.112:1234
