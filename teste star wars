@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/oNeF6KJCsSY/hqdefault.jpg",Teaser Card Qual Sua Tribo ?
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/oNeF6KJCsSY/hqdefault.jpg",luminart
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SA1RyvMtSsM&t=931s
