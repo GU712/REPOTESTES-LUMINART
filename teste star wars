@@ -103,6 +103,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 04 (2021) - FHD DUB - 02 EPs[/B][/COLOR]</link>
 
+<link>plugin://plugin.video.youtube/play/?video_id=HR12RWAUkAo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sob Pressao - T04[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b687f0ad11b8500b5d8f1ee758362302b3f9d9f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao - EP01[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4a6a8ec2498a55fb3ebce65a8556b70ffa4caa8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao - EP02[/B][/COLOR]</link>
 
@@ -115,9 +116,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sob Pressão - A SÉRIE - 39 EPs[/B][/COLOR]</title>
-<title>[COLOR white][B]Sob Pressão - A SÉRIE - 38 EPs[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=PFpn1g_rHG0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sob Pressao[/B][/COLOR]</link>
 
 <link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 (2017) - SD DUB - 9 EPs[/B][/COLOR]</link>	
 
@@ -182,3 +180,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
