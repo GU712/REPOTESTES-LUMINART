@@ -1,183 +1,132 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- SEÇÃO DE FILMES
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[COLOR white][B]ESPECIAL SOB PRESSÃO - O FILME[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
-<info>[B]Assista aqui o filme Sob Pressão[/B]</info>
-
-<subchannel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sob Pressão (2016) - O Filme[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=IF2mDeccjGE</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
-<info>Assista ao trailer do filme</info>
-<genre>CRIME E DRAMA</genre>
+<title>[COLOR white][B]Empire: Fama e Poder (2015)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=JswCfXFRCoc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Empire - Fama e Poder[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - 12 EPs- DUB[/B][/COLOR]</link>	
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86169.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86170.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Rei Franco [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86171.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Diabo Cita a Escritura [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86172.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Falsa Imposisao [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86173.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Ligasoes Perigosas [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86174.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Fora, Maldito Lugar [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86175.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Nossos Dias de Dansa [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86176.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Rugido do Lyon [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86177.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]A Brecha [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86178.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Pecados do Pai [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86179.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Morre Uma Vez [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86180.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Quem Eu Sou [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 02 - 18 EPs- DUB[/B][/COLOR]</link>	
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86226.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Os Demonios Estao Aqui [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86227.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Sem Um Pais [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86228.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Fogo do Ceu [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86229.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Pobre Yorick [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86230.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Seja Verdadeiro [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86231.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Uma Alta Esperansa Para um Ceu Baixo [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86232.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Amor Verdadeiro Nunca [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86233.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Minhas Partes Ruins [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86234.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Pecou Contra [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86235.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Et Tu, Brute? [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86236.mp4$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Morte Tera Seu Dia [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86237.mp4$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Uma Rosa Com Outro Nome [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86238.mp4$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]A Domesticasao de um Lobo [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86239.mp4$$lsname=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Tempo Deve Se Desdobrar [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86240.mp4$$lsname=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Mais Do Que o Kin [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86241.mp4$$lsname=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]O Lyon Que Gritou Lobo [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86242.mp4$$lsname=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Levante-se Pelo Pecado [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86243.mp4$$lsname=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Passado e Prologo [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 03 - 18 EPs- DUB[/B][/COLOR]</link>	
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86295.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Luz na Escuridao [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86296.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Pecado Que Altera [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86297.mp4$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]O Que Resta e Bestiali [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86298.mp4$$lsname=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Cupido Mata [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86299.mp4$$lsname=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Um Antes do Outro [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86300.mp4$$lsname=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Badaladas a Meia-noite [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86301.mp4$$lsname=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]O Que Podemos Ser [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86302.mp4$$lsname=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]O Corte Cruel [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86303.mp4$$lsname=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Um Forno Para Seu Inimigo[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86304.mp4$$lsname=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Chaves do Reino [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86305.mp4$$lsname=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Som e Furia [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86306.mp4$$lsname=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Jogar [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86307.mp4$$lsname=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Minha Infamia [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86308.mp4$$lsname=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]O Amor e Um Fumo [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86309.mp4$$lsname=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]Maos Impuras [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86310.mp4$$lsname=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Criansa Ausente [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86311.mp4$$lsname=[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]Pedagio e Problemas (Parte 1) [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86312.mp4$$lsname=[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]Pedagio e Problemas (Parte 2) [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 04 - 18 EPs- DUB[/B][/COLOR]</link>	
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86335.mp4$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Memoria Nobre [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86336.mp4$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Circulo Cheio [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86337.mp4$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Maus Costumes [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86338.mp4$$lsname=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Guerra Sangrenta [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86339.mp4$$lsname=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]O Bobo [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86340.mp4$$lsname=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Fortuna Nao Ser Crost [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86341.mp4$$lsname=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]A Senhora Protesta [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86342.mp4$$lsname=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Cupido Cego Pintado  [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86343.mp4$$lsname=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Escravo a Memoria [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86344.mp4$$lsname=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Passaros na Gaiola [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86345.mp4$$lsname=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Sem Desculpas [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86346.mp4$$lsname=[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Doce Tristeza [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86347.mp4$$lsname=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Robustez e a Mae [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86348.mp4$$lsname=[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Rosto Falso [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86349.mp4$$lsname=[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Um Olhar Magro e Faminto [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86350.mp4$$lsname=[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]Termos Justos [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86351.mp4$$lsname=[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white]Narizes Sangrentos e Coroas de Crack [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86352.mp4$$lsname=[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white]O Imperio Nao Possuiu [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 05 - 18 EPs- DUB[/B][/COLOR]</link>	
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86185.mp4$$lsname=[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Roubar do Ladrao [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86186.mp4$$lsname=[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Pague Por Suas Presunsoes [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86187.mp4$$lsname=[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Orgulho [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86188.mp4$$lsname=[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Ame a Todos, Confie em Alguns [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86189.mp4$$lsname=[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]O Luto Profundo [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86190.mp4$$lsname=[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]O Que e Feito [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86191.mp4$$lsname=[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Traisoes, Estratagemas e Despojos [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86192.mp4$$lsname=[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Mestre do Que e Meu [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86193.mp4$$lsname=[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Tinha de Meu Pai [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86194.mp4$$lsname=[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Minha Culpa e Passado [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86195.mp4$$lsname=[COLOR orange][B]T05E11[COLOR yellow] -> [COLOR white]Em Virtude Amorosa [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86196.mp4$$lsname=[COLOR orange][B]T05E12[COLOR yellow] -> [COLOR white]Mude e Salve-se [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86197.mp4$$lsname=[COLOR orange][B]T05E13[COLOR yellow] -> [COLOR white]Sangue Quente, Pensamentos Quentes, Asoes Quentes [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86198.mp4$$lsname=[COLOR orange][B]T05E14[COLOR yellow] -> [COLOR white]Sem Todos os Remedios [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86199.mp4$$lsname=[COLOR orange][B]T05E15[COLOR yellow] -> [COLOR white]Um Pai Sabio Que Conhece seu Proprio Filho [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86200.mp4$$lsname=[COLOR orange][B]T05E16[COLOR yellow] -> [COLOR white]Nunca Duvide Que Eu Amo [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86201.mp4$$lsname=[COLOR orange][B]T05E17[COLOR yellow] -> [COLOR white]Meu Destino Chora [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86202.mp4$$lsname=[COLOR orange][B]T05E18[COLOR yellow] -> [COLOR white]O Dia Mais Dificil [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 06 - 18 EPs- DUB[/B][/COLOR]</link>	
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86203.mp4$$lsname=[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white] O Que E O Amor [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86204.mp4$$lsname=[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Me Ajoelhei Para Rezar [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86205.mp4$$lsname=[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]Voce Quebrou O Amor [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86206.mp4$$lsname=[COLOR orange][B]T06E04[COLOR yellow] -> [COLOR white]Diga a Verdade [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86207.mp4$$lsname=[COLOR orange][B]T06E05[COLOR yellow] -> [COLOR white]Mais Forte Que Meu Rival [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86208.mp4$$lsname=[COLOR orange][B]T06E06[COLOR yellow] -> [COLOR white]Corasao de Pedra [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86209.mp4$$lsname=[COLOR orange][B]T06E07[COLOR yellow] -> [COLOR white]Bom O Bastante [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86210.mp4$$lsname=[COLOR orange][B]T06E08[COLOR yellow] -> [COLOR white]Voce Se Lembra De Mim [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86211.mp4$$lsname=[COLOR orange][B]T06E09[COLOR yellow] -> [COLOR white]Lembre-se Da Musica [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86212.mp4$$lsname=[COLOR orange][B]T06E10[COLOR yellow] -> [COLOR white]Homem Frio E Frio [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86213.mp4$$lsname=[COLOR orange][B]T06E11[COLOR yellow] -> [COLOR white]Cant Truss Em [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86214.mp4$$lsname=[COLOR orange][B]T06E12[COLOR yellow] -> [COLOR white]Fale Menos [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86215.mp4$$lsname=[COLOR orange][B]T06E13[COLOR yellow] -> [COLOR white]Desfeita [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86216.mp4$$lsname=[COLOR orange][B]T06E14[COLOR yellow] -> [COLOR white] Eu Sou Quem Eu Sou [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86217.mp4$$lsname=[COLOR orange][B]T06E15[COLOR yellow] -> [COLOR white]Ame-me Ainda [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86218.mp4$$lsname=[COLOR orange][B]T06E16[COLOR yellow] -> [COLOR white]Nos Pegamos [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86219.mp4$$lsname=[COLOR orange][B]T06E17[COLOR yellow] -> [COLOR white]Acima De Tudo [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/86220.mp4$$lsname=[COLOR orange][B]T06E18[COLOR yellow] -> [COLOR white]O Lar Esta A Caminho [/B][/COLOR]</link>
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/8Uz4oB6Sa84AZEFif2ZOg2m6K0k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A0NXRICa49gpCtGDm778JMb4EyL.jpg</fanart>
+<info>Lucious Lyon saiu das ruas e construiu um império musical com a gravadora Empire. Desde que descobriu uma doença, cria uma competição entre seus filhos pelo comando da empresa.</info>
+<genre>DRAMA</genre>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Sob Pressão (2016) - O Filme[/B][/COLOR]</title>
-
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13561C5D45F967E5F8397B5928A33CFE0C3D61E4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao - FHD DUB[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Sob Pressao - DUB[/B][/COLOR]</link>
-
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/50915.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sob Pressao - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/gislene/102030/24400.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Sob Pressao - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
-<info>Dr. Evandro e sua equipe, formada também pelos doutores Paulo e Carolina enfrentam um tenso dia no hospital em que trabalham quando têm que realizar três cirurgias muito complicadas: um traficante, um policial militar e uma criança. O que complica o caso é que os três foram feridos no mesmo tiroteio em uma favela próxima ao hospital.</info>
-<genre>CRIME E DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[COLOR white][B]ESPECIAL SOB PRESSÃO - A SÉRIE[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
-<info>Assista aqui os episódios da série Sob Pressão
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
-[COLOR orange][B]ANOS - 2017 a 2021[/B][/COLOR]
-[COLOR orange][B]04 TEMPS  - 38 EPS[/B][/COLOR]
-</info>
-
-<item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sob Pressão - A SÉRIE[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=PFpn1g_rHG0</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>CRIME E DRAMA</genre> 
-</item>
-
-<item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressão - A SÉRIE - 38 EPs[/B][/COLOR]</title>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 (2017) - HD DUB - 9 EPs[/B][/COLOR]</link>	
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cd7fc0dcb34f5bced73feabccea2fbfffb3e8da$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao[/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 (2018) - FHD DUB - 11 EPs[/B][/COLOR]</link>	
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add54b693507126c0006a2df99d86821c3158eae$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao[/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 03 (2019) - FHD DUB - 14 EPs[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff61d4b44b31b5a7d4fd194155371feff009f816$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao[/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Plantao Covid (2020) - FHD DUB - 02 EPs[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d719fba4b3825beeb6c40c9c79a412a415ee79e9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao - Plantao Covid - EP01[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45ba924eb979449f08958790fdd1a989ddb3de11$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao - Plantao Covid - EP02[/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 04 (2021) - FHD DUB - 02 EPs[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=HR12RWAUkAo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sob Pressao - T04[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b687f0ad11b8500b5d8f1ee758362302b3f9d9f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao - EP01[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4a6a8ec2498a55fb3ebce65a8556b70ffa4caa8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sob Pressao - EP02[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
-<info>Acompanhe a rotina de entrega, esforço e muita pressão pela qual os médicos de um hospital público passam todos os dias. Em comum, o desejo de salvar vidas.</info>
-<genre>CRIME E DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sob Pressão - A SÉRIE - 39 EPs[/B][/COLOR]</title>
-
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 (2017) - SD DUB - 9 EPs[/B][/COLOR]</link>	
-
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13218.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13219.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13220.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13221.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13222.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13223.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13224.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13225.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13226.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 02 (2018) - SD DUB - 11 EPs[/B][/COLOR]</link>	
-
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13227.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13228.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13229.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13230.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13231.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13232.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13233.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13234.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13235.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13236.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13237.mp4$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 03 (2019) - SD DUB - 14 EPs[/B][/COLOR]</link>	
-
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13238.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13239.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13240.mp4$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13241.mp4$$lsname=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13242.mp4$$lsname=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13243.mp4$$lsname=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13244.mp4$$lsname=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13245.mp4$$lsname=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13246.mp4$$lsname=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13247.mp4$$lsname=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13248.mp4$$lsname=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/77335.mp4$$lsname=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/77336.mp4$$lsname=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/77337.mp4$$lsname=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Plantao Covid (2020) - HD DUB - 02 EPs[/B][/COLOR]</link>	
-
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80399.mp4$$lsname=[COLOR orange][B]PLANTAO COVID[COLOR yellow] ->[COLOR white] Episodio -> 01[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80400.mp4$$lsname=[COLOR orange][B]PLANTAO COVID[COLOR yellow] ->[COLOR white] Episodio -> 02[/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 04 (2018) - HD DUB - 02 EPs[/B][/COLOR]</link>	
-
-<link>plugin://plugin.video.youtube/play/?video_id=HR12RWAUkAo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sob Pressao - T04[/B][/COLOR]</link>
-
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/99389.mp4$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/99649.mp4$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/99650.mp4$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
-<info>Acompanhe a rotina de entrega, esforço e muita pressão pela qual os médicos de um hospital público passam todos os dias. Em comum, o desejo de salvar vidas.</info>
-<genre>CRIME E DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
