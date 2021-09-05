@@ -9,7 +9,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20814.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/667.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]Guardiões da Galáxia 2[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guerra das Colas" tvg-logo="https://canaishd.servidor.tv:8443/images/bc3fdbfc28d931d465a2f4ee63fa1b4a.jpg" group-title="Filmes: Documentário",Guerra das Colas[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Guerra das Colas" tvg-logo="https://canaishd.servidor.tv:8443/images/bc3fdbfc28d931d465a2f4ee63fa1b4a.jpg" ,[COLOR orange][B] DOCUMENTÁRIOS  [COLOR yellow] -> [COLOR white]Guerra das Colas[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/50669.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guerra de Likes" tvg-logo="http://canaishd.servidor.tv:8080/images/yyM7XVFFaS4808sUa0f7ANCsIAk_big.jpg" ,[COLOR orange][B] LANÇAMENTOS [COLOR yellow] -> [COLOR white]Guerra de Likes[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/58113.mp4
@@ -223,7 +223,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/8452.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/8453.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Indiana Jones 4: O Reino da Caveira de Cristal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftcnTl9gExKXtmDkOCx7ztgp3Tz.jpg" ,[COLOR orange][B] AVENTURA  [COLOR yellow] -> [COLOR white]Indiana Jones 4: O Reino da Caveira de Cristal[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/8454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Indústria Americana" tvg-logo="https://logos.servidor.tv/images/ffea1dcaec33c69aa5bdc75bd579ce27.jpg" group-title="Filmes: Documentário",Indústria Americana[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Indústria Americana" tvg-logo="https://logos.servidor.tv/images/ffea1dcaec33c69aa5bdc75bd579ce27.jpg" ,[COLOR orange][B] DOCUMENTÁRIOS  [COLOR yellow] -> [COLOR white]Indústria Americana[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/21438.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Inferno (1999)" tvg-logo="https://canaishd.servidor.tv:8443/images/dFlI0Vb4JOsRXG1JSS2Ufs6Sp8k_big.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Inferno (1999)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/57036.mp4
@@ -489,7 +489,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/8459.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1059.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kung-fusão" tvg-logo="https://logos.servidor.tv/images/kWjtW2qahFlnY6DbC9EkPJNJR4Oygzhx.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Kung-fusão[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La casa de papel: El fenómeno" tvg-logo="https://canaishd.servidor.tv:8443/images/AboUXTrDWEi0PuZUqaft0iwBTm7_big.jpg" group-title="Filmes: Documentário",La casa de papel: El fenómeno[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel: El fenómeno" tvg-logo="https://canaishd.servidor.tv:8443/images/AboUXTrDWEi0PuZUqaft0iwBTm7_big.jpg" ,[COLOR orange][B] DOCUMENTÁRIOS  [COLOR yellow] -> [COLOR white]La casa de papel: El fenómeno[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41318.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La La Land: Cantando Estações" tvg-logo="https://logos.servidor.tv/images/YMZH9JAhXgRuVwpTgod6Cvo0I3LexdLB.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]La La Land: Cantando Estações[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2997.mp4
@@ -973,7 +973,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11081.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/744.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Minha Fama de Mau" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMx8QhEZrnHRjeDUDRAhZyUFiaY.jpg" ,[COLOR orange][B] NACIONAL  [COLOR yellow] -> [COLOR white]Minha Fama de Mau[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/3739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha História" tvg-logo="https://canaishd.servidor.tv:8443/images/inGGNgYdhTlIUx7Ys1XNPO4Aaev_big.jpg" group-title="Filmes: Documentário",Minha História[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Minha História" tvg-logo="https://canaishd.servidor.tv:8443/images/inGGNgYdhTlIUx7Ys1XNPO4Aaev_big.jpg" ,[COLOR orange][B] DOCUMENTÁRIOS  [COLOR yellow] -> [COLOR white]Minha História[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41513.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Minha Mãe Quer que eu Case" tvg-logo="https://logos.servidor.tv/images/28df5b22e8c97a387949b640aa639957.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Minha Mãe Quer que eu Case[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/23785.mp4
@@ -1411,7 +1411,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41362.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41501.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Diabo Veste Prada" tvg-logo="https://logos.servidor.tv/images/n18JMLq1Ra086h07D6tsHK7NsLYT2dsQ.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]O Diabo Veste Prada[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/3080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Dilema das Redes" tvg-logo="https://canaishd.servidor.tv:8443/images/84a8a8dc7cb360ca2665c9d3e3b4eafd.jpg" group-title="Filmes: Documentário",O Dilema das Redes[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="O Dilema das Redes" tvg-logo="https://canaishd.servidor.tv:8443/images/84a8a8dc7cb360ca2665c9d3e3b4eafd.jpg" ,[COLOR orange][B] DOCUMENTÁRIOS  [COLOR yellow] -> [COLOR white]O Dilema das Redes[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41363.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Ditador" tvg-logo="https://logos.servidor.tv/images/YzTOazseJIITioITr0b5ZToCswf58IAF.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]O Ditador[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/3083.mp4
