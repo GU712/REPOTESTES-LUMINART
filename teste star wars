@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO1[/B][/COLOR]
+LINKDOFILME
 #EXTINF:-1 tvg-id="" tvg-name="Grinch" tvg-logo="https://logos.servidor.tv/images/I0wM9Uf4lMIDTLkEYYyoJapR3a8bNl8Z.jpg" ,[COLOR orange][B] ANIMAÇÃO/INFANTIL  [COLOR yellow] -> [COLOR white]Grinch[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/734.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gritos Mortais" tvg-logo="https://logos.servidor.tv/images/5dac76f75f3dc72701089dda05b4e984.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Gritos Mortais[/B][/COLOR]
