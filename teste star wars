@@ -67,7 +67,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11159.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/10733.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Ódio que Você Semeia" tvg-logo="https://logos.servidor.tv/images/3f8f3fa71dfad5c2a2068f5202743697.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]O Ódio que Você Semeia[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Ódio que Você Semeia (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/3f8f3fa71dfad5c2a2068f5202743697.jpg" group-title="Filmes: 4K UHD",O Ódio que Você Semeia (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="O Ódio que Você Semeia (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/3f8f3fa71dfad5c2a2068f5202743697.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]O Ódio que Você Semeia (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52743.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Último Assalto" tvg-logo="https://logos.servidor.tv/images/w9PZBWBiuAKZEkvFJOt7BKcqhyK_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]O Último Assalto[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1931.mp4
@@ -113,7 +113,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20869.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20870.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Olhos Famintos 3" tvg-logo="https://logos.servidor.tv/images/70b6c184b9b5e1d469302bd77b438447.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Olhos Famintos 3[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Onde Está Deus" tvg-logo="https://logos.servidor.tv/images/Kk1Gyv8cqivUF7wXJUt9KMY5A7wpI7s6.jpg" group-title="Filmes: Religião",Onde Está Deus[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Onde Está Deus" tvg-logo="https://logos.servidor.tv/images/Kk1Gyv8cqivUF7wXJUt9KMY5A7wpI7s6.jpg" ,[COLOR orange][B] GOSPEL  [COLOR yellow] -> [COLOR white]Onde Está Deus[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2836.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Onde Está Segunda?" tvg-logo="https://logos.servidor.tv/images/6cb68cf8b368224ba60bb969c497fe55.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]Onde Está Segunda?[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20712.mp4
@@ -375,7 +375,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11161.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/54581.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TjvIO8ZJPKrMKXEjOVGNSzuO6q.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]Pantera Negra[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (4K UHD)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" group-title="Filmes: 4K UHD",Pantera Negra (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (4K UHD)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Pantera Negra (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52734.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Papillon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rP0G0PeT97uOQipQaMysoQ4Idr.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]Papillon[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11162.mp4
@@ -425,7 +425,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/53642.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4898.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Paulo de Tarso e A História do Cristianismo Primitivo" tvg-logo="https://logos.servidor.tv/images/b291a7508363b05ee657f14c02c0b1dd.jpg" ,[COLOR orange][B] NACIONAL  [COLOR yellow] -> [COLOR white]Paulo de Tarso e A História do Cristianismo Primitivo[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paulo: Apóstolo de Cristo" tvg-logo="https://logos.servidor.tv/images/dQkxuJ5mzxbM1FVldCEtJepVQkRD3Ne8.jpg" group-title="Filmes: Religião",Paulo: Apóstolo de Cristo[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Paulo: Apóstolo de Cristo" tvg-logo="https://logos.servidor.tv/images/dQkxuJ5mzxbM1FVldCEtJepVQkRD3Ne8.jpg" ,[COLOR orange][B] GOSPEL  [COLOR yellow] -> [COLOR white]Paulo: Apóstolo de Cristo[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2837.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pearl Harbor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzjMpcyV1RksWonaA87DZ8wQTH0.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]Pearl Harbor[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11168.mp4
@@ -481,7 +481,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41368.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/8531.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pets: A Vida Secreta dos Bichos 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPEAwV5u6cwqNMBV6MD4CWFAclu.jpg" ,[COLOR orange][B] ANIMAÇÃO/INFANTIL  [COLOR yellow] -> [COLOR white]Pets: A Vida Secreta dos Bichos 2[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pets: A Vida Secreta dos Bichos 2 (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/c80365e80232cdf0f71371b3868fe798.jpg" group-title="Filmes: 4K UHD",Pets: A Vida Secreta dos Bichos 2 (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Pets: A Vida Secreta dos Bichos 2 (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/c80365e80232cdf0f71371b3868fe798.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Pets: A Vida Secreta dos Bichos 2 (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52771.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pica-Pau: O Filme" tvg-logo="https://logos.servidor.tv/images/0ZmXbmb0E2CdCJQMWcpKjPzu0tont8P0.jpg" ,[COLOR orange][B] ANIMAÇÃO/INFANTIL  [COLOR yellow] -> [COLOR white]Pica-Pau: O Filme[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2813.mp4
@@ -527,7 +527,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4593.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4905.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pokémon: Detetive Pikachu" tvg-logo="http://canaishd.servidor.tv:8080/images/lHwEhsUaB9D0gXO6M08H5tdb2Vx_big.jpg" ,[COLOR orange][B] ANIMAÇÃO/INFANTIL  [COLOR yellow] -> [COLOR white]Pokémon: Detetive Pikachu[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon: Giratina e o Cavaleiro do Céu (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/25ab8589b47aac5ccd86af33c9a8567f.jpg" group-title="Filmes: 4K UHD",Pokémon: Giratina e o Cavaleiro do Céu (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon: Giratina e o Cavaleiro do Céu (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/25ab8589b47aac5ccd86af33c9a8567f.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Pokémon: Giratina e o Cavaleiro do Céu (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52756.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pokémon: Mewtwo Contra-Ataca! Evolução" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54TouWa5dWkxPtuzoqVEbgUWBVT.jpg" ,[COLOR orange][B] ANIMAÇÃO/INFANTIL  [COLOR yellow] -> [COLOR white]Pokémon: Mewtwo Contra-Ataca! Evolução[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/21457.mp4
@@ -707,7 +707,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1962.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1960.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quarteto Fantástico 2: O Surfista Prateado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5pmeO3ByFw8AGDGlgh1GhkvYFM.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]Quarteto Fantástico 2: O Surfista Prateado[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quarto de Guerra" tvg-logo="https://logos.servidor.tv/images/nEQ1sxxpa9I1Jzrakw9wwnVOpZRBpKeC.jpg" group-title="Filmes: Religião",Quarto de Guerra[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Quarto de Guerra" tvg-logo="https://logos.servidor.tv/images/nEQ1sxxpa9I1Jzrakw9wwnVOpZRBpKeC.jpg" ,[COLOR orange][B] GOSPEL  [COLOR yellow] -> [COLOR white]Quarto de Guerra[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2838.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quase 18" tvg-logo="https://logos.servidor.tv/images/aa7ca99ad1a8828745c2880e466c0c5c.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Quase 18[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4913.mp4
@@ -775,11 +775,11 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1967.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1968.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rambo 5: Até o Fim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Rambo 5: Até o Fim[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/3744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rambo 5: Até o Fim (4K UHD)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg" group-title="Filmes: 4K UHD",Rambo 5: Até o Fim (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 5: Até o Fim (4K UHD)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Rambo 5: Até o Fim (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52741.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rampage: Destruição Total" tvg-logo="https://logos.servidor.tv/images/3gIO6mCd4Q4PF1tuwcyI3sjFrtI_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Rampage: Destruição Total[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rampage: Destruição Total (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/0dcb23b2b1514821ebae24d34d8f0863.jpg" group-title="Filmes: 4K UHD",Rampage: Destruição Total (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Rampage: Destruição Total (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/0dcb23b2b1514821ebae24d34d8f0863.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Rampage: Destruição Total (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52836.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rastro de Maldade" tvg-logo="https://logos.servidor.tv/images/bf7ac621fa5f064d60127be5669d381b.jpg" ,[COLOR orange][B] WESTERN  [COLOR yellow] -> [COLOR white]Rastro de Maldade[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/10749.mp4
@@ -851,7 +851,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20911.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20912.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil 6: O Capítulo Final" tvg-logo="https://logos.servidor.tv/images/69c8a5c845fe067761dc7c3e1c416e70.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Resident Evil 6: O Capítulo Final[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 6: O Capítulo Final (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/69c8a5c845fe067761dc7c3e1c416e70.jpg" group-title="Filmes: 4K UHD",Resident Evil 6: O Capítulo Final (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 6: O Capítulo Final (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/69c8a5c845fe067761dc7c3e1c416e70.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Resident Evil 6: O Capítulo Final (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52781.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ressurreição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hGh4z503k8wA8mLlmvwhTSGja.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]Ressurreição[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/25128.mp4
@@ -879,7 +879,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/54570.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/29694.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Robin Hood: A Origem" tvg-logo="https://logos.servidor.tv/images/AiRfixFcfTkNbn2A73qVJPlpkUo_small.jpg" ,[COLOR orange][B] AVENTURA  [COLOR yellow] -> [COLOR white]Robin Hood: A Origem[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Robin Hood: A Origem (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/05b9c8e2b87e0890beb2f3d1a6a58597.jpg" group-title="Filmes: 4K UHD",Robin Hood: A Origem (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood: A Origem (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/05b9c8e2b87e0890beb2f3d1a6a58597.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Robin Hood: A Origem (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52829.mp4
 #EXTINF:-1 tvg-id="" tvg-name="RoboCop (2014)" tvg-logo="https://logos.servidor.tv/images/hFQcC5eSSHqJfk70RdgrMMxGuYt_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]RoboCop (2014)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1978.mp4
@@ -989,7 +989,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2746.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2747.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Se Eu Ficar" tvg-logo="https://logos.servidor.tv/images/8501f5c9af8bec62ea1fc60d3ad2f54c.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]Se Eu Ficar[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Seberg Contra Todos (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/8f61d74427f9b581d7f20283a0adfae8.jpg" group-title="Filmes: 4K UHD",Seberg Contra Todos (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Seberg Contra Todos (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/8f61d74427f9b581d7f20283a0adfae8.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Seberg Contra Todos (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52763.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Secretariat: Uma História Impossível" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Jg9V13Kyw2Z7YEvLOgP16iCtsY.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]Secretariat: Uma História Impossível[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11202.mp4
@@ -1087,7 +1087,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/53682.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/23704.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shazam!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuicV3wiHje0Np1tb2AetTJLB9I.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Shazam![/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shazam! (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/c32d188866aee186c7762bbcea2a9e48.jpg" group-title="Filmes: 4K UHD",Shazam! (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/c32d188866aee186c7762bbcea2a9e48.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Shazam! (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sherlock Holmes 1" tvg-logo="https://logos.servidor.tv/images/22ngurXbLqab7Sko6aTSdwOCe5W_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Sherlock Holmes 1[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1993.mp4
@@ -1107,7 +1107,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/8554.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1995.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sicário 2: Dia do Soldado" tvg-logo="https://logos.servidor.tv/images/msqWSQkU403cQKjQHnWLnugv7EY_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Sicário 2: Dia do Soldado[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/1996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sicário: Dia do Soldado (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/375b2a4f76381a37f840b179fd87642a.jpg" group-title="Filmes: 4K UHD",Sicário: Dia do Soldado (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Sicário: Dia do Soldado (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/375b2a4f76381a37f840b179fd87642a.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Sicário: Dia do Soldado (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52834.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sierra Burgess é uma Loser" tvg-logo="https://logos.servidor.tv/images/c4736da7148de5babeda50ae19fb5db0.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Sierra Burgess é uma Loser[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4936.mp4
@@ -1143,7 +1143,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/54714.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/13695.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sniper Americano" tvg-logo="https://logos.servidor.tv/images/svPHnYE7N5NAGO49dBmRhq0vDQ3_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Sniper Americano[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sniper Americano (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/9d16db5582feab744765bd3151f81537.jpg" group-title="Filmes: 4K UHD",Sniper Americano (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Sniper Americano (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/9d16db5582feab744765bd3151f81537.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Sniper Americano (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52742.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sniper: Operações Especiais" tvg-logo="https://logos.servidor.tv/images/xOQwXYnnl5E5tTuGUTvCX3OIq2B_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Sniper: Operações Especiais[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/777.mp4
@@ -1185,7 +1185,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11210.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/58528.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonic: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg" ,[COLOR orange][B] ANIMAÇÃO/INFANTIL  [COLOR yellow] -> [COLOR white]Sonic: O Filme[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/21295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sonic: O Filme (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/793efd6bbca75bc165d3091378227058.jpg" group-title="Filmes: 4K UHD",Sonic: O Filme (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Sonic: O Filme (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/793efd6bbca75bc165d3091378227058.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Sonic: O Filme (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52833.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sorria Você Está Sendo Filmado" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZmIFcmmPti0FWZIREnugyUYyACJ-dWO1paF8Sbb8VVyGmudaW" ,[COLOR orange][B] NACIONAL  [COLOR yellow] -> [COLOR white]Sorria Você Está Sendo Filmado[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41538.mp4
@@ -1205,7 +1205,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/8559.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20931.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sr. & Sra. Smith" tvg-logo="https://logos.servidor.tv/images/284896ef81a3f15b405da8f92b3235c9.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Sr. & Sra. Smith[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/25082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Sem Fronteiras (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/e5843ba81914e5467f03c6a7406acd48.jpg" group-title="Filmes: 4K UHD",Star Trek: Sem Fronteiras (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Sem Fronteiras (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/e5843ba81914e5467f03c6a7406acd48.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52739.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70LaZP2LkQ2MUELgilwxj3dKBH0.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]Star Wars 1[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20729.mp4
@@ -1245,7 +1245,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41374.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/54715.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superação: O Milagre da Fé" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pb4LUXQRpnHhKXUwCfeB90ykz7.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]Superação: O Milagre da Fé[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superação: O Milagre da Fé (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/178885f4f59972c36e4527eb065cac13.jpg" group-title="Filmes: 4K UHD",Superação: O Milagre da Fé (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Superação: O Milagre da Fé (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/178885f4f59972c36e4527eb065cac13.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Superação: O Milagre da Fé (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52802.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supercross" tvg-logo="https://logos.servidor.tv/images/qonGLhpGbKFNjjStLmfXrvjaW5u_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Supercross[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2294.mp4
@@ -1301,7 +1301,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11214.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/26562.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Terremoto: A Falha de San Andreas" tvg-logo="https://logos.servidor.tv/images/qey0tdcOp9kCDdEZuJ87yE3crSe_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Terremoto: A Falha de San Andreas[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terremoto: A Falha de San Andreas (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/fc664b95bb4ed46a44682035a7ad97ba.jpg" group-title="Filmes: 4K UHD",Terremoto: A Falha de San Andreas (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Terremoto: A Falha de San Andreas (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/fc664b95bb4ed46a44682035a7ad97ba.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Terremoto: A Falha de San Andreas (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52729.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Terror em Silent Hill" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pg39SwqpfSXiC6dVl6leFpFmJML.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Terror em Silent Hill[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20929.mp4
@@ -1319,7 +1319,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4196.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/779.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Post: A Guerra Secreta" tvg-logo="https://logos.servidor.tv/images/87a919ea0b4ab50e0b263fe83ed11b8b.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]The Post: A Guerra Secreta[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Post: A Guerra Secreta (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/df0964a210923908a96407a5f6952a5b.jpg" group-title="Filmes: 4K UHD",The Post: A Guerra Secreta (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="The Post: A Guerra Secreta (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/df0964a210923908a96407a5f6952a5b.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]The Post: A Guerra Secreta (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52751.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Warriors: Os Selvagens da Noite" tvg-logo="https://logos.servidor.tv/images/sqEzykIkLOae6L4kD0zf3VTVkti_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]The Warriors: Os Selvagens da Noite[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2320.mp4
@@ -1379,7 +1379,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4960.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/54621.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Togo" tvg-logo="https://canaishd.servidor.tv:8443/images/3f349d0b70a66c2ce54b449a9eb2b489.jpg" ,[COLOR orange][B] AVENTURA  [COLOR yellow] -> [COLOR white]Togo[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/21463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Togo (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/3f349d0b70a66c2ce54b449a9eb2b489.jpg" group-title="Filmes: 4K UHD",Togo (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Togo (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/3f349d0b70a66c2ce54b449a9eb2b489.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Togo (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52795.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry: O Filme" tvg-logo="https://canaishd.servidor.tv:8443/images/e06BpqZIxRSpvNSbItcGcgs0S5I_big.jpg" ,[COLOR orange][B] LANÇAMENTOS [COLOR yellow] -> [COLOR white]Tom & Jerry: O Filme[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/54716.mp4
@@ -1409,7 +1409,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/8569.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/8570.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Toy Story 4" tvg-logo="https://logos.servidor.tv/images/N71cE060YuD7ZDezoPHN1GUfkxjX1y0s.jpg" ,[COLOR orange][B] ANIMAÇÃO/INFANTIL  [COLOR yellow] -> [COLOR white]Toy Story 4[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4 (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/6ada79709f63007c0f2eda82dc73db87.jpg" group-title="Filmes: 4K UHD",Toy Story 4 (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4 (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/6ada79709f63007c0f2eda82dc73db87.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Toy Story 4 (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52790.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Transformers 1" tvg-logo="https://logos.servidor.tv/images/1eaf0766412a0fe4d94972f9ec342bc0.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]Transformers 1[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/20741.mp4
@@ -1557,7 +1557,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11231.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/24183.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Espião Animal" tvg-logo="https://canaishd.servidor.tv:8443/images/136a3afefe8766c998b8d85adfd218f2.jpg" ,[COLOR orange][B] ANIMAÇÃO/INFANTIL  [COLOR yellow] -> [COLOR white]Um Espião Animal[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/22628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Espião Animal (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/136a3afefe8766c998b8d85adfd218f2.jpg" group-title="Filmes: 4K UHD",Um Espião Animal (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Um Espião Animal (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/136a3afefe8766c998b8d85adfd218f2.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Um Espião Animal (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52793.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Espião e Meio" tvg-logo="https://logos.servidor.tv/images/60888d20c10315916126fcefde7f1f0d.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Um Espião e Meio[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4978.mp4
@@ -1577,7 +1577,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/33130.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11233.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Lindo Dia na Vizinhança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brIz5GGAJ1QKzsM0ampsJKl5vZY.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]Um Lindo Dia na Vizinhança[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/21057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Lindo Dia na Vizinhança (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/d01bfdf3f4d868a89eeb1fbd1403c4f0.jpg" group-title="Filmes: 4K UHD",Um Lindo Dia na Vizinhança (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Um Lindo Dia na Vizinhança (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/d01bfdf3f4d868a89eeb1fbd1403c4f0.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Um Lindo Dia na Vizinhança (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52744.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Lobisomem Americano em Londres" tvg-logo="https://logos.servidor.tv/images/243e272e2eb1aafb63bf26a5a1d0867f.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Um Lobisomem Americano em Londres[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4980.mp4
@@ -1641,7 +1641,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4968.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/8575.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma Aventura Lego 2" tvg-logo="https://logos.servidor.tv/images/nj56ynBb9GUZGESoIUbBdo2fRcLWJvfO.jpg" ,[COLOR orange][B] ANIMAÇÃO/INFANTIL  [COLOR yellow] -> [COLOR white]Uma Aventura Lego 2[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Batalha de Fé (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDprJajIe7RSV67PtnZ1S6X4iuC.jpg" group-title="Filmes: Religião",Uma Batalha de Fé (2019)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Uma Batalha de Fé (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDprJajIe7RSV67PtnZ1S6X4iuC.jpg" ,[COLOR orange][B] GOSPEL  [COLOR yellow] -> [COLOR white]Uma Batalha de Fé (2019)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41322.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma Boa Ação" tvg-logo="https://logos.servidor.tv/images/1f6b91c4fbcdf0bd22906a7fbe7b0718.jpg" ,[COLOR orange][B] COMÉDIA [COLOR yellow] -> [COLOR white]Uma Boa Ação[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4969.mp4
@@ -1695,7 +1695,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/21416.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52967.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma Sombra na Nuvem" tvg-logo="http://canaishd.servidor.tv:8080/images/t7EUMSlfUN3jUSZUJOLURAzJzZs_big.jpg" ,[COLOR orange][B] LANÇAMENTOS [COLOR yellow] -> [COLOR white]Uma Sombra na Nuvem[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/58532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Vida Com Propósito" tvg-logo="https://logos.servidor.tv/images/8gPm7pgGOtSN3VyyMqnknqKhmXi6yN4c.jpg" group-title="Filmes: Religião",Uma Vida Com Propósito[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Uma Vida Com Propósito" tvg-logo="https://logos.servidor.tv/images/8gPm7pgGOtSN3VyyMqnknqKhmXi6yN4c.jpg" ,[COLOR orange][B] GOSPEL  [COLOR yellow] -> [COLOR white]Uma Vida Com Propósito[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2839.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma Vida Oculta" tvg-logo="https://logos.servidor.tv/images/19f0624154a78f0fc5ec656613ef08e8.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]Uma Vida Oculta[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/26426.mp4
@@ -1757,11 +1757,11 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41376.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/13702.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom" tvg-logo="https://logos.servidor.tv/images/671a22190b2d46af67d58d3eef5f5ced.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]Venom[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/13553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Venom (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/0add5b74cc8bc4ee69fd9704e3624b20.jpg" group-title="Filmes: 4K UHD",Venom (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Venom (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/0add5b74cc8bc4ee69fd9704e3624b20.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Venom (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52835.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Verdade ou Desafio" tvg-logo="https://logos.servidor.tv/images/652c515362634e5836a7663cf24b4512.jpg" ,[COLOR orange][B] SUSPENSE  [COLOR yellow] -> [COLOR white]Verdade ou Desafio[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/13703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Verdade ou Desafio (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/652c515362634e5836a7663cf24b4512.jpg" group-title="Filmes: 4K UHD",Verdade ou Desafio (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Verdade ou Desafio (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/652c515362634e5836a7663cf24b4512.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Verdade ou Desafio (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52819.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra" tvg-logo="https://logos.servidor.tv/images/nlYk34gpPfM6KFujxB9HTHZyeiL_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Viagem ao Centro da Terra[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2317.mp4
@@ -1783,13 +1783,13 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41502.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/680.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vingadores 2: Era de Ultron" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1F8xnBHZlQMkSAacfhUUXhmcgo.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]Vingadores 2: Era de Ultron[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores 2: Era de Ultron (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/440416bd7d5dc7731b2c61c11a05f784.jpg" group-title="Filmes: 4K UHD",Vingadores 2: Era de Ultron (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores 2: Era de Ultron (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/440416bd7d5dc7731b2c61c11a05f784.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Vingadores 2: Era de Ultron (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52812.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vingadores 3: Guerra Infinita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]Vingadores 3: Guerra Infinita[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/682.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vingadores 4: Ultimato" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]Vingadores 4: Ultimato[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores 4: Ultimato (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/97116339e40b8081e13817d9ab74e690.jpg" group-title="Filmes: 4K UHD",Vingadores 4: Ultimato (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores 4: Ultimato (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/97116339e40b8081e13817d9ab74e690.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Vingadores 4: Ultimato (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52730.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vingança" tvg-logo="https://logos.servidor.tv/images/lDjY67pqcIoQCe0kK91TVgL14om_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Vingança[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2318.mp4
@@ -1797,7 +1797,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2318.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/786.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vingança FM" tvg-logo="https://logos.servidor.tv/images/27a24e2283c26b3b9af5d3187f997a60.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Vingança FM[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/21467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança à Sangue Frio (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/1d9e33e61dd670dbdeaf92becb23e9c2.jpg" group-title="Filmes: 4K UHD",Vingança à Sangue Frio (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Vingança à Sangue Frio (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/1d9e33e61dd670dbdeaf92becb23e9c2.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]Vingança à Sangue Frio (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52791.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VIPs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEpX5GoMecbyJMHfAtSh97nPJNZ.jpg" ,[COLOR orange][B] NACIONAL  [COLOR yellow] -> [COLOR white]VIPs[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11241.mp4
@@ -1821,7 +1821,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4996.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/4997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Voando para Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh0Ksst88vnxbqIBsJ6CJy3pDIh.jpg" ,[COLOR orange][B] ROMANCE [COLOR yellow] -> [COLOR white]Voando para Casa[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/13616.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Você Acredita?" tvg-logo="https://logos.servidor.tv/images/LoM2JlHQmM2NBtpK9v1XbRXiwyZ9A5fT.jpg" group-title="Filmes: Religião",Você Acredita?[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Você Acredita?" tvg-logo="https://logos.servidor.tv/images/LoM2JlHQmM2NBtpK9v1XbRXiwyZ9A5fT.jpg" ,[COLOR orange][B] GOSPEL  [COLOR yellow] -> [COLOR white]Você Acredita?[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2840.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Você Deveria Ter Partido" tvg-logo="http://canaishd.servidor.tv:8080/images/jmgg6wuEUjcnDeTrq5dlupKObkH_big.jpg" ,[COLOR orange][B] TERROR [COLOR yellow] -> [COLOR white]Você Deveria Ter Partido[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/58120.mp4
@@ -1849,7 +1849,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2319.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/41345.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Whiplash: Em Busca da Perfeição" tvg-logo="https://logos.servidor.tv/images/20f208658c7bd84eb094165f490fc39f.jpg" ,[COLOR orange][B] CRIME/DRAMA  [COLOR yellow] -> [COLOR white]Whiplash: Em Busca da Perfeição[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/11242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WiFi Ralph: Quebrando a Internet (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/6fa466dc8864d76b34b167d518f76fd9.jpg" group-title="Filmes: 4K UHD",WiFi Ralph: Quebrando a Internet (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="WiFi Ralph: Quebrando a Internet (4K UHD)" tvg-logo="https://canaishd.servidor.tv:8443/images/6fa466dc8864d76b34b167d518f76fd9.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]WiFi Ralph: Quebrando a Internet (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52769.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wolverine: Imortal" tvg-logo="https://logos.servidor.tv/images/iTST6DcLhfufWYUKCOskkusaYUq_small.jpg" ,[COLOR orange][B] AÇÃO  [COLOR yellow] -> [COLOR white]Wolverine: Imortal[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/2321.mp4
@@ -1865,7 +1865,7 @@ http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/13557.mp4
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/13558.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men: Fênix Negra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]X-Men: Fênix Negra[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Fênix Negra (4K UHD)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="Filmes: 4K UHD",X-Men: Fênix Negra (4K UHD)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Fênix Negra (4K UHD)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" ,[COLOR orange][B] 4K UHD [COLOR yellow] -> [COLOR white]X-Men: Fênix Negra (4K UHD)[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/52785.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men: Primeira Classe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DwCAgYw7PH713fjyvvRigwaCMD.jpg" ,[COLOR orange][B] FICÇÃO/FANTASIA  [COLOR yellow] -> [COLOR white]X-Men: Primeira Classe[/B][/COLOR]
 http://canaishd.servidor.tv:8080/movie/alan2021/2021alan/13559.mp4
