@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR OrangeRed][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -35,6 +35,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bRDAc4GogyS9ci3ow7UnInOcriN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vy6udfAuHvOy5MAoPqs5hLNPR8O.jpg</fanart>
 <info>Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. Em um mundo cheio de ódio e preconceito, eles são temidos por aqueles que não podem aceitar suas diferenças. Liderados por Xavier, os X-Men lutam para proteger um mundo que os teme. Eles estão presos em uma batalha contra um ex-colega e amigo, Magneto, que acredita que os humanos e os mutantes não devem viver juntos.</info>
+<genre>SUPER-HERÓIS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]X-Men 2 (2003)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2OdX0B9bU_4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]X-Men 2[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2ba45565469c4e6ef5fb9c34065523d43bf5b03$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men 2 - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76783fc30e84c9ac429d10a75a513c643f9579bf$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men 2 - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Dx92x2cj0spJZk5s1iw0cCHkCyJ6bsP2/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]X-Men 2 - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27294.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]X-Men 2 - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/93054.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]X-Men 2 - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mnDo22GA2WUvyWY9PyhZqxdaejC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s8ftvFvafWWEhApISamHx32bx6h.jpg</fanart>
+<info>Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier. Depois de escapar de sua cela de plástico, Magneto propõe uma parceria com Xavier e os X-Men para combater esse novo inimigo que ambos têm em comum</info>
 <genre>SUPER-HERÓIS</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
