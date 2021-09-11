@@ -1,8 +1,8 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -10,9 +10,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE 007 - JAMES BOND[/B][/COLOR]</name>
-<thumbnail>https://wallpapercave.com/wp/LmO8jh0.jpg</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<name>[COLOR white][B]007 - JAMES BOND - FILMES [/B][/COLOR]</name>
+<thumbnail>https://theglobalcoverage.com/wp-content/uploads/2020/12/bond.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/LmO8jh0.jpg</fanart>
 <info>[B]Assista aqui os melhores filmes do genêro 007 - JAMES BOND[/B]</info>
 
 <subchannel>
@@ -68,27 +68,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail><ICONEDOGENERO></thumbnail>
+<name>[COLOR white][B]COLEÇÃO COLEÇÃO 007 - JAMES BOND[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ncXdf2C/007-ESP.png</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]Assista aqui os melhores filmes do genêro AÇÃO e suas seguências[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>
-<thumbnail><ICONEDACOLEÇÃO></thumbnail>
-<fanart><FUNDODACOLEÇÃO></fanart>
+<name>[COLOR white][B]COLEÇÃO 007 - JAMES BOND (25 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ncXdf2C/007-ESP.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>Assista aqui os filmes da coleção Nomedacoleção 
 [COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]0 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
+[COLOR orange][B]25 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (1962 a 2016)[/B][/COLOR]
 </info>
 
 <subitems>
