@@ -11,7 +11,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]FILMES DE 007 - JAMES BOND[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/gChsKD2ami2juo8n0oDjAlx9IUv.jpg</thumbnail>
+<thumbnail>https://wallpapercave.com/wp/LmO8jh0.jpg</thumbnail>
 <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
 <info>[B]Assista aqui os melhores filmes do genêro 007 - JAMES BOND[/B]</info>
 
@@ -103,54 +103,99 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]James Bond - 007 - 1962 - 2016[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=HKNK1jZEeUs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]James Bond - Aberturas [/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5657259266875D041EA818D3151E618779BA14F7$$lsname=[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Coletanea James Bond - 007 - 1962 - 2016 - Dublado[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>AÇÃO</genre>
+<thumbnail>https://www.themoviedb.org/t/p/w500/HORpg5CSkmeQlAolx3bKMrKgfi.jpg</thumbnail>
+<fanart>https://i1.wp.com/guiadostreaming.com.br/wp-content/uploads/2020/09/007-vinhos.jpg?fit=1000%2C675&ssl=1</fanart>
+<info>O Carismático agente secreto e suas incríveis missões</info>
+<genre>AÇÃO</genre>  
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]James Bond - 007 - 1962 - 2016[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=HKNK1jZEeUs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]James Bond - Aberturas [/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26075.mp4$$lsname=[COLOR orange][B]1962[COLOR yellow] -> [COLOR white]007 Contra o Satanico Dr. No - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26077.mp4$$lsname=[COLOR orange][B]1962[COLOR yellow] -> [COLOR white]Moscou Contra 007 - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26069.mp4$$lsname=[COLOR orange][B]1964[COLOR yellow] -> [COLOR white]007 Contra Goldfinger - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26072.mp4$$lsname=[COLOR orange][B]1965[COLOR yellow] -> [COLOR white]007 Contra a Chantagem Atomica - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26066.mp4$$lsname=[COLOR orange][B]1967[COLOR yellow] -> [COLOR white]Com 007 So Se Vive 2 Vezes - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26064.mp4$$lsname=[COLOR orange][B]1969[COLOR yellow] -> [COLOR white]007 A Servico Secreto de Sua Majestade - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26082.mp4$$lsname=[COLOR orange][B]1971[COLOR yellow] -> [COLOR white]007 Os Diamantes Sao Eternos - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26067.mp4$$lsname=[COLOR orange][B]1973[COLOR yellow] -> [COLOR white]Com 007 Viva e Deixe Morrer - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26074.mp4$$lsname=[COLOR orange][B]1974[COLOR yellow] -> [COLOR white]007 Contra o Homem com a Pistola de Ouro - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26062.mp4$$lsname=[COLOR orange][B]1977[COLOR yellow] -> [COLOR white]007 O Espiao Que Me Amava - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26073.mp4$$lsname=[COLOR orange][B]1979[COLOR yellow] -> [COLOR white]007 Contra o Foguete da Morte - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26063.mp4$$lsname=[COLOR orange][B]1981[COLOR yellow] -> [COLOR white]007 Somente Para Seus Olhos - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26070.mp4$$lsname=[COLOR orange][B]1983[COLOR yellow] -> [COLOR white]007 Contra Octopussy - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26078.mp4$$lsname=[COLOR orange][B]1984[COLOR yellow] -> [COLOR white]007 Nunca Mais Outra Vez - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26061.mp4$$lsname=[COLOR orange][B]1985[COLOR yellow] -> [COLOR white]007 Na Mira dos Assassinos - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26076.mp4$$lsname=[COLOR orange][B]1987[COLOR yellow] -> [COLOR white]007 Marcado Para a Morte - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/.mp4$$lsname=[COLOR orange][B]1989[COLOR yellow] -> [COLOR red]007 Permissao Para Matar - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26068.mp4$$lsname=[COLOR orange][B]1995[COLOR yellow] -> [COLOR white]007 Contra Goldeneye - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26079.mp4$$lsname=[COLOR orange][B]1997[COLOR yellow] -> [COLOR white]007 O Amanha Nunca Morre - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26080.mp4$$lsname=[COLOR orange][B]1999[COLOR yellow] -> [COLOR white]007 O Mundo Nao e o Bastante - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26085.mp4$$lsname=[COLOR orange][B]2003[COLOR yellow] -> [COLOR white]007 Um Novo Dia Para Morrer - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26065.mp4$$lsname=[COLOR orange][B]2006[COLOR yellow] -> [COLOR white]007 Casino Royale - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26084.mp4$$lsname=[COLOR orange][B]2008[COLOR yellow] -> [COLOR white]007 Quantum of Solace - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26081.mp4$$lsname=[COLOR orange][B]2012[COLOR yellow] -> [COLOR white]007 Operacao Skyfall - DUB[/B][/COLOR] </link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26071.mp4$$lsname=[COLOR orange][B]2015[COLOR yellow] -> [COLOR white]007 Contra Spectre - DUB[/B][/COLOR] </link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>AÇÃO</genre>
+<thumbnail>https://www.themoviedb.org/t/p/w500/HORpg5CSkmeQlAolx3bKMrKgfi.jpg</thumbnail>
+<fanart>https://i1.wp.com/guiadostreaming.com.br/wp-content/uploads/2020/09/007-vinhos.jpg?fit=1000%2C675&ssl=1</fanart>
+<info>O Carismático agente secreto e suas incríveis missões</info>
+<genre>AÇÃO</genre>  
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-ACRESCENTE AQUI NOVO ITEM DA COLEÇÃO
-</subitems>
+<subitem>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]James Bond - 007 - 1962 - 2016[/B][/COLOR]</title>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.youtube/play/?video_id=HKNK1jZEeUs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]James Bond - Aberturas [/B][/COLOR]</link>
+
+<link>http://b5.vc:80/movie/macario/10203040/94121.mp4$$lsname=[COLOR orange][B]1962[COLOR yellow] -> [COLOR white]007 Contra o Satanico Dr. No - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94122.mp4$$lsname=[COLOR orange][B]1962[COLOR yellow] -> [COLOR white]Moscou Contra 007 - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94123.mp4$$lsname=[COLOR orange][B]1964[COLOR yellow] -> [COLOR white]007 Contra Goldfinger - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94124.mp4$$lsname=[COLOR orange][B]1965[COLOR yellow] -> [COLOR white]007 Contra a Chantagem Atomica - DUB[/B][/COLOR] </link>
+
+link>http://main.chopp.me:80/movie/Cirino123/Cirino321/80144.mkv$$lsname=[COLOR orange][B]1967[COLOR yellow] -> [COLOR white]Com 007 So Se Vive 2 Vezes - DUB[/B][/COLOR] </link>
+
+<link>http://b5.vc:80/movie/macario/10203040/94126.mp4$$lsname=[COLOR orange][B]1969[COLOR yellow] -> [COLOR white]007 A Servico Secreto de Sua Majestade - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94127.mp4$$lsname=[COLOR orange][B]1971[COLOR yellow] -> [COLOR white]007 Os Diamantes Sao Eternos - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94128.mp4$$lsname=[COLOR orange][B]1973[COLOR yellow] -> [COLOR white]Com 007 Viva e Deixe Morrer - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94129.mp4$$lsname=[COLOR orange][B]1974[COLOR yellow] -> [COLOR white]007 Contra o Homem com a Pistola de Ouro - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94130.mp4$$lsname=[COLOR orange][B]1977[COLOR yellow] -> [COLOR white]007 O Espiao Que Me Amava - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94131.mp4$$lsname=[COLOR orange][B]1979[COLOR yellow] -> [COLOR white]007 Contra o Foguete da Morte - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94132.mp4$$lsname=[COLOR orange][B]1981[COLOR yellow] -> [COLOR white]007 Somente Para Seus Olhos - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94133.mp4$$lsname=[COLOR orange][B]1983[COLOR yellow] -> [COLOR white]007 Contra Octopussy - DUB[/B][/COLOR] </link>
+
+link>http://main.chopp.me:80/movie/Cirino123/Cirino321/80164.mkv$$lsname=[COLOR orange][B]1984[COLOR yellow] -> [COLOR white]007 Nunca Mais Outra Vez - DUB[/B][/COLOR] </link>
+
+<link>http://b5.vc:80/movie/macario/10203040/94134.mp4$$lsname=[COLOR orange][B]1985[COLOR yellow] -> [COLOR white]007 Na Mira dos Assassinos - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94135.mp4$$lsname=[COLOR orange][B]1987[COLOR yellow] -> [COLOR white]007 Marcado Para a Morte - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94136.mp4$$lsname=[COLOR orange][B]1989[COLOR yellow] -> [COLOR white]007 Permissao Para Matar - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94137.mp4$$lsname=[COLOR orange][B]1995[COLOR yellow] -> [COLOR white]007 Contra Goldeneye - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94138.mp4$$lsname=[COLOR orange][B]1997[COLOR yellow] -> [COLOR white]007 O Amanha Nunca Morre - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94139.mp4$$lsname=[COLOR orange][B]1999[COLOR yellow] -> [COLOR white]007 O Mundo Nao e o Bastante - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94140.mp4$$lsname=[COLOR orange][B]2003[COLOR yellow] -> [COLOR white]007 Um Novo Dia Para Morrer - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94141.mp4$$lsname=[COLOR orange][B]2006[COLOR yellow] -> [COLOR white]007 Casino Royale - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94142.mp4$$lsname=[COLOR orange][B]2008[COLOR yellow] -> [COLOR white]007 Quantum of Solace - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94143.mp4$$lsname=[COLOR orange][B]2012[COLOR yellow] -> [COLOR white]007 Operacao Skyfall - DUB[/B][/COLOR] </link>
+<link>http://b5.vc:80/movie/macario/10203040/94144.mp4$$lsname=[COLOR orange][B]2015[COLOR yellow] -> [COLOR white]007 Contra Spectre - DUB[/B][/COLOR] </link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w500/HORpg5CSkmeQlAolx3bKMrKgfi.jpg</thumbnail>
+<fanart>https://i1.wp.com/guiadostreaming.com.br/wp-content/uploads/2020/09/007-vinhos.jpg?fit=1000%2C675&ssl=1</fanart>
+<info>O Carismático agente secreto e suas incríveis missões</info>
+<genre>AÇÃO</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>
@@ -217,11 +262,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-COLE AQUI NOVO ITEM DA COLEÇÃO
+ACRESCENTE AQUI NOVO ITEM DA COLEÇÃO
 </subitems>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-COLE AQUI NOVA COLEÇÃO
-
