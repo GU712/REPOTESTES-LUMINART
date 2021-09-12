@@ -4,21 +4,6 @@
 <thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- SEÇÃO DE FILMES DE GUERRA
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[COLOR white][B]SEÇÕES ESPECIAIS [/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/y5y9dLc/GUERRA-FILM.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
-
-<subchannel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NOVA SUB-SEÇÃO
@@ -332,6 +317,46 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ACRESCENTAR NOVO ITEM AQUI
 </subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]SÉRIES STAR WARS[/B][/COLOR]</name>
+<thumbnail>https://wallpapercave.com/wp/LmO8jh0.jpg</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro 007 - JAMES BOND[/B]</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]TESTE (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0Q9W9vgLa58$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]12 Herois[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6984e1b126c42b960448829f8b7e2dc6df0e5ac6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]12 Herois - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]12 Herois - LEG [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97KPJhJp5SzcHi4yQniZjKv6Yyc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pcOeMkwouwDuIIBvgFyKO4VhqK.jpg</fanart>
+<info>Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hemsworth) decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade de formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.</info>
+<genre>GUERRA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ACRESCENTAR NOVO ITEM AQUI
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NOVA SUB-SEÇÃO
