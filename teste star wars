@@ -11,8 +11,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]SEÇÃO ESPECIAL 007 - JAMES BOND (00 ITENS)[/B][/COLOR]</name>
-<thumbnail><ICONEDASESAO></thumbnail>
-<fanart><FUNDODASESAO></fanart>
+<thumbnail>https://i.ibb.co/BZhWjDN/007-ESP.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>[B]Assista aqui os melhores filmes da franquia 007 - JAMES BOND[/B]</info>
 
 <subchannel>
@@ -75,8 +75,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]SEÇÃO ESPECIAL STAR WARS[/B][/COLOR]</name>
-<thumbnail><ICONEDASESAO></thumbnail>
-<fanart><FUNDODASESAO></fanart>
+<thumbnail>https://i.ibb.co/BZhWjDN/007-ESP.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
 <subchannel>
@@ -91,8 +91,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR white][B]FILMES STAR WARS (00 ITENS)[/B][/COLOR]</name>
-<thumbnail><ICONEDASESAO></thumbnail>
-<fanart><FUNDODASESAO></fanart>
+<thumbnail>https://i.ibb.co/BZhWjDN/007-ESP.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>[B]Assista aqui os melhores filmes da franquia STAR WARS[/B]</info>
 
 <subitems>
