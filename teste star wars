@@ -11,8 +11,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]SEÇÃO ESPECIAL 007 - JAMES BOND (00 ITENS)[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/BZhWjDN/007-ESP.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dOSECZImeyZldoq0ObieBE0lwie.jpg</fanart
 <info>[B]Assista aqui os melhores filmes da franquia 007 - JAMES BOND[/B]</info>
 
 <subchannel>
@@ -34,11 +34,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net/movie/ACML2/67293456jg/26075.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - SD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/macario/10203040/94121.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zJPZPtBqPSN73m6UmpS7uTTOZSo.jpg</thumbnail>
-<fanart><FUNDODOFILME></fanart>
+<fanart>https://www.themoviedb.org/t/p/original/ptcXbbxTyjHfEE4d4QocNP0YQct.jpg</fanart>
 <info>James Bond (Sean Connery) investiga o desaparecimento de um agente britânico. Em meio às suas investigações ele descobre o esconderijo do Dr. No (Joseph Wiseman), um gênio louco que pretende desviar o rumo dos foguetes americanos.</info>
 <genre>AÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Moscou Contra 007 (1963)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=anzrg5MI2b0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Moscou Contra 007[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7e873d47591172fec3bd0f78ebed27fa5c41d71$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Moscou Contra 007 - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b05a6ee01f714df3a53a74eddd59aecd4f7155ed$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Moscou Contra 007 - FHD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1m4UJtgcpGshpx9__Pn9Ryo8F2KZlKOxX/view?usp=sharing$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Moscou Contra 007 - FHD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26077.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Moscou Contra 007 - SD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94122.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Moscou Contra 007 - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x06hUBmBeExMSs4Zot2V8Y3R24t.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9jDP4tAGnH9UT9wBxoaq0eYIcQV.jpg</fanart>
+<info>James Bond (Sean Connery) é incumbido de ajudar uma bela agente soviética a fugir de seu país, para então tentar recuperar uma leitora de códigos na embaixada russa, em Londres. Porém, Bond não sabe que a temível organização criminosa Spectre organizou esta armadilha no intuito de executá-lo.</info>
+<genre>AÇÃO</genre>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
