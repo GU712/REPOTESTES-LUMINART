@@ -102,6 +102,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR white][B]007: A Serviço Secreto de Sua Majestade (1969)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dOLq5Rg9N-c$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - A Serviso Secreto de Sua Majestade[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95479a4099b47bdef90523a2619327a3be643b32$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - A Serviso Secreto de Sua Majestade - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd0676d775e3d667f76fd96c00ec7fd7e9f4c15e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - A Serviso Secreto de Sua Majestade - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kSb1zWYgM7Vx9R0ihipcz-01b1nKuoHz/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - A Serviso Secreto de Sua Majestade - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26064.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - A Serviso Secreto de Sua Majestade - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94126.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - A Serviso Secreto de Sua Majestade - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vPkS9X0qaPDaHSke0Ji4UJRk9Ye.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/58pMrmwwcKamJIdjUlinE6QX1Fs.jpg</fanart>
+<info>Em uma praia 007 (George Lazenby) evita que uma jovem mulher cometa suicídio. O pai dela o chefe de uma poderosa organização criminosa e, impressionado com Bond, quer que ele proteja sua filha se casando com ela. Em troca, ele oferece ao famoso agente informações que façam 007 chegar até Ernst Blofeld (Telly Savallas), o principal inimigo do agente.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
@@ -119,7 +134,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre><GENERODASESSAO></genre>
+<genre>AÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -199,7 +214,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre><GENERODASESSAO></genre>
+<genre>AÇÃO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -492,7 +507,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre><GENERODASESSAO></genre>
+<genre>AÇÃO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -769,7 +784,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre><GENERODASESSAO></genre>
+<genre>AÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
