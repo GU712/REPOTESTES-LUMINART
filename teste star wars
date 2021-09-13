@@ -26,28 +26,6 @@ APENAS FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]teste (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5657259266875D041EA818D3151E618779BA14F7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]teste - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
 <title>[COLOR white][B]007: Contra o Satânico Dr. No (1962)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=KbYuvlMx7fw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra o Satanico Dr. No[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a579b6ea829120a5fa60aab86a1f4f10c7f7f15d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - HD DUAL[/B][/COLOR]</link>
@@ -194,6 +172,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/original/l7qtdY0f2q14U41wb7Y755RCCEx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3sstxPYjkS0teLpPvZhhqThONHN.jpg</fanart>
 <info>A Inglaterra descobre que alguém sabe como rastrear um submarino submerso e está oferecendo esta tecnologia para quem pagar mais alto. Uma crise internacional tem início quando um submarino com dezesseis mísseis nucleares desaparece, enquanto fazia uma patrulha.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra o Foguete da Morte (1979)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sAZkvbLXKbU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra o Foguete da Morte[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f8cb52d0b096717a7823d5f7ec4d4de98add6e7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Foguete da Morte - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b38dbc1c012ef34d6832af305b900a8a64c31c4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Foguete da Morte - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nEu821CIaE5I1JzcCVp9K9HmL4I4cpvJ/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra o Foguete da Morte - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26073.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra o Foguete da Morte - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94131.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra o Foguete da Morte - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qLWSt8edXmWG55I16DJt5VtXsR3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mrDC5DLx2wljt4HZGwgkmqlzfcF.jpg</fanart>
+<info>Um avião carregando um foguete espacial sofre um acidente, mas quando o Serviço Secreto Britânico vai examinar os destroços não encontra nenhum vestígio da espaçonave. Assim, 007 (Roger Moore) tem a missão de investigar o caso e começa indo visitar o multimilionário que construiu a aeronave e tem idéias bastantes estranhas de qual deva ser o destino da raça humana.</info>
 <genre>AÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
