@@ -511,7 +511,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jAMEX0syUh6sbjBiysibzrFpbo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/j1l9zqe5ZQPEHGsz91FyZxMldq4.jpg</fanart>
 <info>Embarque na Millennium Falcon e viaje para uma galáxia distante em uma nova aventura com o mais amado canalha da galáxia. Através de uma série de ousadas aventuras no obscuro e perigoso submundo do crime, Han Solo encontra seu poderoso futuro copiloto Chewbacca e encontra o famoso jogador Lando Calrissian, em uma jornada que definirá o curso de um dos heróis mais improváveis da saga Star Wars.</info>
-<genre>STARWARS</genre>
+<genre>STAR WARS</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -1557,7 +1557,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ACRESCENTE AQUI UMA NOVA SÉRIE COPIAR E COLAR ATÉ AQUI MANTER TAG DE FECHAMENTO
-
 </subitems>
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
@@ -1583,16 +1582,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR orange]STAR TREEK[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg	</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
+<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR orange]STAR TREK[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Y3fVLgh/STAR-TREK-ESP.png</thumbnail>
+<fanart>https://i.ibb.co/19ZNFDs/STARTREK.jpg</fanart>
 <info>[B]Assista aqui os filmes da franquia STAR TREK[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]FASE 1[COLOR yellow] -> [COLOR white]Star Trek[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg</fanart>
 <info>Assista aqui os filmes da FASE1.
 [COLOR orange][B]X FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
@@ -1927,3 +1926,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ACRESCENTAR NOVO ITEM AQUI
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
