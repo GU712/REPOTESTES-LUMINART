@@ -45,6 +45,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
+<title>[COLOR white][B]Jornada nas Estrelas: O Filme (1979)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=HvZ_z9cTs0w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Jornada nas Estrelas - O Filme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cefc3469df978527e67c64d486de0cb78941fd0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD LEG[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b93a224d07bcc6f63a710dbad17141e028b5c21e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - FHD LEG[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oNghIXvquGq4HNQZ_F5pzSrKgcn2YtF4/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD DUAL[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>AÇÃO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
 <title>[COLOR white][B] Han Solo - Uma História Star Wars (2018)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=UtpnRFzZWlM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Han Solo - Uma Historia Star Wars[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20abfe3f7db04a24a0c8a0f775bf1ddd02c8dfad$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
