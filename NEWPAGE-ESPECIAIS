@@ -765,7 +765,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange]SÉRIE[COLOR yellow] -> [COLOR white][B]O Lote Estragado (2021)[/B][/COLOR]</name>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]O Lote Estragado (2021)[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>
 <info>Assista aqui a série Star Wars O Lote Estragado
@@ -876,7 +876,7 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange]SÉRIE[COLOR yellow] -> [COLOR white][B]O Mandaloriano (2019 e 2021)[/B][/COLOR]</name>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]O Mandaloriano (2019 e 2021)[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
 <info>Assista aqui a série Star Wars - O Mandaloriano
@@ -1023,7 +1023,7 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange]SÉRIE[COLOR yellow] -> [COLOR white][B]A Guerra Dos Clones (2008 a 2020)[/B][/COLOR]</name>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]A Guerra Dos Clones (2008 a 2020)[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/opDY35ukPWTGFIxq17BBHJs49LD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jjECb6dSFUKXDtryuQk4rkFY7oP.jpg</fanart>
 <info>Assista aqui a série Star Wars - A Guerra Dos Clones
@@ -1286,7 +1286,7 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange]SÉRIE[COLOR yellow] -> [COLOR white][B]Rebels (2014 a 2018) [/B][/COLOR]</name>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Rebels (2014 a 2018) [/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oPti8Yf7ryQb6bQZfZlYgeCZkm3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>
 <info>Assista aqui a série Star Wars - Rebels
@@ -1672,9 +1672,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]STAR TREEK - PICARD[/B][/COLOR]</name>
-<thumbnail><ICONEDASESAO></thumbnail>
-<fanart><FUNDODASESAO></fanart>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]STAR TREK - PICARD[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/WnhyPrP/STAR-TREK-SER.png</thumbnail>
+<fanart>https://i.ibb.co/f12z4vW/STARTREK-FANART.jpg</fanart>
 <info>[B]Assista aqui os episódios da série NOMEDASERIE[/B]</info>
 
 <subitems>
