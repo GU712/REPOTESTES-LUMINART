@@ -952,23 +952,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-subitem>
-<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Wars - O Mandaloriano (2019 e 2021)[/B][/COLOR]</title>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<thumbnail>ICONEDASÉRIE</thumbnail>
-<fanart><FUNDODASÉRIE></fanart>
-<info><SINOPSEDASÉRIE></info>
-<genre>STAR WARS</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <subitem>		
+<title>[COLOR white][B]O Mandaloriano - 2019[/B][/COLOR] </title>		
+				
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - 8 EPs - DUB[/B][/COLOR]</link>		
+		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35333	FAT.mp4$$lsname=[COLOR orange][B]T01E01	GET[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35334	FAT.mp4$$lsname=[COLOR orange][B]T01E02	GET[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35335	FAT.mp4$$lsname=[COLOR orange][B]T01E03	GET[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/81795	FAT.mp4$$lsname=[COLOR orange][B]T01E04	GET[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/81796	FAT.mp4$$lsname=[COLOR orange][B]T01E05	GET[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39587	FAT.mp4$$lsname=[COLOR orange][B]T01E06	GET[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39588	FAT.mp4$$lsname=[COLOR orange][B]T01E07	GET[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39589	FAT.mp4$$lsname=[COLOR orange][B]T01E08	GET[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
+		
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 02 - 8 EPs - DUB[/B][/COLOR]</link>		
+		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78357	FAT.mp4$$lsname=[COLOR orange][B]T02E01	GET[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78358	FAT.mp4$$lsname=[COLOR orange][B]T02E02	GET[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80314	FAT.mp4$$lsname=[COLOR orange][B]T02E03	GET[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80315	FAT.mp4$$lsname=[COLOR orange][B]T02E04	GET[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80316	FAT.mp4$$lsname=[COLOR orange][B]T02E05	GET[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82238	FAT.mp4$$lsname=[COLOR orange][B]T02E06	GET[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82239	FAT.mp4$$lsname=[COLOR orange][B]T02E07	GET[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82240	FAT.mp4$$lsname=[COLOR orange][B]T02E08	GET[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>		
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>		
+<genre>FICÇÃO E FANTASIA</genre>  		
+</subitem>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+
+subitem>		
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars - O Mandaloriano (2019 e 2021)[/B][/COLOR] </title>		
 				
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - LEG FIX[/B][/COLOR]</link>		
