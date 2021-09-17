@@ -25,7 +25,7 @@ SUB-SEÇÃO DE FILMES COPIAR E COLAR DAQUI PRA BAIXO PARA ACRESCENTAR NOVO FILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]ANTOLOGIA[COLOR yellow] -> [COLOR white]Star Wars[/B][/COLOR]</name>	
+<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]Star Wars[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
 <info>Assista aqui os filmes "spin-off" pré saga.
@@ -79,7 +79,7 @@ ACRESCENTAR NOVO ITEM AQUI
 </subitems>
 
 <subchannel>
-<name>[COLOR orange][B]TRILOGIA 2[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
+<name>[COLOR orange][B]SERIES[COLOR yellow] -> [COLOR white]Star Wars (1999 a 2005)[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
 <info>Assista aqui os filmes da segunda trilogia.
