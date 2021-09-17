@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -9,8 +9,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR orange]STAR WARS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg	</thumbnail>
+<name>[COLOR white][B]FILMES - STAR WARS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpq</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
 <info>[B]Assista aqui os filmes da franquia STAR WARS[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -288,7 +288,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR orange]STAR WARS[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES - STAR WARS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg	</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
 <info>[B]Assista aqui as séries da franquia STAR WARS[/B]</info>
