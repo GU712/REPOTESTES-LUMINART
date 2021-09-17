@@ -4,15 +4,16 @@
 <thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO ESPECIAL 007 - JAMES BOND APENAS FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
 <channel>
-<name>[COLOR white][B]FILMES - STAR WARS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpq</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
-<info>[B]Assista aqui os filmes da franquia STAR WARS[/B]</info>
+<name>[COLOR white][B]SEÇÃO ESPECIAL 007 - JAMES BOND [/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ncXdf2C/007-ESP.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui os melhores filmes da franquia 007 - JAMES BOND[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -21,6 +22,461 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+APENAS FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra o Satânico Dr. No (1962)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KbYuvlMx7fw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra o Satanico Dr. No[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a579b6ea829120a5fa60aab86a1f4f10c7f7f15d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30c78bce6b2ecca681db55d3c589cc02515176ee$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - FHD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15uD5Y1prgcuEAnaTX6N-7Yg0zcCCA9xq/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net/movie/ACML2/67293456jg/26075.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - SD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94121.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zJPZPtBqPSN73m6UmpS7uTTOZSo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ptcXbbxTyjHfEE4d4QocNP0YQct.jpg</fanart>
+<info>James Bond (Sean Connery) investiga o desaparecimento de um agente britânico. Em meio às suas investigações ele descobre o esconderijo do Dr. No (Joseph Wiseman), um gênio louco que pretende desviar o rumo dos foguetes americanos.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Moscou Contra 007 (1963)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=anzrg5MI2b0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Moscou Contra 007[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7e873d47591172fec3bd0f78ebed27fa5c41d71$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Moscou Contra 007 - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b05a6ee01f714df3a53a74eddd59aecd4f7155ed$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Moscou Contra 007 - FHD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1m4UJtgcpGshpx9__Pn9Ryo8F2KZlKOxX/view?usp=sharing$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Moscou Contra 007 - FHD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26077.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Moscou Contra 007 - SD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94122.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Moscou Contra 007 - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x06hUBmBeExMSs4Zot2V8Y3R24t.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9jDP4tAGnH9UT9wBxoaq0eYIcQV.jpg</fanart>
+<info>James Bond (Sean Connery) é incumbido de ajudar uma bela agente soviética a fugir de seu país, para então tentar recuperar uma leitora de códigos na embaixada russa, em Londres. Porém, Bond não sabe que a temível organização criminosa Spectre organizou esta armadilha no intuito de executá-lo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra Goldfinger (1964)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MA65V-oLKa8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra Goldfinger[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=007 Contra Goldfinger$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra Goldfinger - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bd3e6814f2fe3fa0c51a236642b53f0f73bd386$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra Goldfinger - FHD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MckyikyMP-8-QKK6np3WU32Rt4geSG7L/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra Goldfinger - FHD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26069.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra Goldfinger - SD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94123.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra Goldfinger - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aSFbyik1bd3xQxyPQbahdcaCYwT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mM4WeXqJd2tu1gCF5GYyAZf2Npl.jpg</fanart>
+<info>James Bond é (Sean Connery) encarregado de espionar Goldfinger (Gert Fröbe), um poderoso milionário cujas remessas de ouro espalhadas por diversos países podem esconder ações criminosas. Após ser capturado, Bond descobre que o plano de Goldfinger é bem maior do que ele imaginava: Goldfinger pretende roubar nada mais nada menos do que as reservas americanas de ouro, guardadas no Forte Knox.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra a Chantagem Atômica (1965)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qtQLt_XDqXk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra a Chantagem Atomica[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:568526EB28ED5CC2D87A7034D315094DF30F35B5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra a Chantagem Atomica - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d07a03a56b84f24ee577889bc1dcb8256db94deb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra a Chantagem Atomica - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X_PAu3Je__St5ROZZZZyQI41JwZ-FOJl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra a Chantagem Atomica - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26072.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra a Chantagem Atomica - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94124.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra a Chantagem Atomica - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ot8pEGo9Mljwkz7Ak8hv4qjBmsu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7DLCXCQx52YLle1qTokrjROTwVV.jpg</fanart>
+<info>James Bond (Sean Connery) tenta evitar a destruição de Miami por meio de uma super bomba, roubada pela SPECTRE. A organização está exigindo um pagamento de 100 milhões de dólares em diamantes para não cumprir a ameaça de explodir a cidade. Para isso, ele vai correr contra o tempo para encontrar as armas roubadas e impedir a morte de milhões de inocentes.</info>
+<genre>AÇÂO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Com 007 Só Se Vive Duas Vezes (1967)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gCsbi9KukoE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Com 007 So Se Vive Duas Vezes[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F80CBD64A0878D4F9A6D923C861539F691E0920D$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Com 007 So Se Vive Duas Vezes - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1EFA16C503174E77649A6E70947166F6E90197EB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Com 007 So Se Vive Duas Vezes - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15p7Eoq3ZWXHHdwLtFNAcBh6QY2kAvanU/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Com 007 So Se Vive Duas Vezes - FHD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26066.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Com 007 So Se Vive Duas Vezes - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94125.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Com 007 So Se Vive Duas Vezes - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oUXRXL8z6Ia4RtBTnrN11WppxRa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cpZAXIYA0lkZMpAt7d1MmH8ojNV.jpg</fanart>
+<info>Durante uma missão de rotina no espaço, uma nave americana desaparece misteriosamente da sua órbita. Os americanos suspeitam dos soviéticos e pensam em uma retaliação. No entanto, os ingleses se mantêm mais cautelosos, após existirem possibilidades da nave ter pousado perto do Mar do Japão. Assim, 007 (Sean Connery) vai investigar o caso, mas quando os soviéticos perdem uma espaçonave nas mesmas circunstâncias, Bond tem poucos dias para resolver esta missão e evitar a Terceira Guerra Mundial.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: A Serviço Secreto de Sua Majestade (1969)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dOLq5Rg9N-c$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - A Serviso Secreto de Sua Majestade[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95479a4099b47bdef90523a2619327a3be643b32$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - A Serviso Secreto de Sua Majestade - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd0676d775e3d667f76fd96c00ec7fd7e9f4c15e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - A Serviso Secreto de Sua Majestade - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kSb1zWYgM7Vx9R0ihipcz-01b1nKuoHz/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - A Serviso Secreto de Sua Majestade - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26064.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - A Serviso Secreto de Sua Majestade - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94126.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - A Serviso Secreto de Sua Majestade - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vPkS9X0qaPDaHSke0Ji4UJRk9Ye.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/58pMrmwwcKamJIdjUlinE6QX1Fs.jpg</fanart>
+<info>Em uma praia 007 (George Lazenby) evita que uma jovem mulher cometa suicídio. O pai dela o chefe de uma poderosa organização criminosa e, impressionado com Bond, quer que ele proteja sua filha se casando com ela. Em troca, ele oferece ao famoso agente informações que façam 007 chegar até Ernst Blofeld (Telly Savallas), o principal inimigo do agente.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Os Diamantes São Eternos (1971)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=i2FdcrcOYXc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Os Diamantes Sao Eternos[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40d072d340b91121e3370baa203a37344b9f1525$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Os Diamantes Sao Eternos - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dce78512a59bc65795199f3027f565b75aaf6122$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Os Diamantes Sao Eternos - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tSmQvekDvl-op9qWLy3CqJ4okMDU-wM6/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Os Diamantes Sao Eternos - FHD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26082.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Os Diamantes Sao Eternos - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94127.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Os Diamantes Sao Eternos - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n0UhYapEWDcrgDgKvRKHZMyv4z6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pyTDtQCn5sG8gi2zkM5ZylSNmtJ.jpg</fanart>
+<info>Quando o governo britânico suspeita da existência de uma rede mundial de contrabando de diamantes, 007 (Sean Connery) é chamado para investigar. Ele logo descobre a extensão do problema e viaja para a América, onde o milionário proprietário de um cassino é suspeito de estar por trás de tudo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Com 007 Viva e Deixe Morrer (1973)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Tp5mlzFo4YM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Com 007 Viva e Deixe Morrer[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b96178c5b6980e7c1311cf586369c58b6589f60b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Com 007 Viva e Deixe Morrer - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85ade3678bf4ce9aa4b02bfdf1bd5691fba4e9e3$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Com 007 Viva e Deixe Morrer - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uHnWSE5sTE-rJP6mrkISELYnGj9B0V3C/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Com 007 Viva e Deixe Morrer - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26067.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Com 007 Viva e Deixe Morrer - SD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94128.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Com 007 Viva e Deixe Morrer - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wcmuc5chRiZynWwPyhvuCO6sGi3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hzmmXx6UeYQeylioNbliFKjSbV7.jpg</fanart>
+<info>Três agentes britânicos são mortos no mesmo dia, ao investigarem o contrabando de drogas, com os assassinatos estando ligados a um chefão do crime do Harlem e a um diplomata internacional. 007 (Roger Moore) vai investigar o caso e, ao chegar em Nova York, quase morto por um capanga que trabalha para o chefão do Harlem.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra o Homem com a Pistola de Ouro (1974)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HI051q7bVB8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra o Homem com a Pistola de Ouro[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ee389eaa62402385d831cd570a9b9ac91746155$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Homem com a Pistola de Ouro - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acecda126f975c4afb1d8846e0f3d98c65902981$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Homem com a Pistola de Ouro - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RVsnu-WZeFY5cdKbLTMCtYvXfEM5nk7v/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra o Homem com a Pistola de Ouro - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26074.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra o Homem com a Pistola de Ouro - SD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94129.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra o Homem com a Pistola de Ouro - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rqC546GsvQqNEM4Tmlw6y132Dst.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b2Vh87USkX6MsduPmSsnMzMxptk.jpg</fanart>
+<info>Quando uma bala de ouro chega ao quartel-general da inteligência britânica com um "007" gravado nela, se acredita que James Bond (Roger Moore) será o próximo alvo de um assassino profissional (Christopher Lee) que cobra um milhão de dólares por serviço. </info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: O Espião Que Me Amava (1977)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UBxG_TJvYTg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - O Espiao Que Me Amava[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0bfc839751d90d7d95302683cf8382879d3d911$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - O Espiao Que Me Amava - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9b83cadf5187c313f259036c40a4195d7d057e8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - O Espiao Que Me Amava - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OYrC53lt7AncgGeMkwCGLReXqB1CxqiR/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - O Espiao Que Me Amava - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26062.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - O Espiao Que Me Amava - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94130.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - O Espiao Que Me Amava - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l7qtdY0f2q14U41wb7Y755RCCEx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3sstxPYjkS0teLpPvZhhqThONHN.jpg</fanart>
+<info>A Inglaterra descobre que alguém sabe como rastrear um submarino submerso e está oferecendo esta tecnologia para quem pagar mais alto. Uma crise internacional tem início quando um submarino com dezesseis mísseis nucleares desaparece, enquanto fazia uma patrulha.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra o Foguete da Morte (1979)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sAZkvbLXKbU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra o Foguete da Morte[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f8cb52d0b096717a7823d5f7ec4d4de98add6e7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Foguete da Morte - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b38dbc1c012ef34d6832af305b900a8a64c31c4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Foguete da Morte - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nEu821CIaE5I1JzcCVp9K9HmL4I4cpvJ/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra o Foguete da Morte - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26073.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra o Foguete da Morte - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94131.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra o Foguete da Morte - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qLWSt8edXmWG55I16DJt5VtXsR3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mrDC5DLx2wljt4HZGwgkmqlzfcF.jpg</fanart>
+<info>Um avião carregando um foguete espacial sofre um acidente, mas quando o Serviço Secreto Britânico vai examinar os destroços não encontra nenhum vestígio da espaçonave. Assim, 007 (Roger Moore) tem a missão de investigar o caso e começa indo visitar o multimilionário que construiu a aeronave e tem idéias bastantes estranhas de qual deva ser o destino da raça humana.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Somente para Seus Olhos (1981)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9Ykn9zPnQME$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Somente para Seus Olhos[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf788cc92ea204871e173d6110b01ca0ae010cdc$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Somente para Seus Olhos - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc82f93defcece0f703dd12e5ce6f92f1f82eea5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Somente para Seus Olhos - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xHNjKf2qqqlur7Zy9DOwGryhMVizrZ6x/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Somente para Seus Olhos - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26063.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Somente para Seus Olhos - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94132.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Somente para Seus Olhos - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v3TFKkWFgsQcBvN29s1P7meOt2j.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z7Jp7HAsY7MqXzPYzTjJnmOQk2r.jpg</fanart>
+<info>A tarefa agora é recuperar uma importante arma de defesa que afundou com um navio e que pode ter ido parar em mãos inimigas. Décimo-segundo filme da série. Seguido por '007 Contra Octopussy'. Quando um navio britânico é afundado em águas estrangeiras, as superpotências mundiais começam uma corrida desesperada para achar sua carga: um sistema submarino de controle nuclear.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra Octopussy (1983)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=q1hLWZzgZvU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra Octopussy[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f70c187250391675842e58cadf0d65360221327b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra Octopussy - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7945ad62e037b834ea83e23bb7bc31ac10c898f3$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra Octopussy - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a8C1xuBihnpydR9zEjkgSenqG5UV4HYX/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra Octopussy - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26070.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra Octopussy - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94133.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra Octopussy - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/orK0ZbPR6teSzBH2ZsWlVY4m5GL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7mcZvskRMCtXMWJqjaVVfauvUWl.jpg</fanart>
+<info>Ao tentar solucionar quem assassinou o agente 009 (Andy Bradford), James Bond (Roger Moore) resolve seguir uma pista de uma jóia Fabergé roubada do Kremlin, que aparece em uma famosa casa de leilões de Londres. O agente 007 acredita que esta jóia pode ser a chave para solucionar o mistério, pois o agente morto foi encontrado com um Fabergé falso.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Nunca Mais Outra Vez (1983)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ib1Tc2uXWAA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Nunca Mais Outra Vez[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2a5c743f0948d7c1365aee0b5caedd7560385b3$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Nunca Mais Outra Vez - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3125ab8704e465e7f5732a29a98aa9db16aa08ab$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Nunca Mais Outra Vez - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14IWqzHMdJbCSmyVemEte93GM1B2I55_p/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Nunca Mais Outra Vez - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26078.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Nunca Mais Outra Vez - HD DUB[/B][/COLOR]</link>
+
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Nunca Mais Outra Vez - HD DUAL[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/uULahg7URW4DjPq0fANgHEw1uHC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2JyeiUzWoap1yN8gTC6lhAvCnwq.jpg</fanart>
+<info>James Bond (Sean Connery) é convocado para reaver bombas nucleares roubadas pela Spectre, uma terrível organização criminosa que pretende lançá-las em cidades americanas. Mas terá que enfrentar uma sexy assassina profissional, contratada especialmente para eliminá-lo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Na Mira dos Assassinos (1985)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5sf-_Nk6m7g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Na Mira dos Assassinos[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93e01872aa5736bb2a71403df7cfa1d7a2dde665$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Na Mira dos Assassinos - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75d42c0079de5871791b4b77e88a933208543d16$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Na Mira dos Assassinos - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eTZiFd3DyjxRmd6kmJqlc6wM7teiJlYZ/viewF$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Na Mira dos Assassinos - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26061.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Na Mira dos Assassinos - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94134.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Na Mira dos Assassinos - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mlv7UVryoJ3CiHrtNfL5bddiZez.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xYHF4iiQd1L1UZuRG5MjKA90VPu.jpg</fanart>
+<info>O magnata Max Zorin pretende controlar o mercado de informática. Ele resolve arquitetar um louco plano, no qual milhares de pessoas vão morrer, para ficar ainda mais rico. Após retornar da sua viagem na USSR com um chip de computador, James Bond precisa investigar as indústrias de Zorin e tentar impedir que o vilão realize os seus planos.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Marcado para a Morte (1987)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-J4P-r8KzRQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Marcado para a Morte[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4437877016938af11431f08afc0655e20b4175f7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Marcado para a Morte - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:056c32ec1ea1ce719829e5ec502a8dd0be41fc33$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Marcado para a Morte - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13AaJrXE7V_ecrzC6iNDQ3SLyn105ZIXS/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Marcado para a Morte - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26076.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Marcado para a Morte - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94135.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Marcado para a Morte - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x0pqZMotd2S4JknksLkK8red6Zh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hZwFWGM3Clpvenxb137C82eODOg.jpg</fanart>
+<info>Georgi Koskov ,um general dissidente da União Soviética, escapa da Cortina de Ferro com a ajuda de James Bond , mas logo recapturado através de uma sensacional missão de resgate, que transforma o Serviço Secreto Inglês em uma grande chacota. </info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Permissão para Matar (1989)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=oyiokIEPW2g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Permissao para Matar[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414f321bc451c88821d6d69f4a5b992b7dac20b0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Permissao para Matar - HD LEG][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72e4ee1620fa5a417e5297bc5e7ffe9d872223ad$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Permissao para Matar - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jnUxB1oeBSepDmjrb60GkuM7noDiWdUS/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Permissao para Matar - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26083.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Permissao para Matar - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94136.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Permissao para Matar - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cTRASi09SKtyzWrjmakEW3196IB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eftLLfpO4ywQhk5X0mw2xtxYNcl.jpg</fanart>
+<info>James Bond desobedece ordens e parte em uma missão para vingar a morte da mulher de seu melhor amigo, assassinada por um chefão das drogas. Ele chega à base sul-americana do narcotraficante e, disfarçado de pistoleiro, é contratado pelo </info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra GoldenEye (1995)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HHFXthl5IJo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra GoldenEye[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26ab7c4f7d61cbd5f8da56b8f3515c6522fe3bd8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra GoldenEye - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ad5a9b13549dfc2ebf21fb94f52c9769f705c00$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra GoldenEye - FHD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vg0-tGppdG9oLlTiCMKrqF_TuqXVueky/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra GoldenEye - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26068.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra GoldenEye - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94137.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra GoldenEye - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gp8jxHD3Yk4zeizXhlcQpJxls3u.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fIWsCpYR9iGDMSbMTSAzy8L7Kg5.jpg</fanart>
+<info>James Bond precisa impedir que o controle do poderoso satélite GoldenEye, capaz de causar pane em qualquer equipamento eletrônico do mundo, caia em mãos erradas. Para isso, contará com a ajuda da bela especialista em computação Natalya Siminova.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: O Amanhã Nunca Morre (1997)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=FOv8I5NAR9Y$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - O Amanha Nunca Morre[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e65164cec6a0101af4c66a0a82a174e983c7cc3b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - O Amanha Nunca Morre - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e460dea211c7181ecf40ca8fbc93f9e20f281934$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - O Amanha Nunca Morre - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IEJa1vL0_wxhUDwnE1fW9YtC3VTKUc17/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - O Amanha Nunca Morre - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26079.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - O Amanha Nunca Morre - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94138.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - O Amanha Nunca Morre - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bli11OpEc4jtNfRwPOdG1uiL6qB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fesAgiKA0pc04vScDTAQe1f9nd4.jpg</fanart>
+<info>James Bond descobre que o magnata da mídia Elliot Carver colocou em prática um plano para manipular as superpotências e expandir seus negócios. O agente deve impedir que essa ideia doentia provoque uma nova guerra mundial.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: O Mundo Não é o Bastante (1999)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YeOMwi-AGNE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - O Mundo Nao e o Bastante[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86bd71d41cc342d9f4bb654c975912d971085584$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - O Mundo Nao e o Bastante - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:208cbdb28de347b0470d64f3aa646c4781218118$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - O Mundo Nao e o Bastante - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pkrMdYXS2jUJzVsfQzKoghizxn2D_N-l/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - O Mundo Nao e o Bastante - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26080.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - O Mundo Nao e o Bastante - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94139.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - O Mundo Nao e o Bastante - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hhdLmdw0o2weP64g8w4LvPNs3G0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tvIkzPDOrp0YGsP52yG13z7b9lX.jpg</fanart>
+<info>James Bond deve proteger Elektra King, filha de um magnata do petróleo que foi brutalmente assassinado. O agente secreto é encarregado de manter Elektra longe do lunático terrorista Renard, que deseja assumir o controle do petróleo de todo o mundo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Um Novo Dia para Morrer (2002)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rtrCMHho5vQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Um Novo Dia para Morrer[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c69c1396f60ce3e474f32b5c332a1a1da8c37f40$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Um Novo Dia para Morrer - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bfc13eff121840b2d7b2e0514242c9881818727$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Um Novo Dia para Morrer - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Plsxkax7JK7GklKf83WmiBZR81wL4i_y/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Um Novo Dia para Morrer - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26085.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Um Novo Dia para Morrer - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94140.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Um Novo Dia para Morrer - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p5XYHwDfsOjItfYQAOlLwMZYb3d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ykFpThRWBJFFouxcroZGLiNJoF6.jpg</fanart>
+<info>Após se libertar de uma prisão na Coreia do Norte, James Bond entra em ação para perseguir o maligno Gustav Graves, que está desenvolvendo uma arma de alta tecnologia capaz de colocar o mundo em risco.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Cassino Royale (2006)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=36mnx8dBbGE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Cassino Royale[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b458bd3034c49a175b6c88d97e1087f01bbd9d96$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Cassino Royale - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48235e052e3c57f931b461fbc13eff1e594e331a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Cassino Royale - FHD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xO2bHGkF8Wi3aVpwwBjjP1TQCcLug_bT/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Cassino Royale - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26065.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Cassino Royale - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94141.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Cassino Royale - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v0BUJA94x8TTWYb9briQ3g764mb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg</fanart>
+<info>Depois de obter o status 00 e uma licença para matar, o agente secreto James Bond parte em sua primeira missão como 007. Bond precisa derrotar um banqueiro privado que financia terroristas em um jogo de pôquer de alto risco no Casino Royale, Montenegro.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Quantum of Solace (2008)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BBqYaFEWBxI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Quantum of Solace[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63f8c13e75e344aca855b90f6a4a6c7cc46a3bea$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Quantum of Solace - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ca6a4e165c033262360ab2f2e1d028abc6a1a11$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Quantum of Solace - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19rgb_dEcbKFdab2qRd9gHtGrG6Dxvb6e/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Quantum of Solace - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26084.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Quantum of Solace - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94142.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Quantum of Solace - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zjB7mh0bVJQSx3qx4bs8xTwoDaU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2OjNSTZjA64ftTMNLJUBHwZ3Au2.jpg</fanart>
+<info>Após a morte de Vesper Lynd, James Bond faz com que sua próxima missão seja pessoal. A caçada àqueles envolvidos na morte da mulher de sua vida o leva ao encontro do cruel empresário Dominic Greene, que faz parte da organização que coagiu Vesper. Bond descobre que Greene planeja obter o controle total de um recurso natural vital e deve enfrentar perigo e traição para frustrar o plano.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Operação Skyfall (2012)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6kw1UVovByw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Operasao Skyfall[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd53e6abdd8fdd60a0152dc46814d93a4e9770c4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Operasao Skyfall - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37ccd250f08a277c2e1a446240d344fa333ba92f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Operasao Skyfall - FHD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19i71yRf8IVNXnjUFgoKxMt-sVQR_owv3/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Operasao Skyfall - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26081.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Operasao Skyfall - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94143.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Operasao Skyfall - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cFZte4pCieZad3XzdmY3l4pq9Gx.jpg</fanart>
+<info>Após uma missão mal sucedida de James Bond, a identidade de agentes secretos é revelada e o M16, atacado. Ajudado por um agente de campo, Bond deverá seguir a trilha de Silva, um homem que habita o passado de M e que tem contas a acertar.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra Spectre (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4sWytHwBl7U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra Spectre[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b985ea1c7b643a7260d25812a3fe8d8d7c1da1a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra Spectre - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:124bdeb84023aec30e85f19a39581ea888274e0e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra Spectre - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X55MY6krUjMmdJyI-eE9V6OEkD_hSi--/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra Spectre - FHD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26071.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra Spectre - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94144.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra Spectre - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3STD0Fd0S8iZHRqndi8m4rTLdRV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ei1UeEqLI9vpRGQQQPkAy7qufqG.jpg</fanart>
+<info>James Bond chega à Cidade do México e está pronto para eliminar Marco Sciarra sem que o chef M saiba da missão. O caso leva à suspensão temporária do agente, que passa a ser constantemente vigiado pelo governo britânico graças a uma tecnologia implantada em seu corpo por Q.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Sem Tempo para Morrer (2021) - EM BREVE[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=kCyjw0z-5KI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Sem Tempo para Morrer[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Sem Tempo para Morrer - HD DUAL[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Sem Tempo para Morrer - FHD DUAL[/B][/COLOR]</link>
+
+link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Sem Tempo para Morrer - HD DUAL[/B][/COLOR]</link>
+
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Sem Tempo para Morrer - HD DUAL[/B][/COLOR]</link>
+
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Sem Tempo para Morrer - HD DUAL[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/ni6NRLP6YxdxBapodmNt5EpfoMD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tYYhP0CVl0VhGU5JtYdCOo2duyH.jpg</fanart>
+<info>Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FECHAMENTO DO SUBCHANEL APENAS FILMES
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO ESPECIAL STAR WARS FILMES E SERIES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]SEÇÃO ESPECIAL STAR WARS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/gDz6hZk/STAR-WARS-ESP.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui nosso conteúdo da franquia STAR WARS[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR orange]STAR WARS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg	</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
+<info>[B]Assista aqui os filmes da franquia STAR WARS[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
@@ -42,28 +498,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Jornada nas Estrelas: O Filme (1979)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=HvZ_z9cTs0w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Jornada nas Estrelas - O Filme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cefc3469df978527e67c64d486de0cb78941fd0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD LEG[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b93a224d07bcc6f63a710dbad17141e028b5c21e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - FHD LEG[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oNghIXvquGq4HNQZ_F5pzSrKgcn2YtF4/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD DUAL[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>AÇÃO</genre>
-</subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
@@ -316,18 +750,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  SEÇÃO DE SÉRIES STAR WARS
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]SÉRIES - STAR WARS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpq</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
-<info>[B]Assista aqui os filmes da franquia STAR WARS[/B]</info>
-
 <subchannel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<name>[COLOR white].[/COLOR]</name>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR orange]STAR WARS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg	</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
+<info>[B]Assista aqui as séries da franquia STAR WARS[/B]</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -1130,3 +1562,368 @@ ACRESCENTE AQUI UMA NOVA SÉRIE COPIAR E COLAR ATÉ AQUI MANTER TAG DE FECHAMENT
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO ESPECIAL STAR TREK FILMES E SERIES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]SEÇÃO ESPECIAL STAR TREK[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/gDz6hZk/STAR-WARS-ESP.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui nosso conteúdo da franquia STAR TREK[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR orange]STAR TREEK[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg	</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
+<info>[B]Assista aqui os filmes da franquia STAR TREK[/B]</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]FASE 1[COLOR yellow] -> [COLOR white]Star Trek[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
+<info>Assista aqui os filmes da FASE1.
+[COLOR orange][B]X FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
+[COLOR orange][B]FASE 1 - A mais Antiga com William Shatner interpretando o Cap Kirk.[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Jornada nas Estrelas: O Filme (1979)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HvZ_z9cTs0w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Jornada nas Estrelas - O Filme[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cefc3469df978527e67c64d486de0cb78941fd0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b93a224d07bcc6f63a710dbad17141e028b5c21e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oNghIXvquGq4HNQZ_F5pzSrKgcn2YtF4/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27132.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/21306.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Jornada nas Estrelas - O Filme - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bHgbWah5GVryVCjI21Gpsxb8FnM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/myla4IuoYLYAUQY83zzm22f7rvm.jpg</fanart>
+<info>Um fenômeno alienígena de poder e tamanho descomunal se aproxima da Terra, destruindo tudo em seu caminho. A única nave que pode enfrentar esta força letal que ameaça a Terra é a U.S.S. Enterprise. O lendário comandante James T. Kirk é convocado para a missão.</info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FECHAMENTO
+</subitems>
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SEÇÃO DE SERIES STAR TREEK
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SERIES ITEM 1
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]STAR TREEK - PICARD[/B][/COLOR]</name>
+<thumbnail><ICONEDASESAO></thumbnail>
+<fanart><FUNDODASESAO></fanart>
+<info>[B]Assista aqui os episódios da série NOMEDASERIE[/B]</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDASERIE[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GENERODASERIE</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.elementum/play?uri=<LINKGDRIVE>$$lsname=[COLOR orange][B]COMPLETA[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.elementum/play?uri=<LINKGDRIVE>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSEDASERIE></info>
+<genre><GENERODASERIE></genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSEDASERIE></info>
+<genre><GENERODASERIE></genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSEDASERIE></info>
+<genre><GENERODASERIE></genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSEDASERIE></info>
+<genre><GENERODASERIE></genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FECHAMENTO
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SERIES ITEM 2
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]STAR TREEK - DISCOVERY[/B][/COLOR]</name>
+<thumbnail><ICONEDASESAO></thumbnail>
+<fanart><FUNDODASESAO></fanart>
+<info>[B]Assista aqui os episódios da série NOMEDASERIE[/B]</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDASERIE[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GENERODASERIE</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.elementum/play?uri=<LINKGDRIVE>$$lsname=[COLOR orange][B]COMPLETA[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.elementum/play?uri=<LINKGDRIVE>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSEDASERIE></info>
+<genre><GENERODASERIE></genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSEDASERIE></info>
+<genre><GENERODASERIE></genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSEDASERIE></info>
+<genre><GENERODASERIE></genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSEDASERIE></info>
+<genre><GENERODASERIE></genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FECHAMENTO
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO ESPECIAL MAZZAROPI APENAS FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]SEÇÃO MAZZAROPI (00 ITENS)[/B][/COLOR]</name>
+<thumbnail><ICONEDASESAO></thumbnail>
+<fanart><FUNDODASESAO></fanart>
+<info>[B]Assista aqui os melhores filmes da franquia 007 - JAMES BOND[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+APENAS FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra o Satânico Dr. No (1962)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KbYuvlMx7fw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra o Satanico Dr. No[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a579b6ea829120a5fa60aab86a1f4f10c7f7f15d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30c78bce6b2ecca681db55d3c589cc02515176ee$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - FHD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15uD5Y1prgcuEAnaTX6N-7Yg0zcCCA9xq/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net/movie/ACML2/67293456jg/26075.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - SD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/94121.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zJPZPtBqPSN73m6UmpS7uTTOZSo.jpg</thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>James Bond (Sean Connery) investiga o desaparecimento de um agente britânico. Em meio às suas investigações ele descobre o esconderijo do Dr. No (Joseph Wiseman), um gênio louco que pretende desviar o rumo dos foguetes americanos.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ACRESCENTAR NOVO ITEM AQUI
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
