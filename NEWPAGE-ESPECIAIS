@@ -1589,12 +1589,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]FASE 1[COLOR yellow] -> [COLOR white]Star Trek[/B][/COLOR]</name>	
+<name>[COLOR orange][B]FASE ANTIGA[COLOR yellow] -> [COLOR white]Star Trek (1979 a 1991)[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/Rp9qP7h/STARTREK-ICON.jpg</thumbnail>
 <fanart>https://i.ibb.co/RQcdJdJ/FASE1-STAR-TREK.png</fanart>
-<info>Assista aqui os filmes da FASE 1.
-[COLOR orange][B]X FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
+<info>Assista aqui os filmes da FASE ANTIGA.
+[COLOR orange][B]6 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1979 a 1991[/B][/COLOR]
 [COLOR orange][B]A mais Antiga com William Shatner interpretando o Cap Kirk.[/B][/COLOR]
 </info>
 
@@ -1665,7 +1665,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - FHD DUAL[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CC7tUO9pTeFeZmxpofa6MfjrZ9cEpUDN/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD DUAL[/B][/COLOR]</link>
+link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CC7tUO9pTeFeZmxpofa6MfjrZ9cEpUDN/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD DUAL[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27135.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/macario/10203040/21313.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dLnsbQZ1CQ54jKMwVTeCGFRwlQk.jpg</thumbnail>
@@ -1709,6 +1709,74 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLO
 <genre>STAR TREK</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FECHAMENTO
+</subitems>
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]TRANSIÇÃO[COLOR yellow] -> [COLOR white]Star Trek - Generations[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/DbS1Kyk/STARTREK-ICON-TRANSISAO.jpg</thumbnail>
+<fanart>https://i.ibb.co/LrnpwBs/STARTREK-FANART-TRANSISAO.jpg</fanart>
+<info>Assista aqui o filme que renovou a saga.
+[COLOR orange][B]1 FILME[/B][/COLOR]
+[COLOR orange][B]ANO - 1994 [/B][/COLOR]
+[COLOR orange][B]A Morte de Kirk e a ascenção de Picard.[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Star Trek 7: Generations (1994)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VdGDGsC753k$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 7: Generations[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f183fd88c095f5c07879844bcbee5bb5f233d9e2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 7: Generations - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63371df485fd079794073f60a4c3a9f8df2be1a4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 7: Generations - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/141jiU2jIa81TACU4usBsjXdsGoXRpCoW/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 7: Generations - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27138.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 7: Generations - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/21316.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 7: Generations - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gf5aHVU85r1hv4Pv0USY6jHxAKs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zlAkbOsZIXRyDq3F7MaLqkHVeph.jpg</fanart>
+<info>A viagem inaugural da terceira nave Enterprise está ameaçada pelo cientista louco Soren e apenas uma pessoa pode detê-lo, mas ela está morta há 78 anos.</info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FECHAMENTO
+</subitems>
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]FASE MODERNA[COLOR yellow] -> [COLOR white]Star Trek - Generations[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/DbS1Kyk/STARTREK-ICON-TRANSISAO.jpg</thumbnail>
+<fanart>https://i.ibb.co/LrnpwBs/STARTREK-FANART-TRANSISAO.jpg</fanart>
+<info>Assista aqui o filme que faz a ponte entre o antigo e o moderno.
+[COLOR orange][B]0 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 a 0000 [/B][/COLOR]
+[COLOR orange][B]A Renovação com Patrick Stewart interpretando o Cap Picard.[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
@@ -1733,11 +1801,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FECHAMENTO
 </subitems>
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  SEÇÃO DE SÉRIES STAR TREK
