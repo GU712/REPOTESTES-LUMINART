@@ -1694,6 +1694,23 @@ link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[C
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
+<title>[COLOR white][B]Star Trek 6: A Terra Desconhecida (1991)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=EKcPLZOLKsE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 6: A Terra Desconhecida[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36ceef787186ccb4f1a7cb68830d78768ccab411$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 6: A Terra Desconhecida - HD LEG[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 6: A Terra Desconhecida - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZtB98P7iFE0FpsrJw_uHS488yLu0wWaZ/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 6: A Terra Desconhecida - HD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27137.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 6: A Terra Desconhecida - - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/21315.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 6: A Terra Desconhecida - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/DLF3vrVHNmaMTI5AIDYEUF7zdo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ebLnsR94mm1cyg8h27uw3J4muZK.jpg</fanart>
+<info>Após a explosão da lua Praxis os klingons são obrigados a propor um acordo de paz, para garantir a sobrevivência de sua espécie. A tripulação da Enterprise é convocada a escoltar a missão diplomática klingoniana até o local a reunião, mas a nave klingon é atacada e o seu chanceler acaba sendo morto. E tudo indica que o ataque partiu justamente da Enterprise.</info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
