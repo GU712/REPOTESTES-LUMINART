@@ -1595,7 +1595,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Assista aqui os filmes da FASE ANTIGA.
 [COLOR orange][B]6 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 1979 a 1991[/B][/COLOR]
-[COLOR orange][B]A mais Antiga com William Shatner interpretando o Cap Kirk.[/B][/COLOR]
+[COLOR orange][B]William Shatner interpretando o Cap Kirk.[/B][/COLOR]
 </info>
 
 <subitems>
@@ -1750,7 +1750,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>STAR TREK</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FECHAMENTO
 </subitems>
@@ -1759,13 +1758,86 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]FASE MODERNA[COLOR yellow] -> [COLOR white]Star Trek (1979 a 1991)[/B][/COLOR]</name>	
+<name>[COLOR orange][B]FASE MODERNA[COLOR yellow] -> [COLOR white]Star Trek (1996 a 2002)[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/T2C9cGD/STARTREK-ICON-MODERNA.jpg</thumbnail>
+<fanart>https://i.ibb.co/GtCgcGG/STARTREK-FANART-MODERNA.jpg</fanart>
+<info>Assista o filme que faz a ponte entre o antigo e o moderno.
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1996 a 2002 [/B][/COLOR]
+[COLOR orange][B]Patrick Stewart interpreta o Cap. Picard.[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Star Trek 8: Primeiro Contato (1996)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RmdBZqwzfpE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 8: Primeiro Contato[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:153909cd69487b3cfa9015674471a8517d3de885$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 8: Primeiro Contato - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d790d0818c2d3963bf833e28643ed06a81dc5e6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 8: Primeiro Contato - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14SAv6lPc2ixLOVFsgf_rlhT9uJwHXUpO/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 8: Primeiro Contato - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27140.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 8: Primeiro Contato - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/21317.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 8: Primeiro Contato - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Pr5q8qF8sNDd6qcZj0kwLmqO0E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/13zoJs9NYW3mtqncZUOucUIVs7r.jpg</fanart>
+<info>O capitão Jean-Luc e a tripulação da Enterprise embarcam em uma nova aventura, a qual é um confronto com os Borgs, criaturas meio orgânicas e meio máquinas que formam uma comunidade que possui um único objetivo: conquistar e assimilar todas as raças. </info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Star Trek 9: Insurreição (1998)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Qf30YUW-x8A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 9: Insurreisao[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:880b4524fab5b579fa07bcc6557f92afcaa9f7e0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 9: Insurreisao - HD LEG[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 9: Insurreisao - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XHdfctNhCOAheK6YAdIes70i9rIavfgJ/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 9: Insurreisao - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27131.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 9: Insurreisao - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/21318.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 9: Insurreisao - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7m1MKc28p6U0HROVKIc5HmFe22R.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/85FMbKhmyiUIVu8Z7xA8MH3qIeG.jpg</fanart>
+<info>No planeta Ba'ku, com apenas 600 habitantes, uma estação arqueológica da Federação em conjunto com a raça So'na é atacada pelo tenente-comandante Data, enviado para observações. Mandado para investigar, Picard recebe a ordem de atacar o planeta, mas ele se rebela.</info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Star Trek 10: Nêmesis (2002)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=eX15_g1Kc48$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 10: Nemesis [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fbcee0799600adb061918723092a91eb6615354$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 10: Nemesis  - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1110bed3386d60b8b975fb4bb1ec827796e46a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 10: Nemesis  - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p4DYieUlmu4NsbXrJJmSgVyvFZbQ73iE/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 10: Nemesis  - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27139.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 10: Nemesis  - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/21307.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 10: Nemesis  - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9n3r426P9CJKM8hWUEY6usa3Sae.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6HNBJMMxOqPuVZHtlYAdvxYSr7U.jpg</fanart>
+<info>O capitão Jean-Luc Picard e a tripulação da Enterprise são enviados em uma missão diplomática de paz rumo ao planeta Romulus. Lá eles precisam deter uma rebelião liderada por Shinzou que ameaça destruir a Terra, bem como enfrentar um perigoso clone do próprio capitão Picard.</info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FECHAMENTO
+</subitems>
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]FASE ATUAL[COLOR yellow] -> [COLOR white]Star Trek (0000 a 0000)[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/T2C9cGD/STARTREK-ICON-MODERNA.jpg</thumbnail>
 <fanart>https://i.ibb.co/GtCgcGG/STARTREK-FANART-MODERNA.jpg</fanart>
 <info>Assista aqui o filme que faz a ponte entre o antigo e o moderno.
-[COLOR orange][B]0 FILMES[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 a 0000 [/B][/COLOR]
-[COLOR orange][B]A Renovação com Patrick Stewart interpretando o Cap Picard.[/B][/COLOR]
+[COLOR orange][B]A Saga apresenta o início da carreira do Cap. Kirk.[/B][/COLOR]
 </info>
 
 <subitems>
@@ -1800,7 +1872,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FECHAMENTO
 </subitems>
