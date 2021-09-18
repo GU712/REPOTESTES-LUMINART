@@ -1633,7 +1633,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27133.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 2: A Ira de Khan - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/macario/10203040/21311.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 2: A Ira de Khan - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/b9FyLkPyIXqZC1IunApc6e7xJ6l.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/gQI4ZLed4WLQXwwbhrt1Z9BtasE.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/7lSZ0bceeMbE0PvqYuyt7xoo9NP.jpg</fanart>
 <info>Sentido que o futuro em nada se parece com o passado que vivemos, o Almirante James T. Kirk começa a acreditar que cavalgar pelo cosmos é um jogo para os jovens. Até que numa viagem de rotina para inspecionar a U.S.S. Enterprise, a carreira de Kirk na Frota Estelar entra em um novo capítulo quando surge um antigo inimigo, Khan Noonien Singh.</info>
 <genre>STAR TREK</genre>
 </subitem>
@@ -1653,6 +1653,42 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLO
 <thumbnail>https://www.themoviedb.org/t/p/original/vkqWTEnTDpP1BpXhzUq8U0lR1PK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/p3zaplDiBfaT8BOFCQuaWMWOCg9.jpg</fanart>
 <info> Enterprise A será desativada.Quando Kirk recebe a visita de Sarek, pai de Spock, descobre que o falecido amigo pode ter a chance de ter uma segunda vida. E para isso, deve retornar a Genesis, onde enfrentará o maior dilema de sua carreira.</info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Star Trek 4: A Volta para Casa (1986)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=w1RHbqXuDWs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 4: A Volta para Casa[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0edddc4c0eb77d0fcf63c084da174eff002f17fd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD LEG[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CC7tUO9pTeFeZmxpofa6MfjrZ9cEpUDN/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27135.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/21313.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dLnsbQZ1CQ54jKMwVTeCGFRwlQk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hCIi5zz69EeGTwodLH7SKSuEWl1.jpg</fanart>
+<info>Marcados como fugitivos pela própria Federação que juraram proteger, os tripulantes da Enterprise volta para a Terra para enfrentar a corte marcial por crimes cometidos ao salvar a vida de Spock. </info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Star Trek 5: A Última Fronteira (1989)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7S5TDrAWBd8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 5: A Ultima Fronteira[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c37683554a5c487fb1a6d237e17ee2ef10551b13$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 5: A Ultima Fronteira - HD LEG[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 5: A Ultima Fronteira - FHD DUAL[/B][/COLOR]</link>
+
+link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 5: A Ultima Fronteira - HD DUAL[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27136.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 5: A Ultima Fronteira - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/macario/10203040/21314.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 5: A Ultima Fronteira - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ohA8ogNltkGmyIiO3vpw3UUltmK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7KXok47NWQB6SrJzdRkhuRHs2Kk.jpg</fanart>
+<info>Data estelar: 8454.130. O capitão Kirk, que está de férias, tem que enfrentar dois desafios: escalar o El Capitan, no Yosemite, e ensinar cantigas de acampamento para Spock. Mas o lazer é bruscamente interrompido quando um vulcaniano renegado rapta a Enterprise e a leva para desvendar os mais profundos segredos do universo.</info>
 <genre>STAR TREK</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
