@@ -1957,10 +1957,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Star Trek - Picard[/B][/COLOR]</name>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Picard (2020)[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iYre7P2G1LAOcDMNrlq6xaPveJL.jpg</fanart>
 <info>[B]Assista aqui os episódios da série Star Trek - Picard[/B]</info>
+[COLOR orange][B]STAR TREK[/B][/COLOR]
+[COLOR orange][B]ANO  - 2020 [/B][/COLOR]
+[COLOR orange][B]1 TEMP  - 10 EPS[/B][/COLOR]
+</info>
 
 <subitems>
 <subitem>
@@ -1973,16 +1977,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDASERIE[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Picard[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-Ja_AIEbLkE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
 <info>ASSISTA AO TRAILER</info>
 <genre>STAR TREK</genre> 
 </subitem>
 
-<subitem>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</title>
+subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 08 EPs - HD DUB[/B][/COLOR]</title>
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
 
@@ -2020,20 +2024,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek: Picard (2020) 01 TEMP - 08 EPs - FHD DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 08 EPs - HD DUB[/B][/COLOR]</title>
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 08 EPs[/B][/COLOR]</link>	
 
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64808	FAT.mp4$$lsname=[COLOR orange][B]T01E01	GET[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64809	FAT.mp4$$lsname=[COLOR orange][B]T01E02	GET[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64810	FAT.mp4$$lsname=[COLOR orange][B]T01E03	GET[COLOR yellow] -> [COLOR white]O Fim E o Principio [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64811	FAT.mp4$$lsname=[COLOR orange][B]T01E04	GET[COLOR yellow] -> [COLOR white]Franqueza Total [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64812	FAT.mp4$$lsname=[COLOR orange][B]T01E05	GET[COLOR yellow] -> [COLOR white]Encrencas em Stardust City [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64813	FAT.mp4$$lsname=[COLOR orange][B]T01E06	GET[COLOR yellow] -> [COLOR white]A Caixa Impossivel [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64814	FAT.mp4$$lsname=[COLOR orange][B]T01E07	GET[COLOR yellow] -> [COLOR white]Nepenthe [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64815	FAT.mp4$$lsname=[COLOR orange][B]T01E08	GET[COLOR yellow] -> [COLOR white]Fragmentos [/B][/COLOR]</link>
-link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64816	FAT.mp4$$lsname=[COLOR orange][B]T01E09	GET[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>
-link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64817	FAT.mp4$$lsname=[COLOR orange][B]T01E10	GET[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64808.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64809.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64810.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Fim E o Principio [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64811.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Franqueza Total [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64812.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Encrencas em Stardust City [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64813.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Caixa Impossivel [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64814.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Nepenthe [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64815.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Fragmentos [/B][/COLOR]</link>
+link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64816.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>
+link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64817.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
@@ -2043,20 +2047,20 @@ link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64817	FAT.mp4$$lsname=[
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek: Picard (2020) 01 TEMP - 10 EPs[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 10 EPs[/B][/COLOR]</title>
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 10 EPs[/B][/COLOR]</link>	
 
-<link>http://b5.vc:80/series/ritchie/102030/34243	FAT.mp4$$lsname=[COLOR orange][B]T01E01	GET[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ritchie/102030/34244	FAT.mp4$$lsname=[COLOR orange][B]T01E02	GET[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ritchie/102030/36724	FAT.mp4$$lsname=[COLOR orange][B]T01E03	GET[COLOR yellow] -> [COLOR white]O Fim E o Principio [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ritchie/102030/36725	FAT.mp4$$lsname=[COLOR orange][B]T01E04	GET[COLOR yellow] -> [COLOR white]Franqueza Total [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ritchie/102030/36726	FAT.mp4$$lsname=[COLOR orange][B]T01E05	GET[COLOR yellow] -> [COLOR white]Encrencas em Stardust City [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ritchie/102030/36727	FAT.mp4$$lsname=[COLOR orange][B]T01E06	GET[COLOR yellow] -> [COLOR white]A Caixa Impossivel [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ritchie/102030/41589	FAT.mp4$$lsname=[COLOR orange][B]T01E07	GET[COLOR yellow] -> [COLOR white]Nepenthe [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ritchie/102030/41590	FAT.mp4$$lsname=[COLOR orange][B]T01E08	GET[COLOR yellow] -> [COLOR white]Fragmentos [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ritchie/102030/41739	FAT.mp4$$lsname=[COLOR orange][B]T01E09	GET[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ritchie/102030/42047	FAT.mp4$$lsname=[COLOR orange][B]T01E10	GET[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/34243.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/34244.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/36724.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Fim E o Principio [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/36725.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Franqueza Total [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/36726.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Encrencas em Stardust City [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/36727.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Caixa Impossivel [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/41589.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Nepenthe [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/41590.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Fragmentos [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/41739.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/42047.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
