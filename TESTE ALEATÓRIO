@@ -1,19 +1,16 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR orange]STAR TREK[/B][/COLOR]</name>
+<name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR white]STAR TREK[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/hDBXLQP/STAR-TREK-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/f12z4vW/STARTREK-FANART.jpg</fanart>
 <info>[B]Assista aqui os filmes da franquia STAR TREK[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]FASE ANTIGA[COLOR yellow] -> [COLOR white]Star Trek (1979 a 1991)[/B][/COLOR]</name>	
@@ -362,13 +359,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR orange]STAR TREK[/B][/COLOR]</name>
+<name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR white]STAR TREK[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/WnhyPrP/STAR-TREK-SER.png</thumbnail>
 <fanart>https://i.ibb.co/f12z4vW/STARTREK-FANART.jpg</fanart>
 <info>[B]Assista aqui as séries da franquia STAR TREK[/B]</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Picard (2020)[/B][/COLOR]</name>
