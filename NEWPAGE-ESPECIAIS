@@ -1831,12 +1831,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]FASE ATUAL[COLOR yellow] -> [COLOR white]Star Trek (0000 a 0000)[/B][/COLOR]</name>	
+<name>[COLOR orange][B]FASE ATUAL[COLOR yellow] -> [COLOR white]Star Trek (2009 a 2016)[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/dtyFYXT/STARTREK-ATUAL-ICON.jpg</thumbnail>
 <fanart>https://i.ibb.co/YffVVfj/STARTREK-FANART-ATUAL.jpg</fanart>
 <info>A nova fase mostra um novo inicio e novos atores.
 [COLOR orange][B]3 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000 [/B][/COLOR]
+[COLOR orange][B]ANOS - 2009 a 2016 [/B][/COLOR]
 [COLOR orange][B]Chris Pine é o Cap. Kirk em um novo início da saga.[/B][/COLOR]
 </info>
 
@@ -1880,6 +1880,23 @@ link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR w
 <thumbnail>https://www.themoviedb.org/t/p/original/vGALrgQXiNPRWxyasi1KUqOS0s2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1aS7a9rwrUh6RuDq2A9VowxE9os.jpg</fanart>
 <info>Os tripulantes da Enterprise descobrem uma força terrorista dentro da sua própria organização. O capitão Kirk desafia as regras da Frota Estelar e lidera uma missão para capturar uma arma de destruição em massa.</info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Star Trek: Sem Fronteiras (2016)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=P2gF-i-Pw1A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek: Sem Fronteiras[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40E4804AAD8A9F6CC98997D29EB03371CDE2CACB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13CC0500862205478CD733B6C6F847A982BF7879$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - FHD DUAL[/B][/COLOR]</link>
+
+link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27250.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/ritchie/102030/21310.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rLWGl7YJLQ0tE2LB4Y2TAWrR7fe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sUJrnMbL2xLMjMHk4VdReNrL7BK.jpg</fanart>
+<info>Kirk, Spock e a tripulação da Enterprise encontram-se no terceiro ano da missão de exploração do espaço prevista para durar cinco anos. Eles recebem um pedido de socorro que acaba os ligando ao maléfico vilão Krall, um insurgente Anti-Frota Estelar interessado em um objeto de posse do líder da nave.</info>
 <genre>STAR TREK</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
