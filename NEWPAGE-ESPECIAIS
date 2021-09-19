@@ -1855,12 +1855,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=af9OC6G7MT8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E5A38766863D75583A3B67DDBA828A568D4000D$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E5A38766863D75583A3B67DDBA828A568D4000D$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek - FHD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UCTfAkGRiuAc6QqEHjcNuoUUwjn69bRz/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cXNug44K7GUv0tDVMNAqhabJdtNGMT9_/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27251.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21308.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jwKvc5JB9GrUEnNt7a6GzU6crXk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg</fanart>
 <info>A bordo da USS Enterprise, a nave mais sofisticada já construída, uma tripulação de novatos embarca em sua viagem inaugural, que é atrapalhada por Nero, um comandante cuja vingança ameaça toda a humanidade. </info>
+<genre>STAR TREK</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Star Trek: Além da Escuridão (2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=eRnlHa9VcXE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek: Alem da Escuridao[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25b465795e2fdac01f27a62c5a1c8d14ce629d15$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Alem da Escuridao - HD DUAL[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Alem da Escuridao - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vDPYwKfIleObj-JsmWk7xRi0AejKEddH/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek: Alem da Escuridao - HD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27031.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek: Alem da Escuridao - HD DUAL[/B][/COLOR]</link>
+
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek: Alem da Escuridao - HD DUAL[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/vGALrgQXiNPRWxyasi1KUqOS0s2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1aS7a9rwrUh6RuDq2A9VowxE9os.jpg</fanart>
+<info>Os tripulantes da Enterprise descobrem uma força terrorista dentro da sua própria organização. O capitão Kirk desafia as regras da Frota Estelar e lidera uma missão para capturar uma arma de destruição em massa.</info>
 <genre>STAR TREK</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
