@@ -2035,8 +2035,8 @@ SERIES ITEM 2
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]Star Trek: Discovery (2017)[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/576f4bfdQNAetkRMlv14v8Z2Fbc.jpg</thumbnail>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Star Trek: Discovery (2017)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/xVX78bxqWMtQvOGp1pbwNywlrcY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2iuSrStmj2lVWd0QDPdJM1seqSc.jpg</fanart>
 <info>[B]Assista aqui a série Discovery[/B]</info>
 
@@ -2065,7 +2065,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=<LINKGDRIVE>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<thumbnail>https://www.themoviedb.org/t/p/original/576f4bfdQNAetkRMlv14v8Z2Fbc.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/xVX78bxqWMtQvOGp1pbwNywlrcY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2iuSrStmj2lVWd0QDPdJM1seqSc.jpg</fanart>
 <info>Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito.</info>
 <genre>STAR TREK</genre> 
@@ -2081,7 +2081,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<thumbnail>https://www.themoviedb.org/t/p/original/576f4bfdQNAetkRMlv14v8Z2Fbc.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/xVX78bxqWMtQvOGp1pbwNywlrcY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2iuSrStmj2lVWd0QDPdJM1seqSc.jpg</fanart>
 <info>Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito.</info>
 <genre>STAR TREK</genre> 
@@ -2097,7 +2097,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<thumbnail>https://www.themoviedb.org/t/p/original/576f4bfdQNAetkRMlv14v8Z2Fbc.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/xVX78bxqWMtQvOGp1pbwNywlrcY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2iuSrStmj2lVWd0QDPdJM1seqSc.jpg</fanart>
 <info>Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito.</info>
 <genre>STAR TREK</genre> 
@@ -2113,7 +2113,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<thumbnail>https://www.themoviedb.org/t/p/original/576f4bfdQNAetkRMlv14v8Z2Fbc.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/xVX78bxqWMtQvOGp1pbwNywlrcY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2iuSrStmj2lVWd0QDPdJM1seqSc.jpg</fanart>
 <info>Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito.</info>
 <genre>STAR TREK</genre> 
