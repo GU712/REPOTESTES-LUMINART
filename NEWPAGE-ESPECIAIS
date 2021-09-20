@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -849,9 +849,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white][B]O Lote Estragado - 2021 [/B][/COLOR]</title>
-
 <link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - 16 EPs - DUB[/B][/COLOR]</link>
-
 <link>http://b5.vc:80/series/ritchie/102030/116836.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Rescaldo [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/116837.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cortar e Executar [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/116838.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Substituisoes [/B][/COLOR]</link>
@@ -868,7 +866,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ritchie/102030/116849.mp4$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Manto de Guerra [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/120567.mp4$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white] Retorno a Kamino (Final Parte 1) [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/120641.mp4$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white] Retorno a Kamino (Final Parte 2) [/B][/COLOR]</link>
-	
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>
 <info>Os Mal Feitos precisam encontrar seu caminho numa galáxia em rápida transformação.</info>
@@ -913,9 +910,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>		
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Mandaloriano (2019 e 2021)[/B][/COLOR] </title>		
-				
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>		
-		
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:676c40c2c329eac808f2d8e91141aa198f6ab27a$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db0d61145bf062c71ce731a5df060b58b82c36e$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47f041bf00e7cd74693143258df967a553661911$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
@@ -924,9 +919,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ee343e93c6125b0202e2fe456747495a7e6a635$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83aae53a8f194bd5369355a6ea4e49fda16e39b$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ce752babfff0fc4ea507d2d86c3041922577a0c$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
-		
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - DUB[/B][/COLOR]</link>		
-		
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4d233a9a8672827fc3a17e9517705ccb46d4a4e$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
@@ -935,7 +928,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37db255c75fef9d8bc709c30$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
-		
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>		
 <info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>		
@@ -961,9 +953,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>		
 <title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white][B]O Mandaloriano - 2019[/B][/COLOR] </title>		
-				
 <link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - 8 EPs - DUB[/B][/COLOR]</link>		
-		
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35333.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35334.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35335.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
@@ -972,9 +962,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39587.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39588.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39589.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
-		
 <link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 02 - 8 EPs - DUB[/B][/COLOR]</link>		
-		
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78357.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78358.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80314.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
@@ -983,7 +971,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82238.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82239.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82240.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
-		
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>		
 <info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>		
@@ -994,9 +981,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 subitem>		
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Mandaloriano (2019 e 2021)[/B][/COLOR] </title>		
-				
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - LEG FIX[/B][/COLOR]</link>		
-		
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE01.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE02.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE03.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
@@ -1005,9 +990,7 @@ subitem>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE06.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE07.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE08.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
-		
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - LEG FIX[/B][/COLOR]</link>		
-		
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E01.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E02.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E03.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
@@ -1016,7 +999,6 @@ subitem>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E06.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E07.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E08.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
-		
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>		
 <info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>		
@@ -1125,9 +1107,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]A Guerra Dos Clones - (2008 A 2020 )[/B][/COLOR]</title>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>
-
 <link>http://b5.vc:80/series/ritchie/102030/49546.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Emboscada [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49547.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Ascensao da Malevolencia [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49548.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Escuridao da Malevolencia [/B][/COLOR]</link>
@@ -1150,9 +1130,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ritchie/102030/49565.mp4$$lsname=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Os Inocentes de Ryloth [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49566.mp4$$lsname=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]A Libertasao de Ryloth [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49567.mp4$$lsname=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Crise de Refens [/B][/COLOR]</link>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - DUB[/B][/COLOR]</link>
-	
 <link>http://b5.vc:80/series/ritchie/102030/49568.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49569.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49570.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
@@ -1175,9 +1153,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ritchie/102030/49587.mp4$$lsname=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49588.mp4$$lsname=[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49589.mp4$$lsname=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
-	
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 03 - DUB[/B][/COLOR]</link>
-		
 <link>http://b5.vc:80/series/ritchie/102030/49590.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49591.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49592.mp4$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
@@ -1201,9 +1177,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ritchie/102030/49610.mp4$$lsname=[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49611.mp4$$lsname=[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 link>http://b5.vc:80/series/ritchie/102030/.mp4$$lsname=[COLOR orange][B]T03E23[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 04 - DUB[/B][/COLOR]</link>
-		
 <link>http://b5.vc:80/series/ritchie/102030/49612.mp4$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49613.mp4$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49614.mp4$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
@@ -1226,9 +1200,7 @@ link>http://b5.vc:80/series/ritchie/102030/.mp4$$lsname=[COLOR orange][B]T03E23[
 <link>http://b5.vc:80/series/ritchie/102030/49631.mp4$$lsname=[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49632.mp4$$lsname=[COLOR orange][B]T04E21[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49633.mp4$$lsname=[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 05 - DUB[/B][/COLOR]</link>
-
 <link>http://b5.vc:80/series/ritchie/102030/49634.mp4$$lsname=[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49635.mp4$$lsname=[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49636.mp4$$lsname=[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
@@ -1249,9 +1221,7 @@ link>http://b5.vc:80/series/ritchie/102030/.mp4$$lsname=[COLOR orange][B]T03E23[
 <link>http://b5.vc:80/series/ritchie/102030/49651.mp4$$lsname=[COLOR orange][B]T05E18[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49652.mp4$$lsname=[COLOR orange][B]T05E19[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49653.mp4$$lsname=[COLOR orange][B]T05E20[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 06 - DUB[/B][/COLOR]</link>
-
 <link>http://b5.vc:80/series/ritchie/102030/49654.mp4$$lsname=[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49655.mp4$$lsname=[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49656.mp4$$lsname=[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
@@ -1265,11 +1235,8 @@ link>http://b5.vc:80/series/ritchie/102030/.mp4$$lsname=[COLOR orange][B]T03E23[
 <link>http://b5.vc:80/series/ritchie/102030/49664.mp4$$lsname=[COLOR orange][B]T06E11[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49665.mp4$$lsname=[COLOR orange][B]T06E12[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49666.mp4$$lsname=[COLOR orange][B]T06E13[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 07 - DUB[/B][/COLOR]</link>
-
-<link>http://b5.vc:80/series/ritchie/102030/49667.mp4$$lsname=[COLOR orange][B]T07E01[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ritchie/102030/49668.mp4$$lsname=[COLOR orange][B]T07E02[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ritchie/102030/49667.mp4$$lsname=[COLOR orange][B]T07E01[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link><link>http://b5.vc:80/series/ritchie/102030/49668.mp4$$lsname=[COLOR orange][B]T07E02[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49669.mp4$$lsname=[COLOR orange][B]T07E03[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49670.mp4$$lsname=[COLOR orange][B]T07E04[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49671.mp4$$lsname=[COLOR orange][B]T07E05[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
@@ -1280,7 +1247,6 @@ link>http://b5.vc:80/series/ritchie/102030/.mp4$$lsname=[COLOR orange][B]T03E23[
 <link>http://b5.vc:80/series/ritchie/102030/49676.mp4$$lsname=[COLOR orange][B]T07E10[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49677.mp4$$lsname=[COLOR orange][B]T07E11[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/49678.mp4$$lsname=[COLOR orange][B]T07E12[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/opDY35ukPWTGFIxq17BBHJs49LD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jjECb6dSFUKXDtryuQk4rkFY7oP.jpg</fanart>
 <info>Enquanto a guerra dos clones varre a galáxia, os heroicos Cavaleiros Jedi lutam desesperadamente a fim de manter a ordem e restaurar a paz. Mais e mais sistemas sucumbem diante das forças do lado negro e a República Galáctica está cada vez mais sob a pressão dos Separatistas e do seu infinito exército de dróides.</info>
@@ -1337,6 +1303,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Forças imperiais ocupam um planeta distante e governam a vida de seus habitantes com mãos de ferro. Uma equipe mais esperta, a bordo do navio Ghost, se rebela contra o Império e enfrenta os novos inimigos.</info>
 <genre>STAR WARS</genre>
 </subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 subitem>
 <title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Rebels - (DATA)[/B][/COLOR]</title>
@@ -1352,6 +1319,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Forças imperiais ocupam um planeta distante e governam a vida de seus habitantes com mãos de ferro. Uma equipe mais esperta, a bordo do navio Ghost, se rebela contra o Império e enfrenta os novos inimigos.</info>
 <genre>STAR WARS</genre>
 </subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 subitem>
 <title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Rebels - (DATA)[/B][/COLOR]</title>
@@ -1367,12 +1335,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Forças imperiais ocupam um planeta distante e governam a vida de seus habitantes com mãos de ferro. Uma equipe mais esperta, a bordo do navio Ghost, se rebela contra o Império e enfrenta os novos inimigos.</info>
 <genre>STAR WARS</genre>
 </subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Rebels (2014 a 2018)[/B][/COLOR]</title>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
-
 <link>http://b5.vc:80/series/ritchie/102030/104629.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104630.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104631.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
@@ -1388,9 +1355,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ritchie/102030/104641.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104642.mp4$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104643.mp4$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>
-	
 <link>http://b5.vc:80/series/ritchie/102030/104644.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104645.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104646.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
@@ -1411,9 +1376,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ritchie/102030/104661.mp4$$lsname=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104662.mp4$$lsname=[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104663.mp4$$lsname=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>
-		
 <link>http://b5.vc:80/series/ritchie/102030/104664.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104665.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104666.mp4$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
@@ -1436,9 +1399,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ritchie/102030/104683.mp4$$lsname=[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104684.mp4$$lsname=[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104685.mp4$$lsname=[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>
-		
 <link>http://b5.vc:80/series/ritchie/102030/104686.mp4$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104687.mp4$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104688.mp4$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
@@ -1454,7 +1415,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ritchie/102030/104698.mp4$$lsname=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104699.mp4$$lsname=[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/104700.mp4$$lsname=[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Star Wars - Rebels [/B][/COLOR]</link>
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oPti8Yf7ryQb6bQZfZlYgeCZkm3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>
 <info>Forças imperiais ocupam um planeta distante e governam a vida de seus habitantes com mãos de ferro. Uma equipe mais esperta, a bordo do navio Ghost, se rebela contra o Império e enfrenta os novos inimigos.</info>
@@ -1985,9 +1945,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 10 EPs - HD DUB[/B][/COLOR]</title>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 10 EPs - HD DUB[/B][/COLOR]</link>	
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acfe23bce8253d067fac3a2cf4476cd957b76513$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c921ee35a66093055c752ff30063ef7d711b5176$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ad9f4c3544ff5030bd9f9d413757ea282420bc7$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Fim E o Principio [/B][/COLOR]</link>
@@ -1999,7 +1957,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b1a102701c5cda2e38c182acdb8040abf2aced8$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6dfbdfb4ad2bd01355e5b193505b02541d06c9d3$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>	
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
-
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
 <info>A série acompanha este personagem icônico Jean Luc Picard no capítulo seguinte de sua vida.</info>
@@ -2009,9 +1966,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 10 EPs - HD DUB[/B][/COLOR]</title>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 10 EPs - HD DUB[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nr-mJ2bEojBnL7ygrFU28oDYFN7wnKom/view$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>	
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cxsn_jfJQvYaelX30pBii2lSGZnQtfG_/view$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>	
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CT2Atd14bRxEr-aFqRfIdzvD0MdFTrTj/view$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Fim E o Principio [/B][/COLOR]</link>	
@@ -2022,7 +1977,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P5LMvuIdmQg9qsfHfyxUEqvPwJTKWMzb/view$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Fragmentos [/B][/COLOR]</link>	
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10QLcYSdiC4UOhfrOSzBKLeyF7NalZCNB/view$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>	
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12ujg2nBxe-qHBfm1etkjZq_E87ZrbtzX/view$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>	
-
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
 <info>A série acompanha este personagem icônico Jean Luc Picard no capítulo seguinte de sua vida.</info>
@@ -2032,9 +1986,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 10 EPs - HD DUB[/B][/COLOR]</title>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 08 EPs - HD DUB[/B][/COLOR]</link>	
-
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64808.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64809.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64810.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Fim E o Principio [/B][/COLOR]</link>
@@ -2045,7 +1997,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64815.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Fragmentos [/B][/COLOR]</link>
 link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64816.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>
 link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64817.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>
-
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
 <info>A série acompanha este personagem icônico Jean Luc Picard no capítulo seguinte de sua vida.</info>
@@ -2055,9 +2006,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 10 EPs - HD DUB[/B][/COLOR]</title>
-
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 10 EPs - HD DUB[/B][/COLOR]</link>	
-
 <link>http://b5.vc:80/series/ritchie/102030/34243.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/34244.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/36724.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Fim E o Principio [/B][/COLOR]</link>
@@ -2068,7 +2017,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ritchie/102030/41590.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Fragmentos [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/41739.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/42047.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>
-
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
 <info>A série acompanha este personagem icônico Jean Luc Picard no capítulo seguinte de sua vida.</info>
@@ -2194,7 +2142,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]SEÇÃO MAZZAROPI[/B][/COLOR]</name>
+<name>[COLOR white][B]SEÇÃO ESPECIAL MAZZAROPI[/B][/COLOR]</name>
 <thumbnail><ICONEDASESAO></thumbnail>
 <fanart><FUNDODASESAO></fanart>
 <info>[B]Assista aqui os melhores filmes do MAZZAROPI[/B]</info>
@@ -2230,11 +2178,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Mazzaropi - 1952 - 1980 - DUB[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=iKbXQk3xRaQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Mazzaropi[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c13b1ce21a17e37eac882f2a748820d70fbda91$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Mazzaropi - 1952 - 1980 - DUB[/B][/COLOR]</link>
-
 <thumbnail>https://i.pinimg.com/originals/ea/d3/c9/ead3c9df767660b0376722612783d09c.jpg</thumbnail>
 <fanart>https://i0.wp.com/www.conhecendomuseus.com.br/wp-content/uploads/2016/06/05_MAZZAROPI.jpg?resize=748%2C350</fanart>
 <info>Amácio Mazzaropi foi um ator, humorista, cantor e cineasta brasileiro. Considerado o maior cômico do cinema brasileiro, é o único artista que ficou milionário fazendo filmes no país. Suas produções foram fenômeno de público por mais de três décadas</info>
@@ -2244,7 +2189,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white][B]Mazzaropi - 1952 - 1980 - DUB[/B][/COLOR]</title>
-
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/39936.mp4$$lsname=[COLOR orange][B]1952 [COLOR yellow] -> [COLOR white]Nadando em Dinheiro [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/39949.mp4$$lsname=[COLOR orange][B]1952 [COLOR yellow] -> [COLOR white]Sai da frente [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/39925.mp4$$lsname=[COLOR orange][B]1953 [COLOR yellow] -> [COLOR white]Candinho [/B][/COLOR]</link>
@@ -2278,7 +2222,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/39932.mp4$$lsname=[COLOR orange][B]1978 [COLOR yellow] -> [COLOR white]Jeca e Seu Filho Preto [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/39921.mp4$$lsname=[COLOR orange][B]1979 [COLOR yellow] -> [COLOR white]A Banda Das Velhas Virgens [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/39941.mp4$$lsname=[COLOR orange][B]1980 [COLOR yellow] -> [COLOR white]O Jeca e a Egua Milagrosa [/B][/COLOR]</link>
-		
 <thumbnail>https://i.pinimg.com/originals/ea/d3/c9/ead3c9df767660b0376722612783d09c.jpg</thumbnail>
 <fanart>https://i0.wp.com/www.conhecendomuseus.com.br/wp-content/uploads/2016/06/05_MAZZAROPI.jpg?resize=748%2C350</fanart>
 <info>Amácio Mazzaropi foi um ator, humorista, cantor e cineasta brasileiro. Considerado o maior cômico do cinema brasileiro, é o único artista que ficou milionário fazendo filmes no país. Suas produções foram fenômeno de público por mais de três décadas</info>
@@ -2288,7 +2231,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white][B]Mazzaropi - 1952 - 1980 - DUB[/B][/COLOR]</title>
-
 <link>http://b5.vc:80/movie/ritchie/102030/20685.mp4$$lsname=[COLOR orange][B]1952 [COLOR yellow] -> [COLOR white]Nadando em Dinheiro [/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/20697.mp4$$lsname=[COLOR orange][B]1952 [COLOR yellow] -> [COLOR white]Sai da frente [/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/20674.mp4$$lsname=[COLOR orange][B]1953 [COLOR yellow] -> [COLOR white]Candinho [/B][/COLOR]</link>
@@ -2322,7 +2264,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/movie/ritchie/102030/20682.mp4$$lsname=[COLOR orange][B]1978 [COLOR yellow] -> [COLOR white]Jeca e Seu Filho Preto [/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/20670.mp4$$lsname=[COLOR orange][B]1979 [COLOR yellow] -> [COLOR white]A Banda Das Velhas Virgens [/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/20690.mp4$$lsname=[COLOR orange][B]1980 [COLOR yellow] -> [COLOR white]O Jeca e a Egua Milagrosa [/B][/COLOR]</link>
-		
 <thumbnail>https://i.pinimg.com/originals/ea/d3/c9/ead3c9df767660b0376722612783d09c.jpg</thumbnail>
 <fanart>https://i0.wp.com/www.conhecendomuseus.com.br/wp-content/uploads/2016/06/05_MAZZAROPI.jpg?resize=748%2C350</fanart>
 <info>Amácio Mazzaropi foi um ator, humorista, cantor e cineasta brasileiro. Considerado o maior cômico do cinema brasileiro, é o único artista que ficou milionário fazendo filmes no país. Suas produções foram fenômeno de público por mais de três décadas</info>
