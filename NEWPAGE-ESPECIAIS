@@ -1898,9 +1898,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=P2gF-i-Pw1A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek: Sem Fronteiras[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40E4804AAD8A9F6CC98997D29EB03371CDE2CACB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13CC0500862205478CD733B6C6F847A982BF7879$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - FHD DUAL[/B][/COLOR]</link>
-
-link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUB[/B][/COLOR]</link>
-
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-xcAvQhxj8cDo7L8nO--xrK60Z813795/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27250.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21310.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rLWGl7YJLQ0tE2LB4Y2TAWrR7fe.jpg</thumbnail>
@@ -1985,20 +1983,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>STAR TREK</genre> 
 </subitem>
 
-subitem>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 08 EPs - HD DUB[/B][/COLOR]</title>
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 10 EPs - HD DUB[/B][/COLOR]</title>
 
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 10 EPs - HD DUB[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acfe23bce8253d067fac3a2cf4476cd957b76513$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c921ee35a66093055c752ff30063ef7d711b5176$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ad9f4c3544ff5030bd9f9d413757ea282420bc7$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Fim E o Principio [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e33f0027b0f3275fb231445d7fdc2b9d73e8978e$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Franqueza Total [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77d9b2027f53758a26050178ac68b46a2a950b38$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Encrencas em Stardust City [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44d526eeff46e7b4dd20ad1752d1c4a4a4db2f00$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Caixa Impossivel [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5de51b344135e2ee8e6be2815ea9954e4c7211fb$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Nepenthe [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:495bdcc4dd8dfcaa427291be23887c76ed543993$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Fragmentos [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b1a102701c5cda2e38c182acdb8040abf2aced8$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6dfbdfb4ad2bd01355e5b193505b02541d06c9d3$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>	
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link>plugin://plugin.video.elementum/play?uri=<LINKGDRIVE>$$lsname=[COLOR orange][B]COMPLETA[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link>plugin://plugin.video.elementum/play?uri=<LINKGDRIVE>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
@@ -2008,13 +2008,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 subitem>
-<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUB - 00 EPs[/B][/COLOR]</title>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 10 EPs - HD DUB[/B][/COLOR]</title>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 00 EPs[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 10 EPs - HD DUB[/B][/COLOR]</link>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nr-mJ2bEojBnL7ygrFU28oDYFN7wnKom/view$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cxsn_jfJQvYaelX30pBii2lSGZnQtfG_/view$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CT2Atd14bRxEr-aFqRfIdzvD0MdFTrTj/view$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Fim E o Principio [/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Pb_eQl77TmY-4HBbUopEC3gWO0CWCo87/view$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Franqueza Total [/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16w6xEPVbLLt_TyXAb4WPOL0OjgR9MK0Q/view$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Encrencas em Stardust City [/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-idSTnyliIaC56GnmvQGyjagNdLsd5aL/view$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Caixa Impossivel [/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vUsN6IVS5IAYNwSZRZr3q4EOR5yn0ejH/view$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Nepenthe [/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P5LMvuIdmQg9qsfHfyxUEqvPwJTKWMzb/view$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Fragmentos [/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10QLcYSdiC4UOhfrOSzBKLeyF7NalZCNB/view$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12ujg2nBxe-qHBfm1etkjZq_E87ZrbtzX/view$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>	
 
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
@@ -2024,9 +2031,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 08 EPs - HD DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 10 EPs - HD DUB[/B][/COLOR]</title>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 08 EPs[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 08 EPs - HD DUB[/B][/COLOR]</link>	
 
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64808.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64809.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>
@@ -2047,9 +2054,9 @@ link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/64817.mp4$$lsname=[COLO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 10 EPs[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Picard (2020) 01 TEMP - 10 EPs - HD DUB[/B][/COLOR]</title>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - FHD DUB - 10 EPs[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 10 EPs - HD DUB[/B][/COLOR]</link>	
 
 <link>http://b5.vc:80/series/ritchie/102030/34243.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Recordasoes [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/34244.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Mapas e Lendas [/B][/COLOR]</link>
