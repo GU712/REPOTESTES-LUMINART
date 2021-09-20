@@ -1958,7 +1958,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Picard (2020)[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iYre7P2G1LAOcDMNrlq6xaPveJL.jpg</fanart>
-<info>[B]Assista aqui a série Picard[/B]
+<info>[B]Assista aqui a série Picard[/B]</info>
 [COLOR orange][B]STAR TREK[/B][/COLOR]
 [COLOR orange][B]ANO  - 2020 [/B][/COLOR]
 [COLOR orange][B]1 TEMP  - 10 EPS[/B][/COLOR]
@@ -2090,7 +2090,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]STAR TREEK - DISCOVERY[/B][/COLOR]</name>
 <thumbnail><ICONEDASESAO></thumbnail>
 <fanart><FUNDODASESAO></fanart>
-<info>[B]Assista aqui os episódios da série NOMEDASERIE[/B]</info>
+<info>[B]Assista aqui a série NOMEDASERIE[/B]</info>
 
 <subitems>
 <subitem>
@@ -2194,7 +2194,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]SEÇÃO ESPECIAL MAZZAROPI[/B][/COLOR]</name>
+<name>[COLOR white][B]SEÇÃO MAZZAROPI[/B][/COLOR]</name>
 <thumbnail><ICONEDASESAO></thumbnail>
 <fanart><FUNDODASESAO></fanart>
 <info>[B]Assista aqui os melhores filmes do MAZZAROPI[/B]</info>
@@ -2230,6 +2230,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Mazzaropi - 1952 - 1980 - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=iKbXQk3xRaQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Mazzaropi[/B][/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c13b1ce21a17e37eac882f2a748820d70fbda91$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Mazzaropi - 1952 - 1980 - DUB[/B][/COLOR]</link>
 
