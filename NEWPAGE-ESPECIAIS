@@ -2231,8 +2231,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Mazzaropi - 1952 - 1980 - DUB[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=iKbXQk3xRaQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Mazzaropi[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c13b1ce21a17e37eac882f2a748820d70fbda91$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Mazzaropi - 1952 - 1980 - DUB[/B][/COLOR]</link>
 
 <thumbnail>https://i.pinimg.com/originals/ea/d3/c9/ead3c9df767660b0376722612783d09c.jpg</thumbnail>
@@ -2244,8 +2242,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white][B]Mazzaropi - 1952 - 1980 - DUB[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=iKbXQk3xRaQ$$lsname=[COLOR orange][B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Mazzaropi[/B][/COLOR]</link>
 
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/39936.mp4$$lsname=[COLOR orange][B]1952 [COLOR yellow] -> [COLOR white]Nadando em Dinheiro [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/39949.mp4$$lsname=[COLOR orange][B]1952 [COLOR yellow] -> [COLOR white]Sai da frente [/B][/COLOR]</link>
@@ -2290,8 +2286,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white][B]Mazzaropi - 1952 - 1980 - DUB[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=iKbXQk3xRaQ$$lsname=[COLOR orange][B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Mazzaropi[/B][/COLOR]</link>
 
 <link>http://b5.vc:80/movie/ritchie/102030/20685.mp4$$lsname=[COLOR orange][B]1952 [COLOR yellow] -> [COLOR white]Nadando em Dinheiro [/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/20697.mp4$$lsname=[COLOR orange][B]1952 [COLOR yellow] -> [COLOR white]Sai da frente [/B][/COLOR]</link>
