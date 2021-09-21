@@ -1918,7 +1918,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Picard (2020)[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iYre7P2G1LAOcDMNrlq6xaPveJL.jpg</fanart>
-<info>[B]Assista aqui a série Picard[/B]</info>
+<info>[B]Assista aqui a série Picard[/B]
 [COLOR orange][B]STAR TREK[/B][/COLOR]
 [COLOR orange][B]ANO  - 2020 [/B][/COLOR]
 [COLOR orange][B]1 TEMP  - 10 EPS[/B][/COLOR]
@@ -2038,7 +2038,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Star Trek: Discovery (2017 a 2020)[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/576f4bfdQNAetkRMlv14v8Z2Fbc.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2iuSrStmj2lVWd0QDPdJM1seqSc.jpg</fanart>
-<info>[B]Assista aqui a série Discovery[/B]</info>
+<info>[B]Assista aqui a série Discovery[/B]
 [COLOR orange][B]STAR TREK[/B][/COLOR]
 [COLOR orange][B]ANOS  - 2017 a 2020 [/B][/COLOR]
 [COLOR orange][B]3 TEMP  - 42 EPS[/B][/COLOR]
@@ -2055,9 +2055,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Star Trek: Discovery[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=aSK8owZEbDk</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/576f4bfdQNAetkRMlv14v8Z2Fbc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2iuSrStmj2lVWd0QDPdJM1seqSc.jpg</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>STAR TREK</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Discovery (2017) - HD DUB - 42 EPs[/B][/COLOR]</title>
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - HD DUB - 15 EPs[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.youtube/play/?video_id=dgXPzKjHrtA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Discovery -  T01[/B][/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2227eef5dda9e7c7ccfa38c29bcc6fa3348b134c$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Ola Vulcano[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf172f9e393fa76c08d37af9092c900295d9f787$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Batalha Das Estrelas Binarias[/B][/COLOR]</link>	
@@ -2077,6 +2089,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - HD DUB - 14 EPs[/B][/COLOR]</link>	
 
+<link>plugin://plugin.video.youtube/play/?video_id=GeIANVHJtfU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Discovery -  T02[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05b18644844b4fe5275094377fcf9a6796267d6d$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Irmao[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1024f89fa0a83723bed052a112b34295547fc5d$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Novo Eden[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec8a019bff85906aba963718b29f4217593ccc4d$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Ponto de Luz[/B][/COLOR]</link>	
@@ -2093,6 +2107,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2bcd1f15a60d3aa8edb8f0a27224128e5978947$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Doce Tristeza (Parte 2)[/B][/COLOR]</link>	
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 03 - HD DUB - 13 EPs[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.youtube/play/?video_id=G9Mdzm-qQ_M$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Discovery -  T03[/B][/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56285f62d3d3452bf58e66f947c03883be457892$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Minha Esperansa e Voce (Parte 1)[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97d315da3fac2c6200cc4ff11050ab7e13ef4880$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Longe de Casa[/B][/COLOR]</link>	
@@ -2136,6 +2152,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - HD DUB - 15 EPs[/B][/COLOR]</link>	
 
+<link>plugin://plugin.video.youtube/play/?video_id=dgXPzKjHrtA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Discovery -  T01[/B][/COLOR]</link>
+
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/3176.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Ola Vulcano [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/3177.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Batalha Das Estrelas Binarias [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/3178.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Contexto E Para Reis [/B][/COLOR]</link>
@@ -2153,7 +2171,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/3190.mp4$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Segure A Minha Mao? [/B][/COLOR]</link>
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - HD DUB - 14 EPs[/B][/COLOR]</link>	
-		
+	
+<link>plugin://plugin.video.youtube/play/?video_id=GeIANVHJtfU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Discovery -  T02[/B][/COLOR]</link>
+	
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/3191.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Irmao [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/3192.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Novo Eden [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/3193.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Ponto de Luz [/B][/COLOR]</link>
@@ -2170,6 +2190,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/43956.mp4$$lsname=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Doce Tristeza (Parte 2) [/B][/COLOR]</link>
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 03 - HD DUB - 13 EPs[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.youtube/play/?video_id=G9Mdzm-qQ_M$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Discovery -  T03[/B][/COLOR]</link>
 		
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/81619.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Minha Esperansa e Voce (Parte 1) [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/81620.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Longe de Casa [/B][/COLOR]</link>
@@ -2197,6 +2219,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - HD DUB - 12 EPs[/B][/COLOR]</link>	
 
+<link>plugin://plugin.video.youtube/play/?video_id=dgXPzKjHrtA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Discovery -  T01[/B][/COLOR]</link>
+
 <link>http://b5.vc:80/series/ritchie/102030/7475.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Ola Vulcano [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/7476.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Batalha Das Estrelas Binarias [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/7477.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Contexto E Para Reis [/B][/COLOR]</link>
@@ -2215,6 +2239,8 @@ link>http://b5.vc:80/series/ritchie/102030/7489.mp4$$lsname=[COLOR orange][B]T01
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - HD DUB - 14 EPs[/B][/COLOR]</link>		
 
+<link>plugin://plugin.video.youtube/play/?video_id=GeIANVHJtfU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Discovery -  T02[/B][/COLOR]</link>
+
 <link>http://b5.vc:80/series/ritchie/102030/23139.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Irmao [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/23140.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Novo Eden [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/23141.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Ponto de Luz [/B][/COLOR]</link>
@@ -2231,6 +2257,8 @@ link>http://b5.vc:80/series/ritchie/102030/7489.mp4$$lsname=[COLOR orange][B]T01
 <link>http://b5.vc:80/series/ritchie/102030/23152.mp4$$lsname=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Doce Tristeza (Parte 2) [/B][/COLOR]</link>
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 03 - HD DUB - 13 EPs[/B][/COLOR]</link>		
+
+<link>plugin://plugin.video.youtube/play/?video_id=G9Mdzm-qQ_M$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Discovery -  T03[/B][/COLOR]</link>
 
 <link>http://b5.vc:80/series/ritchie/102030/76724.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Minha Esperansa e Voce (Parte 1) [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ritchie/102030/84999.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Longe de Casa [/B][/COLOR]</link>
