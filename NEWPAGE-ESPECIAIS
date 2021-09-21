@@ -2539,7 +2539,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]SEÇÃO ESPECIAL X-MEN[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/1RtJqFr/X-MEN-ESP.png</thumbnail>
+<thumbnail>https://i.ibb.co/GVLB2z4/X-MEN-ESP.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>[B]Assista aqui o conteúdo da franquia X-MEN[/B]</info>
 
@@ -2554,8 +2554,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR orange]X-MEN[/B][/COLOR]</name>
-<thumbnail><ICONEDASESAODEFILMES></thumbnail>
-<fanart><FUNDODASESAODEFILMES</fanart>
+<thumbnail>https://i.ibb.co/0cnynLQ/X-MEN-FILM.png</thumbnail>
+<fanart><fanart>https://www.themoviedb.org/t/p/original/A9fpAjZLqsODM96aI6kx147LPM9.jpg</fanart></fanart>
 <info>[B]Assista aqui os filmes da franquia X-MEN[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -2713,8 +2713,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR orange]X-MEN[/B][/COLOR]</name>
-<thumbnail><ICONEDASESAODESERIES></thumbnail>
-<fanart><FUNDODASESAODESERIES</fanart>
+<thumbnail>https://i.ibb.co/3SDXXyK/X-MEN-SER.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A9fpAjZLqsODM96aI6kx147LPM9.jpg</fanart>
 <info>[B]Assista aqui as séries da franquia X-MEN[/B]</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
