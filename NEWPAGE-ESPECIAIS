@@ -2602,7 +2602,7 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]ANTOLOGIA[COLOR yellow] -> [COLOR white]X-Men (0000 a 0000)[/B][/COLOR]</name>	
+<name>[COLOR orange][B]ANTOLOGIA[COLOR yellow] -> [COLOR white]Wolverine (0000 a 0000)[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>Assista aqui os filmes "spin-off" pré saga.
@@ -2623,23 +2623,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
+<title>[COLOR white][B]X-Men Origens: Wolverine (2009)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=M_AwBf6Yvog$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]X-Men Origens: Wolverine[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58aab67a28a13335843438e85ddf6ced6a108a22$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men Origens: Wolverine - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9834723f2b2d090bfd246fc5e075e7d67e4d19f6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men Origens: Wolverine - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bCXTcWEeoYsTiSpy0SKpE7dGybUn0Dno/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]X-Men Origens: Wolverine - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27295.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]X-Men Origens: Wolverine - FHD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/ritchie/102030/93056.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]X-Men Origens: Wolverine - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xS0qoaeYDcZN0kDDgQEBybhuzP7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5NfLoRClw1VZVgSQXGufEYR8GG3.jpg</fanart>
+<info>Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, parece ter encontrado o amor e a felicidade com Kayla Silverfox. Mas a paz de Logan é abalada quando Victor Creed, seu irmão cruel, assassina brutalmente Kayla.</info>
 <genre>X-MEN</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
