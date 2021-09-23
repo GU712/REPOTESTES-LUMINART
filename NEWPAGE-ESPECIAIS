@@ -2710,27 +2710,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
+<title>[COLOR white][B]X-Men 2 (2003)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2OdX0B9bU_4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]X-Men 2[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<magnet:?xt=urn:btih:e2ba45565469c4e6ef5fb9c34065523d43bf5b03$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men 2 - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76783fc30e84c9ac429d10a75a513c643f9579bf$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men 2 - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Dx92x2cj0spJZk5s1iw0cCHkCyJ6bsP2/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]X-Men 2 - HD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27294.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]X-Men 2 - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/ritchie/102030/93054.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]X-Men 2 - - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tRDvoi7z7B6YdzoRcRQ8LwLA47q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s8ftvFvafWWEhApISamHx32bx6h.jpg</fanart>
+<info>Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante.</info>
 <genre>X-MEN</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <subitem>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
