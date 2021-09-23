@@ -488,7 +488,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Assista aqui os filmes "spin-off" pré saga.
 [COLOR orange][B]2 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 2018 e 2016[/B][/COLOR]
-[COLOR orange][B]Definição "Antologia" : Coleção de trabalhos notáveis agrupados por período.[/B][/COLOR]
+[COLOR orange][B]"Antologia" : Coleção de trabalhos notáveis agrupados.[/B][/COLOR]
 </info>
 
 <subitems>
@@ -2564,7 +2564,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/original/1ytEXLIfyEVf12IQq2bKpEbHnBW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/33zTFJGD2FsxvgSB34hQSnzz6Ro.jpg</fanart>
 <info>Assista aqui o filme que mostra como tudo começou.
-[COLOR orange][B]1 FILMES[/B][/COLOR]
+[COLOR orange][B]1 FILME[/B][/COLOR]
 [COLOR orange][B]ANO - 2011[/B][/COLOR]
 [COLOR orange][B]O Início da Escola dos Super-Dotados.[/B][/COLOR]
 </info>
@@ -2603,12 +2603,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]ANTOLOGIA[COLOR yellow] -> [COLOR white]X-MEN[/B][/COLOR]</name>	
-<thumbnail><ICONEDASUBSEÇÃO></thumbnail>
-<fanart><FUNDODASUBSEÇÃO></fanart>
-<info>Assista aqui os filmes PEQDESCRIÇAO.
-[COLOR orange][B]0 FILMES[/B][/COLOR]
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>Assista aqui os filmes "spin-off" pré saga.
+[COLOR orange][B]3 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
-[COLOR orange][B]PEQDESCRIÇAO[/B][/COLOR]
+[COLOR orange][B]"Antologia" : Coleção de trabalhos notáveis agrupados.[/B][/COLOR]
 </info>
 
 <subitems>
@@ -2751,8 +2751,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]FASE MODERNA[COLOR yellow] -> [COLOR white]X-MEN[/B][/COLOR]</name>	
-<thumbnail><ICONEDASUBSEÇÃO></thumbnail>
-<fanart><FUNDODASUBSEÇÃO></fanart>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>Assista aqui os filmes PEQDESCRIÇAO.
 [COLOR orange][B]0 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
@@ -2818,8 +2818,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]FASE ATUAL[COLOR yellow] -> [COLOR white]X-MEN[/B][/COLOR]</name>	
-<thumbnail><ICONEDASUBSEÇÃO></thumbnail>
-<fanart><FUNDODASUBSEÇÃO></fanart>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>Assista aqui os filmes PEQDESCRIÇAO.
 [COLOR orange][B]0 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
@@ -2908,8 +2908,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Nomedaserie (DATA)[/B][/COLOR]</name>
-<thumbnail><ICONEDASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>Assista aqui a série Nomedaserie
 [COLOR orange][B]X-MEN[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
