@@ -1,5 +1,4 @@
-<item>
-<title>teste brasilflix</title>
-<link>https://2371821717.tapecontent.net/radosgw/4BVgZZ3rL8CKagA/pC0o3nMo9GcqL4K5kxFmdFnU6mJi1z4Cxk4gLPKgAGK0icL-xx8KGkneVF7Im8a7Wr1ToXqOMNwsfGXv6zJTj1AhvHPSDLXzv6yeRHgb_hewtXxz7c165Uy1OMq-iNVJNGIH3-34ionMh37ncM3QcM86kTypSGdAswg3WrGnSIBwFbxQl03S_K1om2mQBsjH0QFsdCW4uUxopezcEBkwHRNRaOnLWLF9NEkb8ruvJ-qhYTpYIUcxQNKMcktX1lgNTWXlhk5eSt9CT84951JPWeUe7wdtYZ_J8mPYgRQ0Wu-o2fSj87q_JGx6Pps/Jungle.Cruise.2021.1080p.WEBRip.x264-RARBG.mp4</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png</thumbnail>
-</item>
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",teste
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WloNlAsZ52g
