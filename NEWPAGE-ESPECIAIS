@@ -2215,9 +2215,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek: Discovery (2017) - HD DUB - 39 EPs[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek: Discovery (2017) - HD LEG - 39 EPs[/B][/COLOR]</title>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - HD DUB - 12 EPs[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - HD LEG - 12 EPs[/B][/COLOR]</link>	
 
 <link>plugin://plugin.video.youtube/play/?video_id=dgXPzKjHrtA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Discovery -  T01[/B][/COLOR]</link>
 
@@ -3155,3 +3155,50 @@ MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+TESTE EXTERNAL LINK
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]TESTE EXTERNAL LINK [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/1A1-SELTESTE-MATRIX</externallink>
+<thumbnail>https://i.ibb.co/ncXdf2C/007-ESP.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui os filmes da franquia 007 - JAMES BOND[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+TESTE EXTERNAL LINK
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]SEÇÃO ESPECIAL 007 - JAMES BOND [/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ncXdf2C/007-ESP.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui os filmes da franquia 007 - JAMES BOND[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+APENAS FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]007: Contra o Satânico Dr. No (1962)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KbYuvlMx7fw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]007 - Contra o Satanico Dr. No[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a579b6ea829120a5fa60aab86a1f4f10c7f7f15d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30c78bce6b2ecca681db55d3c589cc02515176ee$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - FHD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15uD5Y1prgcuEAnaTX6N-7Yg0zcCCA9xq/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net/movie/ACML2/67293456jg/26075.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - SD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/ritchie/102030/94121.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]007 - Contra o Satanico Dr. No - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zJPZPtBqPSN73m6UmpS7uTTOZSo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ptcXbbxTyjHfEE4d4QocNP0YQct.jpg</fanart>
+<info>James Bond (Sean Connery) investiga o desaparecimento de um agente britânico. Em meio às suas investigações ele descobre o esconderijo do Dr. No (Joseph Wiseman), um gênio louco que pretende desviar o rumo dos foguetes americanos.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
