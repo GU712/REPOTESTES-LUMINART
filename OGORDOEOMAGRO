@@ -1,43 +1,60 @@
-<item>																																	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>																																	
-<link>NOLINK</link>																																	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>																																
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>																																	
-</item>																																	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Laurel_and_Hardy.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
 
-<item>
-<title>[COLOR white][B]Festival de Filmes - O Gordo e o Magro - 1926 a 1943 [/B][/COLOR]</title>
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Ceia dos Veteranos
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20%20A%20CEIA%20DOS%20VETERANOS.mp4
+         
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Herança Assombrada
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.mp4
 
-<link>plugin://plugin.video.youtube/play/?video_id=jImRJ5Abf-A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Gordo e o Magro[/B][/COLOR]</link>
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Liberdade e seus Perigos
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20LIBERDADE%20E%20SEUS%20PERIGOS.mp4
 
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange]Festival de Filmes - O Gordo e o Magro - DUB[/B][/COLOR]</link>
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Dois Detetives da Pesada
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DOIS%20DETETIVES%20DA%20PESADA.mp4
 
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20FURO%20DE%20REPORTAGEM%2000_00_05-00_17_31.mp4$$lsname=[COLOR orange][B]1926[COLOR yellow] -> [COLOR white]Um Furo de Reportagem [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DOIS%20DETETIVES%20DA%20PESADA.mp4$$lsname=[COLOR orange][B]1927[COLOR yellow] -> [COLOR white]Dois Detetives da Pesada [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.mp4$$lsname=[COLOR orange][B]1928[COLOR yellow] -> [COLOR white]A Heransa Assombrada [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20MARUJOS%20TRAPALH%C3%95ES%281%29.mp4$$lsname=[COLOR orange][B]1928[COLOR yellow] -> [COLOR white]Marujos Trapalhoes [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20MOMENTO%20DE%20GL%C3%93RIA.mp4$$lsname=[COLOR orange][B]1928[COLOR yellow] -> [COLOR white]Momento de Gloria [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ORQUESTRA%20MALUCA.mp4$$lsname=[COLOR orange][B]1928[COLOR yellow] -> [COLOR white]Orquestra Maluca [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20DESTRUIDOR%20DE%20LARES.mp4$$lsname=[COLOR orange][B]1929[COLOR yellow] -> [COLOR white] Destruidor de Lares [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20GRANDE%20NEG%C3%93CIO.mp4$$lsname=[COLOR orange][B]1929[COLOR yellow] -> [COLOR white]O Grande Negocio [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20AMOR%20DE%20CABRITA.mp4$$lsname=[COLOR orange][B]1929[COLOR yellow] -> [COLOR white]Um Amor de Cabrita [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20LIBERDADE%20E%20SEUS%20PERIGOS.mp4$$lsname=[COLOR orange][B]1929[COLOR yellow] -> [COLOR white]A Liberdade e seus Perigos [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20OS%20BOEMIOS%20DO%20BARULHO.mp4$$lsname=[COLOR orange][B]1930[COLOR yellow] -> [COLOR white]Os Boemios do Barulho [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20PAPAI%20E%20MAM%C3%83E%20POR%20ACASO.mp4$$lsname=[COLOR orange][B]1932[COLOR yellow] -> [COLOR white]Papai e Mamae por Acaso [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DUAS%20BAB%C3%81S%20PARA%20UM%20BEB%C3%8A.mp4$$lsname=[COLOR orange][B]1932[COLOR yellow] -> [COLOR white]Duas Babas para um Bebe [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ENTREGA%20A%20DOMIC%C3%8DLIO.mp4$$lsname=[COLOR orange][B]1932[COLOR yellow] -> [COLOR white]Entrega a Domicilio [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20SEM%20IGUAL.mp4$$lsname=[COLOR orange][B]1932[COLOR yellow] -> [COLOR white]Uma Luta sem Igual [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20DUELO%20DE%20AMOR.mp4$$lsname=[COLOR orange][B]1935[COLOR yellow] -> [COLOR white]Um Duelo de Amor [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20DE%20RISOS.mp4$$lsname=[COLOR orange][B]1937[COLOR yellow] -> [COLOR white]Uma Luta de Risos [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20%20A%20CEIA%20DOS%20VETERANOS.mp4$$lsname=[COLOR orange][B]1938[COLOR yellow] -> [COLOR white]A Ceia dos Veteranos [/B][/COLOR]</link>
-<link>https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20LADR%C3%83O%20QUE%20ROUBA%20LADR%C3%83O.mp4$$lsname=[COLOR orange][B]1943[COLOR yellow] -> [COLOR white]Ladrao que rouba Ladrao [/B][/COLOR]</link>
-		
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4e/Laurel_and_Hardy.png</thumbnail>
-<fanart>https://www.devotudoaocinema.com.br/content/uploads/2018/08/68339-hksibrgtra-1505306914-696x365.jpg</fanart>
-<info>Festival o Gordo e o Magro, os mais divertidos filmes da famosa dupla de comediantes, Laurel and Hardy uma das equipes cômicas mais populares do cinema dos Estados Unidos, em atividade desde o cinema mudo até meados da Era de Ouro de Hollywood.</info>
-<genre>COMÉDIA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Duas Babás para um Bebê
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DUAS%20BAB%C3%81S%20PARA%20UM%20BEB%C3%8A.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Entrega a Domicílio
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ENTREGA%20A%20DOMIC%C3%8DLIO.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Ladrão que rouba Ladrão
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20LADR%C3%83O%20QUE%20ROUBA%20LADR%C3%83O.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Marujos Trapalhões
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20MARUJOS%20TRAPALH%C3%95ES%281%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - O Destruidor de Lares
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20DESTRUIDOR%20DE%20LARES.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - O Grande Negócio
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20GRANDE%20NEG%C3%93CIO.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Orquestra Maluca
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ORQUESTRA%20MALUCA.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Os Boemios do Barulho
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20OS%20BOEMIOS%20DO%20BARULHO.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Papai e Mamãe por Acaso
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20PAPAI%20E%20MAM%C3%83E%20POR%20ACASO.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Um Amor de Cabrita
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20AMOR%20DE%20CABRITA.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Um Duelo de Amor
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20DUELO%20DE%20AMOR.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Um Furo de Reportagem
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20FURO%20DE%20REPORTAGEM%2000_00_05-00_17_31.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Momento de Glória
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20MOMENTO%20DE%20GL%C3%93RIA.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Uma Luta de Risos
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20DE%20RISOS.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Uma Luta sem Igual
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20SEM%20IGUAL.mp4
