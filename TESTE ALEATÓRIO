@@ -7,7 +7,7 @@
 
 <channel>
 <name>[COLOR white][B]SEÇÃO ESPECIAL SCOOBY DOO[/B][/COLOR]</name>
-<thumbnail><ICONEDDASESAO></thumbnail>
+<thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>[B]Assista aqui o conteúdo da franquia SEÇÃO ESPECIAL SCOOBY DOO[/B]</info>
 
@@ -22,8 +22,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR orange]SCOOBY DOO[/B][/COLOR]</name>
-<thumbnail><ICONEDASESAODEFILMES></thumbnail>
-<fanart><FUNDODASESAODEFILMES></fanart>
+<thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
+<fanart>https://i.ibb.co/FH1Mmpt/SCOOBYESP2.jpg</fanart>
 <info>[B]Assista aqui os filmes da franquia SCOOBY DOO[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -31,10 +31,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR orange][B]ATUAIS[COLOR yellow] -> [COLOR white]SCOOBY DOO - FILMES NOVOS[/B][/COLOR]</name>	
 <thumbnail><ICONEDASUBSEÇÃO></thumbnail>
 <fanart><FUNDODASUBSEÇÃO></fanart>
-<info>Assista aqui os filmes PEQDESCRIÇAO.
-[COLOR orange][B]0 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
-[COLOR orange][B]PEQDESCRIÇAO[/B][/COLOR]
+<info>Assista aqui os filmes mais atuais do SCOOBY.
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 2020 e 2021[/B][/COLOR]
+[COLOR orange][B]Os Últimos filmes do SCOOBY.[/B][/COLOR]
 </info>
 
 <subitems>
@@ -62,6 +62,22 @@ link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[C
 <thumbnail>https://www.themoviedb.org/t/p/original/kIzMlyaIFWWkFDVbla2O10kYe1b.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3XNLD0Z8sQhLBwnHu8bCrVcQ8Ed.jpg</fanart>
 <info>Scooby-Doo se une a Coragem, o Cão Covarde, em uma parceria inédita. Juntos, essa dupla canina tenta superar os medos e salvar o mundo de um exército de insetos.</info>
+<genre>SCOOBY DOO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Scooby! O Filme (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=b15_u5wYB0I$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby - O Filme[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f7ec0c7ebee594afed91113a840facb5b8fd96d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ee8d3dd41d3178a61fc9731f3d5053e439dcccb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby - O Filme - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_N9Xeetz--fnfsD_zQABMI5kjJCHPN4L/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Scooby - O Filme - FHD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/67275.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD DUAL[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/67275.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD LEG[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/ritchie/102030/64634.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hJzHvp3DvNH6PaTiI8IynfRFsU1.jpg</fanart>
+<info>Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo.</info>
 <genre>SCOOBY DOO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -455,8 +471,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR orange]SEÇÃO ESPECIAL SCOOBY DOO[/B][/COLOR]</name>
-<thumbnail><ICONEDASESAODESERIES></thumbnail>
-<fanart><FUNDODASESAODESERIES></fanart>
+<thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
+<fanart>https://i.ibb.co/FH1Mmpt/SCOOBYESP2.jpg</fanart>
 <info>[B]Assista aqui as séries da franquia SEÇÃO ESPECIAL SCOOBY DOO[/B]</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
