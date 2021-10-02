@@ -48,7 +48,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
+<subitem>
 <title>[COLOR white][B]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem (2021)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=4thGwytBRF0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b33008a2f62801eafefe16135ba7749864afc224$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem - HD DUAL[/B][/COLOR]</link>
@@ -63,10 +63,10 @@ link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[C
 <fanart>https://www.themoviedb.org/t/p/original/3XNLD0Z8sQhLBwnHu8bCrVcQ8Ed.jpg</fanart>
 <info>Scooby-Doo se une a Coragem, o Cão Covarde, em uma parceria inédita. Juntos, essa dupla canina tenta superar os medos e salvar o mundo de um exército de insetos.</info>
 <genre>SCOOBY DOO</genre>
-</item>
+</subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
+<subitem>
 <title>[COLOR white][B]Scooby! O Filme (2020)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=b15_u5wYB0I$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby - O Filme[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f7ec0c7ebee594afed91113a840facb5b8fd96d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD DUAL[/B][/COLOR]</link>
@@ -79,7 +79,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/hJzHvp3DvNH6PaTiI8IynfRFsU1.jpg</fanart>
 <info>Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo.</info>
 <genre>SCOOBY DOO</genre>
-</item>
+</subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
