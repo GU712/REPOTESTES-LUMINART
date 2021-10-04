@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 
 <channel>
 <name>[COLOR white][B]SEÇÃO ESPECIAL SCOOBY DOO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/jg3yBnY/SCOOBY-DOO-ESP.png</thumbnail>
+<thumbnail>https://i.ibb.co/1vq649G/2-SCOOBY-DOO-ESP.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>[B]Assista aqui o conteúdo da franquia SCOOBY DOO[/B]</info>
 
@@ -22,8 +22,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR orange]SCOOBY DOO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Sw6w9d2/SCOOBY-DOO-FILM.png</thumbnail>
-<fanart>https://i.ibb.co/GTh37hZ/1-SCOOBY-DOO-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/0Jskkt2/3-SCOOBY-DOO-FILM.png</thumbnail>
+<fanart>https://i.ibb.co/2nsXn4f/1-SCOOBY-DOO-FAN.png</fanart>
 <info>[B]Assista aqui os filmes da franquia SCOOBY DOO[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -489,7 +489,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR orange]SCOOBY DOO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Ln8mDR1/SCOOBY-DOO-SER.png</thumbnail>
+<thumbnail>https://i.ibb.co/cFVkC4G/4-SCOOBY-DOO-SER.png</thumbnail>
 <fanart>https://i.ibb.co/FH1Mmpt/SCOOBYESP2.jpg</fanart>
 <info>[B]Assista aqui as séries da franquia SEÇÃO ESPECIAL SCOOBY DOO[/B]</info>
 
