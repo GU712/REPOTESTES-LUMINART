@@ -7,9 +7,9 @@
 
 <channel>
 <name>[COLOR white][B]SEÇÃO ESPECIAL SCOOBY DOO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/jg3yBnY/SCOOBY-DOO-ESP.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>[B]Assista aqui o conteúdo da franquia SEÇÃO ESPECIAL SCOOBY DOO[/B]</info>
+<info>[B]Assista aqui o conteúdo da franquia SCOOBY DOO[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]FILMES[COLOR yellow] -> [COLOR orange]SCOOBY DOO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/Sw6w9d2/SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/FH1Mmpt/SCOOBYESP2.jpg</fanart>
 <info>[B]Assista aqui os filmes da franquia SCOOBY DOO[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -131,7 +131,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=o3dbeI0BU1k$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53d58918807dc018e1d27268f7b6956debd4ce8b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo - HD DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caa385c23ba160de57a3e4051f4b4990cc9887c4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo - FHD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11lkortuziDpDlvApxbXYkie19O-MJjqf/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Scooby-Doo - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11lkortuziDpDlvApxbXYkie19O-MJjqf/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Scooby-Doo - SD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/23379.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby-Doo - HD DUB[/B][/COLOR]</link>
 
 <link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Scooby-Doo - HD DUB[/B][/COLOR]</link>
@@ -489,7 +489,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR orange]SCOOBY DOO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/Ln8mDR1/SCOOBY-DOO-SER.png</thumbnail>
 <fanart>https://i.ibb.co/FH1Mmpt/SCOOBYESP2.jpg</fanart>
 <info>[B]Assista aqui as séries da franquia SEÇÃO ESPECIAL SCOOBY DOO[/B]</info>
 
