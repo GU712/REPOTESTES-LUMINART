@@ -59,8 +59,8 @@ link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[C
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/101373.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/128611.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/128616.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem - HD LEG[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_9cbf874ed8e148888101fdfd46c74923/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem - HD DUB[/B][/COLOR]</link>
 <link>https://edgemedia.r.worldssl.net/filmes/843906/dub.mp4$$lsname=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem - HD DUB[/B][/COLOR]</link>
-
 <thumbnail>https://www.themoviedb.org/t/p/original/kIzMlyaIFWWkFDVbla2O10kYe1b.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3XNLD0Z8sQhLBwnHu8bCrVcQ8Ed.jpg</fanart>
 <info>Scooby-Doo se une a Coragem, o Cão Covarde, em uma parceria inédita. Juntos, essa dupla canina tenta superar os medos e salvar o mundo de um exército de insetos.</info>
@@ -77,8 +77,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/67275.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/67275.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD LEG[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/64634.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_efcc973e1a8a4e2d801f9e4e70d4711f/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD DUB[/B][/COLOR]</link>
 <link>https://edgesun.r.worldssl.net/-f-i-l-m-e-s-/dub/385103.mp4$$lsname=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD DUB[/B][/COLOR]</link>
-
 <thumbnail>https://www.themoviedb.org/t/p/original/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hJzHvp3DvNH6PaTiI8IynfRFsU1.jpg</fanart>
 <info>Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo.</info>
@@ -140,6 +140,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Scooby-Doo - HD DUB[/B][/COLOR]</link>
 
+<link>https://video.wixstatic.com/video/16f3d4_640734bfc6ad400f8df0c31913cfc749/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo - HD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1RAxtBxslR4OZCZC1vxIRUxjR7a.jpg</fanart>
 <info>Dois anos depois de separarem-se após resolverem seu último caso, a equipe da Mystery Inc. une-se para investigar estranhos acontecimentos em um parque mal-assombrado chamado Spook Island.</info>
@@ -153,14 +154,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b3713ceeb837cf30d721e1d78391af3729fe687$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - HD DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e85fe7162d5af5461a769f5634ea910164c2d50e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - FHD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T5Fyt1Ypnz4Jr5HWzg5fy4fg93llmrzh/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - FHD DUB[/B][/COLOR]</link>
-
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/23377.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - SD DUB[/B][/COLOR]</link>
 
 link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - HD DUB[/B][/COLOR]</link>
 
+<link>https://video.wixstatic.com/video/16f3d4_cd45ef8a7ced4f339a2e5af1de7928a7/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - HD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fvtSq9750cMxweg2rMnnU5994qm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/Gp0dHVEPAodUnTb4HckVfpR3ya.jpg</fanart>
 <info>Após se reencontrarem e reativarem a Mistérios S.A., Fred, Daphne, Salsicha, Velma e Scooby-Doo partem rumo a Coolsville para desvendar mais um mistério. Lá está um homem mascarado, que planeja usar uma máquina criadora de monstros para controlar o lugar. </info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo! - O Misterio Começa (2009)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=v8uzAs7YWOY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo - O Misterio Comesa[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:930e619104d3663ad5b0c9b9fd842593e1bec710$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo - O Misterio Comesa - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac331f640a90d83688a3ae85cfdd33076b02d649$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo - O Misterio Comesa - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n1M4mgWJK5yRIqagkQKy_PbRupBUrs4I/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Scooby-Doo - O Misterio Comesa - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/23378.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby-Doo - O Misterio Comesa - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/ritchie/102030/128531.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Scooby-Doo - O Misterio Comesa - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aeK9BYorgNRcjFXTsmQnaGGwrD1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wLElaQVBtsjSEaoOhDWGfZFUapr.jpg</fanart>
+<info>Injustamente acusados de encenar uma piada sobre fantasmas, os garotos são suspensos do colégio. Para limparem seus nomes, eles se unem para resolverem um mistério sobrenatural... E se envolvem em uma aventura repleta de bom humor.</info>
 <genre>SCOOBY DOO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
