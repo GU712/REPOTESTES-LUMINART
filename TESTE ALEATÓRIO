@@ -86,26 +86,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>SCOOBY DOO</genre>
-</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
+</subitems>
+</subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
@@ -113,8 +97,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes de cinema do SCOOBY DOO.
-[COLOR orange][B]0 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
+[COLOR orange][B]5 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 2002 a 2018[/B][/COLOR]
 [COLOR orange][B]Filmes com atores humanos e animação.[/B][/COLOR]
 </info>
 
@@ -130,7 +114,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Scooby-Doo (2002) [/B][/COLOR]</title>
+<title>[COLOR white][B]Scooby-Doo (2002)[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=o3dbeI0BU1k$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53d58918807dc018e1d27268f7b6956debd4ce8b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo - HD DUB[/B][/COLOR]</link>
@@ -149,7 +133,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Scooby-Doo 2: Monstros à Solta (2004) [/B][/COLOR]</title>
+<title>[COLOR white][B]Scooby-Doo 2: Monstros à Solta (2004)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=TT76WvGRGEs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo 2 -  Monstros a Solta[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b3713ceeb837cf30d721e1d78391af3729fe687$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - HD DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e85fe7162d5af5461a769f5634ea910164c2d50e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - FHD LEG[/B][/COLOR]</link>
@@ -182,23 +166,36 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+<title>[COLOR white][B]Scooby-Doo! e a Maldição do Monstro do Lago (2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=g2C4AAsJZaY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo e a Maldisao do Monstro do Lago[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:148f7e4de1af8b00a937509edcbb9ee8e93c6656$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo e a Maldisao do Monstro do Lago - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5b5f4ca3fe6ac947cbe1d943c2e49d8c9aea846$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo e a Maldisao do Monstro do Lago - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hi36oghNMJWwctkJm4GeW2oJFlASua7-/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Scooby-Doo e a Maldisao do Monstro do Lago - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/23376.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby-Doo e a Maldisao do Monstro do Lago - HD DUB[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Scooby-Doo e a Maldisao do Monstro do Lago - HD DUB[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13anKM1yMz5cSUKZ214dSJzUlVf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s2zzIS4UmrkrCWU8dT603KaEAFR.jpg</fanart>
+<info>A equipe da "Mistério S.A." arranjam trabalhos de Verão num campo de férias , onde se deparam com acontecimentos estranhos em redor do lago e um Monstro Sapo à solta.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+<subitem>
+<title>[COLOR white][B]Daphne e Velma (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=A40-vFz3tc0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Daphne e Velma[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90b7d2e7675d769e5bf8082b18390fa6bd9257c2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Daphne e Velma - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e0eb7cf3d4e8907b9d54145d675ef4bafe7a0c8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Daphne e Velma - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1slwflQOuXsqd5BYZk2RDx9R1lmEjFNuE/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Daphne e Velma - HD DUB[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Daphne e Velma - HD DUB[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Daphne e Velma - HD DUB[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wE0eIOcfpQxgUvRvF4TFrj7liWP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ezdWRbT70UIkhepcN0MC58sKpKf.jpg</fanart>
+<info>Daphne e Velma, duas adolescentes solucionadoras de mistério, investigam o que está fazendo com que alguns dos estudantes mais brilhantes da escola se tornem zumbis.</info>
 <genre>SCOOBY DOO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -211,8 +208,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR orange][B]LONGAS[COLOR yellow] -> [COLOR white]SCOOBY DOO - FILMES DE ANIMAÇÃO[/B][/COLOR]</name>	
-<thumbnail><ICONEDASUBSEÇÃO></thumbnail>
-<fanart><FUNDODASUBSEÇÃO></fanart>
+<thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
+<fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes PEQDESCRIÇAO.
 [COLOR orange][B]0 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
