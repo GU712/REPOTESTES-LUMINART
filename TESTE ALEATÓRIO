@@ -52,11 +52,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Thunderbirds - O Filme (1965)[/B][/COLOR]</title>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Thunderbirds[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=06URM0pD6oc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cPonFtd8QIUU8Q8bf9fDcFOro6B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/28Zw4sluikDipRt7yRTZRxOTjHs.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>ACTION-MOTION</genre>
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white][B]Thunderbirds - O Filme (1965)[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=06URM0pD6oc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Thunderbirds - O Filme[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Thunderbirds - O Filme - HD DUB[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/DSNHS/Thunderbirds/LS-Thunderbirds.em.Acao-O.Filme.1968.HD.dub.avi$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Thunderbirds - O Filme - HD DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/cPonFtd8QIUU8Q8bf9fDcFOro6B.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/28Zw4sluikDipRt7yRTZRxOTjHs.jpg</fanart>
