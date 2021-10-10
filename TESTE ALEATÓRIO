@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -29,27 +29,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/original/cPonFtd8QIUU8Q8bf9fDcFOro6B.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/28Zw4sluikDipRt7yRTZRxOTjHs.jpg</fanart>
 <info>[B]Assista aqui os filmes da franquia Thunderbirds[/B]</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subchannel>
-<name>[COLOR orange][B]NOSTALGIA[COLOR yellow] -> [COLOR white]Thunderbirds - O Filme[/B][/COLOR]</name>	
-<thumbnail>https://www.themoviedb.org/t/p/original/cPonFtd8QIUU8Q8bf9fDcFOro6B.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/28Zw4sluikDipRt7yRTZRxOTjHs.jpg</fanart>
-<info>Assista aqui o filme Thunderbirds.
-[COLOR orange][B]1 FILMES[/B][/COLOR]
-[COLOR orange][B]ANO - 1965 [/B][/COLOR]
-[COLOR orange][B]Marionetes em  anima AÇÂO.[/B][/COLOR]
-</info>
-
-<subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
