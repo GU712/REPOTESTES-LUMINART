@@ -1,58 +1,1914 @@
-<item>
-<title>[COLOR white][B]Divisão Criminal (2005)[/B][/COLOR]</title>
+<channels>	
+<channel>	
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+ SEÇÃO DE FILMES DE GUERRA	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<channel>	
+<name>[COLOR white][B]FILMES DE GUERRA[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/y5y9dLc/GUERRA-FILM.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
+	
+<subchannel>	
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]Iª GUERRA[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/7KTDYnP/1-GUERRA-FILM.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FILMES COM TEMÁTICA DA PRIMEIRA GUERRA</info>	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]1917 (2020)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917 [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cd248234f2a4ef95dd2245ac22d8b70921e78a6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]1917 - HD DUAL[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f6a4abd9c8f25fc5b7b97b319c7569e50d2cc78$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]1917 - FHD DUAL[/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-1917.2019.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]1917 - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/39342.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]1917 - HD DUB [/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/44179.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]1917 - HD DUB [/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/41189.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]1917 - HD LEG[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>	
+<info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]As Legiões Emergentes (2019)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=XrS7bRSrS2A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]As Legioes Emergentes[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e24dfcd4ba5c10546e52190cc250d742ecd84dc6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Legioes Emergentes - HD LEG[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07413af806504318752898c6219f167717cce5a3$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Legioes Emergentes - FHD DUAL[/B][/COLOR]</link>	
+	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-As.Legioes.Emergentes.2021.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]As Legioes Emergentes - FHD DUB[/B][/COLOR]</link>	
+	
+<link>http://b5.vc:80/movie/ritchie/102030/106999.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]As Legioes Emergentes - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vgUoejL9fMVfXylBPekyEInOsnQ.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/5jRA12roEJPKpAHBfL9mQBNBhmJ.jpg</fanart>	
+<info>Uma história sobre como entrar na idade adulta em tempos difíceis, crescendo para a comunidade. A Grande Guerra é o pano de fundo para a história de amor que se desenrola em primeiro plano: Józek, um desertor do exército czarista que se junta às Legiões emergentes; Ola, uma agente de inteligência da 1ª Brigada e membro da Liga Feminina; e Tadek, seu noivo, um membro da equipe de fuzileiros</info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<link>plugin://plugin.video.youtube/play/?video_id=r-SpjqVmFts$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Divisao Criminal[/B][/COLOR]</link>
+<subitem>	
+<title>[COLOR white][B]Cavalo de Guerra (2011)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=CSOjiqy0Q4g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cavalo de Guerra[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07b89a0472f2779ad2b55c9e4c37d839243bd9bb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Cavalo de Guerra - HD DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cb8de0eabbef4207e7608cea8df50dd2965e1bf$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Cavalo de Guerra - HD LEG [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Cavalo.de.Guerra.2011.HD.dub.MP4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Cavalo de Guerra - HD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/22246.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Cavalo de Guerra - HD DUB[/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/20950.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Cavalo de Guerra - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KCu49IhGK5IpqKRO1i2UGLQt6A.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/64YOcrslrijllDRCpQvXkSKvXQV.jpg</fanart>	
+<info>Albert vive com o pai e a mãe no campo e tem uma intensa ligação com seu cavalo. Depois de ser vendido para a cavalaria inglesa durante a Primeira Guerra Mundial, Albert se alista para recuperar o animal e acaba conhecendo o major.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>	
+<subitem>	
+<title>[COLOR white][B]Eterno Amor (2004)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=KwSkzQ97fao$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Eterno Amor[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CDB31057C5E7CE77D2CAAFB111B2C0D0632F5BDB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Eterno Amor - HD LEG[/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Eterno.Amor.2012.FHD.LEG.FIX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Eterno Amor - FHD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t73m7lX0eFYDjlB1Gcb7r3S5Yt.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/2DTEVxyeR70hskIm94fQ413hUox.jpg</fanart>	
+<info>Mathilde e Manech cresceram juntos e descobriram o amor. A 1ª Guerra Mundial os separa. Ao fim da guerra Mathilde faz uma incansável busca para encontrar Manech.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38004.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38005.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Transformasao Total  [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38006.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Uma Situasao Completa [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38007.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Aparesa [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38008.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Ponto Critico [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38009.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Um Encontro Fatal [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38010.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Testemunha Silenciosa [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38011.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Rebatida [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38012.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Casa e Familia [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38013.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Foi o Mordomo [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38014.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Mulher de Los Angeles [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38015.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Retratasao Fatal  [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/38016.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Padroes e Procedimentos [/B][/COLOR]</link>
+<subitem>	
+<title>[COLOR white][B]Flyboys (2006)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=qhKnuKFEKcA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Flyboys[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbab8c1cc6bd677e03c6388b58057be7f575f9bf$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Flyboys - HD LEG [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3972f71683fcf9aadca49fcd43333c39ae553f18$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Flyboys - FHD DUB [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Flyboys.2006.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Flyboys - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/22356.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Flyboys - HD DUB[/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/89505.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Flyboys - FHD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/trKRuWe6zReYFhfA8m6DdHbTWs9.jpg</fanart>	
+<info>O filme segue no alistamento, treinamento e experiências de combate de um grupo de jovens americanos que se voluntariaram para se tornarem pilotos de caça da Esquadrilha Lafayette, o 124 º esquadrão aéreo, formada pelos franceses em 1916. O esquadrão foi composta por 5 oficiais franceses e 38 voluntários americanos que queria voar e combater na I Guerra Mundial, durante os anos do conflito principal, 1914-1917, antes dos Estados Unidos se juntar à guerra contra as Potências Centrais</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B]QUER ASSISTIR MAIS UMA TEMPORADA?[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B] SOLICITE AO SUPORTE TECNICO.[/B][/COLOR]</link>
+<subitem>	
+<title>[COLOR white][B]Gallipoli (1981)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=9LBpsMqNEV0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Gallipoli[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F5D481E7C3B892943CBBE9FACD68E345D2B8D5B$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Gallipoli - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Gallipoli - LEG [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Gallipoli.1981.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Gallipoli - FHD DUB[/B][/COLOR]</link>	
+	
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Gallipoli - DUB[/B][/COLOR]</link>	
+	
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Gallipoli - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hZ18YsrzRn0Ybb4P4LOCviRryn.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/vGW80WruxhWoAWsgE4t1ZHc15rV.jpg</fanart>	
+<info>Unidos pelo idealismo, dois amigos velocistas australianos se alistam no exército em 1915. Enviados para lutar contra os turcos na lendária batalha de Gallipoli, eles se deparam com os horrores da guerra.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<subitem>	
+<title>[COLOR white][B]Heróis de uma Guerra (2018)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=oCp-kCIycKE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bodt7q5xrvkur4whbnh5mqptf7b4565n$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra - HD DUAL[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:qn3efk74scotabnvvlrmukguewjoc5fg$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Herois de uma Guerra - FHD DUAL [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Herois.de.uma.Guerra.2018.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Herois de uma Guerra - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/51705.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Herois de uma Guerra - HD DUB[/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/47417.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Herois de uma Guerra - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2qzEhkJlNoTwb61UiWGeJP347N.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/c078bsFfSRRuyMZ56Krs8L99dhu.jpg</fanart>	
+<info>Esta é uma história, inspirada em eventos reais, sobre os soldados de uma bateria de canhões na Primeira Guerra Mundial que, como centenas de milhares de outras pessoas, fizeram com que a glória do exército sérvio se tornasse imortal.</info>	
+<genre>GUERRA</genre>   	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<subitem>	
+<title>[COLOR white][B]Terreno Proibido (2013)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=jAE_eiX6-hY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Terreno Proibido[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e199557abdb089b20a2f2085a37ec03a11ecdd53$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Terreno Proibido - HD DUB[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c318166e150b718afa9d46efcadd2fbc2acc804$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Terreno Proibido - FHD LEG [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Terreno.Proibido.2013.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Terreno Proibido - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27376.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Terreno Proibido - HD DUB[/B][/COLOR]</link>	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Terreno Proibido - FHD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbADqCeTMMhyUqXWXGlbQgY6oK1.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/9R3KZBH5leWgaOCfwywpYYqFRau.jpg</fanart>	
+<info>Três soldados ingleses ficam encurralados entre duas trincheiras alemãs após serem surpreendidos por um explosão durante a Primeira Guerra Mundial. Situado em França 1916.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<subitem>	
+<title>[COLOR white][B]The Great War (2019)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=7HPKPCje4lw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]The Great War[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea7206990295f1403abfe2751601b1ec9ba62551$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]The Great War - HD LEG [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69ff2cdb3533b845df6058e98b3b9da9c6df384f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]The Great War - FHD LEG[/B][/COLOR]</link>	
+	
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9MmSZbC7KFgCjEkP3hH3vJAzw9T.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/jnOHkANcd0RC4ns708moAUAU8AC.jpg</fanart>	
+<info>Durante os últimos dias da Grande Guerra, um grupo de soldados dos EUA é enviado para trás das linhas inimigas para resgatar um pelotão perdido</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 		
-<thumbnail>https://www.themoviedb.org/t/p/original/2spczBOPtAVi6wxOjAeQ9s22k8s.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/mL5qHLgVWqeoH5bbj6Q1gdyldhM.jpg</fanart>
-<info>Num departamento dominado por homens e tido como um dos mais violentos da polícia, o maior desafio da nova chefe será provar sua competência perante a sua incrédula equipe. </info>
-<genre>CRIME E DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<subitem>	
+<title>[COLOR white][B]O Silêncio da Montanha (2014) [/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=HKmgysrB-hs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Silencio da Montanha[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef8727d896d8cafc7393c5df39f24a238bb88e37$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Silencio da Montanha - HD DUAL [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:291b7a77c3ffced39b0b001deb876cd3d2999ff4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Silencio da Montanha - HD LEG [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-O.Silencio.da.Montanha.2014.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Silencio da Montanha - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27356.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Silencio da Montanha - HD DUB[/B][/COLOR]</link>	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Silencio da Montanha - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0VXZnoOdgvnBwBzEpMtU26d9I9.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/wZA1EEL7spQuw0FoHoEfJ2R8UAK.jpg</fanart>	
+<info>Itália, 1915. Os jovens Andreas (William Moseley) e Francesca (Eugenia Costantini) se conhecem no casamento da irmã dele e logo se apaixonam perdidamente. Na mesma época, a Itália declara guerra a Áustria-Hungria e a Primeira Guerra Mundial eclode. Andreas é chamado a lutar no fronte, nas montanhas Dolomitri, localizadas no norte da Itália, mas deixa com Francesca um sinalizador para que ela acenda caso esteja em perigo. Quando o conflito se agrava, o batalhão do rapaz descobre que o seu vilarejo está sendo atacado, e no momento em que a moça pede ajuda, ele precisa decidir entre lutar pelo seu país ou por sua amada.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+					
+<subitem>	
+<title>[COLOR white][B]O Último Batalhão (2001)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=KwSkzQ97fao$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ultimo Batalhao[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b66134930b38e39ef6df3ab8d378bdb2a3fa5674$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Ultimo Batalhao - FHD DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Ultimo Batalhao - LEG [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/1GR/LS.O.Ultimo.Batalhao.2001.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Ultimo Batalhao - FHD DUB[/B][/COLOR]</link>	
+	
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Ultimo Batalhao - DUB[/B][/COLOR]</link>	
+	
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Ultimo Batalhao - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/48j8HSTJ40BXHnnu3dIBhiwGbll.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/6Qxl17SKyxPBsmf6yGLCOEnFenA.jpg</fanart>	
+<info>Durante a Primeira Guerra Mundial, o jovem advogado nova-iorquino Charles White é promovido a major e enviado ao combate à frente de um Batalhao formado por quinhentos outros nova-iorquinos e caipiras do interior do país. O resultado foi a concessão de 3 medalhas de honra.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail><ICONEDOFILME></thumbnail>	
+<fanart><FUNDODOFILME></fanart>	
+<info><SINOPSEDOFILME></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+ACRESCENTAR NOVO ITEM AQUI	
+</subitems>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]IIª GUERRA[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/1mDG70T/2-GUERRA-FILM.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart> 	
+<info>FILMES COM TEMÁTICA DA SEGUNDA GUERRA</info>	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]A Batalha das Ardenas (2019)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=rj-JKfEu12k$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Batalha das Ardenas[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7410a443196c7ad0b1dbdcb510bb5b61da599e90$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Batalha das Ardenas - HD DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cf760e45f6c77907ec372af74983d5bb8700049$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Batalha das Ardenas - LEG [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Batalha.das.Ardenas.2019.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Batalha das Ardenas - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/71057.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]A Batalha das Ardenas - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/xzMQUomguGq749lJqEUsuIfHlNk.jpg</fanart>	
+<info>No natal de 1944 os alemães decidiram arriscar tudo para realizar um último ataque contra o exército dos Aliados. Para comandar o grupo, o tenente Robert Cappa move seus soldados da 2ª Divisão de Infantaria, das Forças Norte-Americanas para proteger um ponto estratégico localizado entre Luxemburgo, Bélgica e a Alemanha, contra a ofensiva dos soldados de Hitler.</info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<subitem>	
+<title>[COLOR white][B]Além da Linha Vermelha (1998)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=mKl5_OxKBn8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Alem da Linha Vermelha[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c45c821ab97b3093f52ec25009b1f0137adf17b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Alem da Linha Vermelha - HD DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:960dc73149fa3775053d41181733f98ed5ba2a89$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Alem da Linha Vermelha - FHD LEG [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Alem.da.Linha.Vermelha.1998.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Alem da Linha Vermelha - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27309.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Alem da Linha Vermelha - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5eLYQdn91L3GRyanPDWT9iSgEie.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/qLnvCSNw1XqPOW2Lt4KC7nNV9EE.jpg</fanart>	
+<info>Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciará fortemente o avanço japonês no Pacífico. Assim, um grupo de jovens soldados é enviado para lá, trazendo alívio para as esgotadas unidades da marinha. Lá os recém-chegados conhecem um terror que nem imaginavam, mas no meio deste desespero surgem fortes laços de amor e amizade.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item>
-<title>[COLOR black].[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<title>[COLOR white][B]A Ponte de Remagen (1969)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_cHH6pHlEs0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Ponte de Remagen [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:592fa62028b85b7e7ed8da8a2e2d12d0d3f9049a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e543de164660048ac5defadfc547a3c78e73f0f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Ponte.de.Remagem.1969.FHD.dub+legfix.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ponte de Remagen - FHD DUB+LEGFIX[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/71059.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]A Ponte de Remagen - FHD DUB[/B][/COLOR]</link>	
+<link>https://z-28b3jxzl1og7.bitchute.com/OsqmkKQffiY2/n3OZYEC3jfWg.mp4$$lsname=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]A Ponte de Remagen - SD DUB [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hbJtJSbhcuqRg6lDmWuEdiK2dn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3ar6tWdgjxViSdpyc6pHMKFP93O.jpg</fanart>
+<info>No final da Segunda Guerra Mundial, o tenente Phil Hartman e seus homens recebem ordens para avançar até a cidade alemã de Remagen. Enquanto isso, o major Paul Kreuger, das forças armadas alemãs, precisa defender a cidade e a ponte sobre o Reno, que dá acesso a ela. Porém ele precisa se decidir entre destruir a ponte e isolar 50 mil de seus homens no lado oposto, ou deixá-la intacta, o que permitiria o avanço das forças aliadas.</info>
+<genre>GUERRA</genre>
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Assassinos de Guerra (2019)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=xG1XRRjQBxc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Assassinos de Guerra[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dc1b3870a96a9297976a47eea2e19c3114fdebe$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Assassinos de Guerra - HD DUAL [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:093597609fb91ddd6a8dddc576c24c2200ce73ba$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Assassinos de Guerra - FHD DUAL [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Assassinos.De.Guerra.2019.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Assassinos de Guerra - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/34108.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Assassinos de Guerra - HD DUB[/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/27648.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Assassinos de Guerra - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mf1mTtBEKBrhBRAqQnapok4dj9w.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/8C97ZwLpuyN2SFayS6ZvS2VwtFe.jpg</fanart>	
+<info>No ano de 1944, um grupo de soldados americanos fica conhecido como "The Filthy Thirteen" por terem se tornado um problema crescente para seus superiores, desobedecendo ordens atrás de ordens. Até que esses oficiais rebeldes são selecionados para integrarem a primeira unidade a saltar de pára-quedas atrás das linhas alemãs, durante a invasão da Normandia.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<item>
-<title>[COLOR orange] [B]PROCUROU EM TODOS OS SERVIDORES ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<subitem>	
+<title>[COLOR white][B]Até o Último Homem (2016)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=s2-1hz1juBI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Ate o Ultimo Homem[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d79959476a20154018063cbe162aeca6ac4cc5c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Ate o Ultimo Homem - HD DUAL [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0789e88ebe4d5a74d0ddcba62634e39c1e3d66ae$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Ate o Ultimo Homem - FHD DUAL [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Ate.o.Ultimo.Homem.2016.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Ate o Ultimo Homem - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27312.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Ate o Ultimo Homem - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/rshlQ6LfPRSWFhpGL4s5ZkIPR51.jpg</fanart>	
+<info>Desmond T. Doss, foi o médico do Exército Americano da Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, se recusando a matar pessoas, tornando-se o primeiro homem da história americana a receber a Medalha de Honra sem disparar um tiro.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Dunkirk (2017)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=F-eMt3SrfFU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dunkirk[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79741a52d10e3287dfb2c407bca86c442e6fc24f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Dunkirk - HD DUAL [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db9c8636b4a6fb2d97abfa9d95a2636386c4906a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Dunkirk - FHD DUAL [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Dunkirk.2017.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Dunkirk - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27326.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Dunkirk - FHD DUB[/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/20975.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Dunkirk - FHD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8TbAQlEpRG2EQsjMNR76IYGNuki.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/wOcvBLTlFfsuCBxKYNTAF4h7xDo.jpg</fanart>	
+<info>Durante a Segunda Guerra Mundial, a Alemanha avança rumo à França e cerca as tropas aliadas nas praias de Dunkirk. Sob cobertura aérea e terrestre das forças britânicas e francesas, as tropas são lentamente evacuadas da praia.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<item>
-<title>[COLOR orange] [B]NÃO ENCONTROU O XXXXXXX QUE PROCURAVA ?[/COLOR]
-[COLOR orange] SOLICITE AO SUPORTE NO GRUPO DO WHATTS [/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<subitem>	
+<title>[COLOR white][B]Esquadrão 303 (2018)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=SAVw7NzQk44$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Esquadrao 303[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4591191ea5ba719816533ab5ec1953f78395792a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Esquadrao 303 - HD DUAL [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:317cfe92c7f3b3f0aea946e5699a9a50fb968981$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Esquadrao 303 - FHD DUAL [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Esquadrao.303.2018.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Esquadrao 303 - HD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/73369.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Esquadrao 303 - HD DUB[/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/72638.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Esquadrao 303 - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gVzgZBoXsC3rm7IoY02Tmf3Ku5Z.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/aQs7OMCrB2Ui5BcE5emV01yotDK.jpg</fanart>	
+<info>Esta é a história do Esquadrao de caça conceituado, no qual serviu principalmente aviadores da Polônia, na história do combate aéreo e na defesa heroica da Inglaterra durante a Segunda Guerra Mundial, a Batalha da Grã-Bretanha contra ataques nazistas. O Esquadrao 303 disparou três vezes mais aviões da Luftwaffe do que qualquer outro Esquadrao aliado.</info>	
+<genre>GUERRA</genre>  	
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Esquadrão Red Tails (2012)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=E4QNoTOz1U8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Esquadrao Red Tails[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3733f901205a340f369592c41eff49b1f29282cc$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Esquadrao Red Tails - HD DUAL [/B][/COLOR]</link>	
 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6b521e6d13bef2d7222a98d8869e9c834c6f045$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Esquadrao Red Tails - FHD DUAL [/B][/COLOR]</link>	
+	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Esquadrao.Red.Tails.2012.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Esquadrao Red Tails - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/59899.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Esquadrao Red Tails - HD DUB[/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/48227.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Esquadrao Red Tails - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oQGKOAyMSr6pS4msM7ZgyWj4YPR.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/hzCDIfHQPdH28aAoGXSng1gFU8s.jpg</fanart>	
+<info>A força aérea americana está sofrendo muitas baixas devido aos bombardeiros em suas missões contra a Alemanha. Sem dinheiro para bancar novos investimentos, o governo começa a considerar a possibilidade de ter pilotos negros. Surge, então, a chance destes jovens mostrarem sua coragem.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Pearl Harbor (2001)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=oGYcxjywx0o$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Pearl Harbor[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:732b59d49227f91c0e89b81d4908fd977465fb5b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Pearl Harbor - HD DUB [/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cf5398f1e02e2b7ded6f6bde7b3599459032f3f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Pearl Harbor - FHD LEG [/B][/COLOR]</link>	
+	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Pearl.Harbor.2001.FHD.dub+LF.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Pearl Harbor - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27360.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Pearl Harbor - HD DUB[/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/21123.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Pearl Harbor - HD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftkKVbk4sQEcekuaGJvpvXcNs32.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/yWk4zAuQdWwLjbKKZDPUBSaTbcU.jpg</fanart>	
+<info>Dois pilotos e amigos de longa data se apaixonam pela mesma mulher, mas precisam deixar suas diferenças de lado quando os japoneses atacam a base naval de Pearl Harbor em 7 de dezembro de 1941.</info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Max Manus - O Homem da Guerra (2008)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=WbK4WTQFf9U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Max Manus - O Homem da Guerra[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af6fe2779d98445156d689f4a75588d4df2bff4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Max Manus - O Homem da Guerra - HD DUAL [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd60231ae3079634d85d7a30c4369a8f621d77fa$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Max Manus - O Homem da Guerra - HD LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Max Manus - O Homem da Guerra - FHD DUB[/B][/COLOR]</link>	
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lfwTW7APpmS0eBU7RZDiDyS8AHU.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/aD4wmfqAqu8ZwGzNjAXzKDvC5HX.jpg</fanart>	
+<info>Max Manus é um filme de guerra biográfico norueguês de 2008, baseado nos fatos reais da vida do lutador de resistência Max Manus (1914–96), após sua contribuição na Guerra de Inverno contra a União Soviética. A história segue Manus desde o início da Segunda Guerra Mundial na Noruega até o tempo de paz em 1945.</info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<subitem>	
+<title>[B][COLOR white]O Mais Longo dos Dias (1962)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=AbOv1cpY7T4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Mais Longo dos Dias[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d259b939dc0efe0706ea5d195b51bba3c95680d0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Mais Longo dos Dias - HD LEG[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:121673009a6ac01d201eeb3c460ab29e1fe1be60$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Mais Longo dos Dias - FHD LEG[/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-O.Mais.Longo.dos.Dias.1962.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Mais Longo dos Dias - HD DUB[/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-O.Mais.Longo.dos.Dias.1962.FHD.LEGFIX.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Mais Longo dos Dias - HD LEG FIX[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7R1taqXDOLhwetCvoGFp4ihICzs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8DynrJ8S0Ugmgsu7BDLsrsRlBMO.jpg</fanart>
+<info>O maior ataque que o mundo já viu, acontecido no dia 6 de junho, ficou conhecido como o Dia D e desbancou o domínio nazista na Europa. A ofensiva, que envolveu mais de 3 milhões de homens, foi uma das mais ousadas e sangrentas estratégias militares da era moderna e marcou o início do fim da Segunda Guerra Mundial. Vencedor dos Oscar de Fotografia em Preto e Branco e Efeitos Especiais, foi indicado ainda à outras três categorias: Filme, Montagem e Direção de Arte em Preto e Branco.</info>
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]O Resgate do Soldado Ryan (1998)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=ffN5ty0hZYA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Resgate do Soldado Ryan[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3596cf8c7f58b817cc50b88bb071850a4059238a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Resgate do Soldado Ryan - HD DUAL [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7624b3b273602dac9fc9ddaf4e33312ac72cf447$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Resgate do Soldado Ryan - FHD DUAL [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-O.Resgate.do.Soldado.Ryan.1998.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Resgate do Soldado Ryan - FHD DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27354.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Resgate do Soldado Ryan - HD DUB[/B][/COLOR]</link>	
+<link>http://b5.vc:80/movie/ritchie/102030/21094.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Resgate do Soldado Ryan - FHD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dxEyyh7XOr1h1pHyrOvdpscmnAG.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/gr5YD5dnF0QbIF00ovdb9AtXa7g.jpg</fanart>	
+<info>Ao desembarcar na Normandia, no dia 6 de junho de 1944, capitão Miller (Tom Hanks) recebe a missão de comandar um grupo do segundo batalhão para o resgate do soldado James Ryan, caçula de quatro irmãos, dentre os quais três morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+		
+<subitem>	
+<title>[COLOR white][B]Tora! Tora! Tora! (1970)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=kFUfY9bQMgI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tora! Tora! Tora![/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fd6a426992d023531e019911fb484fa3170405e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Tora! Tora! Tora! - HD LEG [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81ed5fc7ce1cf5ec425231f0e4bf9e7507f54fe0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Tora! Tora! Tora! - FHD DUB [/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-U-571-A.Batalha.do.Atlantico.2000.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Tora! Tora! Tora! - FHD DUB[/B][/COLOR]</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9noF9I4LL8OvpIARtifKEQ6d8lK.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/czbiy4U4ZwZwsZwDLj3958Yv1Ma.jpg</fanart>	
+<info>Retrata de forma realista, quase documental, tanto do ponto de vista japonês como do norte americano, mostrando a preparação, os eventos e os erros que possibilitaram o ataque a Pearl Harbor em 7 de Dezembro de 1941, fato que forçou a entrada dos Estados Unidos da América na Segunda Guerra Mundial. O título do filme é o código utilizado em caso de sucesso do ataque japonês, que traduzido para o português significa 'Tigre! Tigre! Tigre!'.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail><ICONEDOFILME></thumbnail>	
+<fanart><FUNDODOFILME></fanart>	
+<info><SINOPSEDOFILME></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+ACRESCENTAR NOVO ITEM AQUI	
+</subitems>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]OUTRAS GUERRAS[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/ZYXdcNg/OUTRAS-GUERRAS-FILM.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FILMES COM TEMÁTICA DE OUTRAS GUERRAS</info>	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]12 Heróis (2018)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=0Q9W9vgLa58$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]12 Herois[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6984e1b126c42b960448829f8b7e2dc6df0e5ac6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]12 Herois - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]12 Herois - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97KPJhJp5SzcHi4yQniZjKv6Yyc.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/pcOeMkwouwDuIIBvgFyKO4VhqK.jpg</fanart>	
+<info>Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hemsworth) decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade de formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Filhas do Sol (2018)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=H1DRzFwDR6c$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Filhas do Sol[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3645332384660f8c5ebfcb1aafd59d6310fa381$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Filhas do Sol - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Filhas do Sol - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bR3yOXLuRiJUV4mGUM4CmkJC5JD.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/kQBYfm2kUXqaLOLD6f0Myk14xrq.jpg</fanart>	
+<info>Bahar é a comandante das Filhas do Sol, um batalhão composto apenas por mulheres curdas que atua ofensivamente na guerra do país. Ela e as suas soldadas estão prestes a entrar na cidade de Gordyene, local onde Bahar foi capturada uma vez no passado. Mathilde é uma jornalista francesa que está acompanhando o batalhão durante o ataque. O encontro entre as duas mulheres, dentro do cenário caótico que as cercam, irá mudar a vida de ambas permanentemente.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Air Strike (2018)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=BgIJfoo0n9Q&feature=youtu.be$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Air Strike[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:508a27c66c51b7bb8d5249ea9a03351fd464ce5d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Air Strike - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Air Strike - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/nrpivVyJjRQqVDhRTZWVPWqYwQp.jpg</fanart>	
+<info>História real de Chris Kyle, atirador de elite das forças especiais da marinha dos Estados Unidos. Durante a guerra do Iraque, sua missão era uma só- proteger seus companheiros. Seu dever fez dele um dos maiores atiradores da história americana. Sua precisão salva inúmeras vidas, mas também o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que não tem como deixar a guerra para trás.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Ato de Coragem (2012)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=WxM5TiSdxQQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Ato de Coragem[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c908031a3d68a30e6c0d8fe7762f9a939c2dc99e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Ato de Coragem - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Ato de Coragem - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1jwRYDsSEwJQhdBiiWgjvv7jZKX.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/bHefJgSTO3JOZy9fETN6cWpvbMX.jpg</fanart>	
+<info>Os conhecidos Navy SEALs são a divisão de elite da Marinha dos Estados Unidos e também os protagonistas desta produção, que conta a história da tentativa dos militares em resgatar um agente da CIA que foi sequestrado. O elenco conta com as presenças de verdadeiros oficiais da Marinha. A direção é da dupla Mike McCoy e Scott Waugh.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Zona Verde (2010)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=e3KJ21TLKVE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Zona Verde[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75dddb91512597f895d07544c5ab993a5f62ad4c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Zona Verde - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Zona Verde - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tlEoxWgpGare9YrttfWNCXOq5Qt.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/3EE9h3xYxIastf5xVLbezH3eGps.jpg</fanart>	
+<info>Bagdá, 2003. Roy Miller (Matt Damon) lidera uma equipe, a serviço da inteligência do exército, em busca de armas de destruição em massa no Iraque. Depois de algumas tentativas frustradas, o militar se vê diante de um cenário caótico entre seus compatriotas, o que o deixa dividido entre aplacar o anseio do governo de encontrar algo que justificasse a invasão ou descobrir a verdade dos fatos.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]A Irmandade da Guerra (2004)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=co1ORjz9nE8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Irmandade da Guerra[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3026D4530721D0C748C2CCA4D96137550380E954$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Irmandade da Guerra - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Irmandade da Guerra - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vvFaitgXDrQZSPdENiMFwjTNvgu.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/5fSiKlAibnZetnWjIQRnFVeknKq.jpg</fanart>	
+<info>Jin-tae, um sapateiro, trabalha incansavelmente para poder pagar a faculdade de seu irmão mais novo Jin-seok, entretanto, seus desejos e sonhos são colocados de lado quando os dois são forçados a entrar no exército contra suas vontades. No momento crucial da batalha, o destino intervém, forçando seus laços de fé, amor e confiança a serem testados diversas vezes.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Lágrimas do Sol (2003)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=e0cgUCHqirs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Lagrimas do Sol[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3611dabe28302dd57f0be258268a9081c7588158$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Lagrimas do Sol - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Lagrimas do Sol - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h1CETLJmRaHWfyXAeLgBhZAE0wA.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/90ncBig0baagi298dA9ZdvKzUmJ.jpg</fanart>	
+<info>O governo nigeriano está falido e o país está à beira de uma guerra civil. O Tenente A.K. Waters é responsável por liderar uma equipe de soldados para a selva para resgatarem a Dra. Lena Kendricks. Quando Waters e sua equipe localizam Kendricks, ela conta que não deixará seus pacientes para serem abatidos por rebeldes. A equipe provoca a ira das forças dos Estados Unidos e da Nigéria quando lado a lado com Kendricks tenta proteger os refugiados.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail><ICONEDOFILME></thumbnail>	
+<fanart><FUNDODOFILME></fanart>	
+<info><SINOPSEDOFILME></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+ACRESCENTAR NOVO ITEM AQUI	
+</subitems>	
+	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]GUERRA DO VIETNAN[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/2cDZFYn/VIETNAN-FILM.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FILMES COM TEMÁTICA DO VIETNAN</info>	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Destacamento Blood (2020)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=D5RDTPfsLAI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef4d5cca182c1efa8617ad19448b649136b54e6b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sl2qDR4aRHW5bAJdfiFC4H2NKWZ.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/Aq5Zhj9iaTF6BEKNk05dlUxeHKa.jpg</fanart>	
+<info>Spike Lee conta a história de quatro veteranos de guerra afro-americanos que voltam ao Vietnã à procura dos restos mortais de seu comandante e de um tesouro enterrado.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Tigerland - A Caminho da Guerra (2000)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=uyO_oojfKXY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70813393594b1c362a3f466ad7ca077a744aea2a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pnFdCvxxL44sPLkKEIJCUaIZa7M.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/vToVp9dgMx8EmPD5ibNYnSY5kPg.jpg</fanart>	
+<info>Em 1971, os EUA estão em plena Guerra do Vietnã, conflito responsável pela morte de milhares de jovens. Enquanto isso, outros milhares preparam-se para enfrentar o campo de batalha em breve. Em Fort Polk (no Estado da Louisiana), um grupo de jovens recrutas em treinamento possuem opiniões conflitantes sobre a guerra. Enquanto Jim Paxton (Matthew Davis) tem uma visão idealista e romântica do conflito, Roland Bozz (Colin Farrell) decide que não participará da Guerra do Vietnã e passa a desrespeitar ordens de seus superiores na intenção de ser expulso da Infantaria norte-americana.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Nascido para Matar (1987)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=ElJKZqnJsU4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nascido para Matar[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:i2rejghsz55vjzl46coybrr6itedpwkc$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Nascido para Matar - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Nascido para Matar - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qHm54HjL1F6CFVyYOz6Q2HAPTfS.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/7GdKMuiypkhQqOOGtlj9l6NFD0N.jpg</fanart>	
+<info>Um sargento treina de forma fanática e sádica os recrutas em uma base de treinamentos, na intenção de transformá-los em máquinas de guerra para combater na Guerra do Vietnã. Após serem transformados em fuzileiros navais, eles são enviados para a guerra e quando lá chegam se deparam com seus horrores.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Platoon (1986)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=KztP7SKe0uk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Platoon[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aa5059185ac5b7b7f4046604a7d123fff972c32$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Platoon - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Platoon - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/8LdElajDZ56XA5Y8UiIbW624x14.jpg</fanart>	
+<info>Chris (Charlie Sheen) é um jovem recruta recém-chegado a um batalhão americano em meio à Guerra do Vietnã. Idealista, Chris foi um voluntário para lutar na guerra pois acredita que deve defender seu país, assim como fizeram seu avô e seu pai em guerras anteriores. Mas aos poucos, com a convivência dos demais recrutas e dos oficiais que o cercam, ele vai perdendo sua inocência e passa a experimentar de perto toda a violência e loucura de uma carnificina sem sentido.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Apocalypse Now (1979)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=snDR7XsSkB4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Apocalypse Now[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c50d403fcd632d7d018e9ed4894a2b6f0a5b6a29$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Apocalypse Now - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Apocalypse Now - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/k1lFbIu1HIGuFIWMkWMlRoKXM8q.jpg</fanart>	
+<info>Durante a guerra do Vietnã, o Capitão Willard recebe como missão ir ao Camboja para assassinar um Boina Verde renegado, o Coronel Kurtz. Este vive no meio de uma tribo local e é venerado como um deus. Mas, chegado ao seu destino, o Capitão Willard descobre que a sua missão é bem diferente do que imaginara.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail><ICONEDOFILME></thumbnail>	
+<fanart><FUNDODOFILME></fanart>	
+<info><SINOPSEDOFILME></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+ACRESCENTAR NOVO ITEM AQUI	
+</subitems>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]OCUPAÇÃO E RESISTÊNCIA[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/swXhY46/OCUP-RES-FILM.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FILMES COM TEMÁTICA DE OCUPAÇÃO E RESISTÊNCIA</info>	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]A Guerra de Hart (2002)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=cViCfrldReM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Guerra de Hart[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b9a9e57915136ad7ba42108867fef06af72f343$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Guerra de Hart - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Guerra de Hart - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hePkUbOc3d0uV6Nt576Hvs9m8kK.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/3sE8aYGRRTF05tGm7YtmT5kGhhu.jpg</fanart>	
+<info>Tommy Hart é um estudante do 2º ano de Direito que se alista no exército para lutar pelos Aliados na 2ª Guerra Mundial. Em meio a guerra ele acaba sendo capturado, sendo posteriormente enviado a um campo de concentração. Lá um soldado negro é acusado de ter assassinado um soldado branco que era racista, sendo que ambos eram prisioneiros no local. Ao invés de executá-lo, os nazistas concordam com o plano apresentado pelo coronel William McNamara , também prisioneiro no campo, que propõe que o soldado acusado tenha um julgamento realizado no local. Hart é então designado a defender o soldado acusado enquanto que McNamara usa a situação para empreender seu plano de fuga do local.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]A Lista de Schindler (1993)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=tSHqEBhQx8M$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Lista de Schindler[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddc0a35cb4b7558231eaac3e3896f95b461160e3$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Lista de Schindler - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Lista de Schindler - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/1saP2R4xkC7PHqOkbvcjrJhkLJg.jpg</fanart>	
+<info>O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio </info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Fugindo do Inferno (1963)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=r9Q_WESQUVw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Fugindo do Inferno[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32cddfcc984516fce9660ed26fa4c8b3340bfa44$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Fugindo do Inferno - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Fugindo do Inferno - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iTh8thzuxiM5FwCaxsSTpaix27L.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/1pz4ZArUTM1jrpR6XkYuDlEQncG.jpg</fanart>	
+<info>Em 1943 os nazistas decidem transferir os prisioneiros de guerra militares, que têm maior incidência em tentativas de fugas, para o mesmo campo, que foi projetado para impedir qualquer tipo de evasão. Mas isto foi um erro, pois apesar dos prisioneiros gozarem de certos privilégios, cada um era o melhor na sua "especialidade" e não pretendiam ficar presos até o final da guerra. Logo idealizam um audacioso plano de fuga, que previa a construção de três túneis, mas a idéia não era retirar do campo alguns prisioneiros mas sim duzentos e cinqüenta.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail><ICONEDOFILME></thumbnail>	
+<fanart><FUNDODOFILME></fanart>	
+<info><SINOPSEDOFILME></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+ACRESCENTAR NOVO ITEM AQUI	
+</subitems>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]COMANDOS E ESPIONAGEM[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/199P3gd/COM-ESPIO-FILM.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FILMES COM TEMÁTICA DE COMANDOS E ESPIONAGEM</info>	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Caçadores de Obras-Primas (2014)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=czYqP1jbPTk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Casadores de Obras-Primas[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03fef33b28ca27428f14df2345ea4d5dd36db014$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Casadores de Obras-Primas - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Casadores de Obras-Primas - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNHFL9w2QRDoe9VKS0kLmMyBgWT.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/uLBJtONQwHoGc61vbIfoC6a9gUp.jpg</fanart>	
+<info>Durante o declínio de Hitler na Alemanha, um grupo de 13 especialistas vindos de países diferentes é reunido para reencontrar obras de arte roubadas pelos nazistas durante a Segunda Guerra Mundial. George Stout (George Clooney), um oficial americano e conservador de obras de arte, lidera a equipe.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]O Jogo da Imitação (2014)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=AFiXqNAUW1I$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffb4262ccfbd6f9c411ed2c804a20ee3c1d5e4c2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/qIqIK3XgRJDxxQSnvMAbt6gOJ3U.jpg</fanart>	
+<info>Em 1939, a recém-criada agência de inteligência britânica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender códigos nazistas, incluindo o "Enigma", que criptógrafos acreditavam ser inquebrável. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de "Enigma", enquanto ele constrói uma máquina para decifrá-las.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]O Grande Herói (2013)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=G1DxVCgpI34$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Grande Heroi[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3856A0C9E19E78FA5D475E0B718A1FCB7FE343E&$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Grande Heroi - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Grande Heroi - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Xcir0rOyYydPhGRYgG0Ctt1sqf.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/9qoGxUOswegkDTAYo0Moi5VHl1V.jpg</fanart>	
+<info>Marcus Luttrell, oficial da marinha norte-americana , é enviado ao Afeganistão em busca de um homem de confiança de Osama Bin Laden. Quando ele se depara com um homem idoso e três crianças, ele recebe ordens para matar os quatro, mas Marcus não tem coragem de fazê-lo. O paradeiro dos americanos é descoberto e logo toda a equipe é atacada por 250 homens armados, enviados pela Al Qaeda.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Bastardos Inglórios (2009)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=w1O5LThfp7w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Bastardos Inglorios[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8c83ec0c77b4815b2cd40277b5340daaedee56a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Bastardos Inglorios - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Bastardos Inglorios - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q33bLgO3SP69mUdfWktG6LJGU27.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q33bLgO3SP69mUdfWktG6LJGU27.jpg</fanart>	
+<info>Durante a Segunda Guerra Mundial, na França, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do partido.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Operação Valquíria (2008)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=-YppIQUiE9Y$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Operasao Valquiria[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70fc3426b4caa70767f14008d6ea06508387ebf7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Operasao Valquiria - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Operasao Valquiria - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5cJS5ZuVrWRt6sEYDlo21ak1TNC.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/9sg0yJ2pedPgk7T2ucjRFH4GoXA.jpg</fanart>	
+<info>A história é sobre uma das histórias mais heróicas da Segunda Guerra Mundial, mas também uma das mais desconhecidas. Gravemente ferido em combate, o coronel alemão Claus von Stauffenberg (Tom Cruise) retorna para a África para se juntar à resistência alemã e ajudar a criar a Operação Valkyrie, um complexo plano que irá permitir a substituição de Hitler no poder assim que ele estiver morto. O destino e as circunstâncias fazem com que Stauffenberg se torne uma peça central na missão. Ele não só tem que liderar o golpe e tomar o controle do governo de seu país, como fica encarregado de matar Hitler com as próprias mãos.</info>	
+<genre>GUERRA</genre>  	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Enigma (2001)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=5NrfiIpUd20$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Enigma[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9678030C7002280475DE612E05FE62794344EE3$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Enigma - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Enigma - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7gBFkDYBqvSzrPOWlpGTXRp97NQ.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/ypOBosXYg2jjCHyZBpX21if0qOv.jpg</fanart>	
+<info>Em março de 1943, a equipe de elite dos decodificadores da Inglaterra tem uma responsabilidade monumental: decifrar o Enigma, um código ultraseguro utilizado pelos nazistas para enviar mensagens aos seus submarinos. O desafio fica ainda maior quando se sabe que uma grande esquadra de navios mercantis está prestes a cruzar o Atlântico e cerca de dez mil homens correrão perigo caso a localização dos submarinos alemães não seja logo descoberta, o que apenas poderá ocorrer quando o Enigma for decifrado. Para liderar este trabalho é chamado Tom Jericho (Dougray Scott), um gênio da matemática que consegue realizar tarefas consideradas impossíveis pelos especialistas. Porém, ao mesmo tempo em que Jericho se envolve cada vez mais com a decodificação do Enigma ele precisa estar atento à sua namorada Claire (Saffron Burrows), uma sedutora e misteriosa mulher que pode estar trabalhando como espiã para os alemães.</info>	
+<genre>GUERRA</genre>  	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Os Doze Condenados (1967)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=3LbtQP5aO1s$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Doze Condenados[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56f784911d00952a4ca4dae86513ebd96d940f7b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Os Doze Condenados - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Os Doze Condenados - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aLogpA6ZWJD1FTkyktSY2cLj6yR.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/eg4M9n90NdWMT4pu5H1V771O7sC.jpg</fanart>	
+<info>Um major rebelde e uma fama de resolver as coisas recebe a ordem de entrevistar prisioneiros militares, condenados à morte ou à prazo longo, para uma perigosa missão em troca de perdão. O objetivo é saltar de paraquedas atrás das linhas inimigas e causar estragos para os generais alemães que estarão em uma casa de repouso, na véspera do Dia D.</info>	
+<genre>GUERRA</genre>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]Os Canhões de Navarone (1961)[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=1m_LIQRm3LI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Canhoes de Navarone[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d573920615d077546821d704e3e1b0e6f8183470$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Os Canhoes de Navarone - DUB [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Os Canhoes de Navarone - LEG [/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWOcOmSdKXKsjgf3FLR2asyK68r.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/4hFaR2qCtpmFZKzk2rhOgekr0fM.jpg</fanart>	
+<info>Grécia, 1943. Dois mil soldados britânicos perderam-se em Kheros. Exaustos e indefesos, eles têm apenas uma semana para partir, pois em Berlim o supremo comando do eixo determinara fazer uma demonstração de força no Mar Egeu, para fazer a Turquia entrar na guerra do seu lado. A demonstração seria em Kheros, sem valor militar, mas próximo à costa da Turquia. O melhor armamento alemão seria usado e assim os britânicos seriam facilmente dominados, a não ser que pudessem fugir antes. Porém a única rota de fuga possível estava bloqueada, pois dois canhões enormes controlados por um radar estavam em Navarone, uma ilha vizinha. Assim, um grupo aliado tem a quase impossível missão de escalar uma parede de rocha em Navarone e invadir uma fortaleza nazista, onde estão os canhões, que se não forem destruídos vão afundar diversos navios aliados, pondo um fim na tentativa de resgatar os soldados britânicos.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail><ICONEDOFILME></thumbnail>	
+<fanart><FUNDODOFILME></fanart>	
+<info><SINOPSEDOFILME></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+ACRESCENTAR NOVO ITEM AQUI	
+</subitems>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+ SEÇÃO SÉRIES DE GUERRA	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<channel>	
+<name>[COLOR white][B]SÉRIES DE GUERRA[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/YQnmj1w/GUERRA-SERIES.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
+	
+<subchannel>	
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]The Liberator[/B][/COLOR]</name>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>	
+<info>Série The Liberator	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]ANO - 2020[/B][/COLOR]	
+[COLOR orange][B]1 TEMP - 4 EPS[/B][/COLOR]	
+</info>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Liberator[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=LPebr-6x3s0</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>	
+<info>ASSISTA AO TRAILER</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Liberator - 2020 - DUB[/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3922fd2c6bf3a6f13fd7eff7d4846904d328a62</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>	
+<info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+subitem>	
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]The Liberator - 2020 - DUB[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>	
+<info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]The Liberator - 2020 - DUB[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 4 EPs - DUB[/B][/COLOR]</link>	
+	
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78873.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Por Que Lutamos [/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78874.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Uma Palavra: Anzio [/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78875.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Inimigo [/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78876.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Em Casa [/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>	
+<info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]The Liberator - 2020 - DUB[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 4 EPs - DUB[/B][/COLOR]</link>	
+	
+<link>http://b5.vc:80/series/ritchie/102030/87586.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Por Que Lutamos [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/ritchie/102030/87591.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Uma Palavra: Anzio [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/ritchie/102030/87596.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Inimigo [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/ritchie/102030/87601.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Em Casa [/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>	
+<info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]O Exército Esquecido[/B][/COLOR]</name>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>	
+<info>Série O Exército Esquecido	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]ANO - 2020[/B][/COLOR]	
+[COLOR orange][B]1 TEMP - 5 EPS[/B][/COLOR]	
+</info>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Exército Esquecido[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=NG6PUj-TUfY</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>	
+<info>ASSISTA AO TRAILER</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Exército Esquecido - 2020 - DUB[/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A7817DDF48C7FA1B32A042DD930190B2AC1CC18</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rAM0HCEsZIDfBobmsZtURZfqfN.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg</fanart>	
+<info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]World on Fire[/B][/COLOR]</name>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>	
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>	
+<info>Série World on Fire	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]ANO - 2019[/B][/COLOR]	
+[COLOR orange][B]1 TEMP - 7 EPS[/B][/COLOR]	
+</info>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]World on Fire[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=ttVQ_C8gvRg</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>	
+<info>ASSISTA AO TRAILER</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]World on Fire - 2021[/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cb3fc68fc696194928fdcb53c651b1f06e72842</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>	
+<info>World On Fire é um drama que se debruça na Segunda Guerra Mundial através dos olhos de pessoas comuns de todos os lados do conflito. A primeira temporada de sete episódios seguirá o primeiro ano da guerra, começando com a invasão alemã da Polônia em setembro de 1939 e terminando com a Batalha da Inglaterra</info>	
+<genre>GUERRA</genre>	
+</subitem>	
+	
+subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]World on Fire - 2021[/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3922fd2c6bf3a6f13fd7eff7d4846904d328a62</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>	
+<info>World On Fire é um drama que se debruça na Segunda Guerra Mundial através dos olhos de pessoas comuns de todos os lados do conflito. A primeira temporada de sete episódios seguirá o primeiro ano da guerra, começando com a invasão alemã da Polônia em setembro de 1939 e terminando com a Batalha da Inglaterra</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]World on Fire - 2019 - DUB[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ooqmk4jo2wGPJbnpyZccRKUTEou-4619/view$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Episodio 01[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15Yx6hPztZfBChUTTuN_aMaRbVsqOGnMD/view$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Episodio 02[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I3FXqUSQiWcGypmK97d3euZmSAoETBvc/view$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Episodio 03[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u1_4J4jkHTdEYIA_cXsi-EQhFn6Xc1GP/view$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Episodio 04[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PsWaqURJmAsZ9xnV7QOiDQ5IJwaZ6-Lc/view$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Episodio 05[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KDdzBsUHojDelfIDOHLwk0uBNNOy7-IB/view$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Episodio 06[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JDA162JwHAw4TxFlCwMaUGQSDOIEH9tW/view$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Episodio 07[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>	
+<info>World On Fire é um drama que se debruça na Segunda Guerra Mundial através dos olhos de pessoas comuns de todos os lados do conflito. A primeira temporada de sete episódios seguirá o primeiro ano da guerra, começando com a invasão alemã da Polônia em setembro de 1939 e terminando com a Batalha da Inglaterra</info>	
+<genre>GUERRA</genre>	
+</subitem>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]The Heavy Water War[/B][/COLOR]</name>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dawk3arN8G6JaOsCvA2aiBCaNao.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/luGymu1SJxHRCj8PY3t9gw35Wjg.jpg</fanart>	
+<info>Série The Heavy Water War	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]ANO - 2015[/B][/COLOR]	
+[COLOR orange][B]1 TEMP - 6 EPS[/B][/COLOR]	
+</info>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Heavy Water War[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=_K3Ry2K4yNE</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dawk3arN8G6JaOsCvA2aiBCaNao.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/luGymu1SJxHRCj8PY3t9gw35Wjg.jpg</fanart>	
+<info>ASSISTA AO TRAILER</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]The Heavy Water War - 2015 - DUB[/B][/COLOR]</title>	
+	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Up7_T1CuejrqYgMX62nEmOkjcTRybjyb/view$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]The Heavy Water War[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vLT2HNaJudDz7R-hVXEiuVqWa9_nAPkC/view$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]The Heavy Water War[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13FcDCZ-8kIHmVNrX3dPTKFzcijOsE_QM/view$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]The Heavy Water War[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EYsw2DaAewiIKFhTxP-MPJ9-Iy3LaeM4/view$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]The Heavy Water War[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1G3Gn8n2c_OQgf9lcy1ci02Cz1jGwzCAf/view$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]The Heavy Water War[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15DhZprE0k34etNbyyGHjbcOGsT0bEHx2/view$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]The Heavy Water War[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dawk3arN8G6JaOsCvA2aiBCaNao.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/luGymu1SJxHRCj8PY3t9gw35Wjg.jpg</fanart>	
+<info> Em 1939, o cientista alemão Werner Heisenberg (Christoph Bach), vencedor do prêmio Nobel de Física, passa a trabalhar para o governo nazista para o desenvolvimento da bomba atômica. Suas motivações são simples: a guerra está a serviço da ciência. Na Inglaterra a Executiva de Operações Especiais (SOE) recruta o norueguês Leif Tronstad (Espen Kloumann Høiner), professor de química na vida civil, que tem a missão de elaborar uma plano para destruir o elemento essencial para a produção da bomba: A água pesada, produzida na Norsk Hydro, em Rjukan, uma vila noruegues</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]Quando os Sinos Dobram[/B][/COLOR]</name>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3i1Gqt8ejEwjXq3pFiD1P8ykgVK.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/90oCF2SN8e4wFovhlFn3EzzaIL3.jpg</fanart>	
+<info>Série Quando os Sinos Dobram	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]ANO - 2014[/B][/COLOR]	
+[COLOR orange][B]1 TEMP - 5 EPS[/B][/COLOR]	
+</info>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Quando os Sinos Dobram[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=tdKf0ck9PM4</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3i1Gqt8ejEwjXq3pFiD1P8ykgVK.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/90oCF2SN8e4wFovhlFn3EzzaIL3.jpg</fanart>	
+<info>ASSISTA AO TRAILER</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Quando os Sinos Dobram - 2014 - DUB[/B][/COLOR]</title>	
+	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t-NDZLA5lDEm7dzQZjDJDkDGryXlczzP/view$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Quando os Sinos Dobram[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q0eGu3d0truShbSKhvG5MFluWX-k9u4F/view$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Quando os Sinos Dobram[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sWzbY5vIaT0kdfvysNGSa3yq_KYD7sPC/view$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Quando os Sinos Dobram[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LHaZHcRI6BozqK89nChvrD4C3bI9VBGl/view$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Quando os Sinos Dobram[/B][/COLOR]</link>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f4Bik00q026bb3wkYw2mKcEwFFy0u8F2/view$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Quando os Sinos Dobram[/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3i1Gqt8ejEwjXq3pFiD1P8ykgVK.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/90oCF2SN8e4wFovhlFn3EzzaIL3.jpg</fanart>	
+<info>No começo da Primeira Guerra Mundial, dois adolescentes desafiam seus pais e se alistam no exército.</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]O Naufrágio do Lacônia[/B][/COLOR]</name>	
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/8185A1Um23L._AC_SL1200_.jpg</thumbnail>	
+<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>	
+<info>Série O Naufrágio do Lacônia	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]ANO - 2011[/B][/COLOR]	
+[COLOR orange][B]1 TEMP - 2 EPS[/B][/COLOR]	
+</info>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Naufrágio do Lacônia[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=VkfhmF3vfak</link>	
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/8185A1Um23L._AC_SL1200_.jpg</thumbnail>	
+<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>	
+<info>ASSISTA AO TRAILER</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Naufrágio do Lacônia - 2010 - Leg-Fix - Parte 1[/B][/COLOR]</title>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BJQ_EvQbIqlSwAxPfmwE2bYjm16p6Qvm/view</link>	
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/8185A1Um23L._AC_SL1200_.jpg</thumbnail>	
+<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>	
+<info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>	
+<genre>GUERRA</genre>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Naufrágio do Lacônia - 2010 - Leg-Fix - Parte 2[/B][/COLOR]</title>	
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PmOMQ9cvATHlsh329QGsAJSbHLJrhraV/view</link>	
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/8185A1Um23L._AC_SL1200_.jpg</thumbnail>	
+<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>	
+<info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>	
+<genre>GUERRA</genre>	
+</subitem>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]The Pacific[/B][/COLOR]</name>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>	
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>	
+<info>Série The Pacific	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]ANO - 2010[/B][/COLOR]	
+[COLOR orange][B]1 TEMP - 10 EPS[/B][/COLOR]	
+</info>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Pacific[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=LPebr-6x3s0</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>	
+<info>ASSISTA AO TRAILER</info>	
+<genre>GUERRA</genre>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Pacific - 2010 - DUB[/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ac1e6383376e756fe3c49f62da9fa82900deb55</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>	
+<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Pacific - 2010 - DUB[/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BBCACED5E91C280BEDEBA9AC3EB5C724A141577F</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>	
+<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info><SINOPSEDASÉRIE></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info><SINOPSEDASÉRIE></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info><SINOPSEDASÉRIE></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+COLE AQUI NOVA SERIE MANTER TAG DE FECHAMENTO	
+</subitems>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]Band of Brothers[/B][/COLOR]</name>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>	
+<info>Série Band of Brothers	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]ANO - 2001[/B][/COLOR]	
+[COLOR orange][B]1 TEMP - 10 EPS[/B][/COLOR]	
+</info>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Band of Brothers[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=1wlYPlwjGOY</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>	
+<info>ASSISTA AO TRAILER</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Band of Brothers - 2020 - DUB[/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23B3F21FCDD23B58CCB39133864407D347FDB047</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>	
+<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Band of Brothers - 2020 - DUB[/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DD35A408006B46A1FF0463D332194A4A4B0ED6F</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>	
+<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info><SINOPSEDASÉRIE></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info><SINOPSEDASÉRIE></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info><SINOPSEDASÉRIE></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+COLE AQUI NOVA SERIE MANTER TAG DE FECHAMENTO	
+</subitems>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+ COPIAR UMA NOVA  SÉRIES AQUI PARA BAIXO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]NomedaSérie (DATA)[/B][/COLOR]</name>	
+<thumbnail><ICONEDASÉRIE></thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info>Assista aqui os episódios da série NomedaSérie	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]	
+[COLOR orange][B]00 TEMPs  - 00 EPs[/B][/COLOR]	
+</info>	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>	
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedaSérie[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info>Assista ao trailer</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info><SINOPSEDASÉRIE></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info><SINOPSEDASÉRIE></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info><SINOPSEDASÉRIE></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info><SINOPSEDASÉRIE></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+COLE AQUI NOVA SERIE MANTER TAG DE FECHAMENTO	
+</subitems>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+ SEÇÃO COLEÇÕES DE FILMES DE GUERRA	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<channel>	
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE GUERRA[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/pQ9ysPp/GUERRA-COL.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>[B]OS MELHORES FILMES DE GUERRA COM SUAS SEQUÊNCIAS.[/B]</info>	
+	
+<subchannel>	
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
+	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+NOVA SUB-SEÇÃO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]Braddock[/B][/COLOR]</name>	
+<thumbnail>https://fireinthejungle.files.wordpress.com/2011/10/mia.jpg</thumbnail>	
+<fanart>https://p4.wallpaperbetter.com/wallpaper/943/246/322/vietnam-chuck-norris-action-missing-in-action-wallpaper-preview.jpg</fanart>	
+<info>Coleção Braddock	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]3 FILMES[/B][/COLOR]	
+[COLOR orange][B]ANOS - 1984 a 1988[/B][/COLOR]	
+</info>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>	
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Braddock[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=kmW9V8xAK-8</link>	
+<thumbnail>https://fireinthejungle.files.wordpress.com/2011/10/mia.jpg</thumbnail>	
+<fanart>https://p4.wallpaperbetter.com/wallpaper/943/246/322/vietnam-chuck-norris-action-missing-in-action-wallpaper-preview.jpg</fanart>	
+<info>ASSISTA AO TRAILER</info>	
+<genre>GUERRA</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Braddock - 3 Filmes - DUB[/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA31876E40D3F13AD1319C23DDF3539D6F2CED56</link>	
+<thumbnail>https://fireinthejungle.files.wordpress.com/2011/10/mia.jpg</thumbnail>	
+<fanart>https://p4.wallpaperbetter.com/wallpaper/943/246/322/vietnam-chuck-norris-action-missing-in-action-wallpaper-preview.jpg</fanart>	
+<info>Coleção completa com todos os filmes da franquia Braddock - Braddock - O Super Comando (1984), Braddock 2 - O Início da Missão (1985) e Braddock 3 - O Resgate (1988). O coronel das Forças Especiais, James Braddock, precisa trazer de volta soldados norte-americanos que ainda estão sendo mantidos como prisioneiros no Vietnã. Contando com a ajuda da funcionária do Departamento de Estado e de um ex-colega de Exército, Braddock, reúne informação altamente confidencial e armamento de última geração. Braddock, forma então, um exército de um homem só, disposto a invadir o Vietnã, para localizar e salvar seus companheiros restantes desaparecidos em combate. </info>	
+<genre>GUERRA</genre>  	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+ACRESCENTE AQUI NOVO ITEM DA COLEÇÃO	
+</subitems>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>	
+<thumbnail><ICONEDACOLEÇÃO></thumbnail>	
+<fanart><FUNDODACOLEÇÃO></fanart>	
+<info>Assista aqui os filmes da coleção Nomedacoleção 	
+[COLOR orange][B]GUERRA[/B][/COLOR]	
+[COLOR orange][B]0 FILMES[/B][/COLOR]	
+[COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]	
+</info>	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>	
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail><ICONEDOFILME></thumbnail>	
+<fanart><FUNDODOFILME></fanart>	
+<info><SINOPSEDOFILME></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+	
+<thumbnail><ICONEDOFILME></thumbnail>	
+<fanart><FUNDODOFILME></fanart>	
+<info><SINOPSEDOFILME></info>	
+<genre>GUERRA</genre>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+COLE AQUI NOVO ITEM DA COLEÇÃO	
+</subitems>	
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+COLE AQUI NOVA COLEÇÃO	
