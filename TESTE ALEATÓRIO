@@ -40,18 +40,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<subitem>
-<title>[B][COLOR white]NOMEDOFILME - DATA [/COLOR][/B]</title>
+<item>
+<title>[B][COLOR white]teste - DATA [/COLOR][/B]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=nKbJywWd20U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Tunel do Tempo [/B][/COLOR]</link>
 
 <link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/RAROS/Von.Ryan's.Express.1965.1080p.BluRay.x264-DUBLADO%20.mkv$$lsname=[COLOR orange][B]XXXXXXXXXXXX[COLOR yellow] -> [COLOR white]von ryan- DUB - LEGFIX[/B][/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
-<fanart>FUNDO</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
-</subitem>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tUQMWJEI0DQ1YhfHxDJGYipG4Yr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+<info>Dois cientistas voltam no tempo para tentar proteger um projeto secreto e ficam presos na máquina do tempo, viajando e vivendo diversas aventuras no passado e no futuro.</info>
+<genre>FICÇÃO</genre>  
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
