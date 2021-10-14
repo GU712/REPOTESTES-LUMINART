@@ -39,22 +39,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
 </subitem>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<item>
-<title>[B][COLOR white]teste - DATA [/COLOR][/B]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=nKbJywWd20U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Tunel do Tempo [/B][/COLOR]</link>
-
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/RAROS/Von.Ryan's.Express.1965.1080p.BluRay.x264-DUBLADO%20.mkv$$lsname=[COLOR orange][B]XXXXXXXXXXXX[COLOR yellow] -> [COLOR white]von ryan- DUB - LEGFIX[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tUQMWJEI0DQ1YhfHxDJGYipG4Yr.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
-<info>Dois cientistas voltam no tempo para tentar proteger um projeto secreto e ficam presos na máquina do tempo, viajando e vivendo diversas aventuras no passado e no futuro.</info>
-<genre>FICÇÃO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+	
 <subitem>	
 <title>[COLOR white][B]1917 (2020)[/B][/COLOR]</title>	
 <link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917 [/B][/COLOR]</link>	
@@ -303,8 +288,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>	
 <title>[COLOR white][B]A Batalha da Grã-Bretanha (1969)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=fEP1oSQWJ34$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Batalha da Gra-Bretanha[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Batalha.da.Gra-Bretanha.1969.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Batalha da Gra-Bretanha - SD LEGFIX[/B][/COLOR]</link>	
-<link>https://seed305.bitchute.com/OsqmkKQffiY2/EacQAGddXqIJ.mp4$$lsname=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]A Batalha da Gra-Bretanha - SD LEGFIX[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Batalha.da.Gra-Bretanha.1969.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Batalha da Gra-Bretanha - FHD DUB[/B][/COLOR]</link>	
+<link>https://seed305.bitchute.com/OsqmkKQffiY2/EacQAGddXqIJ.mp4$$lsname=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]A Batalha da Gra-Bretanha - SD DUB [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rudRtopZAEGGARXEkLTrvA4zfcG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yDegO9fhCUCooGKfRyytvuN9y2K.jpg</fanart>
 <info>A mais extraordinária batalha aérea da história, transformada num clássico filme de guerra.Em 1940, durante a Segunda Guerra Mundial, a RAF - Real Força Aérea britânica entra numa luta desesperada contra a Luftwaffe para impedir uma possível invasão das forças alemãs ao território inglês. Os soldados se engajam numa luta aérea pelo controle dos céus, e o que está em jogo é a sobrevivência da Inglaterra.</info>
@@ -1012,6 +997,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
+<subitem>
+<title>[B][COLOR white]O Expresso de Von Ryan (1965)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=m73YtZCKeeI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Expresso de Von Ryan[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-O%20Expresso.Von.Ryan.1965.FHD.DUB+LEGFIX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Expresso de Von Ryan - FHD DUB+LEGFIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qYYyOPomT1lhZ5mQQBt3JUE1buq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eCjwiOqkW3igulp8A0pTD21WvDs.jpg</fanart>
+<info>Ryan assume do major Eric Fincham (Trevor Howard), um oficial britânico, a posição de comando entre os prisioneiros do campo de concentração e passa a planejar uma ousada fuga. O plano é tomar um trem e fazê-lo atravessar a Itália em direção à Suíça, enfrentando uma forte perseguição nazista.</info>
+<genre>OUPAÇÃO E RESISTENCIA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <subitem>	
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>	
 	
