@@ -1142,14 +1142,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>	
 <title>[COLOR white][B]O Jogo da Imitação (2014)[/B][/COLOR]</title>	
 <link>plugin://plugin.video.youtube/play/?video_id=AFiXqNAUW1I$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffb4262ccfbd6f9c411ed2c804a20ee3c1d5e4c2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao - DUB [/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao - LEG [/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffb4262ccfbd6f9c411ed2c804a20ee3c1d5e4c2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao - HD DUB [/B][/COLOR]</link>	
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Jogo da Imitasao - LEG [/B][/COLOR]</link>	
 	
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-O.Jogo.da.Imitasao.2014.FHD.dud.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Jogo da Imitasao - FHD DUB[/B][/COLOR]</link>	
 	
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Jogo da Imitasao - HD DUB[/B][/COLOR]</link>	
 	
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>	
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Jogo da Imitasao - HD DUB[/B][/COLOR]</link>	
 	
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/qIqIK3XgRJDxxQSnvMAbt6gOJ3U.jpg</fanart>	
