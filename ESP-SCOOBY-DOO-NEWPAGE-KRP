@@ -217,7 +217,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes lançados apenas em DVD.
-[COLOR orange][B]29 FILMES[/B][/COLOR]
+[COLOR orange][B]31 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 1998 a 2019[/B][/COLOR]
 [COLOR orange][B]Filmes lançados em DVD.[/B][/COLOR]
 </info>
@@ -615,28 +615,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>SCOOBY DOO</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 </subitems>
@@ -648,9 +626,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes feitos para TV.
-[COLOR orange][B]0 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
-[COLOR orange][B]FILMES FEITOS PARA A TV.[/B][/COLOR]
+[COLOR orange][B]12 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1980 e 2018[/B][/COLOR]
+[COLOR orange][B]Filmes feitos para a TV.[/B][/COLOR]
 </info>
 
 <subitems>
@@ -803,28 +781,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>SCOOBY DOO</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 </subitems>
@@ -886,6 +842,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/original/A3LL3XqTqqucEIUa8kAGAHpU9Gm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tRVmAmq6Jzbx7OoGXSUUGlguokB.jpg</fanart>
 <info>Scooby-Doo e seus amigos estão a caminho de Blowout Beach para uma festa na praia, mas piratas fantasmas ameaçam arruinar as boas vibrações da turma.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
 <genre>SCOOBY DOO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -1203,7 +1181,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDASÉRIE></thumbnail>
 <fanart><FUNDODASÉRIE></fanart>
 <info><SINOPSEDASÉRIE></info>
-<genre>SEÇÃO ESPECIAL SCOOBY DOO</genre>
+<genre><SEÇÃO ESPECIAL SCOOBY DOO></genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
