@@ -32,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes mais atuais do SCOOBY.
-[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]4 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 2020 a 2021[/B][/COLOR]
 [COLOR orange][B]Os Últimos filmes do SCOOBY.[/B][/COLOR]
 </info>
@@ -91,6 +91,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/original/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hJzHvp3DvNH6PaTiI8IynfRFsU1.jpg</fanart>
 <info>Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo! Halloween (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HHfA6s9mx5k$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! Halloween[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b4640b7555af1206c3258b346f263d9389db39$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Halloween - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0e946012104834a19c4f2e9e7e7c0b04fd0e469$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Halloween - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-Halloween.2020.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! Halloween - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bs3p45IGZUZyqkHa4WLaiSk7xO9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5gTQmnGYKxDfmUWJ9GUWqrszRxN.jpg</fanart>
+<info>Scooby-Doo e a equipe se reúnem novamente para resolver o mistério de proporções gigantescas e salvar a Baía Cristal.</info>
 <genre>SCOOBY DOO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -532,6 +545,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
+<title>[COLOR white][B]Scooby-Doo! E o Combate do Salsicha (2017)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RxtgSnBBIz0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! E o Combate do Salsicha[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0712950610446c4825e88957c6895216e2436fea$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! E o Combate do Salsicha - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:902246725405bd4694ddbf730b16fc64f01d91ea$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! E o Combate do Salsicha - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-E.o.Combate.do.Salsicha.2017.hD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! E o Combate do Salsicha - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/25650.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby-Doo! E o Combate do Salsicha - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hj3LWwSEksRbgYy2NVu6oFlbXiQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jSTeNrb6fBiPEceHuOKMstqEBPu.jpg</fanart>
+<info>Quando a turma visita um rancho, eles descobrem que ele e a cidade vizinha foram assombrados por um vaqueiro fantasmagórico, Dapper Jack. O mistério se aprofunda quando descobrem que o fantasma é também parente do Salsicha.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
 <title>[COLOR white][B]Scooby-Doo! e Batman: Os Bravos e Destemidos  (2018)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=1lOkHWeyiBI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! e Batman: Os Bravos e Destemidos[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc14f3fde4a8436980e8584755145cc70097e97e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e Batman: Os Bravos e Destemidos - HD DUAL[/B][/COLOR]</link>
@@ -541,6 +568,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7S9uKgx9s147R0873GZ5h4W0HWY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rW1HBySTmHoZCUuOiZbApUhKFjn.jpg</fanart>
 <info>Quando Scooby-Doo e seu grupo se deparam com criminosos demasiado perigosos para eles, Batman aparece para salvar o dia! Quando um caso não resolvido do passado de Batman volta para o assombrar e o misterioso Crimson Cloak ameaça tomar posse de Gotham, Batman recruta a Mystery Inc. para ajudar a solucionar o caso. Será que o trabalho de equipe será suficiente para resolver o mistério e destruir os planos dos vilões mais perigosos que o mundo já viu? Prepare seu cinto de utilidade com instrumentos e os biscoitos Scooby para descobrir à medida que você se prepara para uma aventura altamente emocionante!</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo! e o Fantasma Gourmet (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8rvP5TkZGys$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! e o Fantasma Gourmet[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7dabb93b8ef7a7c5ffec85b4f5123c4de8b1483$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e o Fantasma Gourmet - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd926b5755cf543c70aeea31ce4fa8be089ee8cb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e o Fantasma Gourmet - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-E.o.Fantasma.Gourmet.2018.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! e o Fantasma Gourmet - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/25654.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby-Doo! e o Fantasma Gourmet - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eOhINB4ofQTU3PIxtq2ihh1le7G.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jzgh4rnPyThuxurQmHMQuQkGuMI.jpg</fanart>
+<info>Prepare-se para uma porção deste mistério gourmet cheio de boa comida, risadas saborosas e reviravoltas melhores ainda!</info>
 <genre>SCOOBY DOO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -686,6 +727,83 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
+<title>[COLOR white][B]Scooby-Doo! Natal Assombrado (2012)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pM3ysdiPz4U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! Natal Assombrado[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-Natal.Assombrado.Dub$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! Natal Assombrado - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h6U4DivlNfBorJjpyGPqCYiX4yH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1JbpFHdKlMJ5m3Ganr8gxe68Yly.jpg</fanart>
+<info>Um misterioso boneco de neve assombra as ruas acompanhado por uma terrível nevasca, ameaçando fechar a loja de brinquedos da cidade para sempre.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo! Jogos Assombrados (2012)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ab0UDaCkozU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! Jogos Assombrados[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-Jogos.Assustadores.2012.SD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! Jogos Assombrados - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6bi8bBWfZKBvAgewRCcdNApIkon.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rSm57S0jnq6aXEx03NvGkHWWe5p.jpg</fanart>
+<info>Scooby e a turma têm a chance de competir nos jogos mundiais de Londres, mas quando uma estátua antiga ganha vida, pode acabar com o jogo.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo - A Ameaça do Meca-Chorro (2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=409QV-NLlKs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo - A Ameasa do Meca-Chorro[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-A%20Ameasa.Do.Mecachorro.2013.SD%20Dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo - A Ameasa do Meca-Chorro - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1NTbTbimfGSeT2zGCdQgVvX0LCt.jpg</thumbnail>
+<fanart>https://i.ibb.co/qDWfLJ4/Scooby-Doo-A-Ameaa-do-Mecachorro-1080p-Scooby-Gang-Brasil.jpg</fanart>
+<info>Scooby-Doo, Fred, Daphne, Velma e Salsicha estão de volta e o principal mistério deles será desvendar o mistério do Mecachorro, um cachorro robô gigante que vem assombrando a família de Melanie.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo e o Espantalho Sinistro (2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=lREELxc4kjs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo e o Espantalho Sinistro[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-E.O.Espantalho.Sinistro.2013.SD.dubl$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo e o Espantalho Sinistro - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wMnvM4qtG23JJHB30Bbrim1rLXM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i4pDmDt0Lf6xQ3dnavIkpxZuCV1.jpg</fanart>
+<info>Duas pessoas são atacadas por um espantalho no labirinto de milho assombrado de Cobb Corner, o que leva o prefeito a fechar o labirinto de milho e todas as festividades de Halloween do ano. A menos que a gangue possa parar o espantalho vivo </info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo! Gol de Fantasma (2014)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dkpdXwQOBy4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! Gol de Fantasma[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-Gol.De.Fantasma.2014.SD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! Gol de Fantasma - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mxIH63VTEYXhpycuHCaYq95jAhK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vMnQQE7uhmw5ws1wd4osMNLh1Sd.jpg</fanart>
+<info>Quando o assunto é resolver mistérios, Scooby-Doo e sua turma são profissionais. Agora, quando o assunto é esportes...</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo! E o Monstro da Praia (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=j-PILvY8BVM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! E o Monstro da Praia[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-E.o.Monstro.da.Praia.2015.SD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! E o Monstro da Praia - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vOMCW7XYo0zNWgBksFoWKnkrWhG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xCHwEaVgEbHZnvynJabd2uit5BA.jpg</fanart>
+<info>Scooby-Doo, Salsicha, Fred, Daphne e Velma tiram suas merecidas férias na Flórida,mas como sempre ...</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scoobynatural (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=FOg3pXKcteo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scoobynatural[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-Scoobynatural.2018.SD%3Cdub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scoobynatural - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://i.ibb.co/bWHsBzQ/NATURALICON.jpg</thumbnail>
+<fanart>https://i.ibb.co/t8HvD65/NATURALFUNDO.jpg</fanart>
+<info>Um fantasma que começa a matar pessoas e os Winchesters e a Turma do Scooby são forçados a se unir para pará-lo. ... Lá, os três colocaram o fantasma para descansar e prenderam o criminoso por evasão fiscal</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
@@ -772,84 +890,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>SCOOBY DOO</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 </subitems>
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subchannel>
-<name>[COLOR orange][B]NOMEDASUBSEÇÃO[COLOR yellow] -> [COLOR white]SCOOBY DOO[/B][/COLOR]</name>	
-<thumbnail><ICONEDASUBSEÇÃO></thumbnail>
-<fanart><FUNDODASUBSEÇÃO></fanart>
-<info>Assista aqui os filmes PEQDESCRIÇAO.
-[COLOR orange][B]0 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
-[COLOR orange][B]PEQDESCRIÇAO[/B][/COLOR]
-</info>
-
-<subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>SCOOBY DOO</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
-</subitems>
-</subchannel>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  SEÇÃO DE SÉRIES SEÇÃO ESPECIAL SCOOBY DOO
