@@ -714,7 +714,7 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]EPISÓDIOS ESPECIAIS[COLOR yellow] -> [COLOR white]SCOOBY DOO [/B][/COLOR]</name>	
+<name>[COLOR orange][B]EPISÓDIOS ESPECIAIS[COLOR yellow] -> [COLOR white]SCOOBY DOO EM LEGO[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes PEQDESCRIÇAO.
@@ -733,6 +733,45 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]LEGO Scooby-Doo! E o Cavaleiro Negro (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VvFhqNc-ziQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]LEGO Scooby-Doo! E o Cavaleiro Negro[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-LEGO.E.o.Cavaleiro.Negro.2015.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]LEGO Scooby-Doo! E o Cavaleiro Negro - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/A2DTc2QGOkKlEhEg3CKJtXOv5bI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wGedzBE5X1mCgZnWEabvZCYjqH.jpg</fanart>
+<info>Mais uma assustadora aventura com os legos do scooby e a mistério S/A.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Lego Scooby-Doo! Hollywood Assombrada (2016)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iE1JxX_zCLg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Lego Scooby-Doo! Hollywood Assombrada[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b56cc97d99a4dda5c7f2f5fae8dde126d79ef37c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Lego Scooby-Doo! Hollywood Assombrada - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46046b3aa97ad9f79a39d75ff6fe9876db032e64$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Lego Scooby-Doo! Hollywood Assombrada - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-LEGO-Hollywood.Assombrada.2016.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Lego Scooby-Doo! Hollywood Assombrada - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6pv0ULiQ1gT0b8V95RvWg6uC9xY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x295eFfObY1thswd7e8X1dTrMCT.jpg</fanart>
+<info>Ao chegar na meca do cinema, a Mistério S/A descobre que o estúdio está prestes a ser fechado e vendido para empresários que querem demoli-lo. Para piorar ainda mais a situação, o local está sendo assombrado pelo fantasma de Boris Karnak, um famoso ator de filmes antigos</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]LEGO Scooby-Doo! O Golpe da Praia (2017)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=P4TomLSVr0I$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]LEGO Scooby-Doo! O Golpe da Praia[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5698c7dca60b0815176e332c397df36d5e439039$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]LEGO Scooby-Doo! O Golpe da Praia - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:821f826079cd53b96cdb79a2349517ade08bdd62$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]LEGO Scooby-Doo! O Golpe da Praia - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-LEGO.O.Golpe.da.Praia.2017.SD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]LEGO Scooby-Doo! O Golpe da Praia - SD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/25456.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]LEGO Scooby-Doo! O Golpe da Praia - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/A3LL3XqTqqucEIUa8kAGAHpU9Gm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tRVmAmq6Jzbx7OoGXSUUGlguokB.jpg</fanart>
+<info>Scooby-Doo e seus amigos estão a caminho de Blowout Beach para uma festa na praia, mas piratas fantasmas ameaçam arruinar as boas vibrações da turma.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <subitem>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
