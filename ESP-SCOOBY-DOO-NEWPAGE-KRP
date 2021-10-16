@@ -32,8 +32,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes mais atuais do SCOOBY.
-[COLOR orange][B]2 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 2020 e 2021[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 2020 a 2021[/B][/COLOR]
 [COLOR orange][B]Os Últimos filmes do SCOOBY.[/B][/COLOR]
 </info>
 
@@ -102,13 +102,13 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]CINEMA[COLOR yellow] -> [COLOR white]SCOOBY DOO FILMES DE CINEMA[/B][/COLOR]</name>	
+<name>[COLOR orange][B]CINEMA[COLOR yellow] -> [COLOR white]SCOOBY DOO LIVE-ACTION[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
-<info>Assista aqui os filmes de cinema do SCOOBY DOO.
+<info>Assista aqui os filmes com atores humanos.
 [COLOR orange][B]5 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 2002 a 2018[/B][/COLOR]
-[COLOR orange][B]Filmes com atores humanos e animação.[/B][/COLOR]
+[COLOR orange][B]Filmes do cinema.[/B][/COLOR]
 </info>
 
 <subitems>
@@ -200,13 +200,13 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]LONGAS[COLOR yellow] -> [COLOR white]SCOOBY DOO - FILMES EM VÍDEO[/B][/COLOR]</name>	
+<name>[COLOR orange][B]LONGAS[COLOR yellow] -> [COLOR white]SCOOBY DOO - FILMES EM ANIMAÇÃO[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
-<info>Assista aqui os filmes lançados apenas em vídeo.
-[COLOR orange][B]0 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
-[COLOR orange][B]Filmes que não foram exibidos no cinema.[/B][/COLOR]
+<info>Assista aqui os filmes lançados apenas em DVD.
+[COLOR orange][B]29 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1998 a 2019[/B][/COLOR]
+[COLOR orange][B]Filmes lançados em DVD.[/B][/COLOR]
 </info>
 
 <subitems>
@@ -224,9 +224,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[COLOR white][B]Scooby-Doo na Ilha dos Zumbis (1998)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=RFeNB8IlPlc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo na Ilha dos Zumbis[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f1992eaa967e994170669b01f2beaa300bd1978$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo na Ilha dos Zumbis - HD DUAL[/B][/COLOR]</link>
-
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo na Ilha dos Zumbis - FHD DUAL[/B][/COLOR]</link>
-
 <link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-Na.Ilha.dos.Zumbis.1998.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo na Ilha dos Zumbis - FHD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/25655.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby-Doo na Ilha dos Zumbis - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/30444.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Scooby-Doo na Ilha dos Zumbis - HD DUB[/B][/COLOR]</link>
@@ -521,7 +518,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR red][B]Scooby-Doo! e WWE: Maldição do Demônio Veloz (2016)[/B][/COLOR]</title>
+<title>[COLOR white][B]Scooby-Doo! e WWE: Maldição do Demônio Veloz (2016)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=lPf1D7liB0E$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! e WWE: Maldisao do Demonio Veloz[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4beb06e3ca4cfc1dd40e246b093b3aaef44a12a2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e WWE: Maldisao do Demonio Veloz - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3b9c9d8530d3b63b2c23b6ce2c6c61a7d9c11b4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e WWE: Maldisao do Demonio Veloz - FHD DUAL[/B][/COLOR]</link>
@@ -609,10 +606,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR orange][B]CURTAS[COLOR yellow] -> [COLOR white]SCOOBY DOO - FILMES PARA TELEVISÃO[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/rdK0YYW/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
-<info>Assista aqui os filmes PEQDESCRIÇAO.
+<info>Assista aqui os filmes feitos para TV.
 [COLOR orange][B]0 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
-[COLOR orange][B]PEQDESCRIÇAO[/B][/COLOR]
+[COLOR orange][B]FILMES FEITOS PARA A TV.[/B][/COLOR]
 </info>
 
 <subitems>
@@ -624,6 +621,68 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo em Hollywood (1980)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CO9z0BpSUfI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo em Hollywood[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3e035309185fe0e8ca6191ec4d86be22842e3c0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo em Hollywood - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc65985c0c9836749eaebe91214afd003b44b9b1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo em Hollywood - FHD DUB[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-Scooby-Doo.em.Hollywood.1980.SD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo em Hollywood - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6PoZRwBmxFhLT06pmEVDXfEYdKq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bZ7UfV85En1sbMpw6dZMzX74Z6w.jpg</fanart>
+<info>A turma vai para Hollywood como estrelas, Scooby, em seu primeiro filme. Quando uma criatura assustadora quer pôr fim ao filme, Scooby, tem que resolver o mistério para garantir o seu estatuto de estrela permanece intacta.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo! e os Irmãos Boo (1987)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zKj2aHzSdCg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! e os Irmaos Boo[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c40ab87767fd8d1fa9065a04459bfac79c5d321d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e os Irmaos Boo - HD DUB[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-E.os.Irmaos.Pavor.1987.SD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! e os Irmaos Boo - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jKmHNGED3cUyXd6oge5uuHYh3f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5p9HiIQdUBOXjfz8ujFqaQRST8K.jpg</fanart>
+<info>Scooby Doo juntamente com sua nova turma Scrappy Doo e Shaggy vão para uma nova e engraçada aventura em busca de uma herança em uma casa mal assombrada. Para encontrá-la eles terão que enfrentar seus próprios fantasmas além de passagens secretas, esqueletos e muitas outras coisas assustadoras.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo e a Escola Assombrada (1988)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Rg9DbB_kqok$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo e a Escola Assombrada[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb74683fe0c6acba2bca3593f6578bd3200de8ed$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo e a Escola Assombrada - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c051a117984d0430bc8abadc330a4b0e1ad9567c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo e a Escola Assombrada - FHD DUB[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-E.a.Escola.Mal-Assombrada.1988.SD.dub.avi$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo e a Escola Assombrada - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/duMdoHLQvnzRDZm2CD66DT4PvS5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i5H0SEh4KKijCg1irSJKqdZEFOs.jpg</fanart>
+<info>Salsicha consegue um emprego como professor de educação física numa escola de criaturas sobrenaturais chamada Escola Grimwood, e se torna responsável pela segurança das alunas Sibelle, filha do Conde Drácula, Winnie, filha de um lobisomem, Elza, filha do Frankenstein, Tannis, filha de uma múmia e Phantasma, filha de um fantasma. Os terríveis monstros avisam a Salsicha e Scooby-Doo de que estes pagariam caro se algo de ruim acontecesse às suas filhas. Os problemas começam quando uma terrível bruxa chamada Revolta, com a ajuda de seu monstro-ajudante Creeeper, sequestra as meninas para revoltalizá-las e conquistar o mundo. Então Salsicha, Scooby-Doo e Scooby-Loo tem como missão resgatá-las e assim acabar com o plano de Revolta. Os heróis também contam com a ajuda dos garotos-cadetes da Escola Calloway, uma escola rival da Escola Grimwood.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo! e o Lobisomem (1988)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47bbfc3f1af780990411360ea9b0cc008a292d48$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9da83de909ab1da9b0f464ccb1e366f895dd7335$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD LEG[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-E.O.Lobisomem.2007.SD.dub$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - SD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vQ3Z6XlfUKdJMir4ekAkXNqMhj0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/jD6vTFpPOEljawajOuoSbaIp3kA.jpg</fanart>
+<info>É o “Grand Prix” da Transilvânia, o rali anual de todos os monstros, mas está faltando um lobisomem para preencher as regras da competição. Para a sorte dos participantes, o conde Drácula possui o poder de transformar um ser humano nesse monstro uma vez a cada cem anos e esta é a época correta.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Scooby-Doo! em Uma Noite das Arábias (1994)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Oqz55EL2GEc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! em Uma Noite das Arabias[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/Film/LS-Uma.Noite.das.Arabias.1994.SD.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! em Uma Noite das Arabias - SD DUB[/B][/COLOR]</link>
+<fanart>https://image.tmdb.org/t/p/original/pRDhW6CoMyf73Hf6I3hLBLxfWd4.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fhnwQfPACsM5TtYk9fnMJn493zeubCYC/view</link>
+<info>Salsicha e Scooby-Doo devoram o almoço do califa e são forçados a se esconder no harém. Mas Salsicha é escolhido para passar a noite com o califa e começa a contar histórias para que sua verdadeira identidade não seja descoberta.</info>
+<genre>SCOOBY DOO</genre>
+</subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
