@@ -924,9 +924,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>		
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970) 25 EPs - HD DUAL[/B][/COLOR]</title>		
 		
-<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]Scooby-Doo Cadê Você ?[/B][/COLOR]</link>		
+<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? [/B][/COLOR]</link>
 		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E873C173E4C54AE5FF4EC532C3B3D83FBF67FD86$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? - DUAL[/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E873C173E4C54AE5FF4EC532C3B3D83FBF67FD86$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - FHD DUAL[/B][/COLOR]</link>		
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bHQjmRgZcXz52AreInhumqHSYY9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
@@ -938,7 +938,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970)FHD DUB[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce [/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? [/B][/COLOR]</link>
 
 <link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 17 EPs - DUB[/B][/COLOR]</link>
 
@@ -980,6 +980,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970) 25 EPs - SD DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? [/B][/COLOR]</link>
 
 <link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - 17 EPs[/B][/COLOR]</link>
 
