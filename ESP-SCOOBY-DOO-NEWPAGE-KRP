@@ -28,7 +28,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]ATUAIS[COLOR yellow] -> [COLOR white]SCOOBY DOO - FILMES NOVOS[/B][/COLOR]</name>	
+<name>[COLOR orange][B]ATUAIS[COLOR yellow] -> [COLOR white]FILMES NOVOS[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes mais atuais do SCOOBY.
@@ -115,7 +115,7 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]CINEMA[COLOR yellow] -> [COLOR white]SCOOBY DOO LIVE-ACTION[/B][/COLOR]</name>	
+<name>[COLOR orange][B]CINEMA[COLOR yellow] -> [COLOR white]LIVE-ACTION[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes com atores humanos.
@@ -213,7 +213,7 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]LONGAS[COLOR yellow] -> [COLOR white]SCOOBY DOO - FILMES EM ANIMAÇÃO[/B][/COLOR]</name>	
+<name>[COLOR orange][B]LONGAS[COLOR yellow] -> [COLOR white]FILMES EM ANIMAÇÃO[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes lançados apenas em DVD.
@@ -622,7 +622,7 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]CURTAS[COLOR yellow] -> [COLOR white]SCOOBY DOO - FILMES PARA TELEVISÃO[/B][/COLOR]</name>	
+<name>[COLOR orange][B]CURTAS[COLOR yellow] -> [COLOR white]FILMES PARA TELEVISÃO[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes feitos para TV.
@@ -788,7 +788,7 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR orange][B]EPISÓDIOS ESPECIAIS[COLOR yellow] -> [COLOR white]SCOOBY DOO EM LEGO[/B][/COLOR]</name>	
+<name>[COLOR orange][B]ESPECIAIS[COLOR yellow] -> [COLOR white]SCOOBY DOO EM LEGO[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Assista aqui os filmes em estilo LEGO.
@@ -842,28 +842,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/original/A3LL3XqTqqucEIUa8kAGAHpU9Gm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tRVmAmq6Jzbx7OoGXSUUGlguokB.jpg</fanart>
 <info>Scooby-Doo e seus amigos estão a caminho de Blowout Beach para uma festa na praia, mas piratas fantasmas ameaçam arruinar as boas vibrações da turma.</info>
-<genre>SCOOBY DOO</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
 <genre>SCOOBY DOO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -922,12 +900,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 <subitem>		
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970) 25 EPs - HD DUAL[/B][/COLOR]</title>		
-		
-<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? [/B][/COLOR]</link>
-		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E873C173E4C54AE5FF4EC532C3B3D83FBF67FD86$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - FHD DUAL[/B][/COLOR]</link>		
-
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970)[/B][/COLOR] HD e FHD DUB</title>		
+<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - 17 EPs[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35011a5bc78309fae5fe071e8fde4e3afded5847$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:669f45817665dfb6344fb10675ff39c36a58ed46$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - FHD DUB[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:104f708e4d0728535071f7ed0c7f08059760119f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bde0a161ce1aacf820034c8bdec58703d6fca24b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bHQjmRgZcXz52AreInhumqHSYY9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 <info>Quatro adolescentes metidos a detetives, Fred, Velma, Daphne e Salsicha, com um cão dinamarquês falante chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina do Mistério e ajudam a investigar casos misteriosos.</info>
@@ -936,40 +916,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970)FHD DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970) FHD DUAL[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 17 EPs - DUB[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 17 EPs[/B][/COLOR]</link>
 
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01	GET[COLOR yellow] -> [COLOR white]O Fantasma do Cavaleiro Negro [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02	GET[COLOR yellow] -> [COLOR white]De Sururu no Castelo [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03	GET[COLOR yellow] -> [COLOR white]Uma Pista para Scooby-Doo [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04	GET[COLOR yellow] -> [COLOR white]Meta-se com a Sua Vida [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05	GET[COLOR yellow] -> [COLOR white]Isca para Ladrao [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06	GET[COLOR yellow] -> [COLOR white]Que Macumba e Essa? [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07	GET[COLOR yellow] -> [COLOR white]Nao Macaqueie o Macaco [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08	GET[COLOR yellow] -> [COLOR white]Aventura no Parque [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E09.mkv$$lsname=[COLOR orange][B]T01E09	GET[COLOR yellow] -> [COLOR white]Nos Bastidores [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E10.mkv$$lsname=[COLOR orange][B]T01E10	GET[COLOR yellow] -> [COLOR white]Confusao na Elevacao [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E11.mkv$$lsname=[COLOR orange][B]T01E11	GET[COLOR yellow] -> [COLOR white]Os Fantasmas Galopante [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E12.mkv$$lsname=[COLOR orange][B]T01E12	GET[COLOR yellow] -> [COLOR white]Scooby-Doo e a Mumia [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E13.mkv$$lsname=[COLOR orange][B]T01E13	GET[COLOR yellow] -> [COLOR white]Feitiso Contra o Feiticeiro [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E14.mkv$$lsname=[COLOR orange][B]T01E14	GET[COLOR yellow] -> [COLOR white]O Fantasma Espacia [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E15.mkv$$lsname=[COLOR orange][B]T01E15	GET[COLOR yellow] -> [COLOR white]O Navio Fantasma [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E16.mkv$$lsname=[COLOR orange][B]T01E16	GET[COLOR yellow] -> [COLOR white]Uma Noite com Medo Nao Acaba Cedo [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E17.mkv$$lsname=[COLOR orange][B]T01E17	GET[COLOR yellow] -> [COLOR white]O Fantasma da Neve [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Fantasma do Cavaleiro Negro [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]De Sururu no Castelo [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Uma Pista para Scooby-Doo [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Meta-se com a Sua Vida [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Isca para Ladrao [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Que Macumba e Essa? [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Nao Macaqueie o Macaco [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Aventura no Parque [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E09.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Nos Bastidores [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E10.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Confusao na Elevacao [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E11.mkv$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Os Fantasmas Galopante [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E12.mkv$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Scooby-Doo e a Mumia [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E13.mkv$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Feitiso Contra o Feiticeiro [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E14.mkv$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma Espacia [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E15.mkv$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Navio Fantasma [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E16.mkv$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Uma Noite com Medo Nao Acaba Cedo [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E17.mkv$$lsname=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]O Fantasma da Neve [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs - DUB[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs[/B][/COLOR]</link>
 
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E01.mp4$$lsname=[COLOR orange][B]T02E01	GET[COLOR yellow] -> [COLOR white]Onde Esta o Monstro? [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E02.mp4$$lsname=[COLOR orange][B]T02E02	GET[COLOR yellow] -> [COLOR white]O Misterio da Mascara [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E03.mp4$$lsname=[COLOR orange][B]T02E03	GET[COLOR yellow] -> [COLOR white]De Arrepiar os Cabelos [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E04.mp4$$lsname=[COLOR orange][B]T02E04	GET[COLOR yellow] -> [COLOR white]O Homem das Cavernas [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E05.mp4$$lsname=[COLOR orange][B]T02E05	GET[COLOR yellow] -> [COLOR white]Uma Casa Mal-Assombrada [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E06.mp4$$lsname=[COLOR orange][B]T02E06	GET[COLOR yellow] -> [COLOR white]O Idolo do Terror [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E07.mp4$$lsname=[COLOR orange][B]T02E07	GET[COLOR yellow] -> [COLOR white]Quem e Que Esta com Medo Ai? [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E08.mp4$$lsname=[COLOR orange][B]T02E08	GET[COLOR yellow] -> [COLOR white]Com Fantasma Nao Se Brinca [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E01.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Onde Esta o Monstro? [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E02.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Misterio da Mascara [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E03.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]De Arrepiar os Cabelos [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E04.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Homem das Cavernas [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E05.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Uma Casa Mal-Assombrada [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E06.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Idolo do Terror [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E07.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Quem e Que Esta com Medo Ai? [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E08.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Com Fantasma Nao Se Brinca [/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bHQjmRgZcXz52AreInhumqHSYY9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
@@ -979,7 +959,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970) 25 EPs - SD DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970) 25 EPs - SD DUB[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? [/B][/COLOR]</link>
 
@@ -1031,7 +1011,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Os Treze Fantasmas do Scooby-Doo (1985)[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/v7S15heYWQSJLM60uZjim7Y9nzG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6wiPmnOM87Ir6Bz6AUJXQ6Nwjia.jpg</fanart>
-<info>Assista aqui a série Os Treze Fantasmas do Scooby-Doo
+<info>Assista aqui a série Os Treze Fantasmas do Scooby-Doo.
 [COLOR orange][B]SCOOBY DOO[/B][/COLOR]
 [COLOR orange][B]ANO - 1985[/B][/COLOR]
 [COLOR orange][B]1 TEMP  - 13 EPS[/B][/COLOR]
@@ -1057,31 +1037,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 subitem>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nomedaserie (DATA) T01 - 00 EPs - HD DUAL[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Treze Fantasmas do Scooby-Doo (1985) 13 EPs - FHD DUB[/B][/COLOR]</title>
 
-<link>NOLINK$$lsname=[COLOR orange][B]Temporada 01 - 00 EPs - HD DUAL[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B]Temporada 01 - 13 EPs [/B][/COLOR]</link>	
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nomedaserie[/B][/COLOR]</link>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]COMPLETA[COLOR yellow] -> [COLOR white]Nomedaserie - T01 - EPS 00 - HD DUAL[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<thumbnail><ICONEDASÉRIE></thumbnail>
-<fanart><FUNDODASÉRIE></fanart>
-<info><SINOPSEDASÉRIE></info>
-<genre><SEÇÃO ESPECIAL SCOOBY DOO></genre>
+<link>plugin://plugin.video.youtube/play/?video_id=3J07JqHReA8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Treze Fantasmas do Scooby-Doo[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e96aca56a7cc3052bf0174af7c735921e6bff77b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Treze Fantasmas do Scooby-Doo - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v7S15heYWQSJLM60uZjim7Y9nzG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6wiPmnOM87Ir6Bz6AUJXQ6Nwjia.jpg</fanart>
+<info>Salsicha, Scooby e seus amigos devem devolver 13 fantasmas a um baú mágico que eles inadvertidamente liberaram.</info>
+<genre>SCOOBY DOO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white][B]Os Treze Fantasmas do Scooby-Doo (1985) T01 - 13 EPs - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white][B]Os Treze Fantasmas do Scooby-Doo (1985) 13 EPs - FHD DUAL[/B][/COLOR]</title>
 
-<link>NOLINK$$lsname=[COLOR orange][B]Temporada 01 - 13 EPs - HD DUAL[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B]Temporada 01 - 13 EPs[/B][/COLOR]</link>	
 
 <link>plugin://plugin.video.youtube/play/?video_id=3J07JqHReA8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nomedaserie[/B][/COLOR]</link>
 
