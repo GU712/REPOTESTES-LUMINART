@@ -1085,11 +1085,6 @@ MANTER TAG DE FECHAMENTO ENTRE SÉRIES
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
- COPIAR UMA NOVA  SÉRIES AQUI PARA BAIXO	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <subchannel>	
 <name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]O Show do Scooby Doo (1976-1978)[/B][/COLOR]</name>	
@@ -1230,35 +1225,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Assista ao trailer</info>	
 <genre>SCOOBY DOO</genre> 	
 </subitem>	
-	
-<subitem>	
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ho-ho-límpicos - FHD DUAL[/B][/COLOR]</title>	
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<thumbnail>https://www.themoviedb.org/t/p/original/eVi53MC0rKF2iylwseT8eaFxKOX.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>	
-<info>Os personagens Hanna-Barbera, divididos em três times,competem em vários esportes, ao redor do mundo. Atras de uma medalha de ouro, de prata ou de bronze.</info>	
-<genre>SCOOBY DOO</genre> 	
-</subitem>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
+		
 <subitem>	
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Ho-ho-límpicos - FHD DUAL[/B][/COLOR]</title>	
 	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 16 EPs[/B][/COLOR]</link>	
 	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Alpes Suisos/Japao [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Florida/China [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Acapulco/Inglaterra [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Deserto do Saara/Escocia [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Fransa/Australia [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Grecia/Okazarks [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Italia/Carolina do Norte [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Egito/Floresta de Sherwood [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E09.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Espanha/Himalaia [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E10.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]India/Israel [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E11.mkv$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Africa/Sao Francisco [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E12.mkv$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Grande Canyon/Irlanda [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E13.mkv$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Havai/Noruega [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E14.mkv$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Polo Norte/Taiti  [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E15.mkv$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Arizona/Holanda [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E16.mkv$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Quebec/Bagda [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 08 EPs[/B][/COLOR]</link>	
+
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E01.mkv$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Russia/Caribe [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E02.mkv$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Nova York/Turquia [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E03.mkv$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]America do Sul/Transilvania [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E04.mkv$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] Riviera Francesa/Nova Zelandia [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E05.mkv$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Nova Orleans/Atlantida [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E06.mkv$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Marocos/Washington DC [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E07.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Canada/Varsovia - Polonia [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E08.mkv$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Siao - Tailandia/A Lua [/B][/COLOR]</link>
 	
 <thumbnail>https://www.themoviedb.org/t/p/original/eVi53MC0rKF2iylwseT8eaFxKOX.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>	
@@ -1273,8 +1273,6 @@ MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
