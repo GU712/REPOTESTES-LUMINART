@@ -1087,14 +1087,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+ COPIAR UMA NOVA  SÉRIES AQUI PARA BAIXO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
 <subchannel>	
-<name>[COLOR white][B]O Show do Scooby Doo (1976-1978)[/B][/COLOR]</name>	
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]O Show do Scooby Doo (1976-1978)[/B][/COLOR]</name>	
 <thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>	
 <fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>	
 <info>Assista aqui os episódios da série O Show do Scooby Doo.	
-[COLOR orange][B]SCOOBY DOO[/B][/COLOR]	
-[COLOR orange][B]ANOS - 1976 a 1978[/B][/COLOR]	
-[COLOR orange][B]03 TEMPs  - 40 EPs[/B][/COLOR]	
+[COLOR orange][B]SCOOBY DOO[/B][/COLOR]
+[COLOR orange][B]ANOS - 1976 a 1978[/B][/COLOR]
+[COLOR orange][B]03 TEMPs  - 40 EPs[/B][/COLOR]
 </info>	
 	
 <subitems>	
@@ -1154,6 +1158,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E14.mkv$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma O Jogo e o Saque [/B][/COLOR]</link>
 <link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E15.mkv$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Fantasma do Homem Mau Humorado [/B][/COLOR]</link>
 <link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E16.mkv$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Os Espiritos dos 76 [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 08 EPs[/B][/COLOR]</link>	
+
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E01.mkv$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Maldisao do Lago Viking [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E02.mkv$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Vampiros Morcegos e Outros Bichos [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E03.mkv$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Aguenta ai  Scooby [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E04.mkv$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Filme de Terror [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E05.mkv$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Corrida Arrepiante [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E06.mkv$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Bruxa de Ozark [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E07.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Cruzeiro Assustador [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E08.mkv$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Pavor das Profundezas [/B][/COLOR]</link>
 	
 <thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>	
 <fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>	
@@ -1161,12 +1176,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>SCOOBY DOO</genre> 	
 </subitem>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE SÉRIES
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
 </subitems>
 </subchannel>
+</channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
  COPIAR UMA NOVA  SÉRIES AQUI PARA BAIXO	
