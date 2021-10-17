@@ -1173,13 +1173,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <subchannel>	
-<name>[COLOR white][B]NomedaSérie (DATA)[/B][/COLOR]</name>	
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]NomedaSérie (DATA)[/B][/COLOR]</name>	
 <thumbnail><ICONEDASÉRIE></thumbnail>	
 <fanart><FUNDODASÉRIE></fanart>	
-<info>Assista aqui os episódios da série NomedaSérie.	
+<info>Assista aqui os episódios da série NomedaSérie.
 [COLOR orange][B]SCOOBY DOO[/B][/COLOR]	
 [COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]	
-[COLOR orange][B]00 TEMPs  - 00 EPs[/B][/COLOR]	
+[COLOR orange][B]00 TEMPs  - 00 EPs[/B][/COLOR]		
 </info>	
 	
 <subitems>	
