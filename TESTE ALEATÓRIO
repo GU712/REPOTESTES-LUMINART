@@ -11,9 +11,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]FILMES DE NOMEDOGENERO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/89JLmzc/EPICOS-FILM.png</thumbnail>
+<thumbnail><ICONEDASESAODOGENERO></thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro AÇÃO[/B]</info>
+<info>[B]Assista aqui os  filmes de NOMEDOGENERO[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -23,18 +23,205 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Zulu (1964) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=CbdZMUON3Is$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Zulu[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db9c1fc44eb1c728e8d5d8b18b4602c6a51adc8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Zulu - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05ca9d4bcabca2dd54d08571170886e35db0645$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Zulu - FHD LEG[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/2EPC-FM/LS-Zulu.1964.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Zulu - FHD DUB[/B][/COLOR]</link>
-<link>https://seed305.bitchute.com/OsqmkKQffiY2/exB6yq2kjiEb.mp4$$lsname=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]Zulu - SD DUB [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
-<info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>
-<genre>NOMEDOGENERO</genre>  
+<title>[COLOR white][B]Rogai Por Nós (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NmQiJPLYzPI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Rogai Por Nos [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c9c67ce89ed34dd4209828bfd06c69a362c5d04$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rogai Por Nos - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03a8c3ec70ea9d383591953f0c4121b8c838ef6f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rogai Por Nos - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Rogai Por Nos - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/znrtj0lFOgEa8bbAbck1QsvvQ6h.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l8VkL1KzkGkrO8BCsqF02urdfZ7.jpg</fanart>
+<info>Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visita da Virgem Maria, é inexplicavelmente capaz de ouvir, falar e curar os enfermos. À medida que a notícia se espalha e pessoas de perto e de longe se reúnem para testemunhar seus milagres, um jornalista decadente (Jeffrey Dean Morgan), que espera reviver sua carreira, visita a pequena cidade da Nova Inglaterra para investigar o fenômeno. Quando eventos terríveis começam a acontecer por toda parte, ele começa a questionar se esses fenômenos são obras da Virgem Maria ou algo muito mais sinistro.</info>
+<genre>SUSPENSE E TERROR </genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Army of the Dead: Invasão em Las Vegas (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=f303fsdoBHY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Army of the Dead: Invasao em Las Vegas[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Army of the Dead: Invasao em Las Vegas - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcd64d5325eb57a09f67497d294a6b72f4a2c7c4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Army of the Dead: Invasao em Las Vegas - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Army of the Dead: Invasao em Las Vegas - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kn72J6BFcN71VYOl8sTVeo7x9ph.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nEPp3vCTKDtU3SZgbqhd8iVn7jZ.jpg</fanart>
+<info>Após um surto de zumbis em Las Vegas, nos Estados Unidos, um grupo de mercenários faz uma aposta final, aventurando-se na zona de quarentena para tentar realizar o maior assalto de todos os tempos.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Possessão - O Último Estágio (2020)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=DajP30EgHPs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Possessao - O Ultimo Estagio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7778274403698963730BDE9898020725ACAB84A9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Possessao - O Ultimo Estagio - FHD LEG FIX[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:625f9ff3f022969a7a344dd661163b78c2d0b490$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Possessao - O Ultimo Estagio - FHD DUB CAM[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Possessao - O Ultimo Estagio - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ivfDBwXa4C9XHcr0r6SfusWx6ox.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tsrPpMthL29y194xSIgS6M12Tqu.jpg</fanart>
+<info>Padre Lambert realizou um exorcismo em um menino e falhou, levando-o à morte. Por isso, ele passou oito anos na cadeia. Agora, na tentativa de redimir seu erro, o Padre tentará resgatar Joel Clarke da possessão do diabo. Para isso, ele convence Clarke de que, sem essa ajuda, ele jamais será liberto dessa maldição e poderá acabar perdendo seu filho. Porém, esse processo é muito mais misterioso do que parece.</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Herança Maldita (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTtFFoyUjwU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Heransa Maldita[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bcb7fe9f3cf44f08c89e1d61188989730f1064d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Heransa Maldita - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:327dbb762c6fa0c427a32bfcb4957fff80f65fa1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Heransa Maldita - FHD DUB - CAM[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Heransa Maldita - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5DvLfZRW1uvjHiL9XQnA85HZ3j4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1WDITmJAHz4rAnjVv1XYN4IfjKq.jpg</fanart>
+<info>Depois de ficar permanentemente cega em um trágico acidente de carro, Rebecca recebe uma notícia bizarra: sua mãe há muito perdida faleceu recentemente, deixando-a no castelo ancestral de sua família na Albânia rural. Viajando para a propriedade com um grupo de amigos, Rebecca espera que seja uma oportunidade para ela se reconectar com um passado que ela nunca conheceu e uma mãe que aparentemente a deixou para trás. Quando eventos misteriosos começam a ocorrer e seus amigos começam a morrer, Rebecca deve desvendar os segredos da história de sua família antes que ela também seja vítima do Castle Frea</info>
+<genre>TERROR E SUSPENSE</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Rebanho (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kBy7bH20_ZI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Rebanho[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b490a77e34b85c6ec810725d6549698a8556e18$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Rebanho - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef08a20ca422ab12e35b654c14b5fd5882feef72$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Rebanho - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Rebanho - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ZZeSKqhbteQ7lDZnse9DmpIQDC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2D2zQLk7aOD9CxzMxTk2VkFRznn.jpg</fanart>
+<info>Selah (Raffey Cassidy) é uma jovem nascida em um culto repressivo conhecido como "rebanho". Todas as mulheres e crianças vivem em um complexo rural e são liderados por um homem, conhecido apenas como "Pastor". Selah recebe a grande honra de participar do ritual sagrado do nascimento dos cordeiros, do qual o rebanho depende para sobreviver. Durante a cerimônia, ela passa por uma experiência chocante. A adolescente começa a ter visões estranhas que a fazem questionar sua própria realidade, e tudo o que o Pastor a ensinou.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Fim do Dia (2016)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NgM1nWRbibw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Fim do Dia[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:941acaf8bad85b1cc7abce13aa34d9b31cda78e6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Fim do Dia - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfd108af7b5f009d31bfb6e01f7332c10b133781$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Fim do Dia - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Fim do Dia - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5iOkmTgzB64yBKnEjCnwylYBmNF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/33HUOjvtXOVuZ1QIlAHQI0K7GCs.jpg</fanart>
+<info>Anos depois de uma misteriosa praga ter devastado o planeta e transformado a maioria da humanidade em criaturas famintas por fome, um andarilho malandro em uma caçada vingativa se depara com um grupo de sobreviventes em uma delegacia abandonada e concorda em tentar ajudá-los a se defender e escapar para o santuário que tão desesperadamente necessitam. </info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]A Colina Escarlate (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bxRqAAShwK8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Colina Escarlate[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dfdf204fd2ef41401f38b83b20931346973944b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Colina Escarlate - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:170d302ff4a3d85fa2a89d5526d198a3c955658d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Colina Escarlate - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Colina Escarlate - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eap7Wyt15WtwNHGbVTrRQTOB5T8.jpg</fanart>
+<info>Apaixonada pelo misterioso Sir Thomas Sharpe, a escritora Edith Cushing muda-se para sua sombria mansão no alto de uma colina. Habitada também por sua fria cunhada Lucille Sharpe, a casa tem uma história macabra e a forte presença de seres de outro mundo não demora a abalar a sanidade de Edith.</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Lobisomem (2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=W_q4n6xRt7c$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Lobisomem[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d70307da0b0817a7076247e7b3ff715eff9a6d9a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Lobisomem - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:562c20efabcbf1596244295c516a1d59f6cb8661$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Lobisomem - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Lobisomem - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2lsbwPdWfnr3NwVfPzASZI8FJlK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gtiXfkTWgJpJlCIRtxYtlrUCF83.jpg</fanart>
+<info>Assim como no clássico original de 1941, estrelado por Lon Chaney Jr., esta refilmagem também é ambientada na Inglaterra Vitoriana. Na história, Del Toro faz o papel de Lawrence Talbot, um homem que retorna da América para sua terra ancestral e no caminho é mordido por um lobisomem. Talbot começa sua assustadora transformação sob a lua cheia. </info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]1408 (2007)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7_Kwntt9d14$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1408[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb34704e2679af099d1dbc762f979d97fd7a2087$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]1408 - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e9d5ca189e2843dc73f603ca2e66218e977505b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]1408 - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]1408 - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEaMTpG71O0NN7XlQwYyaWVpTyX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uf3GcS09CmF8nQqIKyzqZ8ynZo5.jpg</fanart>
+<info>Um promissor romancista, Mike Enslin, resolveu enveredar por outro caminho e escrever livros que investiguem fenômenos paranormais. Enslin nunca presenciou realmente algum destes fatos, então fica difícil obter credibilidade. Além do mais Mike é totalmente cético, pois até hoje não encontrou evidências de que exista vida após a morte. No entanto decide ir até Nova York e se hospedar no Dolphin Hotel, mais exatamente no quarto 1408, que tem fama de ser habitado por espíritos malignos. O gerente do hotel, Gerald Olin, o avisa que 56 mortes já ocorreram neste quarto, mas Mike está decidido a conferir se sua fama está condizente com a verdade.</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]A Chave Mestra (2005)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MM9PJ5DvKys$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Chave Mestra[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a0b360ec6afaa164725f98bdf6ee7bf095123b5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Chave Mestra - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab61ebb199bc737e0e2c1cc31db9b024185310dd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Chave Mestra - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Chave Mestra - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qZ6mSV8onpQqYhP77Mszk2UIKhZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uqa4ObNa5Qb38HzIeWi6tyF5aRx.jpg</fanart>
+<info>Caroline aceita trabalhar como enfermeira para um casal de deficientes que vive em uma estranha mansão em Nova Orleans. Após encontrar objetos misteriosos, ela começa a desvendar o passado sinistro do casal.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Navio Fantasma (2002)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Bp6p6xb9av4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Navio Fantasma[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23cfcac0b53ac3a8753358916bcf35adda300684$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Navio Fantasma - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a523b015079095b3a5274efa72d87fa583a18274$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Navio Fantasma - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Navio Fantasma - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9IntW8ONkQkiIKhqx8SUpiMSaOy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pc48J66dxMfnN8SRpvnPGD1EtRZ.jpg</fanart>
+<info>Uma equipe de resgate descobre um navio de passageiros perdido desde a década de 60, chamado de Antonia Graza, flutuando inabitado em uma região remota do Mar de Bering. Ao tentar rebocá-lo, uma série de acontecimentos bizarros começam a acontecer, e a tripulação descobre que a embarcação em decomposição não está vazia. Ao contrário, é o lugar de algo muito mais mortal e terrível do que qualquer coisa que eles pudessem ter imaginado.</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Outros (2001[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iZmV5gOwHRI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Outros[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7bcf117ebb41c9e59e472e4332b1ebe90e05394$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Outros - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc5dc6cc587f93656678f219ebcc0c987ab064f5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Outros - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Outros - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5dEa7JRjc5BuJPVQKsn9FpDZSIt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i6epjfJemvscldYv5OPTWLV76TY.jpg</fanart>
+<info>Durante a 2ª Guerra Mundial, Grace decide por se mudar, juntamente com seus dois filhos, para uma mansão isolada na ilha de Jersey, a fim de esperar que seu marido retorne da guerra. Como seus filhos possuem uma estranha doença que os impedem de receber diretamente a luz do sol, a casa onde vivem está sempre em total escuridão. Eles vivem sozinhos seguindo religiosamente certas regras, como nunca abrir uma porta sem fechar a anterior, mas quando eles contratam empregados para a casa eles terminam quebrando estas regras, fazendo com que imprevisíveis consequências ocorram.</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FDH DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>SINOPSEDOFILME></info>
+<genre>NOMEDOGENERO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
@@ -55,7 +242,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
 </subitems>
 </subchannel>
 </channel>
@@ -68,16 +255,110 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]SÉRIES DE NOMEDOGENERO[/B][/COLOR]</name>
-<thumbnail><ICONEDOGENERO></thumbnail>
+<thumbnail><ICONEDASESAODOGENERO></thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white]Nomedaserie (DATA)[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
+<name>[COLOR white][B]Nomedaserie (DATA)[/B][/COLOR]</name>
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>Assista aqui a série Nomedaserie
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
+[COLOR orange][B]0 TEMPS  - 00 EPS[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Nomedaserie[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=my3hvrYTCrA</link>
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>Assista ao trailer</info>
+<genre>NOMEDOGENERO</genre> 
+</subitem>
+
+<subitem>
+title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nomedaserie (DATA)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B]Temporada 01 - 00 EPs - HD DUAL[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nomedaserie[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nomedaserie  - HD DUAL[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nomedaserie  - FHD DUAL[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio - HD DUAL[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NomedoEpisodio - HD DUAL[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]NomedoEpisodio - HD DUAL[/B][/COLOR]</link>	
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre><NOMEDOGENERO></genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Mentes Criminosas (2005) HD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B]Temporada 06 - 24 EPs - HD DUAL[/B][/COLOR]</link>		
+
+<link>plugin://plugin.video.youtube/play/?video_id=my3hvrYTCrA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mentes Criminosas[/B][/COLOR]</link>
+
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E01.mkv$$lsname=[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]A Noite Mais Longa [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E02.mkv$$lsname=[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]JJ [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E03.mkv$$lsname=[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]Recordasao Das Coisas Passadas [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E04.mkv$$lsname=[COLOR orange][B]T06E04[COLOR yellow] -> [COLOR white]Posisoes Comprometedoras [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E05.mkv$$lsname=[COLOR orange][B]T06E05[COLOR yellow] -> [COLOR white]Porto Seguro [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E06.mkv$$lsname=[COLOR orange][B]T06E06[COLOR yellow] -> [COLOR white]Noite Do Demonio [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E07.mkv$$lsname=[COLOR orange][B]T06E07[COLOR yellow] -> [COLOR white]Homem do Meio [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E08.mkv$$lsname=[COLOR orange][B]T06E08[COLOR yellow] -> [COLOR white]Reflexao Do Desejo [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E09.mkv$$lsname=[COLOR orange][B]T06E09[COLOR yellow] -> [COLOR white]Dentro Da Floresta [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E10.mkv$$lsname=[COLOR orange][B]T06E10[COLOR yellow] -> [COLOR white]O Que Acontece Em Casa [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E11.mkv$$lsname=[COLOR orange][B]T06E11[COLOR yellow] -> [COLOR white]25 A Vida [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E12.mkv$$lsname=[COLOR orange][B]T06E12[COLOR yellow] -> [COLOR white]Corasao [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E13.mkv$$lsname=[COLOR orange][B]T06E13[COLOR yellow] -> [COLOR white]O Decimo Terceiro Passo [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E14.mkv$$lsname=[COLOR orange][B]T06E14[COLOR yellow] -> [COLOR white]Memoria do Sentido [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E15.mkv$$lsname=[COLOR orange][B]T06E15[COLOR yellow] -> [COLOR white]Hoje Eu Faso [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E16.mkv$$lsname=[COLOR orange][B]T06E16[COLOR yellow] -> [COLOR white]Coda [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E17.mkv$$lsname=[COLOR orange][B]T06E17[COLOR yellow] -> [COLOR white]Valhalla [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E18.mkv$$lsname=[COLOR orange][B]T06E18[COLOR yellow] -> [COLOR white]Lauren [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E19.mkv$$lsname=[COLOR orange][B]T06E19[COLOR yellow] -> [COLOR white]Com Amigos Como Estes [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E20.mkv$$lsname=[COLOR orange][B]T06E20[COLOR yellow] -> [COLOR white]Hanley Waters [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E21.mkv$$lsname=[COLOR orange][B]T06E21[COLOR yellow] -> [COLOR white]O Estranho [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E22.mkv$$lsname=[COLOR orange][B]T06E22[COLOR yellow] -> [COLOR white]Fora Da Luz [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E23.mkv$$lsname=[COLOR orange][B]T06E23[COLOR yellow] -> [COLOR white]Mar Grande [/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/TO6/LS-T06E24.mkv$$lsname=[COLOR orange][B]T06E24[COLOR yellow] -> [COLOR white]Oferta E Demanda [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS UMA TEMPORADA?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xwibxhANMDwQRSIhZ3ymYIzOjv.jpg</fanart>
+<info>Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente.</info>
+<genre>CRIME E DRAMA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Nomedaserie (DATA)[/B][/COLOR]</name>
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
 <info>Assista aqui a série Nomedaserie
 [COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
@@ -97,8 +378,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Nomedaserie[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
 <info>Assista ao trailer</info>
 <genre>NOMEDOGENERO</genre> 
 </subitem>
@@ -118,8 +399,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NomedoEpisodio - HD DUAL[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]NomedoEpisodio - HD DUAL[/B][/COLOR]</link>	
 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS UMA TEMPORADA?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
 <info><SINOPSEDASÉRIE></info>
 <genre><NOMEDOGENERO></genre>
 </subitem>
@@ -136,15 +421,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS UMA TEMPORADA?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
 <info><SINOPSEDASÉRIE></info>
 <genre><NOMEDOGENERO></genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
 </subitems>
 </subchannel>
 </channel>
@@ -155,29 +444,422 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  SEÇÃO DE COLEÇÕES DE FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE NOMEDOGENERO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/YjNhcNd/EPICOS-COL.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro AÇÃO e suas seguências[/B]</info>
-
 <subchannel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<name>[COLOR white][B]Invasão Zumbi (2 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/4yP2MeXapjYdLH0Ii4vfbwvBPXb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jpdgqnUBpsb099uSnj8A6UEOQCC.jpg</fanart>
+<info>Assista aqui os filmes da coleção Invasão Zumbi 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2016 a 2020)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
 <thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<subitem>
+<title>[COLOR white][B]Invasão Zumbi (2016)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pyWuHv2-Abk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Invasao Zumbi[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e2c90e6b3d2788529b69403858cba72ef2b7df6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invasao Zumbi - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecdf60fd92179f6a15de05ff63f5099e1089f0db$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invasao Zumbi - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Invasao Zumbi - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/QqHtwk0oHYed26zra9WGQGyBSm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fVpFOcQyHJM2di9upgSIwWD5wac.jpg</fanart>
+<info>A Coreia do Sul decreta estado de emergência após um vírus desconhecido tomar conta do país. Algumas pessoas tentam fugir de zumbis e ficam presas em um trem-bala que está a caminho de Busan, a única cidade que não foi afetada pelo vírus.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Invasão Zumbi 2: Península (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-2_LW9pSM_g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]InvasAo Zumbi 2: PenInsula[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c188ed4e4703fbeadaffefc3dfadfc72a8af853$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]InvasAo Zumbi 2: PenInsula - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91e3dfe81d57c268ee6ad7c342667287cb71f19d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]InvasAo Zumbi 2: PenInsula - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]InvasAo Zumbi 2: PenInsula - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/dGVUiqnahQ4ZZRchGRpO2SyhtQY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gEjNlhZhyHeto6Fy5wWy5Uk3A9D.jpg</fanart>
+<info>A península coreana ficou devastada após o surto de zumbis que atingiu os passageiros de um trem-bala com destino a Busan há quatro anos. Com isso, um ex-soldado que conseguiu fugir do país, Jung-seok, tem a missão de retornar e acaba encontrando alguns sobreviventes.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]300 (3 Filmes)[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/iWXRbqn37PKgW93kvioToFZcKlC.jpg</fanart>
-<info>Assista aqui os filmes da coleção 300
-[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
+<name>[COLOR white][B]The Thing (2 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/sOZc3U9acAqlItsI7amSGKUdd7k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g9nvNlLmY8LCbeZ0kJYAtoKZhPV.jpg</fanart>
+<info>Assista aqui os filmes da coleção The Thing 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (1982 e 2011)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]O Enigma de Outro Mundo (1982)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=V0m6YCDzvK0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Enigma de Outro Mundo[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0603df8e169baebf05ec0aff20a4872680d7f412$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo - HD DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a0507b28fefd53830497021014d1b5c9cfd3416$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo - FHD LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/jCEiFLzzmFw1Ijfs3YRy8yqHs9U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg</fanart>
+<info>Na remota Antártida, um grupo de cientistas americanos é perturbado em sua base quando, de um helicóptero, alguém atira em um cão do acampamento. À medida que socorrem o cão baleado, o bicho começa a atacar os cientistas e os outros cachorros e logo eles descobrem que o animal pode assumir a forma de suas vítimas. Isto significa que membros da equipe podem ser mortos e a cópia assumir o lugar deles. Com isso, um piloto e um médico precisam capturar a fera antes que seja tarde demais.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]A Coisa (2011)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9KS8NtQEQlA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Coisa[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c470cb478ce90b931a2d8cf3ae9b5400c8b6257$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Coisa - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55cbb13f3881eb4c7f43672b531039b13d7550fb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Coisa - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Coisa - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/zKdqe9kfhLQ9giuLcpoQI3WL1Vw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qgSlGJurPzgSHKYlqBiDmr3vjrc.jpg</fanart>
+<info>A paleontóloga Kate Lloyd viaja para investigar um ser misterioso que foi encontrado por cientistas noruegueses em uma nave espacial no gelo. O que ela não sabe é que a criatura na verdade está viva e que tem planos danosos para o planeta.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Invocação do Mal (3 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l5yp73psXVRYy2ce09lD8yDuu2g.jpg</fanart>
+<info>Assista aqui os filmes da coleção Invocação do Mal 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
 [COLOR orange][B]3 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (1962 a 2014)[/B][/COLOR]
+[COLOR orange][B]ANOS - (2013 a 2021)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Invocação do Mal (2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KWefO4yTHB0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Invocasao do Mal[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c7dadab71c0b5b1ca43bef6da02c3b1303f1d30$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0032160ab449f818890de403d61f29fa495e27d4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Invocasao do Mal - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/f9D9pgkKgXfNi8cPC4m6vFopZxH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ecKQlAEG95k62SMGhvX83oEqANK.jpg</fanart>
+<info>Harrisville, Rhode Island, Estados Unidos, 1968. Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua fazenda. Forçados a confrontar uma entidade poderosa, os Warrens se vêem presos no caso mais aterrorizante de suas vidas. Baseado numa história real.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Invocação do Mal 2 (2016)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5gN2uH3EJFU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Invocasao do Mal 2[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2364d904170733f18b55c9229c4d90547a5c42bd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal 2 - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c09482bc85b6615b3c8bc3ec3d8fd56fa5360392$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal 2 - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Invocasao do Mal 2 - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/bLa1lt0ex45IVPwGT7aEuOojBjL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4mfFtlGeInPrQVm1hpv7th02yjx.jpg</fanart>
+<info>Lorraine e Ed Warren ajudam uma mãe solteira a criar seus quatro filhos numa casa assombrada por espíritos malignos. Conhecido como a Amityville da Inglaterra, o Poltergeist de Enfield foi o caso mais documentado na história da paranormalidade. Descubra a verdade por trás do evento que chocou o mundo.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Invocação do Mal 3: A Ordem do Demônio (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dFUX6rD86b8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:752583640f73300e0c35814377bb9821fb2e11a1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio - HD LEG [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7757081feb5f801552d2048fcb1f81b83d5d08a4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9kuOPRV1LLZ5A0rCSobA82HZog9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6Z0FhoZM56YkuXhvklMTpc7rc5u.jpg</fanart>
+<info>Revela uma história arrepiante de terror, assassinato e um mal desconhecido que chocou até os investigadores paranormais da vida real, Ed e Lorraine Warren. Um dos casos mais intrigantes de seus arquivos, começa com uma luta pela alma de um garoto, depois os leva além de tudo o que já haviam visto antes, para marcar a primeira vez na história dos EUA um suspeito de assassinato alega possessão demoníaca como defesa.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Um Lugar Silencioso (2 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/rNgg9wuyeYpCpuzkyLbvaupnmvq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iD8g4vLN0gnsaOP28oGcww0yhGH.jpg</fanart>
+<info>Assista aqui os filmes da coleção Nomedacoleção 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2018 e 2021)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Um Lugar Silencioso (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8kEupkfQ7gQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Um Lugar Silencioso 1[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36fb5f41a46563a54f6bbe870e359154f56adc5f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:247687ee0143a5a87635ff3abcea2a920118f7b7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Um Lugar Silencioso  - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/jk1LYcbiuUr0tv37cVcmp4u9KcN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/roYyPiQDQKmIKUEhO912693tSja.jpg</fanart>
+<info>Em uma fazenda nos Estados Unidos, uma família do Meio-Oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Um Lugar Silencioso - Parte II(2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BpdDN9d9Jio$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Um Lugar Silencioso 2[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5c0cde3a25e6099ca6d84cb13aa71d52b5124ef$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Lugar Silencioso 2 - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2f7523a4e7fd6766418e83e3ee9d8e692f8dc7a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Lugar Silencioso 2 - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Um Lugar Silencioso 2 - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv18OdnrgEfmQSWLZdM3A9yhii2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r0YaeOJ71iZKFuPnGJg92r7c9xF.jpg</fanart>
+<info>Logo após os acontecimentos mortais, até mesmo dentro de casa, a família Abbott precisa agora encarar o terror mundo afora, continuando a lutar para sobreviver em silêncio. Obrigados a se aventurar pelo desconhecido, eles rapidamente percebem que as criaturas que caçam pelo som não são as únicas ameaças que os observam pelo caminho de areia.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Sherlock Holmes (2 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bAr1vVZh3bsHY9ATdsYVwpPwwOn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/toxCmXzKzqSTG1VfFo4BdnfSS1K.jpg</fanart>
+<info>Assista aqui os filmes da coleção Sherlock Holmes 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2009 e 2011)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] Sherlock Holmes (2009)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=EQS7bRXrr5g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sherlock Holmes[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bec658864a9d2493f23c6ed5ef5d7610ca05d25$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae65695c754254c4c063e9599c07939587f32234$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sherlock Holmes - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NFWINCP0Ej8gWNbzKI72AImAg7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg</fanart>
+<info>O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] Sherlock Holmes: O Jogo de Sombras (2011)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uFDpn-jBkzg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sherlock Holmes: O Jogo de Sombras[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dabb12f32cef0683d8817808f92ee8438047f77$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffa8b155e9a67f95c4c215aa6e4afee301f016b8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7z498BJCpedGpCn8KcwaB0bbX48.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg</fanart>
+<info>Há um novo mentor criminoso em geral e não apenas ele é o equivalente intelectual de Holmes, mas sua capacidade para o mal e a falta de consciência pode lhe dar uma vantagem sobre o detetive.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]O Albergue (3 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dOpGaWfM9k46fzG3B5PfgSun5Om.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jpm77vtxuLRdanjQhNXlO1hvKaS.jpg</fanart>
+<info>Assista aqui os filmes da coleção O Albergue 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2006 a 2011)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] O Albergue (2006)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OVQwmX4hMHo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6de59d723ca7d9580369f31d0955726b4ca83218$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fb3d0112ca4799ef67a9b471f6aec46dfae35cd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue - FHD LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Albergue - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZ3CLYTvxmPAlmzT8Tfn0keiqgH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k354Yd92aQ546UaCbi4RhtmVdcB.jpg</fanart>
+<info>Os melhores amigos Josh e Paxton decidem passar um verão viajando como mochileiros pela Europa. Em Amsterdã, eles conhecem Oli, um viajante da Islândia. Os três decidem investigar um boato sobre um albergue na Eslováquia repleto de mulheres sensuais e acabam sendo envolvidos em um jogo mortal.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] O Albergue 2 (2007)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=lW8Q5owSRmA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue 2[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb967e8201869894682fc02c2c6d83a19298893e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 2 - HD DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38033b89eb0b7c5d5c5d911e47e085631ccb404c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 2 - HD LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Albergue 2 - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29gW9tzIcKrJ0hpfJRHzpp48VCS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lSPsFiAn06m7HhUxkb6Ja11fh0t.jpg</fanart>
+<info>Três estudantes americanas decidem fazer uma excursão em Roma no fim de semana, com a intenção de conhecer um luxuoso spa. Mas em vez disso, elas são leiloadas por uma terrível organização que promove a tortura humana.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] O Albergue 3 (2011)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=v_t0mN2aKL4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue 3[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2399015fa2375e0ed8ba7b089a29b8ca41fa5ad4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 3 - HD DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ef730d4aa471d37c39ad97be93ac3883a98d87d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 3 - HD LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Albergue 3 - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1U5Eu5hZ9ztDXdXCKnuAMqVmajE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jeGW7QqTwYkuao2O79vSLPIioFe.jpg</fanart>
+<info>Apostas de alto risco adquirem um novo significado neste terceiro capítulo da arrepiante série. Durante uma despedida de solteiro em Las Vegas, quatro amigos são atraídos por duas sensuais acompanhantes que os convidam a se juntarem a elas em uma festa particular. Mas quando chegam lá, são usados como objetos de um perverso jogo de tortura, parte do show mais sádico já visto e patrocinado pelos membros de Clube de Caça de Elite.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]O Homem nas Trevas (2 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/ylz5zbIxVW91SbWZYD2MlTY5PbC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e4ZngqnJvPZB4hTxqoh7Ix4y9CB.jpg</fanart>
+<info>Assista aqui os filmes da coleção O Homem nas Trevas 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2016 e 2021)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]O Homem nas Trevas 1 (2016)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=76yBTNDB6vU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Homem nas Trevas 1[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66313cd154c1f1944e5584c20e41f08da294bcb9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem nas Trevas 1 - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2cd59dbfcd80e10393d608fae7a126b0b409f4d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem nas Trevas 1 - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Homem nas Trevas 1 - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/20rdYjWhr1UrOm76zNS4Wx7DU0M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6F9QUWhGpZtYH0ibbuLJ49k91tZ.jpg</fanart>
+<info>Três jovens ladrões lutam por suas vidas depois de invadir a casa de um homem cego que tem seu lado obscuro.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]O Homem nas Trevas 2 (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=cbz9_K3mw1E$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Homem nas Trevas 2[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:866baaf0ec25763fe9d69df09d1b5a55e9f26a41$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem nas Trevas 2 - HD LEG [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2zh5iipzavv3mxc4yfeqlwaskdkkrtxy$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem nas Trevas 2 - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Homem nas Trevas 2 - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/ZoDPlnQGc9zwXm70pH82qF3X38.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pUc51UUQb1lMLVVkDCaZVsCo37U.jpg</fanart>
+<info>A história de um homem cego que aterroriza invasores de sua casa. A sequência se passa anos após a primeira invasão; quando Norman Nordstrom vive isolado na tranquilidade de sua residência até que os pecados do seu passado voltam para cobrar seu preço.</info>
+<genre>SUSPENSE E TERROR</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>
+<thumbnail><ICONEDACOLEÇÃO></thumbnail>
+<fanart><FUNDODACOLEÇÃO></fanart>
+<info>Assista aqui a coleção Nomedacoleção 
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
+[COLOR orange][B]0 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
 </info>
 
 <subitems>
@@ -191,53 +873,42 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]300 (2007)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=UrIbxk7idYA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]300[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:641A4DF9E982E7383284D69A920FE935291E9C2B$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]300 - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FA53657CB434E17C18394A9E3C1CAB75BBA1E53$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]300 - FHD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10w8Xu7kfg6SPTn4HmysO-GBk-mkZYTl6/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]300 - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26103.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]300 - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/19885.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]300 - DUB[/B][/COLOR]</link>
-<link>https://video.wixstatic.com/video/16f3d4_8849a77ff94f4bae9b20f4ac2336cf4d/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]300 - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3pyvGvjStZkHq8jNR1VdMPMWKZ8.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/eGhjeUbzttA3E4flxdAm8gHz4h4.jpg</fanart>
-<info>Em 480 a.C., Leônidas, o rei de Esparta, comanda seu pequeno batalhão de 300 soldados contra um exército de mais de 1 milhão na Batalha das Termópilas.</info>
-<genre>ÉPICO</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
 
-<subitem>
-<title>[COLOR white][B]300: A Ascensão do Império (2014)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=hIL3nTSwvXs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]300: A Ascensao do Imperio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF9071F586BFC7FCAC86A1F04AD63CA6D6C96979$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C04D40732F70F8A48259D12D36E233D91008BD2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - FHD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ce2Kd1c_CArqYFSVuK2-jO1dQeYMv2IH/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26105.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/19884.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - DUB[/B][/COLOR]</link>
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lqsbSbSJVU5jYVso1j3lvC9Ehu.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/chjkfyo57JexWo1YeIZRMk8wA4m.jpg</fanart>
-<info>Após a morte do pai, Xerxes dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército sendo liderado por Artemisia. Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles é o responsável por liderar os gregos.</info>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
 <genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Os 300 de Esparta (1962)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ncviqBoQCMg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os 300 de Esparta[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5E9E987D4E96792987A9ED45CD0FD5047A395D0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os 300 de Esparta - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0EF23D2146161FAE7FEBCDA19FC762F516EBA92$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os 300 de Esparta - FHD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NZ4bVPAKWZr__vPcc6UMY-i10Qh_ZEK1/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Os 300 de Esparta - DUB[/B][/COLOR]</link>
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Os 300 de Esparta - DUB[/B][/COLOR]</link>
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Os 300 de Esparta - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHiZrkCBEQwMOKdUqU9tZV45hhM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tX0gKCamLTczIjdrS6l4hT3owos.jpg</fanart>
-<info>Xerxes, o rei persa, colocou seu enorme império de escravos para esmagar um pequeno grupo de estados independentes gregos. O rei contava com a desunião da Grécia para vencer a guerra, mas o famoso guerreiro Leonidas, o rei de Esparta, e o grande orador Themistocles de Atenas viram que a união era a única força capaz de derrotar o exército persa.</info>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
 <genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-ACRESCENTE AQUI NOVO ITEM DA COLEÇÃO
+MANTER TAG DE FECHAMENTO DE ITEM
 </subitems>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -272,7 +943,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
@@ -290,77 +961,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>NOMEDOGENERO</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-ACRESCENTE AQUI NOVO ITEM DA  COLEÇÃO
-</subitems>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subchannel>
-<name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>
-<thumbnail><ICONEDACOLEÇÃO></thumbnail>
-<fanart><FUNDODACOLEÇÃO></fanart>
-<info>Assista aqui a coleção Nomedacoleção 
-[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
-[COLOR orange][B]0 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
-</info>
-
-<subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>NOMEDOGENERO</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
@@ -370,7 +971,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
 </subitems>
 </subchannel>
 </channel>
