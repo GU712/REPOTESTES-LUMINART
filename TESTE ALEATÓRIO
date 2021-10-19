@@ -1,25 +1,89 @@
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO DE SÉRIES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Nomedaserie (DATA)[/B][/COLOR]</name>
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>Assista aqui a série Nomedaserie
+[COLOR orange][B]NOMEDASEÇÃO[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
+[COLOR orange][B]0 TEMPS  - 00 EPS[/B][/COLOR]
+</info>
+
+<subitems>
 <subitem>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white][B]A Maldição da Residência Hill (2019)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=uPz2mU7ghOU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Maldisao da Residencia Hill[/B][/COLOR]</link>
-
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 10 EPs - DUB[/B][/COLOR]</link>	
-
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/11SPTR-SR/Mald.Res.Hill/T01/LS-T01E01.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Steven Ve um Fantasma [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/11SPTR-SR/Mald.Res.Hill/T01/LS-T01E02.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Caixao aberto [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/11SPTR-SR/Mald.Res.Hill/T01/LS-T01E03.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] Toque [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/11SPTR-SR/Mald.Res.Hill/T01/LS-T01E04.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] Coisa de Gemeos [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/11SPTR-SR/Mald.Res.Hill/T01/LS-T01E05.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] A senhora do pescoso torto [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/11SPTR-SR/Mald.Res.Hill/T01/LS-T01E06.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Duas tempestades [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/11SPTR-SR/Mald.Res.Hill/T01/LS-T01E07.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] Eulogia [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/11SPTR-SR/Mald.Res.Hill/T01/LS-T01E08.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] Marcas de Uso [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/11SPTR-SR/Mald.Res.Hill/T01/LS-T01E09.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] Pesadelo [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/11SPTR-SR/Mald.Res.Hill/T01/LS-T01E10.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] O Silencio Repousa Soberano [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg</fanart>
-<info>SUSPENSE E TERROR</info>
-<genre>SUSPENSE E TERROR</genre>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Nomedaserie[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
+<thumbnail><ICONEDASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>Assista ao trailer</info>
+<genre>NOMEDASEÇÃO</genre> 
+</subitem>
+
+subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nomedaserie (DATA) T01 - 00 EPs - HD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B]Temporada 01 - 00 EPs - HD DUAL[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nomedaserie[/B][/COLOR]</link>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]COMPLETA[COLOR yellow] -> [COLOR white]Nomedaserie - T01 - EPS 00 - HD DUAL[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASÉRIE></thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre><NOMEDASEÇÃO></genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Nomedaserie (DATA) T01 - 00 EPs - HD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B]Temporada 01 - 00 EPs - HD DUAL[/B][/COLOR]</link>		
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nomedaserie[/B][/COLOR]</link>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASÉRIE></thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre><NOMEDASEÇÃO></genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
+</subitems>
+</subchannel>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
