@@ -727,9 +727,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=V0m6YCDzvK0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Enigma de Outro Mundo[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0603df8e169baebf05ec0aff20a4872680d7f412$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo - HD DUB [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a0507b28fefd53830497021014d1b5c9cfd3416$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo - FHD LEG[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/The.Thing/LS.O.Enigma.de.Outro.Mundo.1982.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jCEiFLzzmFw1Ijfs3YRy8yqHs9U.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg</fanart>
 <info>Na remota Antártida, um grupo de cientistas americanos é perturbado em sua base quando, de um helicóptero, alguém atira em um cão do acampamento. À medida que socorrem o cão baleado, o bicho começa a atacar os cientistas e os outros cachorros e logo eles descobrem que o animal pode assumir a forma de suas vítimas. Isto significa que membros da equipe podem ser mortos e a cópia assumir o lugar deles. Com isso, um piloto e um médico precisam capturar a fera antes que seja tarde demais.</info>
@@ -742,9 +740,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=9KS8NtQEQlA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Coisa[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c470cb478ce90b931a2d8cf3ae9b5400c8b6257$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Coisa - HD DUAL [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55cbb13f3881eb4c7f43672b531039b13d7550fb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Coisa - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Coisa - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/The.Thing/LS.The.Thing.2011.HD.Leg.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Coisa - FHD LEG-FIX[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/The.Thing/LS.The.Thing.2011.SD.dub.avi$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Coisa - SD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zKdqe9kfhLQ9giuLcpoQI3WL1Vw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qgSlGJurPzgSHKYlqBiDmr3vjrc.jpg</fanart>
 <info>A paleontóloga Kate Lloyd viaja para investigar um ser misterioso que foi encontrado por cientistas noruegueses em uma nave espacial no gelo. O que ela não sabe é que a criatura na verdade está viva e que tem planos danosos para o planeta.</info>
