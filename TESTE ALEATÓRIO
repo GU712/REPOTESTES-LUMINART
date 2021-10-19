@@ -1,10 +1,73 @@
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO DE FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]FILMES DE NOMEDOGENERO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/89JLmzc/EPICOS-FILM.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro AÇÃO[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Zulu (1964) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CbdZMUON3Is$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Zulu[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db9c1fc44eb1c728e8d5d8b18b4602c6a51adc8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Zulu - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05ca9d4bcabca2dd54d08571170886e35db0645$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Zulu - FHD LEG[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/2EPC-FM/LS-Zulu.1964.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Zulu - FHD DUB[/B][/COLOR]</link>
+<link>https://seed305.bitchute.com/OsqmkKQffiY2/exB6yq2kjiEb.mp4$$lsname=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]Zulu - SD DUB [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
+<info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>
+<genre>NOMEDOGENERO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FDH DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>SINOPSEDOFILME></info>
+<genre>NOMEDOGENERO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
+</subitems>
+</subchannel>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  SEÇÃO DE SÉRIES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
 <channel>
-<name>[COLOR white][B]SÉRIES DE GENERO[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE NOMEDOGENERO[/B][/COLOR]</name>
 <thumbnail><ICONEDOGENERO></thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -13,10 +76,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR white]Nomedaserie (DATA)[/B][/COLOR]</name>
-<thumbnail><ICONEDASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
 <info>Assista aqui a série Nomedaserie
-[COLOR orange][B]GENERO[/B][/COLOR]
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 e 0000[/B][/COLOR]
 [COLOR orange][B]0 TEMPS  - 00 EPS[/B][/COLOR]
 </info>
@@ -34,10 +97,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Nomedaserie[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
-<thumbnail><ICONEDASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
 <info>Assista ao trailer</info>
-<genre>NOMEDASEÇÃO</genre> 
+<genre>NOMEDOGENERO</genre> 
 </subitem>
 
 <subitem>
@@ -55,10 +118,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NomedoEpisodio - HD DUAL[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]NomedoEpisodio - HD DUAL[/B][/COLOR]</link>	
 
-<thumbnail><ICONEDASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
 <info><SINOPSEDASÉRIE></info>
-<genre><NOMEDASEÇÃO></genre>
+<genre><NOMEDOGENERO></genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -73,10 +136,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<thumbnail><ICONEDASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
 <info><SINOPSEDASÉRIE></info>
-<genre><NOMEDASEÇÃO></genre>
+<genre><NOMEDOGENERO></genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -88,4 +151,228 @@ MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO DE COLEÇÕES DE FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channel>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE NOMEDOGENERO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/YjNhcNd/EPICOS-COL.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro AÇÃO e suas seguências[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]300 (3 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iWXRbqn37PKgW93kvioToFZcKlC.jpg</fanart>
+<info>Assista aqui os filmes da coleção 300
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (1962 a 2014)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]300 (2007)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UrIbxk7idYA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]300[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:641A4DF9E982E7383284D69A920FE935291E9C2B$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]300 - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FA53657CB434E17C18394A9E3C1CAB75BBA1E53$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]300 - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10w8Xu7kfg6SPTn4HmysO-GBk-mkZYTl6/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]300 - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26103.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]300 - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/ritchie/102030/19885.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]300 - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_8849a77ff94f4bae9b20f4ac2336cf4d/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]300 - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3pyvGvjStZkHq8jNR1VdMPMWKZ8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eGhjeUbzttA3E4flxdAm8gHz4h4.jpg</fanart>
+<info>Em 480 a.C., Leônidas, o rei de Esparta, comanda seu pequeno batalhão de 300 soldados contra um exército de mais de 1 milhão na Batalha das Termópilas.</info>
+<genre>ÉPICO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]300: A Ascensão do Império (2014)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hIL3nTSwvXs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]300: A Ascensao do Imperio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF9071F586BFC7FCAC86A1F04AD63CA6D6C96979$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C04D40732F70F8A48259D12D36E233D91008BD2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ce2Kd1c_CArqYFSVuK2-jO1dQeYMv2IH/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/26105.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/ritchie/102030/19884.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]300: A Ascensao do Imperio - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lqsbSbSJVU5jYVso1j3lvC9Ehu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/chjkfyo57JexWo1YeIZRMk8wA4m.jpg</fanart>
+<info>Após a morte do pai, Xerxes dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército sendo liderado por Artemisia. Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles é o responsável por liderar os gregos.</info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Os 300 de Esparta (1962)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ncviqBoQCMg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os 300 de Esparta[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5E9E987D4E96792987A9ED45CD0FD5047A395D0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os 300 de Esparta - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0EF23D2146161FAE7FEBCDA19FC762F516EBA92$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os 300 de Esparta - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NZ4bVPAKWZr__vPcc6UMY-i10Qh_ZEK1/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Os 300 de Esparta - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Os 300 de Esparta - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Os 300 de Esparta - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHiZrkCBEQwMOKdUqU9tZV45hhM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tX0gKCamLTczIjdrS6l4hT3owos.jpg</fanart>
+<info>Xerxes, o rei persa, colocou seu enorme império de escravos para esmagar um pequeno grupo de estados independentes gregos. O rei contava com a desunião da Grécia para vencer a guerra, mas o famoso guerreiro Leonidas, o rei de Esparta, e o grande orador Themistocles de Atenas viram que a união era a única força capaz de derrotar o exército persa.</info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ACRESCENTE AQUI NOVO ITEM DA COLEÇÃO
+</subitems>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>
+<thumbnail><ICONEDACOLEÇÃO></thumbnail>
+<fanart><FUNDODACOLEÇÃO></fanart>
+<info>Assista aqui a coleção Nomedacoleção 
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
+[COLOR orange][B]0 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ACRESCENTE AQUI NOVO ITEM DA  COLEÇÃO
+</subitems>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>
+<thumbnail><ICONEDACOLEÇÃO></thumbnail>
+<fanart><FUNDODACOLEÇÃO></fanart>
+<info>Assista aqui a coleção Nomedacoleção 
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
+[COLOR orange][B]0 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
+</subitems>
+</subchannel>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
