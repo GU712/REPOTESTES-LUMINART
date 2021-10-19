@@ -1,12 +1,14 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO DE SÉRIES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]</name>
+<name>[COLOR orange][B]SÉRIES DE GENERO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- SEÇÃO DE SÉRIES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
@@ -39,19 +41,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 
 subitem>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nomedaserie (DATA) T01 - 00 EPs - HD DUAL[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nomedaserie (DATA)[/B][/COLOR]</title>
 
 <link>NOLINK$$lsname=[COLOR orange][B]Temporada 01 - 00 EPs - HD DUAL[/B][/COLOR]</link>	
 
 <link>plugin://plugin.video.youtube/play/?video_id=1TnzInzrse4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nomedaserie[/B][/COLOR]</link>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nomedaserie  - HD DUAL[/B][/COLOR]</link>	
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]COMPLETA[COLOR yellow] -> [COLOR white]Nomedaserie - T01 - EPS 00 - HD DUAL[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nomedaserie  - FHD DUAL[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio - HD DUAL[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]NomedoEpisodio - HD DUAL[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]NomedoEpisodio - HD DUAL[/B][/COLOR]</link>	
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg</fanart>
