@@ -740,7 +740,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=9KS8NtQEQlA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Coisa[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c470cb478ce90b931a2d8cf3ae9b5400c8b6257$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Coisa - HD DUAL [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55cbb13f3881eb4c7f43672b531039b13d7550fb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Coisa - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/The.Thing/LS.The.Thing.2011.HD.Leg.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Coisa - FHD LEG-FIX[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/The.Thing/LS.The.Thing.2011.HD.Leg.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Coisa - HD LEG-FIX[/B][/COLOR]</link>
 <link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/The.Thing/LS.The.Thing.2011.SD.dub.avi$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Coisa - SD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zKdqe9kfhLQ9giuLcpoQI3WL1Vw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qgSlGJurPzgSHKYlqBiDmr3vjrc.jpg</fanart>
@@ -774,12 +774,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B] Sherlock Holmes (2009)[/B][/COLOR]</title>
+<title>[COLOR white][B]Sherlock Holmes (2009)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=EQS7bRXrr5g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sherlock Holmes[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bec658864a9d2493f23c6ed5ef5d7610ca05d25$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae65695c754254c4c063e9599c07939587f32234$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes - FHD DUAL[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sherlock Holmes - FHD DUB[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/She.Holmes/LS-Sherlock.Holmes-1.2009.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sherlock Holmes - HD DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NFWINCP0Ej8gWNbzKI72AImAg7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg</fanart>
@@ -789,13 +789,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B] Sherlock Holmes: O Jogo de Sombras (2011)[/B][/COLOR]</title>
+<title>[COLOR white][B]Sherlock Holmes: O Jogo de Sombras (2011)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=uFDpn-jBkzg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sherlock Holmes: O Jogo de Sombras[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dabb12f32cef0683d8817808f92ee8438047f77$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - HD DUAL [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffa8b155e9a67f95c4c215aa6e4afee301f016b8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/She.Holmes/LS-S.H.-2.O.jogo.das.Sombras.2011.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7z498BJCpedGpCn8KcwaB0bbX48.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg</fanart>
 <info>Há um novo mentor criminoso em geral e não apenas ele é o equivalente intelectual de Holmes, mas sua capacidade para o mal e a falta de consciência pode lhe dar uma vantagem sobre o detetive.</info>
