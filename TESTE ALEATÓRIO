@@ -10,10 +10,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE WESTERN[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/G9Yp9Km/WESTERN-FILM.png</thumbnail>
-<fanart>https://i.ibb.co/HYfRFpm/FAN-WEST.png</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro WESTERN[/B]</info>
+<name>[COLOR white][B]FILMES DE AVENTURA[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/LdFYzbs/AVENT-FILM.png</thumbnail>
+<fanart>https://i.ibb.co/7ynSWXM/FAN-AVENT.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro AVENTURA[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -33,31 +33,19 @@ LETRA "A"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]À Procura da Vingança (2007)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=4afWoSzxqaU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Procura da Vinganza[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeed9b75c070fd2f4cdf14e39d494e14e3ac6dd6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Procura da Vinganza - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c9ef029c2e110efc057853199c5c78e7fb69d82$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Procura da Vinganza - HD LEG[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-FM/LS-A.Procura.da.Vingansa.2006.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Procura da Vinganza - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3WCcrCYq9mCyFGLpgx2IwhpURTe.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pcV7DctSDwUafYURfW7LvTTVjsv.jpg</fanart>
-<info>Fim da Guerra Civil dos Estados Unidos, pouco antes da virada para o século XIX. Decidido a se vingar de Gideon Pierce Brosnan, o coronel Carver Liam Neeson parte em sua busca.</info>
-<genre>WESTERN</genre>  
+<title>[COLOR white][B]A Liga Extraordinária (2003)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CO3BPv5V6k4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Liga Extraordinaria[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:947d85cf0174ab6216aec9e431fdb6261fb3c4f6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Liga Extraordinaria - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b36d6238fa1d45984f7d06bce89af7e59cf4e35$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Liga Extraordinaria - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n3VpgjdOB1DkHSUe1DbFzV8ncpJ.jpg</fanart>
+<info>No final do século XIX a rainha Vitória nomeia uma legião de grandes nomes da época para combater um perigoso inimigo: um gênio do crime que deseja conquistar o planeta. Entre os convocados para enfrentá-lo estão Allan Quatermain, Mina Harker, Dorian Gray e o Dr. Jekyll.</info>
+<genre>AVENTURA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Audazes e Malditos (1960)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=re84FvdjpBQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Audazes e Malditos[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84E676C3AFFEEC2A3FE50421F18A717939C240B6$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]Audazes e Malditos - HD LEG [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3500FC584EEDCDE6E3C3AEA341174253B92062B6$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]Audazes e Malditos - FHD LEG [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-FM/LS-Audazes.e.Malditos.1960.FHD.LEGFIX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Audazes e Malditos - FHD LEGFIX[/B][/COLOR]</link>
-<link>https://seed122.bitchute.com/OsqmkKQffiY2/7gACY7HVT3Wt.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Audazes e Malditos - LEGFIX[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k0zCgA7gnV3jEuvHSJok8mMLIpG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/33IoSCCJmgxsgLYqIlaCKpDASy3.jpg</fanart>
-<info>Um oficial negro é acusado do assassinato do comandante e de sua filha e tenta provar inocência mesmo após ser perseguido.</info>
-<genre>WESTERN</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "B"				
@@ -74,19 +62,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "E"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Era uma Vez no Oeste (1968)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Wov74hCgXhk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Era uma Vez no Oeste[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19541c58d6d26063efcb40b6f4a8abcae3bc104$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Era uma Vez no Oeste - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbbcacb01961df74cd140aa8402865a5a6970a6b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Era uma Vez no Oeste - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-FM/LS-Era.Uma.Vez.no.Oeste.1969.FHD.DUAL.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Era uma Vez no Oeste - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RymloPYcEPx30T1vTrz2cXaVnh.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aKZ9hDmLJTaGSxWdhxqMTcvXmk4.jpg</fanart>
-<info>Enquanto os construtores ferroviários marcham imparavelmente através do deserto de Arizona a caminho do mar, Jill chega à pequena cidade de Flagstone com a intenção de começar uma nova vida.</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "F"				
@@ -112,26 +87,43 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "K"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<item>
+<title>[COLOR white][B]King Kong (2005)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=AYaTCPbYGdk&feature=emb_logo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]King Kong[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f425569fbe7ad66c18571a2f72140d77eb941b15$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]King Kong - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e48c50b11ee7231b801040864e4f2829ecef548$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]King Kong - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lBtlVlECMW98tz3a3O1C2s1vric.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/anOHbjl38ydAaoO5gCbN4gbC0VF.jpg</fanart>
+<info>Nova York, 1933. Um produtor de cinema excessivamente ambicioso, coage seu elenco e contrata a tripulação de um navio cargueiro para viajar até a misteriosa Ilha da Caveira, onde encontram Kong, um gorila gigante, além de outros animais misteriosos.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "L"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<item>
+<title>[COLOR white][B]Linha do Tempo (2003) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=I2hh2q7kBpE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Linha do Tempo[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:979f9ef5a836df8ea1d5855628c3293a0fdc3ff9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Linha do Tempo - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca36322737e53ad532b284e21116e512d82819ac$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Linha do Tempo - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m4AzEBwKI3imvNvLObkSLcBkeTV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7uPCBJ9vJ0RgbHfohNoXnuxG6UW.jpg</fanart>
+<info>Baseado em um romance de Michael Crichton, uma expedição parte para o passado em busca de um cientista que acabou ficando preso durante a Guerra dos 100 Anos, no século XIV, entre França e Inglaterra. O problema é que, enquanto estavam na operação de resgate, acontece um incidente que faz com que a máquina do tempo deixe de operar, o que fará com que a aventura do grupo torne-se muito mais longa e perigosa do que o previsto.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "M"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Meu Ódio Será Sua Herança (1969)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=4Vea6c2svYs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Meu Odio Sera Sua Heranza[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3711b36b0cf96519c6c7ffff33799f055c60da4c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Meu Odio Sera Sua Heranza - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d67982cc23c5844c19baac0e2d63ea5a665034a2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Meu Odio Sera Sua Heranza - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-FM/LS-Meu.Odio.Sera.sua.Heransa.1969.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Meu Odio Sera Sua Heranza - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFvHnMHYzKQh1bk0O6QFSEcwHzg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/uNbsH45P4oKo2ZL4X1SNxBSTcZW.jpg</fanart>
-<info>É 1913, e o “tradicional” oeste americano está morrendo. Entre os habitantes dessa época agonizante estão uma gangue conhecida como “o bando selvagem”. Depois de um assalto a um escritório ferroviário fracassado, a gangue segue para o México para fazer um último trabalho. Vendo seus tempos e vidas se afastando no século 20, a gangue aceita o emprego e acaba em uma última e brutalmente violenta resistência contra seus inimigos considerados corruptos, em uma pequena cidade mexicana governada por um general implacável.</info>
-<genre>WESTERN</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "N"				
@@ -142,73 +134,53 @@ LETRA "O"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]O Cavaleiro Solitário - The Lone Ranger (2013)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=6XJLKw96fr0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Cavaleiro Solitario - The Lone Ranger[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:362f1d4713c652d1de31a2f2dbb282fd672bc431$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Cavaleiro Solitario - The Lone Ranger - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fa3ff1b4a64be6bbe60e74f1e789753fc80203a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Cavaleiro Solitario - The Lone Ranger - FHD LEG[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-FM/LS-O.Cavaleiro.Solitario.Zorro.2013.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Cavaleiro Solitario - The Lone Ranger - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oz7euNg7BmA5aYjcjKIzIAMT8V6.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qksfforuQFh0faMQKgXIa6lCEh0.jpg</fanart>
-<info>O índio guerreiro Tonto conta a história não conhecida que transformou John Reid Armie Hammer, um homem da lei, em uma lenda da justiça. É uma acelerada viagem cheia de surpresas épicas e muito humor sobre os dois improváveis heróis que precisam aprender a trabalhar juntos e lutar contra a ganância e a corrupção.</info>
-<genre>WESTERN</genre>  
+<title>[COLOR white][B]O Chamado da Floresta (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uYpK1cMEQ8w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Chamado da Floresta[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85ec615f7f8ab2c810f940e74fbd4b8156bd73b7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Chamado da Floresta - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:663c598e8ac41996eaa7e3214ec961b0e1ef39a5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Chamado da Floresta - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2sDcIIPUL76Ac0Xddbg2U5d9vEX.jpg</fanart>
+<info>Depois de anos vivendo como um cachorro de estimação na casa de uma família na Califórnia, Buck precisa entrar em contato com os seus instintos mais selvagens para conseguir sobreviver em um ambiente hostil como o Alaska. Com o tempo, seu lado feroz se desenvolve e ele se torna o grande líder de sua matilha. Baseado no livro homônimo de Jack London, lançado em 1903.</info>
+<genre>AVENTURA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Os Indomáveis (2007)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=pM83chat6kw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Indomaveis[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bbbcce9cd39d6cde4404e6792d54cc0217cd393$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Indomaveis - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7595e304dd59b465d55dc78d1c25d07632b9227f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Indomaveis - FHD LEG[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-FM/LS-Os.Indomaveis.2007.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Indomaveis - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/emXjVhz8LL4ZWahmUsk6YSg5wcU.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/cGvLAYful0KwitsoiPpRKZ3zyz8.jpg</fanart>
-<info>O fazendeiro Dan Evans se dirige a Bisbee para esclarecer questões relativas à venda de sua terra quando ele testemunha os eventos finais de um assalto a uma carruagem liderada pelo famoso bandido Ben Wade. Pouco tempo depois, Wade é capturado pela lei em Bisbee e Evans se vê como um dos acompanhantes que levarão Wade para o Yuma de 3 a 10 em Contenção, com a recompensa de 200 dólares. O esforço de Evans para levar Wade para a estação é em parte um esforço para salvar sua terra, mas também parte de uma batalha interna para determinar se ele pode ser mais do que apenas um fazendeiro ingênuo aos olhos de seu filho impetuoso e pistoleiro William Evans. O transporte para Contenção é arriscado e repleto de emboscadas de índios, perseguições da turma vingativa de Wade e do comportamento clamoroso e sub-reptício de Wade, que torna o percurso ainda mais intenso.</info>
-<genre>WESTERN</genre>  
+<title>[COLOR white][B]O Conde de Monte Cristo (2002)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=X9F6Ssb7GHo&feature=emb_logo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Conde de Monte Cristo[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4242fd3fb024fdeb855f132b16a8c68004e25a8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Conde de Monte Cristo - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f566e6b3c64956842f7528b1325e426b31537d6e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Conde de Monte Cristo - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pjoMyKnMh0EY6o2IxT1aiM1xqpk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/Htj4cXnhQNshE8Ce8sA6QVV3vf.jpg</fanart>
+<info>‘O conde de Monte Cristo’ é um remake do conto de Alexander Dumas com o mesmo nome. Dantes, um marinheiro que é falsamente acusado de traição por seu melhor amigo Fernand, que quer a namorada de Dantes, Mercedes, para si. Dantes é preso na ilha prisão de Chateau d’If por 13 anos, onde ele trama a vingança contra aqueles que o traíram. Com a ajuda de outro prisioneiro, ele escapa da ilha e passa a se transformar no rico Conde de Monte Cristo como parte de seu plano para se vingar.</info>
+<genre>AVENTURA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]O Último Homem  - 2018 [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Q7kfkGZ2Gpo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ultimo Homem[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0cb1fe7251a2f373d75f4deaa843c74ede970e9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ultimo Homem - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f7251054fe5040059c1d6ee8b0ad60b9d268a50$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ultimo Homem - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-FM/LS-O.Ultimo.Homem.2018.FHD.dub..mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Ultimo Homem - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPopP0wQblOpgUU5fFWn2Gz3XRV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9BIKvqlAkpZoLtw5QASgUsPtI3W.jpg</fanart>
-<info>Em Hyde Park, uma pequena cidade de Ohio, a vida segue sofrida para Mike McCluskie, o xerife local que acabou de ficar viúvo e tenta recomeçar. O povoado é formado basicamente por trabalhadores que estão construindo a estrada de ferro na região. Mas isso mudará radicalmente. Quando um grupo de vaqueiros chega à cidade vindos do Texas, eles rapidamente começam a tomar conta dos negócios e da política do local, dividindo a população e causando transtornos a quem resiste a eles. Com o apoio da dona do bordel e de um jovem moribundo, McCluskie terá que enfrentar os violentos invasores para evitar que um banho de sangue aconteça em Hyde Park. Baseado em uma história real.</info>
-<genre>WESTERN</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<title>[COLOR white][B]O Homem da Máscara de Ferro (1998)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=eRal_feCStc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Homem da Mascara de Ferro[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d315f2d0d830df5cdcc65d675d28f9284a26ccd6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem da Mascara de Ferro - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bdb6218762950a5b9ff8626a04a194cf4ffc3ba$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem da Mascara de Ferro - FHD DUAL[/B][/COLOR]</link>
 
-<item>
-<title>[COLOR white][B]Os Últimos Machões (1976)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=xdhqqY7pO8w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Ultimos Machoes[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:yfn7qyfxwtyfifvm3qts7qelzk4tffsy$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ultimos Machoes - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:964032a6f779e9ba69d6627aa9521e4f5d00cb7c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ultimos Machoes - HD LEG[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-FM/LS-Os.Ultimos.Machoes.1976.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Ultimos Machoes - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qS8zHHEi9TxC6fbIzQGnJyHq69b.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/6AfKmLyXsHgoD8tvyvAhMMMxR8n.jpg</fanart>
-<info>No início do século XX, alguns presos realizam uma fuga e criam uma gangue que cruza o deserto. Um desses homens é Zach Provo (Coburn), um meio índio que foi capturado por Sam Burgade (Heston) e enviado para a prisão durante a última parte do século XIX. Provo planeja sua vingança.</info>
-<genre>WESTERN</genre>  
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k9urO3enqeMgSjb6br1iSUj4Wq7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xzCe37rMKvYUnrAhIxpLJwv7Xmo.jpg</fanart>
+<info>No século XVII, o cruel Luís XIV manda clandestinamente para a masmorra o irmão gêmeo que ninguém sabe existir, para tomar o poder. Mas o mosqueteiro Aramis descobre o segredo e convence seus companheiros a salvar o prisioneiro.</info>
+<genre>AVENTURA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "P"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Perseguição Mortal (1981)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Y4OhjdqeYB0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Perseguisao Mortal[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3znockfvl7zs4rbfvalk6ihalzwzlgo$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Perseguisao Mortal - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b3139b2dde6c7e5cdcd430416980aaf46597ee1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Perseguisao Mortal - FHD LEG[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-FM/LS-Perseguisao.Mortal.1981.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Perseguisao Mortal - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j9nVLvOv2Sz3KekD7elwGZII8F9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/erwIWalrZw6WDblfPcgcIQuqC2l.jpg</fanart>
-<info>Canadá 1931: O caçador invulgar Johnson vive para si nas montanhas geladas perto do rio Yukon. Durante uma visita na cidade, ele testemunha uma briga de cachorro. Ele interrompe o jogo e compra um dos cães – quase já morto – por US $ 200 contra a vontade do dono. Quando o proprietário Hasel reclama com o sargento Millen, ele se recusa a agir. Mas então o criador do ódio e seus amigos acusam Johnson de assassinato. Então Millen, apesar de simpático, tem que tentar prendê-lo – mas Johnson defende sua liberdade de todas as formas possíveis.</info>
-<genre>WESTERN</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "Q"				
@@ -246,9 +218,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "W"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<item>
+<title>[COLOR white][B]Warcraft - O Primeiro Encontro de Dois Mundos (2016) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Dqvz8w-latE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Warcraft - O Primeiro Encontro de Dois Mundos[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:313723fd1df01ab30e1b4d79df8015aa751ffd00$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Warcraft - O Primeiro Encontro de Dois Mundos - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e3dba0440e33457647869863b998b8e9f84eb86$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Warcraft - O Primeiro Encontro de Dois Mundos - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2cPJhbIwsmMXsV9vihoPEFBFFHm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1vpt8aSp8Piac8EkNlbdJPp3PO6.jpg</fanart>
+<info>A região de Azeroth sempre viveu em paz, até a chegada dos guerreiros Orc. Com a abertura de um portal, eles puderam chegar à nova Terra com a intenção de destruir o povo inimigo. Cada lado da batalha possui um grande herói, e os dois travam uma disputa pessoal, colocando em risco seu povo, sua família e todas as pessoas que amam.</info>
+<genre>AVENTURA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Waterworld: O Segredo das Águas (1995)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NpKbULrB9Z8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Waterworld: O Segredo das Aguas[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a5fc3bfc41f57611efe80fed20c3a7e104ea8e9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Waterworld: O Segredo das Aguas - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1160b7aab84ec3f442d5f2c2febd5793b9158936$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Waterworld: O Segredo das Aguas - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wN30JINYy2IehvN49GWD2IGhohP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rX2DVTx2dm6y9xwfis8SAopIayX.jpg</fanart>
+<info>As calotas polares derreteram e a terra está coberta de água. As pessoas restantes viajam pelos mares em busca de sobrevivência. Várias sociedades diferentes existem. O marinheiro cai de sua existência habitual e solitária em ter que cuidar de uma mulher e uma menina jovem, enquanto sendo perseguido pelas forças do mal do diácono.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "Z"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
 
 
 <item>
@@ -265,10 +268,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info>SINOPSEDOFILME></info>
-<genre>WESTERN</genre>
+<genre>AVENTURA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
@@ -282,10 +284,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE WESTERN[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/tLZKdTg/WESTERN-COL.png</thumbnail>
-<fanart>https://i.ibb.co/HYfRFpm/FAN-WEST.png</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro WESTERN e suas sequências[/B]</info>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE AVENTURA[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Cwyzm0B/AVENT-COL.png</thumbnail>
+<fanart>https://i.ibb.co/7ynSWXM/FAN-AVENT.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro AVENTURA e suas seguências[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -296,13 +298,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]Young Guns (2 Filmes)[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/txc57d3/ACE-YOUNG-GUNS.png</thumbnail>
-<fanart>https://i.ibb.co/N794tV8/FAN-YOUG-GUNS.png</fanart>
-<info>Assista aqui os filmes da coleção Young Guns 
-[COLOR orange][B]WESTERN[/B][/COLOR]
-[COLOR orange][B]2 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (1988 e 1990)[/B][/COLOR]
+<name>[COLOR white][B]Indiana Jones (4 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/T0j60pz/9024922-so.jpg</thumbnail>
+<fanart>https://i.ibb.co/j4CKhwq/images.jpg</fanart> 
+<info>Assista aqui os filmes da coleção Nomedacoleção 
+[COLOR orange][B]AVENTURA[/B][/COLOR]
+[COLOR orange][B]4 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (1981 a 2008)[/B][/COLOR]
 </info>
 
 <subitems>
@@ -317,30 +319,62 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B] Os Jovens Pistoleiros (1988) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=sr0cBp9s7c4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Jovens Pistoleiros[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d2860f72ae02748b33265e60a11795e0442a8fe$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Jovens Pistoleiros - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J5Y4NTCRDC6WS27JXSQ4V4663OHI63TS$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Jovens Pistoleiros - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Young.Guns/LS-Young.Guns.I-Os.Jovens.Pistoleiros.1988.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Jovens Pistoleiros - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wsjaEPserDMXR6aNUByepN2jtb2.jpg</thumbnail>
-<fanart>https://www.latercera.com/resizer/rbscjAI51gBJQMiuLsBm4gBx-Fk=/arc-anglerfish-arc2-prod-copesa/public/NBO43DBTRNCT3EFKMGU2U4FDZQ.jpg</fanart>
-<info>A história se passa em 1878, no Novo México. John Tunstall recolhe jovens pistoleiros da rua para trabalhar em seu rancho, e os ensina a ler e a se comportar. O fazendeiro é baleado e morto, e agora seus ajudantes querem vingança.</info>
-<genre>WESTERN</genre>
+<title>[COLOR white][B]Caçadores da Arca Perdida (1981)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DanNhL_Poh8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Casadores da Arca Perdida[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fd26e37489b543179faefee0febf199b8f35698$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Casadores da Arca Perdida - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c52da55739a2229b4cbad0023d9cf49afa9c5a7c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Casadores da Arca Perdida - FHD DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crTawmZ7K9erVTm2UgznJ18hoL7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kCiMExsYuNhYluHxPP2OTmWw7hp.jpg</fanart>
+<info>Em 1936, o arqueólogo Indiana Jones é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
+<genre>AVENTURA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Jovens Demais para Morrer (1990)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Pxm7LCYuodQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Jovens Demais para Morrer[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c8e35973f09e76d3f23d336600a961f9dd01a48$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jovens Demais para Morrer - HD DUAL [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28b23a3c91399d36fc0a4806431fa5b0a386a2e3$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jovens Demais para Morrer - FHD DUAL[/B][/COLOR]</link>
+<title>[COLOR white][B]Templo da Perdição (1984)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WBdyLyijZhU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Templo da Perdisao[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa6706dea609d04555f4a2a0b1189fed4cd336c2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Templo da Perdisao - HD LEG [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d147471d897f2f1d6a59429e539c92c7f01ef851$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Templo da Perdisao - FHD DUB[/B][/COLOR]</link>
 
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Young.Guns/LS-Young.Guns.II.Jovens.Demais.para.Morrer.1990.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Jovens Demais para Morrer - FHD DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yHBkZP64e4TeNvJ56xydJDQjqD3.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lWq7vZn4XKg2E7nLxgzo7hDK35g.jpg</fanart>
-<info>O Jovem Billy the Kid e seu bando partem em direção à fronteira com o México para fugir da mira da justiça. Eles são perseguidos por homens-da-lei que querem capturá-los a qualquer custo, mas contam com a esperteza e a habilidade no gatilho para escapar de forma espetacular a cada vez que se encontram ameaçados.</info>
-<genre>WESTERN</genre>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/we7AZegHzRAe2sIui4F74dAJ2b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg</fanart>
+<info>Em 1935, o professor, arqueólogo e aventureiro Indiana Jones tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos.</info>
+<genre>AVENTURA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Última Cruzada (1989)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DKg36LBVgfg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Ultima Cruzada[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfaa6206a3ce818a240f667256cbe9b590513635$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ultima Cruzada - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a3ea9934af8beda99d3af8f842917e418a79a30$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ultima Cruzada - FHD DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vTBem2ZGmLKVgaD3EtJUfMQ9AH1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r48vHoEjYnZtkfcbJBm4JZF4f1Q.jpg</fanart>
+<info>O arqueólogo Indiana Jones tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones, é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas.</info>
+<genre>AVENTURA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Reino da Caveira de Cristal (2008)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kTJy1rFBtVw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Reino da Caveira de Cristal[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f09841d7f7af431805d4357f71c124e8b3bed756$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Reino da Caveira de Cristal - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a28574f741c31b4030a292f6de17fe2e0b9c8f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Reino da Caveira de Cristal - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftcnTl9gExKXtmDkOCx7ztgp3Tz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nYlIeYdPjpkgmJBaZW8yDLnG89M.jpg</fanart>
+<info>Durante a Guerra Fria, Indiana Jones e o jovem Mutt buscam a Caveira de Cristal, um objeto místico de grande valor, mas logo percebem que não estão sozinhos. Soviéticos liderados pela cruel Irina Spalko também querem o objeto para tentar dominar o mundo através dele.</info>
+<genre>AVENTURA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -358,25 +392,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>WESTERN</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
+MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
 </subitems>
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]Sete Homens e um Destino (4 Filmes)[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/wQjgnzV/MAG-SEVEN-COL.png</thumbnail>
-<fanart>https://i.ibb.co/ypnKGmJ/MAG-SEVEN-FAN.png</fanart>
-<info>Assista aqui os filmes da coleção Sete Homens e um Destino 
-[COLOR orange][B]WESTERN[/B][/COLOR]
+<name>[COLOR white][B]Conan (4 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQ3gs0K9sYNPsZ0nMfJdqk1wekJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/kAhjS7czQu0gtMVwDqfSBR2KjTF.jpg</fanart>
+<info>Assista aqui os filmes da coleção Conan 
+[COLOR orange][B]AVENTURA[/B][/COLOR]
 [COLOR orange][B]4 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (1960 a 2016)[/B][/COLOR]
+[COLOR orange][B]ANOS - (1982 a 0000)[/B][/COLOR]
 </info>
 
 <subitems>
@@ -391,56 +425,87 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Sete Homens e um Destino 1(1960)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=bG-ZxrG7htU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sete Homens e um Destino 1[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d7bbebc1b87703b6f0021cb431f5c1be9da8169$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino 1 - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d0b9f10294bfcff4f57307013a91d0ad6d1cb67$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino 1 - FHD DUB[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-Sete.Homens-1-1960.FHD.DUAL.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sete Homens e um Destino 1 - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vmGl0RGppHLi27QaIrQXdwYPTzM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2aC3284N1p86o6S4Uyj9AaryYeR.jpg</fanart>
-<info>Um bandido aterroriza uma pequena aldeia agrícola mexicana todos os anos. Vários dos anciãos da aldeia enviam três dos agricultores para os Estados Unidos em busca de pistoleiros para defendê-los. Eles acabam com sete, cada um dos quais vem por um motivo diferente. Eles devem preparar a cidade para repelir um exército de trinta bandidos que chegarão querendo comida.</info>
-<genre>WESTERN</genre>  
+<title>[COLOR white][B] Conan, o Bárbaro (1982) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xwdYd_RdLCQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Conan, o Barbaro[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34a8f5b530ac27366443de9c3f1689d144e5c2e6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:370eefdf6e5ed26c1642c606380dbbfdb68914da$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j2DHmhBgDb4kyOFFyeFEuiZWb1o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fNp2ikvY8WZTyVbK1iXW84RLbO5.jpg</fanart>
+<info>Há milhares de anos Thulsa Doom, um demoníaco feiticeiro, comanda um ataque por motivos até hoje não revelados que poderia ser simplesmente pelo prazer de matar ou para descobrir o segredo do aço, que era guardado pelos moradores desta aldeia. Conan, um cimério, vê seus pais serem mortos na sua frente e seu povo ser massacrado, sendo que ele, ainda criança, é levado para um campo de escravos. </info>
+<genre>AVENTURA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Sete Homens e um Destino 2 - A Volta dos Sete Homens (1966)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=xwVYxDGtFLs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sete Homens e um Destino 2 - A Volta dos Sete Homens[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-Sete.Homens-2-A.Volta.dos.Sete.Magnificos.1966.HD.Dub+Legfix.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sete Homens e um Destino 2 - A Volta dos Sete Homens - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lGi5E6zX2CBb3BQG1GBAzx4fnFC.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qEaSA4HLzJfbP9GnBJbVJ04dohB.jpg</fanart>
-<info>Seis anos se passaram desde que Chico cavalgou ao lado de Chris Adams e de seu bando de pistoleiros. Neste meio tempo, ele casou-se com a bela Petra e prometeu abandonar suas armas para sempre. Mas o cruel fora-da-lei Lorca  começa a aterrorizar sua cidade. Chico, Chris e outros cinco corajosos pistoleiros decidem enfrentá-los.Agora, os sete bravos surgem com suas armas fumegantes para enfrentar o tiroteio de suas vidas… naquela que pode ser sua última batalha!</info>
-<genre>WESTERN</genre>
+<title>[COLOR white][B] Conan, o Destruidor (1984) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Q15RX_fayv8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Conan, o Destruidor[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9d3d7dc0a3e79fbdacb347e446d25ba7c0f2444$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Destruidor - HD DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d38f025ac6e56ef320ec31b918c2388f0353153$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Destruidor - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1tw9rVP0r69clwU0MmKzccd0hcC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vUo9Rl1IeM8UURMXuUXFTLivSWG.jpg</fanart>
+<info>Para que a rainha Taramis cumpra a promessa de trazer a amada de Conan, Valeria, do mundo dos mortos, o bárbaro terá de cumprir uma perigosa missão que envolve a princesa Jehnna. Mas o que ele desconhece é que Taramis ordenou que, após a missão cumprida, Conan seja morto e a virginal princesa retorne para então ser sacrificada ao deus demônio Dagoth.</info>
+<genre>AVENTURA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]A Revolta dos Sete Homens (1969) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=NE2YA6paUt8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Revolta dos Sete Homens[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-A.Revolta.dosSete.Homens.1969.SD.LEGFIX.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Revolta dos Sete Homens - SD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jCeiP2x9VZPC93g6QMDHduU9g6M.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ffEuvn6cOlSE5FcINOPEZj6nuOk.jpg</fanart>
-<info>Juntos, esses ousados pistoleiros embarcam na aventura de suas vidas - e descobrem uma causa que vale mais do que uma fortuna em ouro.</info>
-<genre>WESTERN</genre>
+<title>[COLOR white][B] Guerreiros de Fogo (1985) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jGKJWMfEa04$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Guerreiros de Fogo[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerreiros de Fogo - HD DUAL [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ceb45cb85d0c76828ec1feed4a0f39963bf3337e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerreiros de Fogo - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AmrezUOgBg5z81uFkJKffTbYOZ7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/iWFnany1vDQ4EoBgvm7E3Pb0RyS.jpg</fanart>
+<info>A tirana Gedren busca o poder total em um mundo de barbárie. Ela invade a cidade de Hablac e mata o guardião de um talismã que lhe dá grande poder. Red Sonja, irmã do guardião, levanta-se com sua espada mágica para derrubar Gedren.</info>
+<genre>AVENTURA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Sete Homens e um Destino (2016)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=8UGD38ZIHBU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sete Homens e um Destino[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05d1198211b042622d509694618545b23acc2d26$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cb82f6f87556073b440acd2b2c89067baade82c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-Sete.Homens.e.um.Destino.2016.720p.dub.LF.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nHq9wDdwKhnZg51Rvv3MMJlq9Kb.jpg</fanart>
-<info>Com a cidade de Rose Creek sob o controle mortal do industrial Bartholomew Bogue, os moradores desesperados empregam proteção de sete bandidos, caçadores de recompensas, apostadores e pistoleiros. Enquanto preparam a cidade para o confronto violento que eles sabem que está chegando, esses sete mercenários se encontram lutando por mais do que dinheiro.</info>
-<genre>WESTERN</genre>  
+<title>[COLOR white][B] Conan, o Bárbaro 3 (2011) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jzOWTO21Lh0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Conan, o Barbaro 3[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3d0f1d7dcc5fd4fcf290029e408461286e25fdd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro 3 - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcec40f2f06ec6fc569c5543b1310bd218ce6854$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro 3 - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zbks565OOTYsO3Cd9capcGz5hXX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6B5bTuZEyLrAYNG1IX1GeBQZP11.jpg</fanart>
+<info>Conan vê sua aldeia ser destruída e seus pais serem assassinados por um Thulsa Doom, um cruel feiticeiro. Com um forte desejo de vingança, ele parte em busca de justiça e descobre que pode ser a única esperança de salvar as nações de Hibória de uma invasão sobrenatural.</info>
+<genre>AVENTURA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>AVENTURA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
+MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
 </subitems>
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
@@ -451,7 +516,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDACOLEÇÃO></thumbnail>
 <fanart><FUNDODACOLEÇÃO></fanart>
 <info>Assista aqui os filmes da coleção Nomedacoleção 
-[COLOR orange][B]WESTERN[/B][/COLOR]
+[COLOR orange][B]AVENTURA[/B][/COLOR]
 [COLOR orange][B]0 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
 </info>
@@ -481,7 +546,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>WESTERN</genre>
+<genre>AVENTURA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -499,7 +564,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>WESTERN</genre>
+<genre>AVENTURA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
