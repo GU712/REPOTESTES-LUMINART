@@ -12,7 +12,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]FILMES DE SUSPENSE E TERROR[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/60wmhVy/SUSP-TERR-FILM.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<fanart>https://i.ibb.co/0nJv5q7/FAN-SUSP-TER.png</fanart>
 <info>[B]Assista aqui os melhores filmes do genêro SUSPENSE E TERROR[/B]</info>
 
 <subchannel>
@@ -231,7 +231,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]COLEÇÕES DE FILMES DE SUSPENSE E TERROR[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/w0kYXsW/SUSP-TERR-COL.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<fanart>https://i.ibb.co/0nJv5q7/FAN-SUSP-TER.png</fanart>
 <info>[B]Assista aqui os melhores filmes do genêro SUSPENSE E TERROR e suas seguências[/B]</info>
 
 <subchannel>
@@ -268,9 +268,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=pyWuHv2-Abk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Invasao Zumbi[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e2c90e6b3d2788529b69403858cba72ef2b7df6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invasao Zumbi - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecdf60fd92179f6a15de05ff63f5099e1089f0db$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invasao Zumbi - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/Inva.Zumbi/LS-%20Invasao.Zumbi.1-2016.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Invasao Zumbi - HD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/QqHtwk0oHYed26zra9WGQGyBSm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fVpFOcQyHJM2di9upgSIwWD5wac.jpg</fanart>
 <info>A Coreia do Sul decreta estado de emergência após um vírus desconhecido tomar conta do país. Algumas pessoas tentam fugir de zumbis e ficam presas em um trem-bala que está a caminho de Busan, a única cidade que não foi afetada pelo vírus.</info>
@@ -280,12 +278,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
 <title>[COLOR white][B]Invasão Zumbi 2: Península (2020)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=-2_LW9pSM_g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c188ed4e4703fbeadaffefc3dfadfc72a8af853$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91e3dfe81d57c268ee6ad7c342667287cb71f19d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>plugin://plugin.video.youtube/play/?video_id=-2_LW9pSM_g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Invasao Zumbi 2: Peninsula[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c188ed4e4703fbeadaffefc3dfadfc72a8af853$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invasao Zumbi 2: Peninsula - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91e3dfe81d57c268ee6ad7c342667287cb71f19d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invasao Zumbi 2: Peninsula - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/Inva.Zumbi/LS-Invasao.Zumbi.2-Peninsula.2020.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Invasao Zumbi 2: Peninsula - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dGVUiqnahQ4ZZRchGRpO2SyhtQY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gEjNlhZhyHeto6Fy5wWy5Uk3A9D.jpg</fanart>
 <info>A península coreana ficou devastada após o surto de zumbis que atingiu os passageiros de um trem-bala com destino a Busan há quatro anos. Com isso, um ex-soldado que conseguiu fugir do país, Jung-seok, tem a missão de retornar e acaba encontrando alguns sobreviventes.</info>
@@ -326,9 +322,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=V0m6YCDzvK0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Enigma de Outro Mundo[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0603df8e169baebf05ec0aff20a4872680d7f412$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo - HD DUB [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a0507b28fefd53830497021014d1b5c9cfd3416$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo - FHD LEG[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/The.Thing/LS-O.Enigma.de.Outro.Mundo.1982.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Enigma de Outro Mundo - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jCEiFLzzmFw1Ijfs3YRy8yqHs9U.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg</fanart>
 <info>Na remota Antártida, um grupo de cientistas americanos é perturbado em sua base quando, de um helicóptero, alguém atira em um cão do acampamento. À medida que socorrem o cão baleado, o bicho começa a atacar os cientistas e os outros cachorros e logo eles descobrem que o animal pode assumir a forma de suas vítimas. Isto significa que membros da equipe podem ser mortos e a cópia assumir o lugar deles. Com isso, um piloto e um médico precisam capturar a fera antes que seja tarde demais.</info>
@@ -341,9 +335,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=9KS8NtQEQlA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Coisa[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c470cb478ce90b931a2d8cf3ae9b5400c8b6257$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Coisa - HD DUAL [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55cbb13f3881eb4c7f43672b531039b13d7550fb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Coisa - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/The.Thing/LS-The.Thing.2011.HD.Leg.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Coisa - HD LEG[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/The.Thing/LS-The.Thing.2011.SD.dub.avi$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Coisa - SD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zKdqe9kfhLQ9giuLcpoQI3WL1Vw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qgSlGJurPzgSHKYlqBiDmr3vjrc.jpg</fanart>
 <info>A paleontóloga Kate Lloyd viaja para investigar um ser misterioso que foi encontrado por cientistas noruegueses em uma nave espacial no gelo. O que ela não sabe é que a criatura na verdade está viva e que tem planos danosos para o planeta.</info>
@@ -384,9 +377,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=KWefO4yTHB0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Invocasao do Mal[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c7dadab71c0b5b1ca43bef6da02c3b1303f1d30$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0032160ab449f818890de403d61f29fa495e27d4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/Inv.do.Mal/LS-Invocasao.do.Mal.1-2013.FHD.dual.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Invocasao do Mal - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/f9D9pgkKgXfNi8cPC4m6vFopZxH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ecKQlAEG95k62SMGhvX83oEqANK.jpg</fanart>
 <info>Harrisville, Rhode Island, Estados Unidos, 1968. Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua fazenda. Forçados a confrontar uma entidade poderosa, os Warrens se vêem presos no caso mais aterrorizante de suas vidas. Baseado numa história real.</info>
@@ -399,9 +390,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=5gN2uH3EJFU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Invocasao do Mal 2[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2364d904170733f18b55c9229c4d90547a5c42bd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal 2 - HD DUAL [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c09482bc85b6615b3c8bc3ec3d8fd56fa5360392$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal 2 - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/Inv.do.Mal/LS-Invocasao.do.Mal.2-2016.FHD.dual.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Invocasao do Mal 2 - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bLa1lt0ex45IVPwGT7aEuOojBjL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4mfFtlGeInPrQVm1hpv7th02yjx.jpg</fanart>
 <info>Lorraine e Ed Warren ajudam uma mãe solteira a criar seus quatro filhos numa casa assombrada por espíritos malignos. Conhecido como a Amityville da Inglaterra, o Poltergeist de Enfield foi o caso mais documentado na história da paranormalidade. Descubra a verdade por trás do evento que chocou o mundo.</info>
@@ -457,9 +446,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=8kEupkfQ7gQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Um Lugar Silencioso 1[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36fb5f41a46563a54f6bbe870e359154f56adc5f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Lugar Silencioso 1 - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:247687ee0143a5a87635ff3abcea2a920118f7b7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Lugar Silencioso 1 - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/Lug.Silencio./LS-Um.Lugar.Silencioso.1-2018.FHD.dub.LEG-FIX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Um Lugar Silencioso 1 - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jk1LYcbiuUr0tv37cVcmp4u9KcN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/roYyPiQDQKmIKUEhO912693tSja.jpg</fanart>
 <info>Em uma fazenda nos Estados Unidos, uma família do Meio-Oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</info>
@@ -470,11 +457,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>
 <title>[COLOR white][B]Um Lugar Silencioso - Parte II(2021)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=BpdDN9d9Jio$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Um Lugar Silencioso 2[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5c0cde3a25e6099ca6d84cb13aa71d52b5124ef$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5c0cde3a25e6099ca6d84cb13aa71d52b5124ef$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Lugar Silencioso 2 - HD DUAL [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2f7523a4e7fd6766418e83e3ee9d8e692f8dc7a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Lugar Silencioso 2 - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/Lug.Silencio./LS-Um.Lugar.Silencioso.2-2020.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Um Lugar Silencioso 2 - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv18OdnrgEfmQSWLZdM3A9yhii2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/r0YaeOJ71iZKFuPnGJg92r7c9xF.jpg</fanart>
 <info>Logo após os acontecimentos mortais, até mesmo dentro de casa, a família Abbott precisa agora encarar o terror mundo afora, continuando a lutar para sobreviver em silêncio. Obrigados a se aventurar pelo desconhecido, eles rapidamente percebem que as criaturas que caçam pelo som não são as únicas ameaças que os observam pelo caminho de areia.</info>
@@ -488,7 +473,6 @@ MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <subchannel>
 <name>[COLOR white][B]Sherlock Holmes (2 Filmes)[/B][/COLOR]</name>
@@ -516,9 +500,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=EQS7bRXrr5g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sherlock Holmes[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bec658864a9d2493f23c6ed5ef5d7610ca05d25$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae65695c754254c4c063e9599c07939587f32234$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/She.Holmes/LS-Sherlock.Holmes.1-2009.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sherlock Holmes - HD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NFWINCP0Ej8gWNbzKI72AImAg7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg</fanart>
 <info>O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.</info>
@@ -531,9 +513,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=uFDpn-jBkzg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sherlock Holmes: O Jogo de Sombras[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dabb12f32cef0683d8817808f92ee8438047f77$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - HD DUAL [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffa8b155e9a67f95c4c215aa6e4afee301f016b8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/She.Holmes/LS-S.H.2-O.jogo.das.Sombras.2011.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7z498BJCpedGpCn8KcwaB0bbX48.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg</fanart>
 <info>Há um novo mentor criminoso em geral e não apenas ele é o equivalente intelectual de Holmes, mas sua capacidade para o mal e a falta de consciência pode lhe dar uma vantagem sobre o detetive.</info>
@@ -574,9 +554,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=OVQwmX4hMHo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6de59d723ca7d9580369f31d0955726b4ca83218$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue - HD DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fb3d0112ca4799ef67a9b471f6aec46dfae35cd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue - FHD LEG[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/O.Albergue/LS-O.Albergue.1-2006.SD.Dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Albergue - SD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZ3CLYTvxmPAlmzT8Tfn0keiqgH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/k354Yd92aQ546UaCbi4RhtmVdcB.jpg</fanart>
 <info>Os melhores amigos Josh e Paxton decidem passar um verão viajando como mochileiros pela Europa. Em Amsterdã, eles conhecem Oli, um viajante da Islândia. Os três decidem investigar um boato sobre um albergue na Eslováquia repleto de mulheres sensuais e acabam sendo envolvidos em um jogo mortal.</info>
@@ -589,9 +567,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=lW8Q5owSRmA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue 2[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb967e8201869894682fc02c2c6d83a19298893e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 2 - HD DUB [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38033b89eb0b7c5d5c5d911e47e085631ccb404c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 2 - HD LEG[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/O.Albergue/LS-O.Albergue.2-2007.SD.Dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Albergue 2 - SD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29gW9tzIcKrJ0hpfJRHzpp48VCS.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lSPsFiAn06m7HhUxkb6Ja11fh0t.jpg</fanart>
 <info>Três estudantes americanas decidem fazer uma excursão em Roma no fim de semana, com a intenção de conhecer um luxuoso spa. Mas em vez disso, elas são leiloadas por uma terrível organização que promove a tortura humana.</info>
@@ -604,9 +580,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=v_t0mN2aKL4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue 3[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2399015fa2375e0ed8ba7b089a29b8ca41fa5ad4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 3 - HD DUB [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ef730d4aa471d37c39ad97be93ac3883a98d87d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 3 - HD LEG[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/11SPTR-CL/O.Albergue/LS-O.Albergue.3-2011.SD.Dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Albergue 3 - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1U5Eu5hZ9ztDXdXCKnuAMqVmajE.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jeGW7QqTwYkuao2O79vSLPIioFe.jpg</fanart>
 <info>Apostas de alto risco adquirem um novo significado neste terceiro capítulo da arrepiante série. Durante uma despedida de solteiro em Las Vegas, quatro amigos são atraídos por duas sensuais acompanhantes que os convidam a se juntarem a elas em uma festa particular. Mas quando chegam lá, são usados como objetos de um perverso jogo de tortura, parte do show mais sádico já visto e patrocinado pelos membros de Clube de Caça de Elite.</info>
