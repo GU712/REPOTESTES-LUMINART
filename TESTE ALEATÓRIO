@@ -6,14 +6,14 @@
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- SEÇÃO DE FILMES DE CRIME E DRAMA
+ SEÇÃO DE FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/TPMDzDr/CRIM-DRM-FILM.png</thumbnail>
-<fanart>https://i.ibb.co/16K8kYR/FAN-CRI-DRM.png</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro CRIME E DRAMA[/B]</info>
+<name>[COLOR white][B]FILMES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/8mzG0gq/FIC-FAN-FILM.png</thumbnail>
+<fanart>https://i.ibb.co/KXSpwMN/FAN-FIC-FAN.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro FICÇÃO E FANTASIA[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -25,126 +25,115 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Crimes de Família (2020)[/B][/COLOR]</title>
+<title>[COLOR white][B]Infinito (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jzv4R2OlAco$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Infinito[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:304db2fec8901e996b066b74e5d5c010d2f818b4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Infinito - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85fafc1877dad5a1ff5c675bb9a5768d3ac04a7b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Infinito - FHD DUAL[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=jlS78f4XcSY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Crimes de Familia[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29f7797d2cd94cd560730f3fac1e45c63fd3f814$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Crimes de Familia - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:572c70e5fb53dbfe5601002dccc9dece77f4a240$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Crimes de Familia - FHD DUAL[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Crimes de Familia - DUB[/B][/COLOR]</link>
-
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/69929.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Crimes de Familia - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/68439.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Crimes de Familia - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/suVb5zxMvfoJ0ugvthas41KMDqq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/mjDdDeUoE8dG86e6MOh2kdMl1R8.jpg</fanart>
-<info>Desesperada e confusa, Alícia faz de tudo para evitar que o filho seja preso por tentativa de assassinato.</info>
-<genre>DRAMA</genre>
+<thumbnail>https://www.themoviedb.org/t/p/original/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg</fanart>
+<info>Um jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.</info>
+<genre>FICÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Sobreviver a Noite (2020) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=0tvMlLF93b4&feature=youtu.be$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sobreviver a Noite[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01c069acbc167b2fa8b3acfe29d2c54327ecb25b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sobreviver a Noite - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7a39f0959d89f55aa8491b8aa7c8113459f124c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sobreviver a Noite - FHD DUAL[/B][/COLOR]</link>
+<title>[COLOR white][B]Monster Hunter (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8UUcif71zg4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]Monster Hunter[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86ce2706c05f6ebcb3f8b033a2eac7d5cd74adc6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Monster Hunter - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5730dc09f510038de225e9e0ad9321361232a629$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Monster Hunter - FHD DUAL[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Sobreviver a Noite - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/51549.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sobreviver a Noite - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/46164.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Sobreviver a Noite - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xCDFEzX1omKlXp7jTqJmLoxJTr9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ppZUEibzPFcI0APHYwhxmsx0s0N.jpg</fanart>
-<info>Dois criminosos implacáveis ​​entram na casa de um médico em decadência, para receber atendimento médico depois que um deles é baleado durante um assalto que deu errado. Sabendo que ele não tem o conhecimento necessário para consertar o invasor ferido, o médico deve proteger sua família a todo custo.</info>
-<genre>CRIME E DRAMA</genre>  
+<thumbnail>http://br.web.img3.acsta.net/c_310_420/pictures/20/10/14/17/17/1531042.jpg</thumbnail>
+<fanart>https://cdn.cinepop.com.br/2020/10/monster-hunter-3-e1606835019570.jpg</fanart>
+<info>A tenente Artemis e seus soldados são transportados para um novo mundo. Lá, eles se envolvem em batalhas imponentes, buscando desesperadamente a sobrevivência contra bestas gigantes portadoras de habilidades surreais.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B] Anjos da Vida: Mais Bravos Que o Mar (2006)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=nS6YrMYn_Rs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Anjos da Vida: Mais Bravos Que o Mar[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:537f99dd2e5b21d642892058a52dbe29e0ecf6c1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a6df8008eabeec7548f822c926b79351e965298$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - FHD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Tz_O2n8Tcc0daXOIrbJy7kTx4bJ3GCI4/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/26185.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/19916.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zLGq0aNMZ8ETeJSEGVYCTVGOpy9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d2W3eqK7bJmXRozxnrFAykk46Nj.jpg</fanart>
-<info>Ainda muito abalado com um salvamento mal sucedido que resultou na morte de toda sua equipe, o lendário salva-vidas Ben Randall recebe uma missão que ele não quer aceitar – treinar jovens recrutas para os salvamentos em alto mar. Durante os treinos, ele enfrenta problemas com o aprendiz Jake Fisher, um campeão de natação que esconde um doloroso segredo e parece estar mais interessado em quebrar os recordes de Ben do que salvar vidas. Mas Ben percebe mais do que isso no novato. Jake é capaz de fazer o que for preciso para ser o melhor dos melhores.</info>
-<genre>DRAMA</genre>
+<title>[COLOR white][B]Malévola: Dona do Mal (2019)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=EQvOkjxsO0k$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Malevola - Dona do Mal[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db3371c675f69b8d6fec27219a8903ea0c5664f2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Malevola - Dona do Mal - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8987c9c185899bb56bbf210ca6f9787cbbc140d2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Malevola - Dona do Mal - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/yv8PCIQRh70LNhhcIfUySEFZ67R.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ebK1iWuGVSPzxH0jNzHkKmjLdxh.jpg</fanart>
+<info>Os anos foram gentis com Malévola e Aurora. Seu relacionamento, nascido pelo desgosto, vingança e finalmente amor, floresceu. No entanto, o ódio entre o homem e as fadas ainda existe. O iminente casamento de Aurora com o príncipe Phillip é motivo de comemoração no reino de Ulstead e no reino dos Moors, pois o casamento servirá para unir os dois mundos. Quando um encontro inesperado introduz uma nova e poderosa aliança, Malévola e Aurora são separadas para lados opostos em uma Grande Guerra, testando sua lealdade e fazendo com que elas questionem se podem ser verdadeiramente familiares.</info>
+<genre>FANTASIA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B] Inimigos Públicos (2009) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=HbHWtHVEmU0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Inimigos Publicos[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6eb3f32e1d40b1d42a0b366dd893f9240ad828d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Inimigos Publicos - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c535d0acbc9ac385e2331324252b361fd588855$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Inimigos Publicos - FHD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Inimigos Publicos - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/39409.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Inimigos Publicos - DUB[/B][/COLOR]</link>
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Inimigos Publicos - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fkbq7aMOaneAPp62F0QeCeWHrLw.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/za2MCwq5Trnwa2t5yXB4PvTjLtx.jpg</fanart>
-<info>John Dillinger era um criminoso audacioso e violento, mas que atraía a opinião pública ao seu favor, principalmente, porque dizia retirar das instituições financeiras o dinheiro que elas roubavam do cidadão. Seus assaltos a bancos e fugas rápidas enlouqueciam a polícia que não tinha condições de enfrentá-lo.</info>
-<genre>CRIME E DRAMA</genre>
+<title>[COLOR white][B]Blade Runner 2049 (2017) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=86XtZMgFziI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Blade Runner 2049[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30605424a1162ff555de22b57e59ce6c964f90fd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Blade Runner 2049 - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b5529f0721bb6bc96e5959ddeb4d62a7a15a147$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Blade Runner 2049 - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qWD9E0Wgn8w6nMMutCNFAUiSHrX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dMbInuqHDbDUu2Zb81o7iggg1j1.jpg</fanart>
+<info>Após descobrir um segredo enterrado há muito tempo, que ameaça o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que está desaparecido há 30 anos.</info>
+<genre>FICÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]À Prova de Fogo (2008)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Prova de Fogo[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a81d1652de7386ec50bd0267039f0966dc0395a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Prova de Fogo - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fc906e0be5b81e107f830bee2d2ab955e3672ee$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Prova de Fogo - FHD DUAL[/B][/COLOR]</link>
+<title>[COLOR white][B]Guerra dos Mundos (2005) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2qZUxly1634$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Guerra dos Mundos[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c3912fa1a1851c5355e9b9fb7b169607dddfcf5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerra dos Mundos - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9604ec3df4fb12b0af236998787860e81f4bc6b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerra dos Mundos - FHD DUAL[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]A Prova de Fogo - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/39217.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]A Prova de Fogo - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/21513.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]A Prova de Fogo - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/94vWXepNu95YNoTSHCEwM212ugY.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/b6nBlpDd9sHXFMbyN26RA7JIyHA.jpg</fanart>
-<info>No trabalho, o bombeiro Caleb Holt (Cameron) é um profissional que cumpre com todas as regras, sendo que uma delas é nunca deixar um companheiro para trás numa situação de perigo. Já em sua casa, ao lado da esposa Catherine (Bethea), as coisa são bem diferentes. Sempre ausente, depois de sete anos de união o casamento está chegando ao fim e eles estão decididos a se divorciar. Mas o pai de Caleb pede que ele inicie uma experiência de 40 dias a qual denomina "The Love Dare" (dia do desafio) na tentativa de salvar o casamento.</info>
-<genre>DRAMA</genre>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uQeGcReMaNf3XhELojGUknVzyQu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vUOXexpO4oYhB6Z7SYZfQifCKo0.jpg</fanart>
+<info>Ray Ferrier é um estivador divorciado, afastado de seus filhos, que vivem com a mãe. Quando sua ex-esposa deixa as crianças para ele cuidar durante alguns dias, o planeta é atacado por alienígenas que surgem do chão conduzindo tripods e destruindo tudo que encontram pelo caminho. Ray tenta proteger os seus filhos e fugir para Boston para se juntar a sua ex-esposa. Durante o trajeto, enfrenta várias adversidades e ataques.</info>
+<genre>FICÇÃO E FANTASIA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
+<subitem>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL HD[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL FHD[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info>SINOPSEDOFILME></info>
-<genre>CRIME E DRAMA</genre>
-</item>
+<genre>FICÇÃO E FANTASIA</genre>
+</subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
+</subitems>
 </subchannel>
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- SEÇÃO DE COLEÇÕES DE FILMES DE CRIME E DRAMA
+ SEÇÃO DE COLEÇÕES DE FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/TTj6DNK/CRIM-DRM-COL.png</thumbnail>
-<fanart>https://i.ibb.co/16K8kYR/FAN-CRI-DRM.png</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro CRIME E DRAMA e suas seguências[/B]</info>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/jgXVztQ/FIC-FAN-COL.png</thumbnail>
+<fanart>https://i.ibb.co/KXSpwMN/FAN-FIC-FAN.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro FICÇÃO E FANTASIA e suas seguências[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -155,13 +144,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]Sicário (2 Filmes)[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8ak6UuhRK5ykR3dZ5a3ROCNOqUt.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/38yfAwM5lAGCBkcTwz76HLBvlKD.jpg</fanart>
-<info>Assista aqui os filmes da coleção Sicário
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+<name>[COLOR white][B]Malévola (2 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/SyFmFMC/MALEVOLA-COL.png</thumbnail>
+<fanart>https://i.ibb.co/1Zv5NBp/FAN-MALEVOLA.png</fanart>
+<info>Assista aqui os filmes da coleção Malévola
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
 [COLOR orange][B]2 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (2015 e 2018)[/B][/COLOR]
+[COLOR orange][B]ANOS - (2014 e 2019)[/B][/COLOR]
 </info>
 
 <subitems>
@@ -176,120 +165,37 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B] Sicário: Terra de Ninguém (2015)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=d_eClLFILT8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sicario: Terra de Ninguem[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20de0219fea68b2b0bd0c29b29e08636aa4f0ef1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sicario: Terra de Ninguem - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1174f1e31663215ccc67f673e20152dcb2d4f5d5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sicario: Terra de Ninguem - FHD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10igv1KmWA2xKgJd2N2Sqh5_awBDjtg2o/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Sicario: Terra de Ninguem - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/21925.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sicario: Terra de Ninguem - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/20235.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Sicario: Terra de Ninguem - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dG4nBHtz2M0zhHPxUW1VuwilixD.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4NdAMnBwSAaSsUjoXkcU5aW28RF.jpg</fanart>
-<info>Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo que a escalam em seu plano para derrotar o chefe de um cartel mexicano.</info>
-<genre>CRIME E DRAMA</genre>
+<title>[COLOR white][B]Malévola (2014)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LaArkjF7AnM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Malevola[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bf8fa04110d580cc589185a5b4b5b3c70477a8e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Malevola - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:833cf07e35742c24e58da11c93b27eb634f4b138$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Malevola - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Malevola - SD DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/41723.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Malevola - SD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/ritchie/102030/10203040/21247.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Malevola - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kqifqRhUWjx5WT0OJPxWbcnzc2O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xjotE7aFdZ0D8aGriYjFOtDayct.jpg</fanart>
+<info>Motivada por vingança e o desejo feroz de proteger seu reino, Malévola cruelmente coloca uma maldição irrevogável na filha recém-nascida do rei dos humanos, Aurora. Conforme cresce, Aurora enfrenta um conflito fervente entre o reino da floresta, local onde ela cresceu e ama, e o reino humano, que mantém o seu legado. Malévola percebe que Aurora pode ser a chave para a paz no reino e é forçada a tomar medidas drásticas que mudarão para sempre os dois mundos.</info>
+<genre>AÇÃO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B] Sicário: Dia do Soldado (2018) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=0_VrIu-dCJk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sicario: Dia do Soldado[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf8a060e4acefac27c0acbf7055e1335db8fbf11$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sicario: Dia do Soldado - HD DUAL [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38730f520c68eca4fecf218362879b417b79e822$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sicario: Dia do Soldado - FHD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1__U7nwnZVQ3uCLgGb56nLS57Uc6S-n45/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Sicario: Dia do Soldado - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/26844.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sicario: Dia do Soldado - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/20234.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Sicario: Dia do Soldado - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aV9q6XPA4R19dzhwEmj5W20fhY5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg</fanart>
-<info>O oficial da CIA Matt Graver (Josh Brolin) volta a contactar seu sicário de confiança, Alejandro Gillick (Benicio Del Toro), desta vez para sequestrar a filha caçula (Isabella Moner) de um barão das drogas mexicano. Os famosos cartéis agora são considerados células terroristas e o objetivo da missão, orientada secretamente pelo alto escalão do governo, é fazer eclodir uma guerra entre os grupos rivais.</info>
-<genre>CRIME E DRAMA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<title>[COLOR white][B]Malévola: Dona do Mal (2019)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=EQvOkjxsO0k$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Malevola - Dona do Mal[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db3371c675f69b8d6fec27219a8903ea0c5664f2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Malevola - Dona do Mal - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8987c9c185899bb56bbf210ca6f9787cbbc140d2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Malevola - Dona do Mal - FHD DUAL[/B][/COLOR]</link>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
-</subitems>
-</subchannel>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Malevola - Dona do Mal - HD DUB[/B][/COLOR]</link>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
-</subitems>
-</subchannel>
-</channel>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subchannel>
-<name>[COLOR white][B]Cortina de Fogo (2 Filmes)[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p1kXDWhVAhur7lpneYgT3dVD3Ga.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/m0g00J5phRsz9NjoUZdQV6EyNcb.jpg</fanart>
-<info>Assista aqui os filmes da coleção Cortina de Fogo 
-[COLOR orange][B]DRAMA[/B][/COLOR]
-[COLOR orange][B]2 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
-</info>
-
-<subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B] Cortina de Fogo 1 (1991) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=PbH_NzwCwAo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cortina de Fogo[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b02e5d4d753c4ed38db8e20ef2fd18d2d168716b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cortina de Fogo - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd81322517ef2402b92732cc5f23ecbf749fe568$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cortina de Fogo - FHD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V9V2oKwKvW0yUZXV1qfTHD-MVC4vueui/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Cortina de Fogo - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/26311.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Cortina de Fogo - DUB[/B][/COLOR]</link>
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Cortina de Fogo - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qYpJwagjA1FPIRqQvF1GDZGuVE8.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/sRZjzfBbBwRVI8oO5OtkaCYPFad.jpg</fanart>
-<info>Chicago, 1971. Quando criança, Brian McCafferty viu seu pai, bombeiro, perder a vida no cumprimento do dever. Vinte anos depois ele passa a integrar o corpo de bombeiros, juntando-se ao irmão mais velho, Stephen. Os dois brigam o tempo todo e Brian vai trabalhar com Donald Rimgale, investigador de incêndios, num caso de 'cortina de fogo' que pode ter motivações políticas.</info>
-<genre>DRAMA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B] Cortina de Fogo 2 (2019) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=PbH_NzwCwAo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cortina de Fogo 2[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a712aa6975ce6ec1bc1e28d4d6bafccd257fa02c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cortina de Fogo 2 - HD DUAL [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45139cc807339121365f5b9f7346353d6f63308e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cortina de Fogo 2 - FHD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wEGRTLKmL8_p6Y-fseM5OLRBcfL1a26O/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Cortina de Fogo 2 - DUB[/B][/COLOR]</link>
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Cortina de Fogo 2 - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/26385.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Cortina de Fogo 2 - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vf3GHorBRTCLie2umkAtVkPKlkJ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/r00r7FPrBRdDU1mRAAJ0Ds30yM6.jpg</fanart>
-<info>O investigador de incêndios, Sean McCaffrey (Joe Anderson), agora trabalha no Departamento de Incêndios de Chicago, junto com o seu tio. Quando Sean recebe ordem para liderar as investigações de um incêndio que matou muitas pessoas, ele se depara com algo muito maior do que um acidente normal. Sean precisa dar seu melhor para desvendar esse CRIME E DRAMA e impedir que o autor dos incêndios consiga realizar seus planos malignos.</info>
-<genre>DRAMA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>DRAMA</genre>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/38977.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Malevola - Dona do Mal - HD DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/44143.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Malevola - Dona do Mal - HD LEG[/B][/COLOR]</link>
+<link>http://b5.vc:80/ritchie/102030/10203040/33382.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Malevola - Dona do Mal - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yv8PCIQRh70LNhhcIfUySEFZ67R.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ebK1iWuGVSPzxH0jNzHkKmjLdxh.jpg</fanart>
+<info>Os anos foram gentis com Malévola e Aurora. Seu relacionamento, nascido pelo desgosto, vingança e finalmente amor, floresceu. No entanto, o ódio entre o homem e as fadas ainda existe. O iminente casamento de Aurora com o príncipe Phillip é motivo de comemoração no reino de Ulstead e no reino dos Moors, pois o casamento servirá para unir os dois mundos. Quando um encontro inesperado introduz uma nova e poderosa aliança, Malévola e Aurora são separadas para lados opostos em uma Grande Guerra, testando sua lealdade e fazendo com que elas questionem se podem ser verdadeiramente familiares.</info>
+<genre>FANTASIA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -301,13 +207,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
-<name>[COLOR white][B]O Poderoso Chefão (3 Filmes)[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sbbrefut8TeFMYYtFK1YfkdYbMn.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xhB4p4FpgKENpDmUrAHDCYAxp7G.jpg</fanart>
-<info>Assista aqui os filmes da coleção O Poderoso Chefão 
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
-[COLOR orange][B]3 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (1772 a 0000)[/B][/COLOR]
+<name>[COLOR white][B]Alien vs. Predador (2 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/jL8kQKx/ALIENXPRED-COL.png</thumbnail>
+<fanart>https://i.ibb.co/tZnDjnt/FAN-ALIENXPRED.png</fanart>
+<info>Assista aqui os filmes da coleção Alien vs. Predador 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2004 e 2007)[/B][/COLOR]
 </info>
 
 <subitems>
@@ -322,47 +228,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B] O Poderoso Chefão (1972) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=SEPtyESN2Zw&t=60s$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Poderoso Chefao[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c34911e5ca4518978719cfef123e204ec7905edd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e915039c619366e490d08db3ffed21f3a3ae84a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao - FHD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JAkF_Gmklw9Ah_aRdkKSC8ZkRzeFus-S/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Poderoso Chefao - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/39464.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Poderoso Chefao - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/108238.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Poderoso Chefao - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/39rtAdg3yx6IDxRg0ZLXefv0aPY.jpg</fanart>
-<info>Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.</info>
-<genre>CRIME E DRAMA</genre>
+<title>[COLOR white][B] Alien vs. Predador (2004) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wCDJY7E0CWI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Alien vs. Predador[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05e6fcd69cab5b8911a00bc153d06972baf4434c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Alien vs. Predador - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1740dfbdd80e0ee6d6e644f8104b1a0c26e7fe78$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Alien vs. Predador - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I9j8ZAk-atasCiAyVKoa1ME5cMqMBFRi/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Alien vs. Predador - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/27030.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Alien vs. Predador - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/ritchie/102030/10203040/21281.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Alien vs. Predador - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/esrGz7pDcssKPIxykO52rimIILQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xvq1RLaiwSdHwPHe7WUhqZa1rCA.jpg</fanart>
+<info>Uma pirâmide até então desconhecida é encontrada na Antártica através de satélites, fazendo com que uma equipe de cientistas e aventureiros seja enviada para investigar o local. Porém lá eles fazem uma descoberta atra: a pirâmide serve de abrigo para duas raças alienígenas extremamente violentas, que estão em guerra.</info>
+<genre>FICÇÃO E FANTASIA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]O Poderoso Chefão 2 (1974)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=FLbWXkka9wU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0fad811eff971b3bc2fff1219e1052ee2b3c6ec$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao 2 - HD DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c9124fe9a99b2001fad76a76152691bc515a80d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao 2 - FHD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oGpQ19-CEAlcYngLMHPMlnF4x_g6PLJP/view?usp=sharing$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Poderoso Chefao 2 - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/39465.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Poderoso Chefao 2 - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/108239.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Poderoso Chefao 2 - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ViYPhSAPwH2avQjdMl49F8PklB.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/14icRpwdgpHEHxt7Cn5hr2RQEsF.jpg</fanart>
-<info>Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo.</info>
-<genre>CRIME E DRAMA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]O Poderoso Chefão 3 (1990)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=V_qHJoL9yYk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Poderoso Chefao 3[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao 3 - HD DUAL [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83b9837b116727ff698d2743c0b4a869a2e1c281$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao 3 - FHD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FSvzLDpvB4YoSalleYUFRP7L7rfxrkqv/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Poderoso Chefao 3 - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/26655.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Poderoso Chefao 3 - DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/ritchie/102030/108240.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Poderoso Chefao 3 - DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y8GROCjgD8amoFufSx2USKrOy7d.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/gh6KNAyGTJMQ2yXTwKEHE09RoYp.jpg</fanart>
-<info>Don Michael Corleone está envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitimação dos interesses da família, em Nova York e na Itália, antes de sua morte. Mas seu protegido não está só interessado em parte do império da família. Ele também deseja a filha de Michael, Mary.</info>
-<genre>CRIME E DRAMA</genre>
+<title>[COLOR white][B] Alien vs. Predador 2 (2007) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DNzbxU0d6IY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Alien vs. Predador 2[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7bcac64cf96feed60a7cea6215d658c29752e40$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Alien vs. Predador 2 - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79e226298c2fddca2c17eff2366f7080c7d9a181$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Alien vs. Predador 2 - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1COrKUtTI4CoxiXjbE6NyoCY0QQAWDM1R/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Alien vs. Predador 2 - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/alterada33a_5/27028.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Alien vs. Predador 2 - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/ritchie/102030/10203040/21282.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Alien vs. Predador 2 - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/615yaBrzQ5RZShiapw1NtoPD1nY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dQq1Xp2cRPWSV4lZ8Upy1IY0rXm.jpg</fanart>
+<info>Gunnison, uma pequena cidade localizada nas montanhas da área central do Colorado. Uma nave dos predatores aterrisa no local, mas os aliens que estavam escondidos nela conseguem matar a todos, com exceção de um. Para sobreviver ele precisará destruir todos os aliens remanescentes. Mas em meio a esta guerra há os humanos, residentes da pequena Gunnison, que assistem a esta batalha como vítimas e espectadores.</info>
+<genre>FICÇÃO E FANTASIA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -371,42 +262,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL HD[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL FHD[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>CRIME E DRAMA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>CRIME E DRAMA</genre>
+<info>SINOPSEDOFILME></info>
+<genre>FICÇÃO E FANTASIA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -422,7 +287,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDACOLEÇÃO></thumbnail>
 <fanart><FUNDODACOLEÇÃO></fanart>
 <info>Assista aqui os filmes da coleção Nomedacoleção 
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
 [COLOR orange][B]0 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
 </info>
@@ -443,20 +308,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL HD[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL FHD[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>CRIME E DRAMA</genre>
+<info>SINOPSEDOFILME></info>
+<genre>FICÇÃO E FANTASIA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -465,20 +326,80 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL HD[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL FHD[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>CRIME E DRAMA</genre>
+<info>SINOPSEDOFILME></info>
+<genre>FICÇÃO E FANTASIA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
+</subitems>
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>
+<thumbnail><ICONEDACOLEÇÃO></thumbnail>
+<fanart><FUNDODACOLEÇÃO></fanart>
+<info>Assista aqui os filmes da coleção Nomedacoleção 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]0 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL HD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL FHD[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>SINOPSEDOFILME></info>
+<genre>FICÇÃO E FANTASIA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL HD[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - DUAL FHD[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>SINOPSEDOFILME></info>
+<genre>FICÇÃO E FANTASIA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
