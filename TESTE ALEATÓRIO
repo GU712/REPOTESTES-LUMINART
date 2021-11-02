@@ -10,10 +10,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE AVENTURA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/LdFYzbs/AVENT-FILM.png</thumbnail>
-<fanart>https://i.ibb.co/7ynSWXM/FAN-AVENT.png</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro AVENTURA[/B]</info>
+<name>[COLOR white][B]FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ZTdMg3j/ANIMACAO-FILM.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro ANIMAÇÃO[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -24,221 +24,109 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-NUMERAL			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "A"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
 <item>
-<title>[COLOR white][B]A Liga Extraordinária (2003)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=CO3BPv5V6k4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Liga Extraordinaria[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:947d85cf0174ab6216aec9e431fdb6261fb3c4f6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Liga Extraordinaria - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b36d6238fa1d45984f7d06bce89af7e59cf4e35$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Liga Extraordinaria - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-FM/LS-A.Liga.Extraordinaria.2003.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Liga Extraordinaria - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/n3VpgjdOB1DkHSUe1DbFzV8ncpJ.jpg</fanart>
-<info>No final do século XIX a rainha Vitória nomeia uma legião de grandes nomes da época para combater um perigoso inimigo: um gênio do crime que deseja conquistar o planeta. Entre os convocados para enfrentá-lo estão Allan Quatermain, Mina Harker, Dorian Gray e o Dr. Jekyll.</info>
-<genre>AVENTURA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<title>[COLOR white][B]Esquadrão Suicida: Acerto de Contas (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=l0FyWzZtI94$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Esquadrao Suicida: Acerto de Contas[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e28ae8600b448dd995eb43a6202aece88e99fedf$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Esquadrao Suicida: Acerto de Contas - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2705014121664845b3ad19a60602cbd1ffb86197$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Esquadrao Suicida: Acerto de Contas - FHD DUAL[/B][/COLOR]</link>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "B"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "C"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "D"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "E"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "G"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "H"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "I"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "K"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]King Kong (2005)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=AYaTCPbYGdk&feature=emb_logo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]King Kong[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f425569fbe7ad66c18571a2f72140d77eb941b15$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]King Kong - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e48c50b11ee7231b801040864e4f2829ecef548$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]King Kong - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-FM/LS-King.Kong.2005.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]King Kong - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lBtlVlECMW98tz3a3O1C2s1vric.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/anOHbjl38ydAaoO5gCbN4gbC0VF.jpg</fanart>
-<info>Nova York, 1933. Um produtor de cinema excessivamente ambicioso, coage seu elenco e contrata a tripulação de um navio cargueiro para viajar até a misteriosa Ilha da Caveira, onde encontram Kong, um gorila gigante, além de outros animais misteriosos.</info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "L"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Linha do Tempo (2003) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=I2hh2q7kBpE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Linha do Tempo[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:979f9ef5a836df8ea1d5855628c3293a0fdc3ff9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Linha do Tempo - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca36322737e53ad532b284e21116e512d82819ac$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Linha do Tempo - FHD DUAL[/B][/COLOR]</link>
-
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-FM/LS-Linha.do.Tempo.2003.SD.dub.avi$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Linha do Tempo - FHD DUAL+LF[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m4AzEBwKI3imvNvLObkSLcBkeTV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7uPCBJ9vJ0RgbHfohNoXnuxG6UW.jpg</fanart>
-<info>Baseado em um romance de Michael Crichton, uma expedição parte para o passado em busca de um cientista que acabou ficando preso durante a Guerra dos 100 Anos, no século XIV, entre França e Inglaterra. O problema é que, enquanto estavam na operação de resgate, acontece um incidente que faz com que a máquina do tempo deixe de operar, o que fará com que a aventura do grupo torne-se muito mais longa e perigosa do que o previsto.</info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "M"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "N"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "O"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]O Chamado da Floresta (2020)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=uYpK1cMEQ8w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Chamado da Floresta[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85ec615f7f8ab2c810f940e74fbd4b8156bd73b7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Chamado da Floresta - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:663c598e8ac41996eaa7e3214ec961b0e1ef39a5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Chamado da Floresta - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-FM/LS-O.Chamado.da.Floresta.2020.FHD.DUAL.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2sDcIIPUL76Ac0Xddbg2U5d9vEX.jpg</fanart>
-<info>Depois de anos vivendo como um cachorro de estimação na casa de uma família na Califórnia, Buck precisa entrar em contato com os seus instintos mais selvagens para conseguir sobreviver em um ambiente hostil como o Alaska. Com o tempo, seu lado feroz se desenvolve e ele se torna o grande líder de sua matilha. Baseado no livro homônimo de Jack London, lançado em 1903.</info>
-<genre>AVENTURA</genre>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3yN0FcOB2AljeaqeA8UOz0PQDuC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9kIAWqwHRq2lVZQrBDnNC8j7xK1.jpg</fanart>
+<info>É uma batalha na Belle Reve e isso só pode significar que Amanda Waller, a diretora fria e calculista da penitenciária, tem uma missão que apenas os condenados vão assumir. É hora de desencadear a Força Tarefa X novamente, cheia de veteranos experientes, como Pistoleiro, Capitão Bumerangue e Arlequina. Esses criminosos ardilosos são acompanhados dos recém-chegados Copperhead, Nevasca e o mestre da arte marcial, Tigre de Bronze! Com o seu alvo sendo um objeto místico tão poderoso que eles estão dispostos a arriscar suas próprias vidas para roubá-lo, você pode ter certeza de que será colisão de caos, tiroteios e atitudes. Então, mire para uma viagem furiosa com o Esquadrão Suicida!</info>
+<genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]O Conde de Monte Cristo (2002)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=X9F6Ssb7GHo&feature=emb_logo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Conde de Monte Cristo[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4242fd3fb024fdeb855f132b16a8c68004e25a8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Conde de Monte Cristo - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f566e6b3c64956842f7528b1325e426b31537d6e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Conde de Monte Cristo - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-FM/LS-O.Conde.de.Monte.Cristo.2002.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Conde de Monte Cristo - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pjoMyKnMh0EY6o2IxT1aiM1xqpk.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/Htj4cXnhQNshE8Ce8sA6QVV3vf.jpg</fanart>
-<info>‘O conde de Monte Cristo’ é um remake do conto de Alexander Dumas com o mesmo nome. Dantes, um marinheiro que é falsamente acusado de traição por seu melhor amigo Fernand, que quer a namorada de Dantes, Mercedes, para si. Dantes é preso na ilha prisão de Chateau d’If por 13 anos, onde ele trama a vingança contra aqueles que o traíram. Com a ajuda de outro prisioneiro, ele escapa da ilha e passa a se transformar no rico Conde de Monte Cristo como parte de seu plano para se vingar.</info>
-<genre>AVENTURA</genre>  
+<title>[COLOR white][B]Jovens Titãs: O Contrato de Judas (2017) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TufZgcZyt4U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Jovens Titas: O Contrato de Judas[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7234ece1c3c78c2f3fc552d5f734e4d0562ff80$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jovens Titas: O Contrato de Judas - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:635400841632f640b1c8f971653626e7732dddd5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jovens Titas: O Contrato de Judas - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4FLXao03tPeEZJUCSUWkATPlBV3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lanjolLsav0NxKPZDpPTmoZPYSv.jpg</fanart>
+<info>Liderados por Estelar, os Jovens Titãs – Mutano, Ravena, Besouro Azul, Robin e o recém-chegado Asa Norturna – formam um time estrondoso para lutar contra as forças do mal. Porém, a chegada de uma nova integrante, a misteriosa e poderosa Terra pode afetar o equilíbrio desse grupo. Enquanto isso, um ser maligno antigo, Irmão Sangue, acordou e Exterminador, um inimigo familiar está escondendo-se nas sombras, ambos esperando para atacar. Os Jovens Titãs vão enfrentar seus inimigos e precisarão superar conflitos dentro do time nesta aventura intrigante e cheia de reviravoltas.</info>
+<genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]O Homem da Máscara de Ferro (1998)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=eRal_feCStc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Homem da Mascara de Ferro[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d315f2d0d830df5cdcc65d675d28f9284a26ccd6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem da Mascara de Ferro - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bdb6218762950a5b9ff8626a04a194cf4ffc3ba$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem da Mascara de Ferro - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-FM/LS-O.Homem.da.Mascara.de.Ferro.1998.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Homem da Mascara de Ferro - HD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k9urO3enqeMgSjb6br1iSUj4Wq7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xzCe37rMKvYUnrAhIxpLJwv7Xmo.jpg</fanart>
-<info>No século XVII, o cruel Luís XIV manda clandestinamente para a masmorra o irmão gêmeo que ninguém sabe existir, para tomar o poder. Mas o mosqueteiro Aramis descobre o segredo e convence seus companheiros a salvar o prisioneiro.</info>
-<genre>AVENTURA</genre>
+<title>[COLOR white][B]Viva - A Vida é Uma Festa (2017)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iLmZZV-Nkuk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Viva - A Vida e Uma Festa[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f79fca6a60b47244434e57806b8ad9ffcca3be2c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Viva - A Vida e Uma Festa - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13e0b4e8fb184a2d67a0ba0ddd13a8f5dd94506f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Viva - A Vida e Uma Festa - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bnkf3C2ZMF6i7MLOemWqEHDMqfh.jpg</fanart>
+<info>O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.</info>
+<genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "P"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Q"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "R"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "S"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "T"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "U"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "V"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "X"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Y"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "W"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
 <item>
-<title>[COLOR white][B]Warcraft - O Primeiro Encontro de Dois Mundos (2016) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Dqvz8w-latE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Warcraft - O Primeiro Encontro de Dois Mundos[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:313723fd1df01ab30e1b4d79df8015aa751ffd00$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Warcraft - O Primeiro Encontro de Dois Mundos - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e3dba0440e33457647869863b998b8e9f84eb86$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Warcraft - O Primeiro Encontro de Dois Mundos - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-FM/LS-Warcraft-O.Primeiro.Encontro.de.Dois.Mundos.2016.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Warcraft - O Primeiro Encontro de Dois Mundos - HD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2cPJhbIwsmMXsV9vihoPEFBFFHm.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1vpt8aSp8Piac8EkNlbdJPp3PO6.jpg</fanart>
-<info>A região de Azeroth sempre viveu em paz, até a chegada dos guerreiros Orc. Com a abertura de um portal, eles puderam chegar à nova Terra com a intenção de destruir o povo inimigo. Cada lado da batalha possui um grande herói, e os dois travam uma disputa pessoal, colocando em risco seu povo, sua família e todas as pessoas que amam.</info>
-<genre>AVENTURA</genre>
+<title>[COLOR white][B]A Casa Monstro (2006) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=q3h98qqikyA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Casa Monstro[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:525baeb9c9f4734ff5a68dd8cd3555c59553ed1e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Casa Monstro - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9df098b7682eac9ca9929b30edbeef4bae4dcc5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Casa Monstro - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xupl38cCwm8BnQvCkec9znMPSEG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aDnCTWpWMHcQxOeGWsITmoLuEGy.jpg</fanart>
+<info>DJ Walters é um garoto de 12 anos que acredita que há algo de estranho na casa do velho Nebbercracker (Steve Buscemi), localizada do outro lado da rua. Tudo que passa perto da casa simplesmente desaparece, incluindo triciclos, brinquedos e animais de estimação.</info>
+<genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Waterworld: O Segredo das Águas (1995)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=NpKbULrB9Z8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Waterworld: O Segredo das Aguas[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a5fc3bfc41f57611efe80fed20c3a7e104ea8e9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Waterworld: O Segredo das Aguas - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1160b7aab84ec3f442d5f2c2febd5793b9158936$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Waterworld: O Segredo das Aguas - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-FM/LS-Waterword.o.Segredo.das.Aguas.1995.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Waterworld: O Segredo das Aguas - HD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wN30JINYy2IehvN49GWD2IGhohP.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rX2DVTx2dm6y9xwfis8SAopIayX.jpg</fanart>
-<info>As calotas polares derreteram e a terra está coberta de água. As pessoas restantes viajam pelos mares em busca de sobrevivência. Várias sociedades diferentes existem. O marinheiro cai de sua existência habitual e solitária em ter que cuidar de uma mulher e uma menina jovem, enquanto sendo perseguido pelas forças do mal do diácono.</info>
-<genre>AVENTURA</genre>  
+<title>[COLOR white][B]A Noiva Cadáver (2005)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZE5CbXVheJk&list=PL9eQ9KTAJwMosV64ooiqFC-ApTPMt1vmy$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Noiva Cadaver[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99807369a646ba5d14fe9a5bf2c3ec14f03fb409$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Noiva Cadaver - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d2448ef3d10a2f536cefac6cb7bcc199ef86453$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Noiva Cadaver - FHD DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89B6W9mlTfSxeMEFMSyRBViXy83.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AdsignLXAQjYe59CjH4RBgOoEUw.jpg</fanart>
+<info>As famílias de Victor e Victoria estão arranjando seu casamento. Nervoso com a cerimônia, Victor vai sozinho à floresta para ensaiar seus votos. No entanto, o que ele pensava ser um tronco de árvore na verdade é o braço esquelético de Emily, uma noiva que foi assassinada depois de fugir com seu amor. Convencida que Victor acabara de lhe pedir a mão em casamento, Emily o leva para o mundo dos mortos, mas ele precisa retornar rapidamente antes que Victoria se case com o malvado Lorde Barkis.</info>
+<genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Z"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR white][B]Vida de Inseto (1998)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=znXehHytQcM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Vida de Inseto [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1619d92647d3aad4b2ec1fa8db61ddef4eea13f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Vida de Inseto - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72d2c69d8820b0d15ef3bac34ff689333b4a98be$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Vida de Inseto - FHD LEG[/B][/COLOR]</link>
 
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78DguPOgZwaYmXA3lHNrCEsYO4d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/57N1OIMvx8cE9AW1hP55fCCdKuk.jpg</fanart>
+<info>Flik é uma formiga cheia de ideias e sempre causa problemas na sua colônia. Seu último acidente foi destruir os alimentos que seriam usados para pagamento ao gafanhoto Hopper. Agora, Hopper está exigindo o dobro, senão a colônia será aniquilada. Para evitar o desastre, Flik tenta recrutar combatentes para defender o local, e quando encontra um bando de insetos voadores, ele acredita que encontrou a sua salvação.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Estranho Mundo de Jack (1993)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ie3lhEebWW4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Estranho Mundo de Jack[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28975a6bb5f9d9270189420df2f3b6cf11502a3d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daac08b7f811c3b202775e0591e4a89a4ac7a6be$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pyMGhuAWC7nYyolKJlFbT7pp02K.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/neEX66q5eYH8vgZIG09pOuj462w.jpg</fanart>
+<info>Jack Skellington é um ser fantástico que vive na Cidade do Halloween, um local cercado por criaturas fantásticas. Lá, todos passam o ano organizando o Halloween do ano seguinte mas, após mais um Halloween, Jack se mostra cansado de fazer aquilo todos os anos. Assim, ele deixa os limites da Cidade do Halloween e vagueia pela floresta. Por acaso acha alguns portais, sendo que cada um leva até um tipo festividade. Jack acaba atravessando o portal do Natal, onde vê demonstrações do espírito natalino. Ao retornar para a Cidade do Halloween, sem ter compreendido o que viu, ele começa a convencer os cidadãos a sequestrarem o Papai Noel e fazerem seu próprio Natal. Apesar de argumentos fortes de sua leal namorada Sally contra o projeto, o Papai Noel é capturado. Mas os fatos mostrarão que Sally estava totalmente certa.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
@@ -254,7 +142,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info>SINOPSEDOFILME></info>
-<genre>AVENTURA</genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -270,10 +158,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE AVENTURA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Cwyzm0B/AVENT-COL.png</thumbnail>
-<fanart>https://i.ibb.co/7ynSWXM/FAN-AVENT.png</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro AVENTURA e suas seguências[/B]</info>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/5GL5MXp/ANIMACAO-COL.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro ANIMAÇÃO e suas seguências[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -283,14 +171,76 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+COLE AQUI NOVA COLEÇÃO PRONTA
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <subchannel>
-<name>[COLOR white][B]Indiana Jones (4 Filmes)[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/T0j60pz/9024922-so.jpg</thumbnail>
-<fanart>https://i.ibb.co/j4CKhwq/images.jpg</fanart> 
+<name>[COLOR white][B]Os Croods (2 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7k9w3RgKYoJ9MCwdBY0ZBxC323L.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bNgqt819qpHcszjCzLCG5y16ldF.jpg</fanart>
+<info>Coleção Os Croods
+[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 2013 a 2020[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Os Croods (2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=3TWjsu5grs4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Croods[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:466387417f40494862498dd0a7f3edbfcc00ed76$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Croods - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a29018104da1a01e903dabbef78ef646914759a8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Croods - LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mtmpxQPKoMALIBEXmEDxs28XpGU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dAlzqv65F4gr5Wv6pxJF2Q9Y2Yn.jpg</fanart>
+<info>A comédia pré-histórica "Os Croods" acompanha a família Crood, que tem sua caverna destruída. O clã se vê obrigado a partir em busca de uma nova casa. Liderados por Grug, só não imaginavam que a mudança iria render a maior aventura de suas vidas.</info>
+<genre>ANIMAÇÃO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Os Croods 2: Uma Nova Era (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_v0167X4n7M$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Croods 2: Uma Nova Era[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a08aecdbc6515b76f3dff9bbecf8d72017fef52$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Croods 2: Uma Nova Era - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48fc86c04d422608f713c299ebf75acee3d6b025$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Croods 2: Uma Nova Era - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRTScutueW9gLF3dSo2Za7o0v7n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xV4h63VkOqicmolsHRQdYyqqZ9g.jpg</fanart>
+<info>Em Croods 2: Uma Nova Era, em busca de um habitat mais seguro, os Croods descobrem um paraíso que atende todas as suas necessidades. Entretanto, outras pessoas já moram neste lugar: Os Bettermans, uma família que se considera melhor e mais evoluída. À medida que as tensões entre os novos vizinhos começam a aumentar, uma nova ameaça impulsiona os dois clãs em uma aventura épica que os força abraçar suas diferenças, extrair forças um do outro e construir um futuro juntos.</info>
+<genre>ANIMAÇÃO</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
+</subitems>
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Monstros S.A. (3 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://i.pinimg.com/originals/c3/35/f8/c335f88ab1e42a8f9c013e4630af2cf0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c7VbRPlev1bRfKvTxr98erw5T7B.jpg</fanart>
 <info>Assista aqui os filmes da coleção Nomedacoleção 
-[COLOR orange][B]AVENTURA[/B][/COLOR]
-[COLOR orange][B]4 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (1981 a 2008)[/B][/COLOR]
+[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2001 a 2021)[/B][/COLOR]
 </info>
 
 <subitems>
@@ -305,54 +255,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Caçadores da Arca Perdida (1981)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=DanNhL_Poh8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Casadores da Arca Perdida[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fd26e37489b543179faefee0febf199b8f35698$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Casadores da Arca Perdida - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c52da55739a2229b4cbad0023d9cf49afa9c5a7c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Casadores da Arca Perdida - FHD DUB[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-CL/Indiana.Jones/LS-Os.Casadores.da.Arca.Perdida.1981.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Casadores da Arca Perdida - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crTawmZ7K9erVTm2UgznJ18hoL7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/kCiMExsYuNhYluHxPP2OTmWw7hp.jpg</fanart>
-<info>Em 1936, o arqueólogo Indiana Jones é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
-<genre>AVENTURA</genre>
+<title>[COLOR white][B]Monstros S.A. (2001)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iRh2kF-1X2E$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Monstros S.A.[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36def8ccdde63eb6d7b36555add5bb605ad18e7b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Monstros S.A. - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d0f8dbc92409649b56a7c24dd37e36debaa33bc$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Monstros S.A. - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/7ANM-CL/Monstros.SA/LS-Monstros.SA.2001.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Monstros S.A. - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vUTVUdfbsY4DePCYzxxDMXKp6v6.jpg</fanart>
+<info>O astro do susto, Sulley, e seu falante assistente, Mike, trabalham na Monstros S.A., a maior fábrica de processamento de gritos da cidade de Monstrópolis. A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Os monstros acreditam que as crianças são tóxicas, e entram em pânico quando uma menininha invade seu mundo. Sulley e Mike fazem de tudo para levar a garota de volta para casa, mas enfrentam desafios monstruosos e algumas situações hilárias em suas atrapalhadas aventuras.</info>
+<genre>ANIMAÇÃO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Templo da Perdição (1984)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=WBdyLyijZhU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Templo da Perdisao[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa6706dea609d04555f4a2a0b1189fed4cd336c2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Templo da Perdisao - HD LEG [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d147471d897f2f1d6a59429e539c92c7f01ef851$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Templo da Perdisao - FHD DUB[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-CL/Indiana.Jones/LS-Templo.da.Perdisao.1984.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Templo da Perdisao - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/we7AZegHzRAe2sIui4F74dAJ2b.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg</fanart>
-<info>Em 1935, o professor, arqueólogo e aventureiro Indiana Jones tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos.</info>
-<genre>AVENTURA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Última Cruzada (1989)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=DKg36LBVgfg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Ultima Cruzada[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfaa6206a3ce818a240f667256cbe9b590513635$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ultima Cruzada - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a3ea9934af8beda99d3af8f842917e418a79a30$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ultima Cruzada - FHD DUB[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-CL/Indiana.Jones/LS-A.Ultima.Cruzada.1989.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Ultima Cruzada - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vTBem2ZGmLKVgaD3EtJUfMQ9AH1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/r48vHoEjYnZtkfcbJBm4JZF4f1Q.jpg</fanart>
-<info>O arqueólogo Indiana Jones tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones, é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas.</info>
-<genre>AVENTURA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Reino da Caveira de Cristal (2008)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=kTJy1rFBtVw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Reino da Caveira de Cristal[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f09841d7f7af431805d4357f71c124e8b3bed756$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Reino da Caveira de Cristal - HD DUAL [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a28574f741c31b4030a292f6de17fe2e0b9c8f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Reino da Caveira de Cristal - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-CL/Indiana.Jones/LS-O.Reino.da.Caveira.de.Cristal.2008.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Reino da Caveira de Cristal - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftcnTl9gExKXtmDkOCx7ztgp3Tz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nYlIeYdPjpkgmJBaZW8yDLnG89M.jpg</fanart>
-<info>Durante a Guerra Fria, Indiana Jones e o jovem Mutt buscam a Caveira de Cristal, um objeto místico de grande valor, mas logo percebem que não estão sozinhos. Soviéticos liderados pela cruel Irina Spalko também querem o objeto para tentar dominar o mundo através dele.</info>
-<genre>AVENTURA</genre>
+<title>[COLOR white][B]Universidade Monstros (2013) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KlA-qAG3VCc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Universidade Monstros[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d44ae63b8e1ab54c9cf3dd2ec075846e676c2247$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Universidade Monstros - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:871562f2241c15b7cfcf933e053fcd711b8a5b95$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Universidade Monstros - FHD DUB[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/7ANM-CL/Monstros.SA/LS-Universidade.Monstros.2013.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Universidade Monstros - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wIRraYJCWcfmXW9v3MfD8uhnUvO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pK42lGbT48fClhtEcP7gvk4hoXP.jpg</fanart>
+<info>Mike e Sulley, alunos promissores da Universidade Monstros, são forçados a se unirem quando sua disputa acirrada pelo posto de aluno mais assustador da turma foge ao controle e eles acabam sendo expulsos da faculdade.</info>
+<genre>ANIMAÇÃO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -363,91 +287,16 @@ MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subchannel>
-<name>[COLOR white][B]Conan (4 Filmes)[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQ3gs0K9sYNPsZ0nMfJdqk1wekJ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/kAhjS7czQu0gtMVwDqfSBR2KjTF.jpg</fanart>
-<info>Assista aqui os filmes da coleção Conan 
-[COLOR orange][B]AVENTURA[/B][/COLOR]
-[COLOR orange][B]4 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (1982 a 0000)[/B][/COLOR]
-</info>
-
-<subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ COPIAR UMA NOVA  SÉRIES AQUI PARA BAIXO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B] Conan, o Bárbaro (1982) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=xwdYd_RdLCQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Conan, o Barbaro[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34a8f5b530ac27366443de9c3f1689d144e5c2e6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:370eefdf6e5ed26c1642c606380dbbfdb68914da$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-CL/Conan/LS-1.Conan.o.Barbaro.1982.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Conan, o Barbaro - HD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j2DHmhBgDb4kyOFFyeFEuiZWb1o.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/fNp2ikvY8WZTyVbK1iXW84RLbO5.jpg</fanart>
-<info>Há milhares de anos Thulsa Doom, um demoníaco feiticeiro, comanda um ataque por motivos até hoje não revelados que poderia ser simplesmente pelo prazer de matar ou para descobrir o segredo do aço, que era guardado pelos moradores desta aldeia. Conan, um cimério, vê seus pais serem mortos na sua frente e seu povo ser massacrado, sendo que ele, ainda criança, é levado para um campo de escravos. </info>
-<genre>AVENTURA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B] Conan, o Destruidor (1984) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Q15RX_fayv8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Conan, o Destruidor[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9d3d7dc0a3e79fbdacb347e446d25ba7c0f2444$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Destruidor - HD DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d38f025ac6e56ef320ec31b918c2388f0353153$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Destruidor - FHD DUAL[/B][/COLOR]</link>
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Conan, o Destruidor - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1tw9rVP0r69clwU0MmKzccd0hcC.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vUo9Rl1IeM8UURMXuUXFTLivSWG.jpg</fanart>
-<info>Para que a rainha Taramis cumpra a promessa de trazer a amada de Conan, Valeria, do mundo dos mortos, o bárbaro terá de cumprir uma perigosa missão que envolve a princesa Jehnna. Mas o que ele desconhece é que Taramis ordenou que, após a missão cumprida, Conan seja morto e a virginal princesa retorne para então ser sacrificada ao deus demônio Dagoth.</info>
-<genre>AVENTURA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B] Guerreiros de Fogo (1985) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=jGKJWMfEa04$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Guerreiros de Fogo[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ceb45cb85d0c76828ec1feed4a0f39963bf3337e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerreiros de Fogo - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-CL/Conan/LS-Red.Sonja.Guerreiros.de.Fogo.1985.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Guerreiros de Fogo - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AmrezUOgBg5z81uFkJKffTbYOZ7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/iWFnany1vDQ4EoBgvm7E3Pb0RyS.jpg</fanart>
-<info>A tirana Gedren busca o poder total em um mundo de barbárie. Ela invade a cidade de Hablac e mata o guardião de um talismã que lhe dá grande poder. Red Sonja, irmã do guardião, levanta-se com sua espada mágica para derrubar Gedren.</info>
-<genre>AVENTURA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B] Conan, o Bárbaro 3 (2011) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=jzOWTO21Lh0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Conan, o Barbaro 3[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3d0f1d7dcc5fd4fcf290029e408461286e25fdd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro 3 - HD DUAL [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcec40f2f06ec6fc569c5543b1310bd218ce6854$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro 3 - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-CL/Conan/LS-3.Conan.o.Barbaro.2011.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Conan, o Barbaro 3 - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zbks565OOTYsO3Cd9capcGz5hXX.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/6B5bTuZEyLrAYNG1IX1GeBQZP11.jpg</fanart>
-<info>Conan vê sua aldeia ser destruída e seus pais serem assassinados por um Thulsa Doom, um cruel feiticeiro. Com um forte desejo de vingança, ele parte em busca de justiça e descobre que pode ser a única esperança de salvar as nações de Hibória de uma invasão sobrenatural.</info>
-<genre>AVENTURA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
-</subitems>
-</subchannel>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>
 <thumbnail><ICONEDACOLEÇÃO></thumbnail>
 <fanart><FUNDODACOLEÇÃO></fanart>
 <info>Assista aqui os filmes da coleção Nomedacoleção 
-[COLOR orange][B]AVENTURA[/B][/COLOR]
+[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]
 [COLOR orange][B]0 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
 </info>
@@ -477,7 +326,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>AVENTURA</genre>
+<genre>ANIMAÇÃO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -495,7 +344,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>AVENTURA</genre>
+<genre>ANIMAÇÃO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -513,3 +362,5 @@ MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
