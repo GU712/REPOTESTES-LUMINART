@@ -261,9 +261,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=sr0cBp9s7c4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Jovens Pistoleiros[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d2860f72ae02748b33265e60a11795e0442a8fe$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Jovens Pistoleiros - HD DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J5Y4NTCRDC6WS27JXSQ4V4663OHI63TS$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Jovens Pistoleiros - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Young.Guns/LS-Young.Guns.I-Os.Jovens.Pistoleiros.1988.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Jovens Pistoleiros - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wsjaEPserDMXR6aNUByepN2jtb2.jpg</thumbnail>
 <fanart>https://www.latercera.com/resizer/rbscjAI51gBJQMiuLsBm4gBx-Fk=/arc-anglerfish-arc2-prod-copesa/public/NBO43DBTRNCT3EFKMGU2U4FDZQ.jpg</fanart>
 <info>A história se passa em 1878, no Novo México. John Tunstall recolhe jovens pistoleiros da rua para trabalhar em seu rancho, e os ensina a ler e a se comportar. O fazendeiro é baleado e morto, e agora seus ajudantes querem vingança.</info>
@@ -277,7 +275,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c8e35973f09e76d3f23d336600a961f9dd01a48$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jovens Demais para Morrer - HD DUAL [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28b23a3c91399d36fc0a4806431fa5b0a386a2e3$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jovens Demais para Morrer - FHD DUAL[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Young.Guns/LS-Young.Guns.II.Jovens.Demais.para.Morrer.1990.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Jovens Demais para Morrer - FHD DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yHBkZP64e4TeNvJ56xydJDQjqD3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lWq7vZn4XKg2E7nLxgzo7hDK35g.jpg</fanart>
@@ -304,11 +302,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-ACRESCENTE AQUI NOVO ITEM DA COLEÇÃO
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
 </subitems>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR white][B]Sete Homens e um Destino (4 Filmes)[/B][/COLOR]</name>
@@ -316,7 +315,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/ypnKGmJ/MAG-SEVEN-FAN.png</fanart>
 <info>Assista aqui os filmes da coleção Sete Homens e um Destino 
 [COLOR orange][B]WESTERN[/B][/COLOR]
-[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]4 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - (1960 a 2016)[/B][/COLOR]
 </info>
 
@@ -329,19 +328,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Sete Homens e um Destino (2016)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=8UGD38ZIHBU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sete Homens e um Destino[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05d1198211b042622d509694618545b23acc2d26$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cb82f6f87556073b440acd2b2c89067baade82c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-Sete.Homens.e.um.Destino.2016.720p.dub.LF.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nHq9wDdwKhnZg51Rvv3MMJlq9Kb.jpg</fanart>
-<info>Com a cidade de Rose Creek sob o controle mortal do industrial Bartholomew Bogue, os moradores desesperados empregam proteção de sete bandidos, caçadores de recompensas, apostadores e pistoleiros. Enquanto preparam a cidade para o confronto violento que eles sabem que está chegando, esses sete mercenários se encontram lutando por mais do que dinheiro.</info>
-<genre>WESTERN</genre>  
-</subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
@@ -380,28 +366,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>NOMEDOGENERO</genre>
+<title>[COLOR white][B]Sete Homens e um Destino (2016)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8UGD38ZIHBU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sete Homens e um Destino[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05d1198211b042622d509694618545b23acc2d26$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cb82f6f87556073b440acd2b2c89067baade82c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-Sete.Homens.e.um.Destino.2016.720p.dub.LF.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nHq9wDdwKhnZg51Rvv3MMJlq9Kb.jpg</fanart>
+<info>Com a cidade de Rose Creek sob o controle mortal do industrial Bartholomew Bogue, os moradores desesperados empregam proteção de sete bandidos, caçadores de recompensas, apostadores e pistoleiros. Enquanto preparam a cidade para o confronto violento que eles sabem que está chegando, esses sete mercenários se encontram lutando por mais do que dinheiro.</info>
+<genre>WESTERN</genre>  
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
 </subitems>
 </subchannel>
-</channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
