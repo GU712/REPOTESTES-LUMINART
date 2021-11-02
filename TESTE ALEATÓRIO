@@ -356,24 +356,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>NOMEDOGENERO</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
 </subitems>
@@ -407,9 +389,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=xwdYd_RdLCQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Conan, o Barbaro[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34a8f5b530ac27366443de9c3f1689d144e5c2e6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro - HD DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:370eefdf6e5ed26c1642c606380dbbfdb68914da$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-CL/Conan/LS-1.Conan.o.Barbaro.1982.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Conan, o Barbaro - HD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j2DHmhBgDb4kyOFFyeFEuiZWb1o.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fNp2ikvY8WZTyVbK1iXW84RLbO5.jpg</fanart>
 <info>Há milhares de anos Thulsa Doom, um demoníaco feiticeiro, comanda um ataque por motivos até hoje não revelados que poderia ser simplesmente pelo prazer de matar ou para descobrir o segredo do aço, que era guardado pelos moradores desta aldeia. Conan, um cimério, vê seus pais serem mortos na sua frente e seu povo ser massacrado, sendo que ele, ainda criança, é levado para um campo de escravos. </info>
@@ -422,9 +402,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=Q15RX_fayv8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Conan, o Destruidor[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9d3d7dc0a3e79fbdacb347e446d25ba7c0f2444$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Destruidor - HD DUB [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d38f025ac6e56ef320ec31b918c2388f0353153$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Destruidor - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Conan, o Destruidor - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1tw9rVP0r69clwU0MmKzccd0hcC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vUo9Rl1IeM8UURMXuUXFTLivSWG.jpg</fanart>
 <info>Para que a rainha Taramis cumpra a promessa de trazer a amada de Conan, Valeria, do mundo dos mortos, o bárbaro terá de cumprir uma perigosa missão que envolve a princesa Jehnna. Mas o que ele desconhece é que Taramis ordenou que, após a missão cumprida, Conan seja morto e a virginal princesa retorne para então ser sacrificada ao deus demônio Dagoth.</info>
@@ -435,13 +413,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>
 <title>[COLOR white][B] Guerreiros de Fogo (1985) [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=jGKJWMfEa04$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Guerreiros de Fogo[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerreiros de Fogo - HD DUAL [/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ceb45cb85d0c76828ec1feed4a0f39963bf3337e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerreiros de Fogo - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-CL/Conan/LS-Red.Sonja.Guerreiros.de.Fogo.1985.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Guerreiros de Fogo - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AmrezUOgBg5z81uFkJKffTbYOZ7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/iWFnany1vDQ4EoBgvm7E3Pb0RyS.jpg</fanart>
 <info>A tirana Gedren busca o poder total em um mundo de barbárie. Ela invade a cidade de Hablac e mata o guardião de um talismã que lhe dá grande poder. Red Sonja, irmã do guardião, levanta-se com sua espada mágica para derrubar Gedren.</info>
@@ -454,30 +427,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=jzOWTO21Lh0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Conan, o Barbaro 3[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3d0f1d7dcc5fd4fcf290029e408461286e25fdd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro 3 - HD DUAL [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcec40f2f06ec6fc569c5543b1310bd218ce6854$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Conan, o Barbaro 3 - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/6AVT-CL/Conan/LS-3.Conan.o.Barbaro.2011.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Conan, o Barbaro 3 - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zbks565OOTYsO3Cd9capcGz5hXX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6B5bTuZEyLrAYNG1IX1GeBQZP11.jpg</fanart>
 <info>Conan vê sua aldeia ser destruída e seus pais serem assassinados por um Thulsa Doom, um cruel feiticeiro. Com um forte desejo de vingança, ele parte em busca de justiça e descobre que pode ser a única esperança de salvar as nações de Hibória de uma invasão sobrenatural.</info>
-<genre>AVENTURA</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
 <genre>AVENTURA</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
