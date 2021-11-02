@@ -1,41 +1,478 @@
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO DE FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]FILMES DE WESTERN[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/G9Yp9Km/WESTERN-FILM.png</thumbnail>
+<fanart>https://i.ibb.co/HYfRFpm/FAN-WEST.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro WESTERN[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
-<title>[B][COLOR white]Mentes Criminosas (2005)5[/B][/COLOR]</title>
+<title>[COLOR white][B]The Pale Door (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2CLqzKWDyxg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]The Pale Door[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d368ba1edc1652fab43637efd5322e28fb06215$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Pale Door - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f07b72d31cbc1d67f20a668c830f21efeb6fbe6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Pale Door - FHD DUB[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=my3hvrYTCrA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mentes Criminosas[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]Temporada 08 - 23 EPs - HD DUAL[/B][/COLOR]</link>		
-		
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E01.mkv$$lsname=[COLOR orange][B]T08E01[COLOR yellow] -> [COLOR white]O Silenciador [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E02.mkv$$lsname=[COLOR orange][B]T08E02[COLOR yellow] -> [COLOR white]O Pacto [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E03.mkv$$lsname=[COLOR orange][B]T08E03[COLOR yellow] -> [COLOR white]Atraves Do Espelho [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E04.mkv$$lsname=[COLOR orange][B]T08E04[COLOR yellow] -> [COLOR white]Complexo De Deus [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E05.mkv$$lsname=[COLOR orange][B]T08E05[COLOR yellow] -> [COLOR white]A Boa Terra [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E06.mkv$$lsname=[COLOR orange][B]T08E06[COLOR yellow] -> [COLOR white]O Aprendizado [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E07.mkv$$lsname=[COLOR orange][B]T08E07[COLOR yellow] -> [COLOR white]As Armadilhas [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E08.mkv$$lsname=[COLOR orange][B]T08E08[COLOR yellow] -> [COLOR white]As Rodas No Onibus…[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E09.mkv$$lsname=[COLOR orange][B]T08E09[COLOR yellow] -> [COLOR white]Luz Magnifica [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E10.mkv$$lsname=[COLOR orange][B]T08E10[COLOR yellow] -> [COLOR white]A Lisao [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E11.mkv$$lsname=[COLOR orange][B]T08E11[COLOR yellow] -> [COLOR white]Perenes [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E12.mkv$$lsname=[COLOR orange][B]T08E12[COLOR yellow] -> [COLOR white]Local Apertado [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E13.mkv$$lsname=[COLOR orange][B]T08E13[COLOR yellow] -> [COLOR white]Grande Trabalho [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E14.mkv$$lsname=[COLOR orange][B]T08E14[COLOR yellow] -> [COLOR white]Tudo O Que Resta [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E15.mkv$$lsname=[COLOR orange][B]T08E15[COLOR yellow] -> [COLOR white]Quebrado [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E16.mkv$$lsname=[COLOR orange][B]T08E16[COLOR yellow] -> [COLOR white]Copia do Carbono [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E17.mkv$$lsname=[COLOR orange][B]T08E17[COLOR yellow] -> [COLOR white]A Coleta [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E18.mkv$$lsname=[COLOR orange][B]T08E18[COLOR yellow] -> [COLOR white]Restaurasao [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E19.mkv$$lsname=[COLOR orange][B]T08E19[COLOR yellow] -> [COLOR white]Pagar Adiantado [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E20.mkv$$lsname=[COLOR orange][B]T08E20[COLOR yellow] -> [COLOR white]Alquimia [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E21.mkv$$lsname=[COLOR orange][B]T08E21[COLOR yellow] -> [COLOR white]Querida Baba [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E22.mkv$$lsname=[COLOR orange][B]T08E22[COLOR yellow] -> [COLOR white]#6 [/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/SRS/9-CRDR/Crim.Minds/T08/LS-T08E23-24.mkv$$lsname=[COLOR orange][B]T08E23/24[COLOR yellow] -> [COLOR white]Irmaos Hotchner / O Replicador [/B][/COLOR]</link>
-		
-<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS UMA TEMPORADA?[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xwibxhANMDwQRSIhZ3ymYIzOjv.jpg</fanart>
-<info>Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente.</info>
-<genre>CRIME E DRAMA</genre>
+<thumbnail>https://www.themoviedb.org/t/p/original/shx7pGYQ9s4t7WFe19eES2WOrMS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yqyQ0iYgJLYqzoQk3QipF90QY8N.jpg</fanart>
+<info>A gangue de Dalton foge para uma cidade prÃ³xima depois que um assalto a um trem vai para o sul, mas eles sÃ£o recebidos por um coven de bruxas com planos sinistros para os bandidos desavisados.</info>
+<genre>WESTERN</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Último Homem  - 2018 [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Q7kfkGZ2Gpo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ultimo Homem[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0cb1fe7251a2f373d75f4deaa843c74ede970e9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ultimo Homem - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f7251054fe5040059c1d6ee8b0ad60b9d268a50$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ultimo Homem - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPopP0wQblOpgUU5fFWn2Gz3XRV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9BIKvqlAkpZoLtw5QASgUsPtI3W.jpg</fanart>
+<info>Em Hyde Park, uma pequena cidade de Ohio, a vida segue sofrida para Mike McCluskie, o xerife local que acabou de ficar viúvo e tenta recomeçar. O povoado é formado basicamente por trabalhadores que estão construindo a estrada de ferro na região. Mas isso mudará radicalmente. Quando um grupo de vaqueiros chega à cidade vindos do Texas, eles rapidamente começam a tomar conta dos negócios e da política do local, dividindo a população e causando transtornos a quem resiste a eles. Com o apoio da dona do bordel e de um jovem moribundo, McCluskie terá que enfrentar os violentos invasores para evitar que um banho de sangue aconteça em Hyde Park. Baseado em uma história real.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Cavaleiro Solitário - The Lone Ranger (2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6XJLKw96fr0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Cavaleiro Solitario - The Lone Ranger[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:362f1d4713c652d1de31a2f2dbb282fd672bc431$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Cavaleiro Solitario - The Lone Ranger - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fa3ff1b4a64be6bbe60e74f1e789753fc80203a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Cavaleiro Solitario - The Lone Ranger - FHD LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oz7euNg7BmA5aYjcjKIzIAMT8V6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qksfforuQFh0faMQKgXIa6lCEh0.jpg</fanart>
+<info>O índio guerreiro Tonto conta a história não conhecida que transformou John Reid Armie Hammer, um homem da lei, em uma lenda da justiça. É uma acelerada viagem cheia de surpresas épicas e muito humor sobre os dois improváveis heróis que precisam aprender a trabalhar juntos e lutar contra a ganância e a corrupção.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Caminho do Guerreiro (2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OochH-1Y95M$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Caminho do Guerreiro[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e70a8a54950ac10c8c597319121672a524810118$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:691222b7b716db38001ba943f949bb3163579c53$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro - FHD LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFB9jjKPuGWBUVmIcRHtMQZglin.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6FhmSHAmSjm5FGpLe2xqAl7ekFP.jpg</fanart>
+<info>Na trama, um assassino oriental é forçado a fugir de seu país em direção à América, onde se esconde no oeste dos Estados Unidos. Mas as forças que o perseguiam não tardam a surgir no novo continente.</info>
+<genre>AVENTURA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]À Procura da Vingança (2007)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4afWoSzxqaU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Procura da Vinganza[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeed9b75c070fd2f4cdf14e39d494e14e3ac6dd6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Procura da Vinganza - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c9ef029c2e110efc057853199c5c78e7fb69d82$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Procura da Vinganza - HD LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3WCcrCYq9mCyFGLpgx2IwhpURTe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pcV7DctSDwUafYURfW7LvTTVjsv.jpg</fanart>
+<info>Fim da Guerra Civil dos Estados Unidos, pouco antes da virada para o século XIX. Decidido a se vingar de Gideon Pierce Brosnan, o coronel Carver Liam Neeson parte em sua busca.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Indomáveis (2007)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pM83chat6kw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Indomaveis[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bbbcce9cd39d6cde4404e6792d54cc0217cd393$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Indomaveis - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7595e304dd59b465d55dc78d1c25d07632b9227f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Indomaveis - FHD LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/emXjVhz8LL4ZWahmUsk6YSg5wcU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cGvLAYful0KwitsoiPpRKZ3zyz8.jpg</fanart>
+<info>O fazendeiro Dan Evans se dirige a Bisbee para esclarecer questões relativas à venda de sua terra quando ele testemunha os eventos finais de um assalto a uma carruagem liderada pelo famoso bandido Ben Wade. Pouco tempo depois, Wade é capturado pela lei em Bisbee e Evans se vê como um dos acompanhantes que levarão Wade para o Yuma de 3 a 10 em Contenção, com a recompensa de 200 dólares. O esforço de Evans para levar Wade para a estação é em parte um esforço para salvar sua terra, mas também parte de uma batalha interna para determinar se ele pode ser mais do que apenas um fazendeiro ingênuo aos olhos de seu filho impetuoso e pistoleiro William Evans. O transporte para Contenção é arriscado e repleto de emboscadas de índios, perseguições da turma vingativa de Wade e do comportamento clamoroso e sub-reptício de Wade, que torna o percurso ainda mais intenso.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Perseguição Mortal (1981)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Y4OhjdqeYB0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Perseguisao Mortal[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3znockfvl7zs4rbfvalk6ihalzwzlgo$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Perseguisao Mortal - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b3139b2dde6c7e5cdcd430416980aaf46597ee1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Perseguisao Mortal - FHD LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j9nVLvOv2Sz3KekD7elwGZII8F9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/erwIWalrZw6WDblfPcgcIQuqC2l.jpg</fanart>
+<info>Canadá 1931: O caçador invulgar Johnson vive para si nas montanhas geladas perto do rio Yukon. Durante uma visita na cidade, ele testemunha uma briga de cachorro. Ele interrompe o jogo e compra um dos cães – quase já morto – por US $ 200 contra a vontade do dono. Quando o proprietário Hasel reclama com o sargento Millen, ele se recusa a agir. Mas então o criador do ódio e seus amigos acusam Johnson de assassinato. Então Millen, apesar de simpático, tem que tentar prendê-lo – mas Johnson defende sua liberdade de todas as formas possíveis.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Últimos Machões (1976)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xdhqqY7pO8w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Ultimos Machoes[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:yfn7qyfxwtyfifvm3qts7qelzk4tffsy$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ultimos Machoes - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:964032a6f779e9ba69d6627aa9521e4f5d00cb7c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ultimos Machoes - HD LEG[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qS8zHHEi9TxC6fbIzQGnJyHq69b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6AfKmLyXsHgoD8tvyvAhMMMxR8n.jpg</fanart>
+<info>No início do século XX, alguns presos realizam uma fuga e criam uma gangue que cruza o deserto. Um desses homens é Zach Provo (Coburn), um meio índio que foi capturado por Sam Burgade (Heston) e enviado para a prisão durante a última parte do século XIX. Provo planeja sua vingança.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Meu Ódio Será Sua Herança (1969)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4Vea6c2svYs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Meu Odio Sera Sua Heranza[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3711b36b0cf96519c6c7ffff33799f055c60da4c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Meu Odio Sera Sua Heranza - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d67982cc23c5844c19baac0e2d63ea5a665034a2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Meu Odio Sera Sua Heranza - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFvHnMHYzKQh1bk0O6QFSEcwHzg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uNbsH45P4oKo2ZL4X1SNxBSTcZW.jpg</fanart>
+<info>É 1913, e o “tradicional” oeste americano está morrendo. Entre os habitantes dessa época agonizante estão uma gangue conhecida como “o bando selvagem”. Depois de um assalto a um escritório ferroviário fracassado, a gangue segue para o México para fazer um último trabalho. Vendo seus tempos e vidas se afastando no século 20, a gangue aceita o emprego e acaba em uma última e brutalmente violenta resistência contra seus inimigos considerados corruptos, em uma pequena cidade mexicana governada por um general implacável.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Era uma Vez no Oeste (1968)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Wov74hCgXhk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Era uma Vez no Oeste[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19541c58d6d26063efcb40b6f4a8abcae3bc104$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Era uma Vez no Oeste - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbbcacb01961df74cd140aa8402865a5a6970a6b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Era uma Vez no Oeste - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RymloPYcEPx30T1vTrz2cXaVnh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aKZ9hDmLJTaGSxWdhxqMTcvXmk4.jpg</fanart>
+<info>Enquanto os construtores ferroviários marcham imparavelmente através do deserto de Arizona a caminho do mar, Jill chega à pequena cidade de Flagstone com a intenção de começar uma nova vida.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Audazes e Malditos (1960)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=re84FvdjpBQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Audazes e Malditos[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84E676C3AFFEEC2A3FE50421F18A717939C240B6$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]Audazes e Malditos - HD LEG [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3500FC584EEDCDE6E3C3AEA341174253B92062B6$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]Audazes e Malditos - FHD LEG [/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<link>https://seed122.bitchute.com/OsqmkKQffiY2/7gACY7HVT3Wt.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Audazes e Malditos - LEGFIX[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k0zCgA7gnV3jEuvHSJok8mMLIpG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/33IoSCCJmgxsgLYqIlaCKpDASy3.jpg</fanart>
+<info>Um oficial negro é acusado do assassinato do comandante e de sua filha e tenta provar inocência mesmo após ser perseguido.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>SINOPSEDOFILME></info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
+</subchannel>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO DE COLEÇÕES DE FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE WESTERN[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/tLZKdTg/WESTERN-COL.png</thumbnail>
+<fanart>https://i.ibb.co/HYfRFpm/FAN-WEST.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro WESTERN e suas sequências[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Young Guns (2 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/txc57d3/ACE-YOUNG-GUNS.png</thumbnail>
+<fanart>https://i.ibb.co/N794tV8/FAN-YOUG-GUNS.png</fanart>
+<info>Assista aqui os filmes da coleção Young Guns 
+[COLOR orange][B]WESTERN[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (1988 e 1990)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] Os Jovens Pistoleiros (1988) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sr0cBp9s7c4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Jovens Pistoleiros[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d2860f72ae02748b33265e60a11795e0442a8fe$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Jovens Pistoleiros - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J5Y4NTCRDC6WS27JXSQ4V4663OHI63TS$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Jovens Pistoleiros - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wsjaEPserDMXR6aNUByepN2jtb2.jpg</thumbnail>
+<fanart>https://www.latercera.com/resizer/rbscjAI51gBJQMiuLsBm4gBx-Fk=/arc-anglerfish-arc2-prod-copesa/public/NBO43DBTRNCT3EFKMGU2U4FDZQ.jpg</fanart>
+<info>A história se passa em 1878, no Novo México. John Tunstall recolhe jovens pistoleiros da rua para trabalhar em seu rancho, e os ensina a ler e a se comportar. O fazendeiro é baleado e morto, e agora seus ajudantes querem vingança.</info>
+<genre>WESTERN</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Jovens Demais para Morrer (1990)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Pxm7LCYuodQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Jovens Demais para Morrer[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c8e35973f09e76d3f23d336600a961f9dd01a48$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jovens Demais para Morrer - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28b23a3c91399d36fc0a4806431fa5b0a386a2e3$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jovens Demais para Morrer - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yHBkZP64e4TeNvJ56xydJDQjqD3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lWq7vZn4XKg2E7nLxgzo7hDK35g.jpg</fanart>
+<info>O Jovem Billy the Kid e seu bando partem em direção à fronteira com o México para fugir da mira da justiça. Eles são perseguidos por homens-da-lei que querem capturá-los a qualquer custo, mas contam com a esperteza e a habilidade no gatilho para escapar de forma espetacular a cada vez que se encontram ameaçados.</info>
+<genre>WESTERN</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>WESTERN</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ACRESCENTE AQUI NOVO ITEM DA COLEÇÃO
+</subitems>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Sete Homens e um Destino (4 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/wQjgnzV/MAG-SEVEN-COL.png</thumbnail>
+<fanart>https://i.ibb.co/ypnKGmJ/MAG-SEVEN-FAN.png</fanart>
+<info>Assista aqui os filmes da coleção Sete Homens e um Destino 
+[COLOR orange][B]WESTERN[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (1960 a 2016)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Sete Homens e um Destino (2016)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8UGD38ZIHBU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sete Homens e um Destino[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05d1198211b042622d509694618545b23acc2d26$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cb82f6f87556073b440acd2b2c89067baade82c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-Sete.Homens.e.um.Destino.2016.720p.dub.LF.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sete Homens e um Destino - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nHq9wDdwKhnZg51Rvv3MMJlq9Kb.jpg</fanart>
+<info>Com a cidade de Rose Creek sob o controle mortal do industrial Bartholomew Bogue, os moradores desesperados empregam proteção de sete bandidos, caçadores de recompensas, apostadores e pistoleiros. Enquanto preparam a cidade para o confronto violento que eles sabem que está chegando, esses sete mercenários se encontram lutando por mais do que dinheiro.</info>
+<genre>WESTERN</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Sete Homens e um Destino 1(1960)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bG-ZxrG7htU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sete Homens e um Destino 1[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d7bbebc1b87703b6f0021cb431f5c1be9da8169$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino 1 - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d0b9f10294bfcff4f57307013a91d0ad6d1cb67$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sete Homens e um Destino 1 - FHD DUB[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-Sete.Homens-1-1960.FHD.DUAL.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sete Homens e um Destino 1 - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vmGl0RGppHLi27QaIrQXdwYPTzM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2aC3284N1p86o6S4Uyj9AaryYeR.jpg</fanart>
+<info>Um bandido aterroriza uma pequena aldeia agrícola mexicana todos os anos. Vários dos anciãos da aldeia enviam três dos agricultores para os Estados Unidos em busca de pistoleiros para defendê-los. Eles acabam com sete, cada um dos quais vem por um motivo diferente. Eles devem preparar a cidade para repelir um exército de trinta bandidos que chegarão querendo comida.</info>
+<genre>WESTERN</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Sete Homens e um Destino 2 - A Volta dos Sete Homens (1966)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xwVYxDGtFLs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sete Homens e um Destino 2 - A Volta dos Sete Homens[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-Sete.Homens-2-A.Volta.dos.Sete.Magnificos.1966.HD.Dub+Legfix.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sete Homens e um Destino 2 - A Volta dos Sete Homens - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lGi5E6zX2CBb3BQG1GBAzx4fnFC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qEaSA4HLzJfbP9GnBJbVJ04dohB.jpg</fanart>
+<info>Seis anos se passaram desde que Chico cavalgou ao lado de Chris Adams e de seu bando de pistoleiros. Neste meio tempo, ele casou-se com a bela Petra e prometeu abandonar suas armas para sempre. Mas o cruel fora-da-lei Lorca  começa a aterrorizar sua cidade. Chico, Chris e outros cinco corajosos pistoleiros decidem enfrentá-los.Agora, os sete bravos surgem com suas armas fumegantes para enfrentar o tiroteio de suas vidas… naquela que pode ser sua última batalha!</info>
+<genre>WESTERN</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]A Revolta dos Sete Homens (1969) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NE2YA6paUt8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Revolta dos Sete Homens[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-A.Revolta.dosSete.Homens.1969.SD.LEGFIX.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Revolta dos Sete Homens - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jCeiP2x9VZPC93g6QMDHduU9g6M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ffEuvn6cOlSE5FcINOPEZj6nuOk.jpg</fanart>
+<info>Juntos, esses ousados pistoleiros embarcam na aventura de suas vidas - e descobrem uma causa que vale mais do que uma fortuna em ouro.</info>
+<genre>WESTERN</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
+</subitems>
+</subchannel>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>
+<thumbnail><ICONEDACOLEÇÃO></thumbnail>
+<fanart><FUNDODACOLEÇÃO></fanart>
+<info>Assista aqui os filmes da coleção Nomedacoleção 
+[COLOR orange][B]WESTERN[/B][/COLOR]
+[COLOR orange][B]0 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>WESTERN</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>WESTERN</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
+</subitems>
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
+</subitems>
+</subchannel>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
