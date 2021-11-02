@@ -11,8 +11,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]FILMES DE SUPER-HERÓIS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/f2NXSYC/SUPERHERO-FILM.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<thumbnail>https://i.ibb.co/qF4XwFW/SUP-HER-FILM.png</thumbnail>
+<fanart>https://i.ibb.co/vZvYyfP/FAN-SUP-HER.png</fanart>
 <info>[B]Assista aqui os melhores filmes do genêro SUPER-HERÓIS[/B]</info>
 
 <subchannel>
@@ -87,8 +87,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR white][B]COLEÇÕES DE FILMES DE SUPER-HERÓIS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/CMw99v5/SUPERHERO-COL.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<thumbnail>https://i.ibb.co/dW8Fhm8/SUP-HER-COL.png</thumbnail>
+<fanart>https://i.ibb.co/vZvYyfP/FAN-SUP-HER.png</fanart>
 <info>[B]Assista aqui os melhores filmes do genêro SUPER-HERÓIS e suas seguências[/B]</info>
 
 <subchannel>
@@ -340,7 +340,3 @@ MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-
