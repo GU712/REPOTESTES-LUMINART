@@ -10,10 +10,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Xyv8JF3/ANIM-FILM.png</thumbnail>
-<fanart>https://i.ibb.co/gzfVh13/FAN-ANIM.png</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro ANIMAÇÃO[/B]</info>
+<name>[COLOR white][B]FILMES DE SUPER-HERÓIS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/f2NXSYC/SUPERHERO-FILM.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro SUPER-HERÓIS[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -24,179 +24,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-NUMERAL			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "A"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
 <item>
-<title>[COLOR white][B]A Casa Monstro (2006) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=q3h98qqikyA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Casa Monstro[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:525baeb9c9f4734ff5a68dd8cd3555c59553ed1e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Casa Monstro - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9df098b7682eac9ca9929b30edbeef4bae4dcc5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Casa Monstro - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/7ANM-FM/LS-A.Casa.Monstro.2006.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Casa Monstro - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xupl38cCwm8BnQvCkec9znMPSEG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aDnCTWpWMHcQxOeGWsITmoLuEGy.jpg</fanart>
-<info>DJ Walters é um garoto de 12 anos que acredita que há algo de estranho na casa do velho Nebbercracker (Steve Buscemi), localizada do outro lado da rua. Tudo que passa perto da casa simplesmente desaparece, incluindo triciclos, brinquedos e animais de estimação.</info>
-<genre>ANIMAÇÃO</genre>
+<title>[COLOR white][B] Capitã Marvel (2019)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=av2jODMFu6M$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Capita Marvel[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98ad12a684aef6af5b8cfec1b93d4f35beaff35a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Capita Marvel - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2e7cc1b270f5931a4405b6aad1401bb33ba391$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Capita Marvel - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/8SPH-FM/LS-Capita.Marvel.2019.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Capita Marvel - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qOJRRTF9RkYDcpZZAkOv6tsXHuP.jpg</fanart>
+<info>Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995, ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado e pôr um fim ao conflito intergalático com os Skrulls.</info>
+<genre>SUPER-HERÓIS</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]A Noiva Cadáver (2005)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ZE5CbXVheJk&list=PL9eQ9KTAJwMosV64ooiqFC-ApTPMt1vmy$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Noiva Cadaver[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99807369a646ba5d14fe9a5bf2c3ec14f03fb409$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Noiva Cadaver - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d2448ef3d10a2f536cefac6cb7bcc199ef86453$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Noiva Cadaver - FHD DUB[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/7ANM-FM/LS-A.Noiva.Cadaver.2005.FHD.dud.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Noiva Cadaver - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89B6W9mlTfSxeMEFMSyRBViXy83.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AdsignLXAQjYe59CjH4RBgOoEUw.jpg</fanart>
-<info>As famílias de Victor e Victoria estão arranjando seu casamento. Nervoso com a cerimônia, Victor vai sozinho à floresta para ensaiar seus votos. No entanto, o que ele pensava ser um tronco de árvore na verdade é o braço esquelético de Emily, uma noiva que foi assassinada depois de fugir com seu amor. Convencida que Victor acabara de lhe pedir a mão em casamento, Emily o leva para o mundo dos mortos, mas ele precisa retornar rapidamente antes que Victoria se case com o malvado Lorde Barkis.</info>
-<genre>ANIMAÇÃO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "B"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "C"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "D"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "E"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "G"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "H"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "I"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "K"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "L"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "M"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "N"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "O"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]O Estranho Mundo de Jack (1993)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Ie3lhEebWW4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Estranho Mundo de Jack[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28975a6bb5f9d9270189420df2f3b6cf11502a3d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daac08b7f811c3b202775e0591e4a89a4ac7a6be$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/7ANM-FM/LS-O.Estranho.Mundo.de.Jack.1993.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pyMGhuAWC7nYyolKJlFbT7pp02K.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/neEX66q5eYH8vgZIG09pOuj462w.jpg</fanart>
-<info>Jack Skellington é um ser fantástico que vive na Cidade do Halloween, um local cercado por criaturas fantásticas. Lá, todos passam o ano organizando o Halloween do ano seguinte mas, após mais um Halloween, Jack se mostra cansado de fazer aquilo todos os anos. Assim, ele deixa os limites da Cidade do Halloween e vagueia pela floresta. Por acaso acha alguns portais, sendo que cada um leva até um tipo festividade. Jack acaba atravessando o portal do Natal, onde vê demonstrações do espírito natalino. Ao retornar para a Cidade do Halloween, sem ter compreendido o que viu, ele começa a convencer os cidadãos a sequestrarem o Papai Noel e fazerem seu próprio Natal. Apesar de argumentos fortes de sua leal namorada Sally contra o projeto, o Papai Noel é capturado. Mas os fatos mostrarão que Sally estava totalmente certa.</info>
-<genre>ANIMAÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "P"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Q"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "R"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "S"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "T"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "U"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "V"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Vida de Inseto (1998)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=znXehHytQcM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Vida de Inseto [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1619d92647d3aad4b2ec1fa8db61ddef4eea13f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Vida de Inseto - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72d2c69d8820b0d15ef3bac34ff689333b4a98be$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Vida de Inseto - FHD LEG[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/7ANM-FM/LS-Vida.de.Inseto.1998.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vida de Inseto - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78DguPOgZwaYmXA3lHNrCEsYO4d.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/57N1OIMvx8cE9AW1hP55fCCdKuk.jpg</fanart>
-<info>Flik é uma formiga cheia de ideias e sempre causa problemas na sua colônia. Seu último acidente foi destruir os alimentos que seriam usados para pagamento ao gafanhoto Hopper. Agora, Hopper está exigindo o dobro, senão a colônia será aniquilada. Para evitar o desastre, Flik tenta recrutar combatentes para defender o local, e quando encontra um bando de insetos voadores, ele acredita que encontrou a sua salvação.</info>
-<genre>ANIMAÇÃO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Viva - A Vida é Uma Festa (2017)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=iLmZZV-Nkuk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Viva - A Vida e Uma Festa[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f79fca6a60b47244434e57806b8ad9ffcca3be2c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Viva - A Vida e Uma Festa - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13e0b4e8fb184a2d67a0ba0ddd13a8f5dd94506f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Viva - A Vida e Uma Festa - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/7ANM-FM/LS-Viva.A.Vida.Uma.Festa.2017.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Viva - A Vida e Uma Festa - HD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bnkf3C2ZMF6i7MLOemWqEHDMqfh.jpg</fanart>
-<info>O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.</info>
-<genre>ANIMAÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "X"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Y"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "W"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Z"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
 
 <item>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
@@ -212,9 +51,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info>SINOPSEDOFILME></info>
-<genre>ANIMAÇÃO</genre>
+<genre>SUPER-HERÓIS</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>SINOPSEDOFILME></info>
+<genre>SUPER-HERÓIS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
@@ -228,10 +86,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/h2LbtgL/ANIM-COL.png</thumbnail>
-<fanart>https://i.ibb.co/gzfVh13/FAN-ANIM.png</fanart>
-<info>[B]Assista aqui os melhores filmes do genêro ANIMAÇÃO e suas seguências[/B]</info>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE SUPER-HERÓIS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/CMw99v5/SUPERHERO-COL.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>[B]Assista aqui os melhores filmes do genêro SUPER-HERÓIS e suas seguências[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -241,76 +99,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-COLE AQUI NOVA COLEÇÃO PRONTA
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <subchannel>
-<name>[COLOR white][B]Os Croods (2 Filmes)[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/6sCwQFZ/CROODS-COL.png</thumbnail>
-<fanart>https://i.ibb.co/pZW1YjV/CROODS-FAN.png</fanart>
-<info>Coleção Os Croods
-[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]
-[COLOR orange][B]2 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 2013 a 2020[/B][/COLOR]
-</info>
-
-<subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Os Croods (2013)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=3TWjsu5grs4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Croods[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:466387417f40494862498dd0a7f3edbfcc00ed76$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Croods - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a29018104da1a01e903dabbef78ef646914759a8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Croods - LEG[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mtmpxQPKoMALIBEXmEDxs28XpGU.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/dAlzqv65F4gr5Wv6pxJF2Q9Y2Yn.jpg</fanart>
-<info>A comédia pré-histórica "Os Croods" acompanha a família Crood, que tem sua caverna destruída. O clã se vê obrigado a partir em busca de uma nova casa. Liderados por Grug, só não imaginavam que a mudança iria render a maior aventura de suas vidas.</info>
-<genre>ANIMAÇÃO</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR white][B]Os Croods 2: Uma Nova Era (2020)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=_v0167X4n7M$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Croods 2: Uma Nova Era[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a08aecdbc6515b76f3dff9bbecf8d72017fef52$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Croods 2: Uma Nova Era - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48fc86c04d422608f713c299ebf75acee3d6b025$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Croods 2: Uma Nova Era - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRTScutueW9gLF3dSo2Za7o0v7n.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xV4h63VkOqicmolsHRQdYyqqZ9g.jpg</fanart>
-<info>Em Croods 2: Uma Nova Era, em busca de um habitat mais seguro, os Croods descobrem um paraíso que atende todas as suas necessidades. Entretanto, outras pessoas já moram neste lugar: Os Bettermans, uma família que se considera melhor e mais evoluída. À medida que as tensões entre os novos vizinhos começam a aumentar, uma nova ameaça impulsiona os dois clãs em uma aventura épica que os força abraçar suas diferenças, extrair forças um do outro e construir um futuro juntos.</info>
-<genre>ANIMAÇÃO</genre>  
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
-</subitems>
-</subchannel>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subchannel>
-<name>[COLOR white][B]Monstros S.A. (3 Filmes)[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/ZS2n5YM/MONST-SA-COL.png</thumbnail>
-<fanart>https://i.ibb.co/09hRnB8/MONST-SA-FAN.png</fanart>
-<info>Assista aqui os filmes da coleção Nomedacoleção 
-[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]
+<name>[COLOR white][B]Homem de Ferro (3 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/f8HDS3P/H-FERRO-COL.png</thumbnail>
+<fanart>https://i.ibb.co/3f5MhR4/H-FERRO-FAN.png</fanart> 
+<info>Assista aqui os filmes da coleção Homem de Ferro 
+[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
 [COLOR orange][B]3 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (2001 a 2021)[/B][/COLOR]
+[COLOR orange][B]ANOS - (2008 a 2013)[/B][/COLOR]
 </info>
 
 <subitems>
@@ -325,28 +121,59 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Monstros S.A. (2001)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=iRh2kF-1X2E$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Monstros S.A.[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36def8ccdde63eb6d7b36555add5bb605ad18e7b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Monstros S.A. - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d0f8dbc92409649b56a7c24dd37e36debaa33bc$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Monstros S.A. - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/7ANM-CL/Monstros.SA/LS-Monstros.SA.2001.HD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Monstros S.A. - HD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vUTVUdfbsY4DePCYzxxDMXKp6v6.jpg</fanart>
-<info>O astro do susto, Sulley, e seu falante assistente, Mike, trabalham na Monstros S.A., a maior fábrica de processamento de gritos da cidade de Monstrópolis. A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Os monstros acreditam que as crianças são tóxicas, e entram em pânico quando uma menininha invade seu mundo. Sulley e Mike fazem de tudo para levar a garota de volta para casa, mas enfrentam desafios monstruosos e algumas situações hilárias em suas atrapalhadas aventuras.</info>
-<genre>ANIMAÇÃO</genre>
+<title>[COLOR white][B] Homem de Ferro (2008)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Homem de Ferro[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf076b8a8d781dcf46c9b42990f3a6ee39a304ca$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Homem de Ferro - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf076b8a8d781dcf46c9b42990f3a6ee39a304ca$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Homem de Ferro - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/8SPH-CL/Homem.Ferro/LS-Homem.de.Ferro.1-2008.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Homem de Ferro - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kbzdSrF9RltJTlaVkLW8gakB0CL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cyecB7godJ6kNHGONFjUyVN9OX5.jpg</fanart>
+ <info>Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.</info>
+<genre>SUPER-HERÓIS</genre>   
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B]Universidade Monstros (2013) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=KlA-qAG3VCc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Universidade Monstros[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d44ae63b8e1ab54c9cf3dd2ec075846e676c2247$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Universidade Monstros - HD DUAL [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:871562f2241c15b7cfcf933e053fcd711b8a5b95$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Universidade Monstros - FHD DUB[/B][/COLOR]</link>
-<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/7ANM-CL/Monstros.SA/LS-Universidade.Monstros.2013.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Universidade Monstros - FHD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wIRraYJCWcfmXW9v3MfD8uhnUvO.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pK42lGbT48fClhtEcP7gvk4hoXP.jpg</fanart>
-<info>Mike e Sulley, alunos promissores da Universidade Monstros, são forçados a se unirem quando sua disputa acirrada pelo posto de aluno mais assustador da turma foge ao controle e eles acabam sendo expulsos da faculdade.</info>
-<genre>ANIMAÇÃO</genre>
+<title>[COLOR white][B] Homem de Ferro 2 (2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Homem de Ferro 2[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f7940e402727bb8a4969691e9d2c7c20a4a1cc1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Homem de Ferro 2 - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cfcf41160e5b9427ff668b926c52612e4a6e1db$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Homem de Ferro 2 - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/8SPH-CL/Homem.Ferro/LS-Homem.de.Ferro.2-2010.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Homem de Ferro 2 - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vzROjQbgKWMVf2EldXipCcjpuBL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg</fanart> 
+ <info>Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.</info>
+<genre>SUPER-HERÓIS</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] Homem de Ferro 3 (2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fTxZYR3W8bE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Homem de Ferro 3[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5dd09712ac0f0b0e844cc191e97cd7a80bf4ab6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Homem de Ferro 3 - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d601d32d8025d8ff777cf0cbb56e38a342c468$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Homem de Ferro 3 - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/8SPH-CL/Homem.Ferro/LS-Homem.de.Ferro.3-2014.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Homem de Ferro 3 - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3Px8B8h3dLARDMVhYsm3oAa9EfA.jpg</fanart> 
+ <info>Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.</info>
+<genre>SUPER-HERÓIS</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>SUPER-HERÓIS</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -357,16 +184,97 @@ MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<subchannel>
+<name>[COLOR white][B]Thor (3 Filmes)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gsmwnqBdTJxVciOXA2lkdIflBpX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4HrSeIXC0Ratx0vhyz2rxIMd65T.jpg</fanart>
+<info>Assista aqui os filmes da coleção Thor 
+[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2011 a 2017)[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- COPIAR UMA NOVA  SÉRIES AQUI PARA BAIXO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] Thor (2011)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JOddp-nlNvQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Thor[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b908cba301cbc0d5b86dc1413f780592e2d4ca1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Thor - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24e4d465763c62f29004b5c8f5564dfd623b426c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Thor - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/8SPH-CL/Thor/LS-Thor.1-2011.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Thor - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jWnbuXuzMIl3FDIs0qY9ZdDPxCl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg</fanart>
+<info>Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça..</info>
+<genre>SUPER-HERÓIS</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] Thor: O Mundo Sombrio (2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BmCT2nQu90A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Thor: O Mundo Sombrio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:628b9921e369d94dc14b446ffce136bb4b7bb811$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Thor: O Mundo Sombrio - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b5a77441385e0bbc2498de6aa356d534a3e4bf2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Thor: O Mundo Sombrio - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/8SPH-CL/Thor/LS-Thor.2-O.Mundo.Sombrio.2013.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Thor: O Mundo Sombrio - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZgNyh3Z8xfBXPszT5GmAeVtsAT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uhYoytlNaq46dG81wLmHqaSuzWu.jpg</fanart>
+<info>Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.</info>
+<genre>SUPER-HERÓIS</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B] Thor: Ragnarok (2017)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UvNnqWLruXA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Thor: Ragnarok[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d705a40b1be4f842ffa715b21873835e736acf5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Thor: Ragnarok - HD DUAL [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2f8353c0a7a603649f57cba4b3761387ead2e14$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Thor: Ragnarok - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminartstudio.melloantoniocarlos506.workers.dev/0:/FLMS/8SPH-CL/Thor/LS-Thor.3-Ragnarok.2018.HD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Thor: Ragnarok - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2DUM9mN9ahauSJtsWqrWrnriLfd.jpg</fanart>
+<info>Thor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.</info>
+<genre>SUPER-HERÓIS</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info><SINOPSEDOFILME></info>
+<genre>SUPER-HERÓIS</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE COLEÇÕES
+</subitems>
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subchannel>
 <name>[COLOR white][B]Nomedacoleção (0 Filmes)[/B][/COLOR]</name>
 <thumbnail><ICONEDACOLEÇÃO></thumbnail>
 <fanart><FUNDODACOLEÇÃO></fanart>
 <info>Assista aqui os filmes da coleção Nomedacoleção 
-[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
 [COLOR orange][B]0 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - (0000 a 0000)[/B][/COLOR]
 </info>
@@ -396,7 +304,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>ANIMAÇÃO</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -414,7 +322,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><ICONEDOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSEDOFILME></info>
-<genre>ANIMAÇÃO</genre>
+<genre>NOMEDOGENERO</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -432,5 +340,7 @@ MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 
 
