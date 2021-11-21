@@ -53,12 +53,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B] Han Solo - Uma História Star Wars (2018)[/B][/COLOR]</title>
+<title>[COLOR white][B]Han Solo - Uma História Star Wars (2018)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=UtpnRFzZWlM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Han Solo - Uma Historia Star Wars[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20abfe3f7db04a24a0c8a0f775bf1ddd02c8dfad$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35272f9f7eb4436a4ccf61458e2d30c1680192c8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - LEG[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/LS-Han.Solo.2018.FHD.DUAL.LFIX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jAMEX0syUh6sbjBiysibzrFpbo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/j1l9zqe5ZQPEHGsz91FyZxMldq4.jpg</fanart>
@@ -73,7 +73,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1658962aa36f1dcbbb9411a62405b06ca4c3267c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE52BF62F3300ADF1A8E6A798D680D76C1563E27$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - LEG[/B][/COLOR]</link>
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/LS-Rogue.One.Uma.Historia.Star.Wars%202016.FHD.dub.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - FHD DUB[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/LS-Rogue.One.2016.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - FHD DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74C2YX0NLWnozVMRS56d5CKDdEv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ed6weN8CXEWRrt2uj5MILEdtyCE.jpg</fanart>
@@ -178,7 +178,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=9_CIuUTWerA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Wars - Uma Nova Esperansa[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ad627b1dd1ffa6b46e977796a42d34ddf3a0dde$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:592ae095274d868a9150ec32293775efc2a84a01$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/LS-Ep.4.Uma.Nova.Esperansa.1977.FHD.DUB.LFC.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - FHD DUB LEG FRC[/B][/COLOR]</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g5G8CV8iJeG1Q0WFiB1ghreJ8qd.jpg</thumbnail>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/LS-Ep.4.Uma.Nova.Esperansa.1977.FHD.DUB.LFC.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - FHD DUB LEG FRC[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g5G8CV8iJeG1Q0WFiB1ghreJ8qd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/r7dNNDrAVRDi1acgh1nAe0nCVSt.jpg</fanart>
 <info>A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.</info>
 <genre>STAR WARS</genre>
@@ -186,13 +187,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B] Star Wars - O Retorno de Jedi (1983) [/B][/COLOR]</title>
+<title>[COLOR white][B]Star Wars - O Império Contra-Ataca (1980)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=PkEKIw0FU6Y$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Imperio Contra-Ataca[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c2b17b648d46192fd53ebe5ce4115f8a300df0e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:564385d136ae10415dd008ac95d446fe565eb876$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - LEG[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/LS-Ep.5.O.Imperio.Contra.Ataca.1980.FHD.DUB.LFC.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eXpSZV9ZCyXT4fRmVd1PqYviltG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jR8A4jr7w5nW0TAzn1l3kj8STfJ.jpg</fanart>
+<info>As forças imperais comandadas por Darth Vader (David Prowse) lançam um ataque contra os membros da resistência, que são obrigados a fugir. Enquanto isso Luke Skywalker (Mark Hamill) tenta encontrar o Mestre Yoda, que poderá ensiná-lo a dominar a "Força" e torná-lo um cavaleiro jedi. No entanto, Darth Vader planeja levá-lo para o lado negro da "Força".</info>
+<genre>STAR WARS</genre>
+<subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR white][B]Star Wars - O Retorno de Jedi (1983)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=3Ocn-_ZCPSg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Retorno de Jedi[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6828df5e1037a95695a8713b99dbe57a20ae8530$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Retorno de Jedi - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eaaf9371c6d606a4499bd1e4237cbe8455c41409$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Retorno de Jedi - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Retorno de Jedi - FHD DUB LEG FRC[/B][/COLOR]</link>
-
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/LS-Ep.6.O.Retorno.de.Jedi.1983.FHD.DUAL.LFC.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Retorno de Jedi - FHD DUB LEG FRC[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e4bOlc2gGLpsnjOsl0J1VJCtH86.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qQQ1hV1t4XwSL15FaN8npNood4K.jpg</fanart>
 <info>O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</info>
@@ -200,20 +212,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subitem>
-<title>[COLOR white][B] Star Wars - O Império Contra-Ataca (1980) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=PkEKIw0FU6Y$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Imperio Contra-Ataca[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EC766ADD76D7919FE4E0119E71132A0BB2352FD$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e5519dbb0678bc824ce863cb2f4ddd37d0c1c9a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - LEG[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eXpSZV9ZCyXT4fRmVd1PqYviltG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jR8A4jr7w5nW0TAzn1l3kj8STfJ.jpg</fanart>
-<info>As forças imperais comandadas por Darth Vader (David Prowse) lançam um ataque contra os membros da resistência, que são obrigados a fugir. Enquanto isso Luke Skywalker (Mark Hamill) tenta encontrar o Mestre Yoda, que poderá ensiná-lo a dominar a "Força" e torná-lo um cavaleiro jedi. No entanto, Darth Vader planeja levá-lo para o lado negro da "Força".</info>
-<genre>STAR WARS</genre>
-<subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
