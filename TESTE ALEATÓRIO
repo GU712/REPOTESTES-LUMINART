@@ -436,22 +436,39 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
-subitem>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars - O Mandaloriano (2019 e 2021)[/B][/COLOR]</title>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<thumbnail>ICONEDASÉRIE</thumbnail>
-<fanart><FUNDODASÉRIE></fanart>
-<info><SINOPSEDASÉRIE></info>
-<genre>STAR WARS</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+<item>																																	
+<title>[COLOR white][B]O Mandaloriano (2019)[/B][/COLOR] </title>																																	
+																																	
+<link>plugin://plugin.video.youtube/play/?video_id=ra8sFRnLOJM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Mandaloriano[/B][/COLOR]</link>																																	
+																																	
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 08 EPs - DUB[/B][/COLOR]</link>																																	
+																																	
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
+																																		
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs - DUB[/B][/COLOR]</link>																																	
+																																	
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E01.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E02.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E03.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E04.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E05.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E06.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E07.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E08.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
+																																	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>																																	
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>																																	
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>																																	
+<genre>FICÇÃO E FANTASIA</genre>  																																	
+</item>																																	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FECHAMENTO DO SUBCHANEL FILMES E SERIES - SÉRIES
 </subitems>
