@@ -236,13 +236,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B] Star Wars: O Despertar da Força (2015) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=4r0287tUEgk&feature=emb_logo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Despertar da Forza[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC43E7E5AC1280C38A76F5FE617CA82A6F6EA2DB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Despertar da Forza - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d33001dd61be4032aa73d0a193510ae7c4b4dcd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Despertar da Forza - LEG[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<title>[COLOR white][B]Star Wars: O Despertar da Força (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=AOlTWKtS6ZI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Despertar da Forza[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f24af07e9302197129653fe59330c720bb07392d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Despertar da Forza - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6408779878f2c70c7e5266f0c89be20bbfaadf48$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Despertar da Forza - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/LS-Ep.7-O%20Despertar.da.Forsa.2015.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Despertar da Forza - FHD DUAL LEG FIX[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5UvIBygHg3FJari4tdxzqa1Yemx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1KrPbdk8hwtAuH5xvpqb1qsCnDj.jpg</fanart>
 <info>A queda de Darth Vader e do Império levou ao surgimento de uma nova força sombria: a Primeira Ordem. Eles procuram o jedi Luke Skywalker, desaparecido. A resistência tenta desesperadamente encontrá-lo antes para salvar a galáxia.</info>
@@ -251,13 +249,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>
-<title>[COLOR white][B] Star Wars: Os Últimos Jedi (2017) [/B][/COLOR]</title>
+<title>[COLOR white][B]Star Wars: Os Últimos Jedi (2017)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=4JB3tHn2S5A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Ultimos Jedi[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEB22CADD8DD6E0C74E22409E792C68744BC1B7C$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ultimos Jedi - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d12d1bbe63042c0413920b21d77c0dee42677f03$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ultimos Jedi - LEG[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e54e2d79cc0a4c83fbd42e0172140061163de2c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ultimos Jedi - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a937864a7cf9305d574b9832d1e7735618bac550$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ultimos Jedi - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/LS-Ep.8.Os.Ultimos.Jedi.2017.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Ultimos Jedi - FHD DUAL LEG FIX[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c4P12cT6jT6OF8j0mmBfbEb9YPR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/h0MJJ9xTbWPIyKW1bHps2GRDjLI.jpg</fanart>
 <info>A tranquila e solitária vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da Força. O desejo dela de aprender o estilo dos Jedi força Luke a tomar uma decisão que mudará sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resistência pela supremacia da galáxia.</info>
@@ -268,10 +264,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <subitem>
 <title>[COLOR white][B] Star Wars: A Ascensão Skywalker (2019) [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=i3X-xQIjqws$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Ascensao Skywalker[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a29655cfe1132c578112f5eeb5b927f54797a8b4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ascensao Skywalker - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d05db59eebc36f37f70197b1c527ae0f4dcd0f8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ascensao Skywalker - LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efe34e92c3ea469e66357b288cd91ec7608b3d98$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ascensao Skywalker - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e606fef7ee4bba72bde96e5c8767702b4fef0f06$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ascensao Skywalker - FHD DUAL[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/LS-Ep.9.A.Ascensao.Skywalker.2019.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ascensao Skywalker - FHD DUAL LEG FIX[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1cajv97TsZp12DElh9bX9BZkQ9X.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mrt5Fq12DH1iNINZFxxCwoiTHcP.jpg</fanart>
@@ -403,7 +399,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>		
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Mandaloriano (2019 e 2021)[/B][/COLOR] </title>		
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>		
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 8 EPs - DUB[/B][/COLOR]</link>		
+
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:676c40c2c329eac808f2d8e91141aa198f6ab27a$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db0d61145bf062c71ce731a5df060b58b82c36e$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47f041bf00e7cd74693143258df967a553661911$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
@@ -412,7 +410,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ee343e93c6125b0202e2fe456747495a7e6a635$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83aae53a8f194bd5369355a6ea4e49fda16e39b$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ce752babfff0fc4ea507d2d86c3041922577a0c$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - DUB[/B][/COLOR]</link>		
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 8 EPs - DUB[/B][/COLOR]</link>		
+
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4d233a9a8672827fc3a17e9517705ccb46d4a4e$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
@@ -421,6 +421,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37db255c75fef9d8bc709c30$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>		
 <info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>		
@@ -435,25 +436,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 																																	
 <link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 08 EPs - DUB[/B][/COLOR]</link>																																	
 																																	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T01/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
 																																		
 <link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs - DUB[/B][/COLOR]</link>																																	
 																																	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E01.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E02.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E03.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E04.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E05.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E06.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E07.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Mandaloriano/T02/LS-T02E08.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E01.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E02.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E03.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E04.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E05.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E06.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E07.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E08.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
 																																	
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>																																	
 <fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>																																	
