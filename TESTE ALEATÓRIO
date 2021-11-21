@@ -2293,16 +2293,227 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 SEÇÃO SOB PRESSÃO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-SEÇÃO THUNDERBIRDS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO ESPECIAL THUNDERBIRDS FILMES E SERIES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-channel>
-<name>[COLOR white][B]TESTE EXTERNAL LINK [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOTESTES-LUMINART/main/1A1-SELTESTE-MATRIX</externallink>
-<thumbnail>https://i.ibb.co/ncXdf2C/007-ESP.png</thumbnail>
+<channel>
+<name>[COLOR white][B]SEÇÃO ESPECIAL THUNDERBIRDS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/gDz6hZk/STAR-WARS-ESP.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>[B]Assista aqui os filmes da franquia 007 - JAMES BOND[/B]</info>
+<info>[B]Assista aqui nosso conteúdo da franquia STAR WARS[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR orange]Thunderbirds - O Filme (1965)[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/HD47dQP/STAR-WARS-FILM.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
+<info>[B]Assista aqui os filmes da franquia STAR WARS[/B]</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>plugin://plugin.video.youtube/play/?video_id=06URM0pD6oc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Thunderbirds - O Filme[/B][/COLOR]</link>
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-Thunderbirds.em.Acao-O.Filme.1968.HD.dub.avi$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Thunderbirds - O Filme - HD DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/cPonFtd8QIUU8Q8bf9fDcFOro6B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/28Zw4sluikDipRt7yRTZRxOTjHs.jpg</fanart>
+<info>As missões da equipe Resgate Internacional, uma organização cuja tecnologia avançada os ajuda nos resgates.</info>
+<genre>ACTION-MOTION</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FECHAMENTO DO SUBCHANEL FILMES E SERIES - FILMES
+</subitems>
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO DE SÉRIES THUNDERBIRDS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR black].[/COLOR]</name>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+
+<subchannel>
+<name>[COLOR orange][B]SÉRIES[COLOR yellow] -> [COLOR orange]THUNDERBIRDS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/JnnCCtx/STAR-WARS-SER.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eVTutGIa7dlW1IazBqv05ufL3HA.jpg</fanart>
+<info>[B]Assista aqui as séries da franquia THUNDERBIRDS[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Thunderbirds Are Go! (2015)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/pgIcsbZlXG5mWiJph60GzdWwpZk.jpg</thumbnail>
+<fanart>https://media.gq-magazine.co.uk/photos/5d139712a624c49f704524db/16:9/w_2560%2Cc_limit/Thunderbirds-hp-GQ-01Apr15_ITV_b.jpg</fanart>
+<info>Assista aqui a série Thunderbirds Are Go!
+[COLOR orange][B]THUNDERBIRDS[/B][/COLOR]
+[COLOR orange][B]ANO - 2015[/B][/COLOR]
+[COLOR orange][B]1 TEMPS  - 24 EPS[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Thunderbirds Are Go! (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6y2hFqgtjLk</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pgIcsbZlXG5mWiJph60GzdWwpZk.jpg</thumbnail>
+<fanart>https://media.gq-magazine.co.uk/photos/5d139712a624c49f704524db/16:9/w_2560%2Cc_limit/Thunderbirds-hp-GQ-01Apr15_ITV_b.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>STAR WARS</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Thunderbirds Are Go! (2015)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E01$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Anel de Fogo (Parte 1) [/B][/COLOR]</link>
+link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E02$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Anel de Fogo (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E03$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Corrida Espacial [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E04$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Corte Transversal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E05$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Fireflash [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E06$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Desconectado [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E07$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Fora de Controle [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E08$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]EOS [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E09$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Ao Redor do Sol [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E10$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Tuneis do Tempo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E11$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Cabo Espacial [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E12$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Sob Pressao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E13$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O Pozo Gravitacional [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E14$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white] Sabotagem [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E15$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Reliquia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E16$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Enguizado [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E17$$lsname=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]O Roubo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E18$$lsname=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Recarga [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E19$$lsname=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Extrasao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E20$$lsname=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]O Especialista [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E21$$lsname=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Os Cazadores de Cometas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E22$$lsname=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Aprendiz de Motorista [/B][/COLOR]</link>
+link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E23$$lsname=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Cadeia de Comando [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E24$$lsname=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Situasao Perigosa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E25$$lsname=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Infiltrados [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/LS-T01E26$$lsname=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Legado [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/pgIcsbZlXG5mWiJph60GzdWwpZk.jpg</thumbnail>
+<fanart>https://media.gq-magazine.co.uk/photos/5d139712a624c49f704524db/16:9/w_2560%2Cc_limit/Thunderbirds-hp-GQ-01Apr15_ITV_b.jpg</fanart>
+<info>Jeff Tracy cria a equipe do Resgate Internacional com uma nave espacial e veículos especiais para ajudar pessoas em perigo.</info>
+<genre>ACTION-MOTION</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FECHAMENTO DO SUBCHANEL FILMES E SERIES - SÉRIES
+</subitems>
+</subchannel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Thunderbirds (1965)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/cPonFtd8QIUU8Q8bf9fDcFOro6B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/28Zw4sluikDipRt7yRTZRxOTjHs.jpg</fanart>
+<info>Assista aqui a série Thunderbirds.
+[COLOR orange][B]THUNDERBIRDS[/B][/COLOR]
+[COLOR orange][B]ANOS  - (1965)[/B][/COLOR]
+[COLOR orange][B]2 TEMPS  - 30 EPS[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Thunderbirds (1965)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=06URM0pD6oc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>STAR WARS</genre> 
+</subitem>
+
+
+<subitem>																																	
+<title>[COLOR white][B]Thunderbirds (1965)[/B][/COLOR] </title>																																	
+																																																																		
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 26 EPs- DUB[/B][/COLOR]</link>	
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E01$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Encurralado  no Ceu [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E02$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cratera do Perigo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E03$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Os perigos de Penelope [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E04$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Terror na Cidade de Nova York [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E05$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]No Limite do Impacto [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E06$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Um Dia de Desastre [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E07$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]30 Minutos Apos o Meio-dia  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E08$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Intruso em Desespero  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E09$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Fim da Estrada [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E10$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Os Intrusos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E11$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Sonda solar [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E12$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Desastre no Atlantico [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E13$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O Cofre da Morte [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E14$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Atomo Poderoso  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E15$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Cidade em Chamas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E16$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Os impostores [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E17$$lsname=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]O Homem do MI.5 [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E18$$lsname=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]O Grito do Lobo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E19$$lsname=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Misterio em Alto Mar [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E20$$lsname=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Mova-se e Voce Esta Morto [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E21$$lsname=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]O Acordo da Duquesa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E22$$lsname=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]A Beira do Desastre [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E23$$lsname=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Ataque dos Crocodilos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E24$$lsname=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]A Invasao Marciana  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E25$$lsname=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]O Cham-Cham [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T01E26$$lsname=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Uma Falha na Seguransa [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T02E01$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] Inferno sob o Mar[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T02E02$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Caminho da Destruisao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T02E03$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Podem me Chamar de Mr. Hackenbacker [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T02E04$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]As Ferias deLord Parker[/B][/COLOR]</link>
+link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T02E05$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Ricochete[/B][/COLOR]</link>
+link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Thunderbirds/ANT/LS-T02E06$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]De ou Receba um Milhao [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/cPonFtd8QIUU8Q8bf9fDcFOro6B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/28Zw4sluikDipRt7yRTZRxOTjHs.jpg</fanart>
+<info>As missões da equipe Resgate Internacional, uma organização cuja tecnologia avançada os ajuda nos resgates.</info>
+<genre>ACTION-MOTION</genre>																																	
+</subitem>																																	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
+</subitems>
+</subchannel>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 SEÇÃO THUNDERBIRDS
