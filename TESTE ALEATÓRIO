@@ -19,17 +19,23 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>	
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Gavião Arqueiro (2021)[/B][/COLOR]</title>		
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Gaviao Arqueiro[/B][/COLOR]</link>
 	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 02 EPs - DUAL[/B][/COLOR]</link>	
 	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91afa0fd8274ef756cf538d4ae90050ade410a73$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c51ba75ecea480cf76551e636c6e1bfb417650d3$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Gaviao Arqueiro[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b321d97115b0734de5e5b23d3b941228fab7a78$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Gaviao Arqueiro[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5d12d02b4daf6c0b834eda140e6387a0263d934$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Gaviao Arqueiro[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aee1af0a8dfbd3dc55491c1376efaeb80b5fe25f$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Gaviao Arqueiro[/B][/COLOR]</link>	
 	
-<thumbnail>ICONEDASÉRIE</thumbnail>	
-<fanart><FUNDODASÉRIE></fanart>	
-<info><SINOPSEDASÉRIE></info>	
-<genre>GUERRA</genre>	
+<thumbnail>https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/xyC3K4pB7dxMpC4gd0aoQwAvUZ4.jpg</fanart>	
+<info>O ex-vingador Clint Barton tem uma missão aparentemente simples: voltar para sua família no Natal. Será possível? Talvez com a ajuda de Kate Bishop, uma arqueira de 22 anos que sonha em se tornar uma super-heroína. </info>	
+<genre>SUPER-HERÓIS</genre>	
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
