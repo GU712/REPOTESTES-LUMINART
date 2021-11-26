@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]PREQUELA[/B][/COLOR]</name>
 <thumbnail><ICONEDASESAODOGENERO></thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>[B]Assista aqui os  filmes de NOMEDOGENERO[/B]</info>
+<info>[B]Assista aqui o  filme que explica o inicio da SAGA.[/B]</info>
 
 <subchannel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
@@ -39,15 +39,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]X-Men Primeira Classe (2011)[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=-Jf9GItl9Cw$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]X-Men Primeira Classe[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1737d927fa31ea431856f2f7abfb0c2d9ff68407$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men Primeira Classe - HD[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c440557c5a70f72721926cdd692c30026450f635$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men Primeira Classe - FHD[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men Primeira Classe - FDH DUB[/B][/COLOR]</link>
-
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/X.Men/FLM/LS-X-Men.Primeira.Classe.2011.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men Primeira Classe - FDH DUAL LEG FIX[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ytEXLIfyEVf12IQq2bKpEbHnBW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/33zTFJGD2FsxvgSB34hQSnzz6Ro.jpg</fanart>
 <info>Antes de se tornarem Professor X e seu arqui-inimigo Magneto, Charles Xavier e Erik Lensherr eram dois jovens que acabavam de descobrir seus poderes pela primeira vez. Eram, na altura, amigos e companheiros de luta que trabalhavam juntos com outros mutantes, tentando evitar a maior ameaça que o mundo já enfrentara. É da divergência entre ambos que se dá a cisão que origina a eterna guerra entre Magneto e seus seguidores, e os X-Men do Professor X.</info>
@@ -75,15 +70,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]X-Men - O Filme (2000)[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=bug2_Nih53Y$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]X-Men - O Filme[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a2d69bb7081a47fd53649453dea25b7fb0ad1f8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men O Filme - HD DUAL[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7570ecd328d58f9fe0e978a155a0f18855cea119$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men O Filme - FHD dual[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men O Filme - FDH DUB[/B][/COLOR]</link>
-
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/X.Men/FLM/LS-X-Men.O.Filme.2000.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men O Filme - FDH DUAL LEG FIX[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bRDAc4GogyS9ci3ow7UnInOcriN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vy6udfAuHvOy5MAoPqs5hLNPR8O.jpg</fanart>
 <info>Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. Em um mundo cheio de ódio e preconceito, eles são temidos por aqueles que não podem aceitar suas diferenças. Liderados por Xavier, os X-Men lutam para proteger um mundo que os teme. Eles estão presos em uma batalha contra um ex-colega e amigo, Magneto, que acredita que os humanos e os mutantes não devem viver juntos.</info>
@@ -93,15 +83,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]X-Men 2 (2003)[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=2OdX0B9bU_4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]X-Men 2[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2ba45565469c4e6ef5fb9c34065523d43bf5b03$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men 2 - HD DUAL[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76783fc30e84c9ac429d10a75a513c643f9579bf$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men 2 - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men 2 - FDH DUB[/B][/COLOR]</link>
-
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/X.Men/FLM/LS-X-Men.2.2003.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men 2 - FDH DUAL LEG FIX[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mnDo22GA2WUvyWY9PyhZqxdaejC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s8ftvFvafWWEhApISamHx32bx6h.jpg</fanart>
 <info>Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier. Depois de escapar de sua cela de plástico, Magneto propõe uma parceria com Xavier e os X-Men para combater esse novo inimigo que ambos têm em comum</info>
@@ -111,15 +96,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]X-Men O Confronto Final (2006)[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=8QMRQeYNd7M$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]X-Men O Confronto Final[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48e57cd66a2992f1bbf72dbf2ea747ac1f553d59$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men O Confronto Final - HD DUAL[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68447d96b8a23b57484cb86672f6fdc12167e241$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men O Confronto Final - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FDH DUB[/B][/COLOR]</link>
-
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/X.Men/FLM/LS-X-Men.O.Confronto.Final.2006.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FDH DUAL LEG FIX[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7klqeHzrukZTFVgB4xEOIzqKcZ3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/caS9mIkYfbQRzXKY0b0do3KCZ8k.jpg</fanart>
 <info>É descoberta uma cura para os mutantes, que agora podem optar por manter seus poderes ou se tornarem seres humanos normais. A descoberta põe em campos opostos Magneto (Ian McKellen), que acredita que esta cura se tornará uma arma contra os mutantes, e os X-Men, liderados pelo professor Charles Xavier (Patrick Stewart).</info>
@@ -149,16 +129,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]X-Men Dias de Um Futuro Esquecido (2014)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=e5Osn4gidd4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]X-Men Dias de Um Futuro Esquecido [/B][/COLOR]</link>
-
+<title>[COLOR white][B]X-Men Dias de Um Futuro Esquecido (2014)[/B][/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=e5Osn4gidd4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]X-Men Dias de Um Futuro Esquecido [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2a83a1e6f48862bdb6b2d07f54d8aba77c9d47b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men Dias de Um Futuro Esquecido  - HD DUAL[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3a9cd5976dd1e237820b3e2dc1525a6f3137cfd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men Dias de Um Futuro Esquecido  - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men Dias de Um Futuro Esquecido  - FDH DUB[/B][/COLOR]</link>
-
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/X.Men/FLM/LS-X-Men.Dias.de.um.Futuro.Esquecido.2014.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men Dias de Um Futuro Esquecido  - FDH DUAL LEG FIX[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s83Vwn9FtrofNmFiie7SXVKpXa5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AhEORlWOtrd4sL0tYlexMLNfkGq.jpg</fanart>
 <info>No futuro, os mutantes são caçados impiedosamente pelos Sentinelas, gigantescos robôs criados por Bolívar Trask. Os poucos sobreviventes precisam viver escondidos, caso contrário serão também mortos. Entre eles estão o professor Charles Xavier, Magneto, Tempestade, Kitty Pryde e Wolverine, que buscam um meio de evitar que os mutantes sejam aniquilados. O meio encontrado é enviar a consciência de Wolverine em uma viagem no tempo, rumo aos anos 1970. Lá ela ocupa o corpo do Wolverine da época, que procura os ainda jovens Xavier e Magneto para que, juntos, impeçam que este futuro trágico para os mutantes se torne realidade.</info>
@@ -168,15 +142,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]X-Men Apocalypse (2016)[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=3vYpPwBKJ28$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]X-Men Apocalypse[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a738e02b8ed92b3ecd0ec4ce30346341c07e8e9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men Apocalypse - HD DUAL[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffd2b315546cfeb947f4500f5624457918a8bd50$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men Apocalypse - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men Apocalypse - FDH DUB[/B][/COLOR]</link>
-
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/X.Men/FLM/LS-X-Men.Apocalipse.2016.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men Apocalypse - FDH DUAL LEG FIX[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pCssRYbILVduCYDgrcRG0T8W4FN.jpg</fanart>
 <info>Desde o início da civilização, ele é adorado como um deus. Apocalypse, o primeiro e mais poderoso mutante do universo X-Men da Marvel, acumulou os poderes de muitos outros mutantes, tornando-se imortal e invencível. Ao acordar depois de milhares de anos, ele está desiludido com o mundo em que se encontra e recruta uma equipe de mutantes poderosos, incluindo um Magneto desanimado (Michael Fassbender), para purificar a humanidade e criar uma nova ordem mundial, a qual ele reinará. Como o destino da Terra está por um fio, Mística (Jennifer Lawrence), com a ajuda do Professor X (James McAvoy), deverá levar uma equipe de jovens X-Men para conter o seu maior inimigo e salvar a humanidade da completa destruição.</info>
@@ -186,15 +155,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]X-Men Fenix Negra (2019)[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=-cF24tTkcyY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]X-Men Fenix Negra[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ebf4da2f4dbcaa8b07769f44d16c2185cef2f8e8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men Fenix Negra - HD DUAL[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77f7cc19da0658cf557d38e64c50cdd9e88cbe5d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]X-Men Fenix Negra - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men Fenix Negra - FDH DUB[/B][/COLOR]</link>
-
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/X.Men/FLM/LS-X-Men.Fenix.Negra.2019.FHD.DUAL.LFX.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]X-Men Fenix Negra - FDH DUAL LEG FIX[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w4mvEKtjawXdYaq1bORuodLX6ti.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/soeSIqIuetoq8yxRIxbFPqFEgQW.jpg</fanart>
 <info>Charles Xavier está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey.</info>
