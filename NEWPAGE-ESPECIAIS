@@ -1511,7 +1511,6 @@ MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <subchannel>	
 <name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Os Ho-ho-límpicos (1977)[/B][/COLOR]</name>	
 <thumbnail>https://www.themoviedb.org/t/p/original/eVi53MC0rKF2iylwseT8eaFxKOX.jpg</thumbnail>	
@@ -1805,9 +1804,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=UtpnRFzZWlM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Han Solo - Uma Historia Star Wars[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20abfe3f7db04a24a0c8a0f775bf1ddd02c8dfad$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35272f9f7eb4436a4ccf61458e2d30c1680192c8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MKnTvYIjuHXG3b0E8lrVsDnrhy2VVAAY/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27113.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21301.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Han Solo - Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jAMEX0syUh6sbjBiysibzrFpbo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/j1l9zqe5ZQPEHGsz91FyZxMldq4.jpg</fanart>
 <info>Embarque na Millennium Falcon e viaje para uma galáxia distante em uma nova aventura com o mais amado canalha da galáxia. Através de uma série de ousadas aventuras no obscuro e perigoso submundo do crime, Han Solo encontra seu poderoso futuro copiloto Chewbacca e encontra o famoso jogador Lando Calrissian, em uma jornada que definirá o curso de um dos heróis mais improváveis da saga Star Wars.</info>
@@ -1820,9 +1821,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=frdj1zb9sMY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Rogue One: Uma Historia Star Wars[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1658962aa36f1dcbbb9411a62405b06ca4c3267c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE52BF62F3300ADF1A8E6A798D680D76C1563E27$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MKnTvYIjuHXG3b0E8lrVsDnrhy2VVAAY/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48584.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/20218.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Rogue One: Uma Historia Star Wars - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74C2YX0NLWnozVMRS56d5CKDdEv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ed6weN8CXEWRrt2uj5MILEdtyCE.jpg</fanart>
 <info>Em busca de uma nova esperança para a galáxia, a Aliança Rebelde enfrenta uma arriscada missão: roubar os planos que revelam uma falha na construção da Estrela da Morte. Para isso, eles contam com a ajuda de Jyn Erso, filha do criador da arma mais poderosa do império.</info>
@@ -1861,9 +1864,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=ppl9q5wCon4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Ameasa Fantasma[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1412FD75DCDD033CD1F5CA23358F99B3B898C4DB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9179cfc61eb3aa5001d2be2d773d7f0467802e9$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JIxYM9r4-OQskqjgv7iwRYwLiVsHohgl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48585.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21350.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]A Ameasa Fantasma - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bcZKWW6V20rhk7ic0NPi5RWyyPu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9r4IRZUJ564J38EcLRPM9uUZlVp.jpg</fanart>
 <info>Enquanto resgatam a Rainha Amidala, governante de um planeta pacífico invadido por forças ameaçadoras, os Cavaleiros Jedi Obi-Wan Kenobi e Qui-Gon Jinn descobrem Anakin Skywalker, uma criança prodígio de 9 anos excepcionalmente poderosa na Força.</info>
@@ -1876,9 +1881,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=zcpygp8QKN8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Ataque dos Clones[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F093673AEA7C1F871B10AC9EBC27EDE6627E53B2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ataque dos Clones - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea23f1b835f817aa742403a77350a33fd84cff7a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ataque dos Clones - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X7R-16YM9ibxeJ-_f0VTjg9nBtGSfbdc/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Ataque dos Clones - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48586.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Ataque dos Clones - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21351.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Ataque dos Clones - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/und4ZGuJu2jSk8sTYYT6vyoxP5d.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cuHfEyX5F5LkhevxcSWFsDlaYja.jpg</fanart>
 <info>Com a missão de proteger a Senadora Amidala, Anakin Skywalker descobre o seu amor por ela, do mesmo modo que vai conhecendo seu lado sombrio. Obi-Wan Kenobi descobre um exército de clones à medida que a Galáxia caminha para uma grande guerra.</info>
@@ -1891,9 +1898,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=5UnjrG_N8hU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Vingansa dos Sith[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59D8C5DE235B0555C1FD9FEE2DEE262B153ECB75$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Vingansa dos Sith - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d301629bd804352f4b5886277a4498f19bf3eee$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Vingansa dos Sith - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CDObVwZThZtAzVJsZ9uSsIkergKzpQ2t/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]A Vingansa dos Sith - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48587.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]A Vingansa dos Sith - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21352.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]A Vingansa dos Sith - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qiMLmNfQGRNIccK57MKGS8tUCm5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2imwcgPKpqrnpzFbvU6CdC9NXuq.jpg</fanart>
 <info>As Guerras Clônicas estão em pleno andamento e Anakin Skywalker mantém um elo de lealdade com Palpatine, ao mesmo tempo em que luta para que seu casamento com Padmé Amidala não seja afetado por esta situação. Seduzido por promessas de poder, Anakin se aproxima cada vez mais de Darth Sidious até se tornar o temível Darth Vader. Juntos eles tramam um plano para aniquilar de uma vez por todas com os cavaleiros jedi.</info>
@@ -1932,9 +1941,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=ppl9q5wCon4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Wars - Uma Nova Esperansa[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1412FD75DCDD033CD1F5CA23358F99B3B898C4DB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ad627b1dd1ffa6b46e977796a42d34ddf3a0dde$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TCBP1B3Fak1ENQ2St0KH1mw9CCTzXXEl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - DUB+LEGFORFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48585.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21350.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Wars - Uma Nova Esperansa - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g5G8CV8iJeG1Q0WFiB1ghreJ8qd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/r7dNNDrAVRDi1acgh1nAe0nCVSt.jpg</fanart>
 <info>A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.</info>
@@ -1947,9 +1958,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=3Ocn-_ZCPSg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Retorno de Jedi[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EAAF9371C6D606A4499BD1E4237CBE8455C41409$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Retorno de Jedi - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6828df5e1037a95695a8713b99dbe57a20ae8530$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Retorno de Jedi - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EVEhybUQF8ek-VyCtslHLoK5SBlDMExs/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Retorno de Jedi - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48590.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Retorno de Jedi - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21354.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Retorno de Jedi - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e4bOlc2gGLpsnjOsl0J1VJCtH86.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qQQ1hV1t4XwSL15FaN8npNood4K.jpg</fanart>
 <info>O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</info>
@@ -1962,9 +1975,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=PkEKIw0FU6Y$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Imperio Contra-Ataca[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EC766ADD76D7919FE4E0119E71132A0BB2352FD$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e5519dbb0678bc824ce863cb2f4ddd37d0c1c9a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11gwwuC2n1Y8f48vXnPwcXhUysTD4n-cl/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48589.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21355.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Imperio Contra-Ataca - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eXpSZV9ZCyXT4fRmVd1PqYviltG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jR8A4jr7w5nW0TAzn1l3kj8STfJ.jpg</fanart>
 <info>As forças imperais comandadas por Darth Vader (David Prowse) lançam um ataque contra os membros da resistência, que são obrigados a fugir. Enquanto isso Luke Skywalker (Mark Hamill) tenta encontrar o Mestre Yoda, que poderá ensiná-lo a dominar a "Força" e torná-lo um cavaleiro jedi. No entanto, Darth Vader planeja levá-lo para o lado negro da "Força".</info>
@@ -2003,9 +2018,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=4r0287tUEgk&feature=emb_logo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Despertar da Forza[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC43E7E5AC1280C38A76F5FE617CA82A6F6EA2DB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Despertar da Forza - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d33001dd61be4032aa73d0a193510ae7c4b4dcd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Despertar da Forza - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a3hwVyRcxS8kkPuXtRQw0650UxhsdSU0/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Despertar da Forza - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/48591.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Despertar da Forza - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21356.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Despertar da Forza - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5UvIBygHg3FJari4tdxzqa1Yemx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1KrPbdk8hwtAuH5xvpqb1qsCnDj.jpg</fanart>
 <info>A queda de Darth Vader e do Império levou ao surgimento de uma nova força sombria: a Primeira Ordem. Eles procuram o jedi Luke Skywalker, desaparecido. A resistência tenta desesperadamente encontrá-lo antes para salvar a galáxia.</info>
@@ -2018,9 +2035,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=4JB3tHn2S5A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Ultimos Jedi[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEB22CADD8DD6E0C74E22409E792C68744BC1B7C$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ultimos Jedi - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d12d1bbe63042c0413920b21d77c0dee42677f03$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Ultimos Jedi - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wqkzuFC0ZzbSfynE5Dx-CtZgBn-FCqyG/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Os Ultimos Jedi - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27253.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Os Ultimos Jedi - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21357.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Os Ultimos Jedi - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c4P12cT6jT6OF8j0mmBfbEb9YPR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/h0MJJ9xTbWPIyKW1bHps2GRDjLI.jpg</fanart>
 <info>A tranquila e solitária vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da Força. O desejo dela de aprender o estilo dos Jedi força Luke a tomar uma decisão que mudará sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resistência pela supremacia da galáxia.</info>
@@ -2033,9 +2052,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=i3X-xQIjqws$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Ascensao Skywalker[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a29655cfe1132c578112f5eeb5b927f54797a8b4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ascensao Skywalker - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d05db59eebc36f37f70197b1c527ae0f4dcd0f8$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ascensao Skywalker - LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hw76Yu2ZFYINzIRTp_bEHnUCGXC5GHjW/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]A Ascensao Skywalker - DUB - DUB+LEGFORCFIX[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/38965.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]A Ascensao Skywalker - DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21357.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]A Ascensao Skywalker - DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1cajv97TsZp12DElh9bX9BZkQ9X.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mrt5Fq12DH1iNINZFxxCwoiTHcP.jpg</fanart>
 <info>Com o retorno do Imperador Palpatine, todos voltam a temer seu poder e, com isso, a Resistência toma a frente da batalha que ditará os rumos da galáxia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa ligação com Kylo Ren (Adam Driver), que também se encontra em conflito pela Força.</info>
@@ -2208,7 +2229,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <subitem>		
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Mandaloriano (2019 e 2021)[/B][/COLOR] </title>		
+
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>		
+
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:676c40c2c329eac808f2d8e91141aa198f6ab27a$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db0d61145bf062c71ce731a5df060b58b82c36e$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47f041bf00e7cd74693143258df967a553661911$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
@@ -2217,7 +2240,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ee343e93c6125b0202e2fe456747495a7e6a635$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83aae53a8f194bd5369355a6ea4e49fda16e39b$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ce752babfff0fc4ea507d2d86c3041922577a0c$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
+
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - DUB[/B][/COLOR]</link>		
+
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4d233a9a8672827fc3a17e9517705ccb46d4a4e$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
@@ -2233,76 +2258,37 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
-subitem>
-<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Wars - O Mandaloriano (2019 e 2021)[/B][/COLOR]</title>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<thumbnail>ICONEDASÉRIE</thumbnail>
-<fanart><FUNDODASÉRIE></fanart>
-<info><SINOPSEDASÉRIE></info>
-<genre>STAR WARS</genre>
+<subitem>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars - O Mandaloriano (2019 e 2021)[/B][/COLOR]</title>
+																																	
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 08 EPs - DUB[/B][/COLOR]</link>																																	
+																																	
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
+																																		
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs - DUAL LEG FIX[/B][/COLOR]</link>																																	
+																																	
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E01.mkv$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E02.mkv$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E03.mkv$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E04.mkv$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E05.mkv$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E06.mkv$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E07.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E08.mkv$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
+																																	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>																																	
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>																																	
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>																																	
+<genre>FICÇÃO E FANTASIA</genre>  	
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>		
-<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white][B]O Mandaloriano - 2019[/B][/COLOR] </title>		
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - 8 EPs - DUB[/B][/COLOR]</link>		
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35333.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35334.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35335.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/81795.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/81796.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39587.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39588.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39589.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 02 - 8 EPs - DUB[/B][/COLOR]</link>		
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78357.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78358.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80314.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80315.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80316.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82238.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82239.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82240.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>		
-<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>		
-<genre>FICÇÃO E FANTASIA</genre>  		
-</subitem>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-
-subitem>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Mandaloriano (2019 e 2021)[/B][/COLOR] </title>		
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - LEG FIX[/B][/COLOR]</link>		
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE01.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE02.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE03.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE04.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE05.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE06.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE07.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE08.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - LEG FIX[/B][/COLOR]</link>		
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E01.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E02.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E03.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E04.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E05.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E06.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E07.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E08.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>		
-<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>		
-<genre>STAR WARS</genre>  		
-</subitem>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FECHAMENTO DO SUBCHANEL FILMES E SERIES - SÉRIES
@@ -2881,9 +2867,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=HvZ_z9cTs0w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 1: O Filme[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cefc3469df978527e67c64d486de0cb78941fd0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 1: O Filme - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b93a224d07bcc6f63a710dbad17141e028b5c21e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 1: O Filme - FHD LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oNghIXvquGq4HNQZ_F5pzSrKgcn2YtF4/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 1: O Filme - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27132.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 1: O Filme - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21306.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 1: O Filme - FHD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/bHgbWah5GVryVCjI21Gpsxb8FnM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/myla4IuoYLYAUQY83zzm22f7rvm.jpg</fanart>
 <info>Um fenômeno alienígena de poder e tamanho descomunal se aproxima da Terra, destruindo tudo em seu caminho. A única nave que pode enfrentar esta força letal que ameaça a Terra é a U.S.S. Enterprise. O lendário comandante James T. Kirk é convocado para a missão.</info>
@@ -2896,9 +2884,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=iKXmEjRsm7I$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 2: A Ira de Khan[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5869E59C1AE950173FAE98897EA7F267C70B454$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 2: A Ira de Khan - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA2BCA84B379907FCDB1127521886C0B4FF60236$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 2: A Ira de Khan - FHD DUAL[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DkDrrmvo0DME0E1834xlMUpLVatOafIu/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 2: A Ira de Khan - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27133.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 2: A Ira de Khan - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21311.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 2: A Ira de Khan - FHD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/b9FyLkPyIXqZC1IunApc6e7xJ6l.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7lSZ0bceeMbE0PvqYuyt7xoo9NP.jpg</fanart>
 <info>Sentido que o futuro em nada se parece com o passado que vivemos, o Almirante James T. Kirk começa a acreditar que cavalgar pelo cosmos é um jogo para os jovens. Até que numa viagem de rotina para inspecionar a U.S.S. Enterprise, a carreira de Kirk na Frota Estelar entra em um novo capítulo quando surge um antigo inimigo, Khan Noonien Singh.</info>
@@ -2917,6 +2907,7 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLO
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DkDrrmvo0DME0E1834xlMUpLVatOafIu/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 3: A Procura de Spock - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27134.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 3: A Procura de Spock - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21312.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 3: A Procura de Spock - FHD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/vkqWTEnTDpP1BpXhzUq8U0lR1PK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/p3zaplDiBfaT8BOFCQuaWMWOCg9.jpg</fanart>
 <info> Enterprise A será desativada.Quando Kirk recebe a visita de Sarek, pai de Spock, descobre que o falecido amigo pode ter a chance de ter uma segunda vida. E para isso, deve retornar a Genesis, onde enfrentará o maior dilema de sua carreira.</info>
@@ -2935,6 +2926,7 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLO
 link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CC7tUO9pTeFeZmxpofa6MfjrZ9cEpUDN/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD DUAL[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27135.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21313.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 4: A Volta para Casa - HD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/dLnsbQZ1CQ54jKMwVTeCGFRwlQk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hCIi5zz69EeGTwodLH7SKSuEWl1.jpg</fanart>
 <info>Marcados como fugitivos pela própria Federação que juraram proteger, os tripulantes da Enterprise volta para a Terra para enfrentar a corte marcial por crimes cometidos ao salvar a vida de Spock. </info>
@@ -2953,6 +2945,7 @@ link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[C
 
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27136.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 5: A Ultima Fronteira - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21314.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 5: A Ultima Fronteira - HD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/ohA8ogNltkGmyIiO3vpw3UUltmK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7KXok47NWQB6SrJzdRkhuRHs2Kk.jpg</fanart>
 <info>Data estelar: 8454.130. O capitão Kirk, que está de férias, tem que enfrentar dois desafios: escalar o El Capitan, no Yosemite, e ensinar cantigas de acampamento para Spock. Mas o lazer é bruscamente interrompido quando um vulcaniano renegado rapta a Enterprise e a leva para desvendar os mais profundos segredos do universo.</info>
@@ -2970,6 +2963,7 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLO
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZtB98P7iFE0FpsrJw_uHS488yLu0wWaZ/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 6: A Terra Desconhecida - HD DUAL[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27137.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 6: A Terra Desconhecida - - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21315.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 6: A Terra Desconhecida - FHD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/DLF3vrVHNmaMTI5AIDYEUF7zdo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ebLnsR94mm1cyg8h27uw3J4muZK.jpg</fanart>
 <info>Após a explosão da lua Praxis os klingons são obrigados a propor um acordo de paz, para garantir a sobrevivência de sua espécie. A tripulação da Enterprise é convocada a escoltar a missão diplomática klingoniana até o local a reunião, mas a nave klingon é atacada e o seu chanceler acaba sendo morto. E tudo indica que o ataque partiu justamente da Enterprise.</info>
@@ -3008,9 +3002,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=VdGDGsC753k$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 7: Generations[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f183fd88c095f5c07879844bcbee5bb5f233d9e2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 7: Generations - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63371df485fd079794073f60a4c3a9f8df2be1a4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 7: Generations - FHD LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/141jiU2jIa81TACU4usBsjXdsGoXRpCoW/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 7: Generations - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27138.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 7: Generations - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21316.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 7: Generations - FHD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/gf5aHVU85r1hv4Pv0USY6jHxAKs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zlAkbOsZIXRyDq3F7MaLqkHVeph.jpg</fanart>
 <info>A viagem inaugural da terceira nave Enterprise está ameaçada pelo cientista louco Soren e apenas uma pessoa pode detê-lo, mas ela está morta há 78 anos.</info>
@@ -3049,9 +3045,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=RmdBZqwzfpE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 8: Primeiro Contato[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:153909cd69487b3cfa9015674471a8517d3de885$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 8: Primeiro Contato - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d790d0818c2d3963bf833e28643ed06a81dc5e6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 8: Primeiro Contato - FHD LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14SAv6lPc2ixLOVFsgf_rlhT9uJwHXUpO/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 8: Primeiro Contato - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27140.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 8: Primeiro Contato - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21317.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 8: Primeiro Contato - FHD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/Pr5q8qF8sNDd6qcZj0kwLmqO0E.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/13zoJs9NYW3mtqncZUOucUIVs7r.jpg</fanart>
 <info>O capitão Jean-Luc e a tripulação da Enterprise embarcam em uma nova aventura, a qual é um confronto com os Borgs, criaturas meio orgânicas e meio máquinas que formam uma comunidade que possui um único objetivo: conquistar e assimilar todas as raças. </info>
@@ -3069,6 +3067,7 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLO
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XHdfctNhCOAheK6YAdIes70i9rIavfgJ/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 9: Insurreisao - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27131.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 9: Insurreisao - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21318.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 9: Insurreisao - FHD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/7m1MKc28p6U0HROVKIc5HmFe22R.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/85FMbKhmyiUIVu8Z7xA8MH3qIeG.jpg</fanart>
 <info>No planeta Ba'ku, com apenas 600 habitantes, uma estação arqueológica da Federação em conjunto com a raça So'na é atacada pelo tenente-comandante Data, enviado para observações. Mandado para investigar, Picard recebe a ordem de atacar o planeta, mas ele se rebela.</info>
@@ -3081,9 +3080,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=eX15_g1Kc48$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek 10: Nemesis [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fbcee0799600adb061918723092a91eb6615354$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 10: Nemesis  - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1110bed3386d60b8b975fb4bb1ec827796e46a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek 10: Nemesis  - FHD LEG[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p4DYieUlmu4NsbXrJJmSgVyvFZbQ73iE/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek 10: Nemesis  - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27139.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek 10: Nemesis  - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21307.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek 10: Nemesis  - FHD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/9n3r426P9CJKM8hWUEY6usa3Sae.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6HNBJMMxOqPuVZHtlYAdvxYSr7U.jpg</fanart>
 <info>O capitão Jean-Luc Picard e a tripulação da Enterprise são enviados em uma missão diplomática de paz rumo ao planeta Romulus. Lá eles precisam deter uma rebelião liderada por Shinzou que ameaça destruir a Terra, bem como enfrentar um perigoso clone do próprio capitão Picard.</info>
@@ -3122,9 +3123,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=af9OC6G7MT8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E5A38766863D75583A3B67DDBA828A568D4000D$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E5A38766863D75583A3B67DDBA828A568D4000D$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek - FHD DUAL[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cXNug44K7GUv0tDVMNAqhabJdtNGMT9_/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27251.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21308.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek - FHD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/jwKvc5JB9GrUEnNt7a6GzU6crXk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg</fanart>
 <info>A bordo da USS Enterprise, a nave mais sofisticada já construída, uma tripulação de novatos embarca em sua viagem inaugural, que é atrapalhada por Nero, um comandante cuja vingança ameaça toda a humanidade. </info>
@@ -3141,7 +3144,6 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLO
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vDPYwKfIleObj-JsmWk7xRi0AejKEddH/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek: Alem da Escuridao - HD DUAL[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27031.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek: Alem da Escuridao - HD DUAL[/B][/COLOR]</link>
-
 link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek: Alem da Escuridao - HD DUAL[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/vGALrgQXiNPRWxyasi1KUqOS0s2.jpg</thumbnail>
@@ -3156,9 +3158,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=P2gF-i-Pw1A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Star Trek: Sem Fronteiras[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40E4804AAD8A9F6CC98997D29EB03371CDE2CACB$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13CC0500862205478CD733B6C6F847A982BF7879$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - FHD DUAL[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-xcAvQhxj8cDo7L8nO--xrK60Z813795/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUB[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27250.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUB[/B][/COLOR]</link>
 <link>http://b5.vc:80/movie/ritchie/102030/21310.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Star Trek: Sem Fronteiras - HD DUB[/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/rLWGl7YJLQ0tE2LB4Y2TAWrR7fe.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sUJrnMbL2xLMjMHk4VdReNrL7BK.jpg</fanart>
 <info>Kirk, Spock e a tripulação da Enterprise encontram-se no terceiro ano da missão de exploração do espaço prevista para durar cinco anos. Eles recebem um pedido de socorro que acaba os ligando ao maléfico vilão Krall, um insurgente Anti-Frota Estelar interessado em um objeto de posse do líder da nave.</info>
@@ -3585,7 +3589,6 @@ FECHAMENTO DO SUBCHANEL FILMES E SERIES - SÉRIES
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <subchannel>
 <name>[COLOR white][B]Jornada nas Estrelas: A Serie Animada (1973-1974)[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/3PHDmFodOd2C9BIGq00DdJzoVou.jpg</thumbnail>
@@ -3720,6 +3723,7 @@ https://animezey.xyz/0:/Outros%20(Filmes%20no%20geral,%20desenhos)/Backup%202/Jo
 <genre>DESENHOS</genre>
 </subitem>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
 </subitems>
@@ -3864,14 +3868,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS -APENAS FILMES
+MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
+</subitems>
 </subchannel>
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-TESTE EXTERNAL LINK
+SEÇÃO ESPECIAL O GORDO E O MAGRO
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
@@ -4768,3 +4773,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 TESTE EXTERNAL LINK
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+ne
