@@ -52,6 +52,51 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+ COPIAR UMA NOVA  SÉRIES AQUI PARA BAIXO	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subchannel>	
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]NomedaSérie (DATA)[/B][/COLOR]</name>	
+<thumbnail><ICONEDASÉRIE></thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>
+<info>Assista aqui os episódios da série NomedaSérie.	
+[COLOR orange][B]SCOOBY DOO[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
+[COLOR orange][B]00 TEMPs  - 00 EPs[/B][/COLOR]	
+</info>	
+	
+<subitems>	
+<subitem>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>	
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
+</subitem>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<subitem>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedaSérie[/B][/COLOR]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>	
+<thumbnail>ICONEDASÉRIE</thumbnail>	
+<fanart><FUNDODASÉRIE></fanart>	
+<info>Assista ao trailer</info>	
+<genre>SCOOBY DOO</genre> 	
+</subitem>	
+	
+<subitem>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedaSérie - FHD DUAL[/B][/COLOR]</title>	
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+	
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <thumbnail>ICONEDASÉRIE</thumbnail>	
 <fanart><FUNDODASÉRIE></fanart>	
@@ -91,7 +136,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <subchannel>	
-<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2010) [/B][/COLOR]</name>	
+<name>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2010-2012) [/B][/COLOR]</name>	
 <thumbnail>https://www.themoviedb.org/t/p/original/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/9vMxBcE4KJs7JevQ9l5eHnUSBZR.jpg</fanart>
 <info>Assista aqui os episódios da série Scooby-Doo! Mistério S/A.	
@@ -121,7 +166,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </subitem>	
 	
 <subitem>	
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2010) - FHD DUAL[/B][/COLOR]</title>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2010-2012) - FHD DUAL[/B][/COLOR]</title>	
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
 	
@@ -141,9 +186,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <subitem>	
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2010) - FHD DUAL[/B][/COLOR]</title>	
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2010-2012) - FHD DUAL[/B][/COLOR]</title>	
 	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 26 EPs[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange][B] Temporada 01 - 26 EPs[/B][/COLOR]</link>	
 	
 <link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Cuidado Com o Monstro Que Vem Debaixo [/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Monstros Assustadores [/B][/COLOR]</link>
@@ -172,7 +217,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E25.mkv$$lsname=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Peao das Sombras [/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E26.mkv$$lsname=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Todos Fogem do Feio [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 26 EPs[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange][B] Temporada 02 - 26 EPs[/B][/COLOR]</link>	
 		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E01.mkv$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Noite que o Palhaso Chorou [/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E02.mkv$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]A Casa Da Bruxa Da Pesadelo [/B][/COLOR]</link>
@@ -215,5 +260,8 @@ MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
 </subchannel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+		
+
 	
 		
