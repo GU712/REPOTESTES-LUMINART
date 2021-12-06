@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal Principal] SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://b5.vc:80/Jhonleno/102030/128349
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal 1] SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://b5.vc:80/Jhonleno/102030/128601
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal 2] SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://b5.vc:80/Jhonleno/102030/128602
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal 3] SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://b5.vc:80/Jhonleno/102030/128603
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal 4] SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://b5.vc:80/Jhonleno/102030/128604
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal 5] SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://b5.vc:80/Jhonleno/102030/128605
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal 6] SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://b5.vc:80/Jhonleno/102030/128606
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal 7] SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://b5.vc:80/Jhonleno/102030/128607
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal 8] SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=http://b5.vc:80/Jhonleno/102030/128608
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]A Fazenda 13 [Sinal Principal] SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://b5.vc:80/Jhonleno/102030/128349
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png",[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]A Fazenda 13 [Sinal 1] SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://b5.vc:80/Jhonleno/102030/128601
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]A Fazenda 13 [Sinal 2] SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://b5.vc:80/Jhonleno/102030/128602
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]A Fazenda 13 [Sinal 3] SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://b5.vc:80/Jhonleno/102030/128603
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]A Fazenda 13 [Sinal 4] SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://b5.vc:80/Jhonleno/102030/128604
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]A Fazenda 13 [Sinal 5] SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://b5.vc:80/Jhonleno/102030/128605
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]A Fazenda 13 [Sinal 6] SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://b5.vc:80/Jhonleno/102030/128606
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]A Fazenda 13 [Sinal 7] SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://b5.vc:80/Jhonleno/102030/128607
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]A Fazenda 13 [Sinal 8] SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://b5.vc:80/Jhonleno/102030/128608
