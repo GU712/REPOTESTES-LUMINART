@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" ,[COLOR orange][B]LS-TVs-FILMES E SERIES [COLOR yellow] -> [COLOR white]A&E [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/113.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://distv.net/icons/AGRO%20BRASIL.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS [COLOR yellow] -> [COLOR white]AGRO BRASIL[/B][/COLOR]
@@ -257,27 +256,27 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/184.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://distv.net/icons/primeboxbrazil.png" ,[COLOR orange][B]LS-TVs-ENTRETENIMENTO [COLOR yellow] -> [COLOR white]PRIME BOX BRAZIL[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BAHIA [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECORD [COLOR yellow] -> [COLOR white]RECORD BAHIA [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BRASILIA [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA " tvg-logo="http://distv.net/icons/record.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECORD [COLOR yellow] -> [COLOR white]RECORD BRASILIA [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD GOIAS [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS " tvg-logo="http://distv.net/icons/record.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECORD [COLOR yellow] -> [COLOR white]RECORD GOIAS [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/26.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MANAUS[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://distv.net/icons/record.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECORD [COLOR yellow] -> [COLOR white]RECORD MANAUS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MG" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MG[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MG" tvg-logo="http://distv.net/icons/record.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECORD [COLOR yellow] -> [COLOR white]RECORD MG[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MINAS [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS " tvg-logo="http://distv.net/icons/record.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECORD [COLOR yellow] -> [COLOR white]RECORD MINAS [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS " tvg-logo="http://distv.net/icons/recordnews.png" ,[COLOR orange][B]LS-TVs-REPORTAGEM [COLOR yellow] -> [COLOR white]RECORD NEWS [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS TO" tvg-logo="http://distv.net/icons/recordnews.png" group-title="CANAIS LOCAIS RECORD",RECORD NEWS TO[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS TO" tvg-logo="http://distv.net/icons/recordnews.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECORD [COLOR yellow] -> [COLOR white]RECORD NEWS TO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD PARA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD PARA [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PARA " tvg-logo="http://distv.net/icons/record.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECORD [COLOR yellow] -> [COLOR white]RECORD PARA [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD RIO [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECORD [COLOR yellow] -> [COLOR white]RECORD RIO [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD SP [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP " tvg-logo="http://distv.net/icons/record.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECORD [COLOR yellow] -> [COLOR white]RECORD SP [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/33.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="http://distv.net/icons/record.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS TOCANTINS [COLOR yellow] -> [COLOR white]RECORD TV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/300.m3u8
@@ -399,6 +398,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA" tvg-logo="http://distv.net/icons/tvtribuna.png" group-title=" CANAIS LOCAIS RECIFE",TV TRIBUNA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/77.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TV TROPICAL (RECORD TV)" tvg-logo="http://distv.net/icons/TV%20TROPICAL.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS NATAL", [COLOR yellow] -> [COLOR white]TV TROPICAL (RECORD TV)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/298.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV UFPB TV" tvg-logo="http://distv.net/icons/tvufpb.png" group-title="CANAIS LOCAIS PARAIBA",TV UFPB TV[/B][/COLOR]
