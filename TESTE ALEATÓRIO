@@ -301,17 +301,17 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/70.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS [COLOR yellow] -> [COLOR white]SBT[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT RN" tvg-logo="http://distv.net/icons/sbt.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS NATAL", [COLOR yellow] -> [COLOR white]SBT RN[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SBT RN" tvg-logo="http://distv.net/icons/sbt.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS NATAL"[COLOR yellow] -> [COLOR white]SBT RN[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/296.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT TO" tvg-logo="http://distv.net/icons/sbt.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS TOCANTINS [COLOR yellow] -> [COLOR white]SBT TO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/302.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" ,[COLOR orange][B]LS-TVs-FILMES E SERIES [COLOR yellow] -> [COLOR white]SPACE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" ,[COLOR orange][B]LS-TVs-SPORTS", [COLOR yellow] -> [COLOR white]SPORTV[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" ,[COLOR orange][B]LS-TVs-SPORTS[COLOR yellow] -> [COLOR white]SPORTV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" ,[COLOR orange][B]LS-TVs-SPORTS", [COLOR yellow] -> [COLOR white]SPORTV 2[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" ,[COLOR orange][B]LS-TVs-SPORTS[COLOR yellow] -> [COLOR white]SPORTV 2[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" ,[COLOR orange][B]LS-TVs-SPORTS", [COLOR yellow] -> [COLOR white]SPORTV 3[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" ,[COLOR orange][B]LS-TVs-SPORTS[COLOR yellow] -> [COLOR white]SPORTV 3[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/190.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" ,[COLOR orange][B]LS-TVs-FILMES E SERIES [COLOR yellow] -> [COLOR white]STUDIO UNIVERSAL[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/191.m3u8
@@ -343,47 +343,47 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/203.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRAVELBOX" tvg-logo="http://distv.net/icons/travelboxbrazil.png" ,[COLOR orange][B]LS-TVs-ENTRETENIMENTO [COLOR yellow] -> [COLOR white]TRAVELBOX[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ALEPE" tvg-logo="http://distv.net/icons/TV%20Alepe.png" group-title=" CANAIS LOCAIS RECIFE",TV ALEPE[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV ALEPE" tvg-logo="http://distv.net/icons/TV%20Alepe.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECIFE [COLOR yellow] -> [COLOR white]TV ALEPE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/72.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA(GLOBO)" tvg-logo="http://distv.net/icons/globo.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS TOCANTINS [COLOR yellow] -> [COLOR white]TV ANHANGUERA(GLOBO)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN" tvg-logo="http://distv.net/icons/tvarapuan.png" group-title="CANAIS LOCAIS PARAIBA",TV ARAPUAN[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN" tvg-logo="http://distv.net/icons/tvarapuan.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS PARAIBA [COLOR yellow] -> [COLOR white]TV ARAPUAN[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/98.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="http://distv.net/icons/tvbrasil.png" ,[COLOR orange][B]LS-TVs-ENTRETENIMENTO [COLOR yellow] -> [COLOR white]TV BRASIL[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/241.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://distv.net/icons/tvbrasil.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS [COLOR yellow] -> [COLOR white]TV BRASIL 2[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO PB" tvg-logo="http://distv.net/icons/tvcabobranco.png" group-title="CANAIS LOCAIS PARAIBA",TV CABO BRANCO PB[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO PB" tvg-logo="http://distv.net/icons/tvcabobranco.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS PARAIBA [COLOR yellow] -> [COLOR white]TV CABO BRANCO PB[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://distv.net/icons/tvcamara.png" ,[COLOR orange][B]LS-TVs-ENTRETENIMENTO [COLOR yellow] -> [COLOR white]TV CAMARA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE" tvg-logo="http://distv.net/icons/tvcidade.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV CIDADE[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE" tvg-logo="http://distv.net/icons/tvcidade.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS CARIRI-CE [COLOR yellow] -> [COLOR white]TV CIDADE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CORREIO PB" tvg-logo="http://distv.net/icons/tvcorreio.png" group-title="CANAIS LOCAIS PARAIBA",TV CORREIO PB[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV CORREIO PB" tvg-logo="http://distv.net/icons/tvcorreio.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS PARAIBA [COLOR yellow] -> [COLOR white]TV CORREIO PB[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="http://distv.net/icons/tvdiario.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV DIARIO[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="http://distv.net/icons/tvdiario.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS CARIRI-CE [COLOR yellow] -> [COLOR white]TV DIARIO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/309.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA DIGITAL" tvg-logo="http://distv.net/icons/TV%20ESCOLA%20DIGITAL.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS [COLOR yellow] -> [COLOR white]TV ESCOLA DIGITAL[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/280.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="http://distv.net/icons/tvevangelizar.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS [COLOR yellow] -> [COLOR white]TV EVANGELIZAR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/91.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO NE" tvg-logo="http://distv.net/icons/globonordeste.png" group-title=" CANAIS LOCAIS RECIFE",TV GLOBO NE[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO NE" tvg-logo="http://distv.net/icons/globonordeste.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECIFE [COLOR yellow] -> [COLOR white]TV GLOBO NE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/75.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV GUARARAPES" tvg-logo="http://distv.net/icons/tv-guararapes.png" group-title=" CANAIS LOCAIS RECIFE",TV GUARARAPES[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARARAPES" tvg-logo="http://distv.net/icons/tv-guararapes.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECIFE [COLOR yellow] -> [COLOR white]TV GUARARAPES[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/73.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV HORIZONTE" tvg-logo="http://distv.net/icons/TV-HORIZONTE.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS [COLOR yellow] -> [COLOR white]TV HORIZONTE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV JANGADEIRO" tvg-logo="http://distv.net/icons/tvjangadeiro.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV JANGADEIRO[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV JANGADEIRO" tvg-logo="http://distv.net/icons/tvjangadeiro.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS CARIRI-CE [COLOR yellow] -> [COLOR white]TV JANGADEIRO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/90.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL" tvg-logo="http://distv.net/icons/tvjornal.png" group-title=" CANAIS LOCAIS RECIFE",TV JORNAL[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL" tvg-logo="http://distv.net/icons/tvjornal.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECIFE [COLOR yellow] -> [COLOR white]TV JORNAL[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/76.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV MIRAMAR PB" tvg-logo="http://distv.net/icons/tvmiramar.png" group-title="CANAIS LOCAIS PARAIBA",TV MIRAMAR PB[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV MIRAMAR PB" tvg-logo="http://distv.net/icons/tvmiramar.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS PARAIBA [COLOR yellow] -> [COLOR white]TV MIRAMAR PB[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL" tvg-logo="http://distv.net/icons/TV%20MUNDIAL.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS TOCANTINS [COLOR yellow] -> [COLOR white]TV MUNDIAL[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/304.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV NAZARE" tvg-logo="http://distv.net/icons/TV%20nazare.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS [COLOR yellow] -> [COLOR white]TV NAZARE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVA NORDESTE" tvg-logo="http://distv.net/icons/novanordeste.png" group-title=" CANAIS LOCAIS RECIFE",TV NOVA NORDESTE[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVA NORDESTE" tvg-logo="http://distv.net/icons/novanordeste.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECIFE [COLOR yellow] -> [COLOR white]TV NOVA NORDESTE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/62.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://distv.net/icons/novotempo.png" ,[COLOR orange][B]LS-TVs-ENTRETENIMENTO [COLOR yellow] -> [COLOR white]TV NOVO TEMPO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/242.m3u8
@@ -397,17 +397,17 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/283.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TAROBA" tvg-logo="http://distv.net/icons/tvtaroba.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS PARANÁ [COLOR yellow] -> [COLOR white]TV TAROBA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA" tvg-logo="http://distv.net/icons/tvtribuna.png" group-title=" CANAIS LOCAIS RECIFE",TV TRIBUNA[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA" tvg-logo="http://distv.net/icons/tvtribuna.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS RECIFE [COLOR yellow] -> [COLOR white]TV TRIBUNA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/77.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TROPICAL (RECORD TV)" tvg-logo="http://distv.net/icons/TV%20TROPICAL.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS NATAL", [COLOR yellow] -> [COLOR white]TV TROPICAL (RECORD TV)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV UFPB TV" tvg-logo="http://distv.net/icons/tvufpb.png" group-title="CANAIS LOCAIS PARAIBA",TV UFPB TV[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV UFPB TV" tvg-logo="http://distv.net/icons/tvufpb.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS PARAIBA [COLOR yellow] -> [COLOR white]TV UFPB TV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/104.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV UNIAO" tvg-logo="http://distv.net/icons/redeuniao.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS [COLOR yellow] -> [COLOR white]TV UNIAO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/92.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDE MARES CE" tvg-logo="http://distv.net/icons/globotvverdesmares.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV VERDE MARES CE[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDE MARES CE" tvg-logo="http://distv.net/icons/globotvverdesmares.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS CARIRI-CE [COLOR yellow] -> [COLOR white]TV VERDE MARES CE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://distv.net/icons/tvverdevale.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV VERDE VALE[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://distv.net/icons/tvverdevale.png" ,[COLOR orange][B]LS-TVs-CANAIS LOCAIS CARIRI-CE [COLOR yellow] -> [COLOR white]TV VERDE VALE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/293.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" ,[COLOR orange][B]LS-TVs-FILMES E SERIES [COLOR yellow] -> [COLOR white]UNIVERSAL TV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://45.224.115.214:80/live/damaris/123456/205.m3u8
