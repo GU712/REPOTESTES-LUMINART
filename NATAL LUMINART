@@ -1,10 +1,8 @@
-<channels>
-<channel>
-<name>[COLOR white][B]MENSAGEM DE NATAL LUMINART[/B][/COLOR]</name>
-<externallink>https://luminart.ls.lsnew.workers.dev/0:/ESPC/NATAL-LUMINART.mp4</externallink>
+<item>
+<title>[COLOR white][B]MENSAGEM DE NATAL LUMINART - CLIQUE AQUI[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/NATAL-LUMINART.mp4</link>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>MENSAGEN DE NATAL DO LUMINART</info>
-</channel>
-</channels>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
