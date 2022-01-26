@@ -1,26 +1,7 @@
-<item>
-<title>[COLOR white][B]TESTE P [/B][/COLOR]</title>
-<link>https://s8.pandafiles.com:183/d/6a35bz6226kwoyaplcfkiowyg5hut3seq75xgmvw6d6vi6surdqmnpgsal36m6oqqvpdhldr/video.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5JfuyhzCDxlBwmJnqLAoswshdLk.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/j5bNVfWgbbb36cUSVqSwcbIspOh.jpg</fanart>
-<info>É véspera de Natal e um garoto está acordado. Sem acreditar mais em Papai Noel, ele espera por algo que faça com que sua crença na figura natalina retorne.</info>
-<genre>NATAL</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<item>
-<title>[B][COLOR white]Eternos (2021)[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=PJza3ZaFeAU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Eternos[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f33d2dda420bf29983a639c262837da11ce31f9e$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Eternos - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JXQAYY3NPFRNX4UG5YZMLXCDN4U67DVD$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Eternos - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-Eternos.2021.FHD.LGF.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Eternos - FHD LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-Eternos.2021.FHD.DUAL.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Eternos - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/vvDk3CLqeBrYfxVJwYEn9lWOYGI.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/oaLl6puFpgisUF3bXT5h0g29d07.jpg</fanart>
-<info>os Eternos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.</info>
-<genre>SUPER-HERÓIS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-2.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/2L31gDii1TybJKveiaMhnnVaXZG_big.jpg",[COLOR orange][B]DRAMA[COLOR yellow] -> [COLOR white]Correndo Por Um Sonho[/B][/COLOR]
+http://b5.vc:80/movie/danilo10/10danilo/42538.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/a58L5z5LyADGVfAYfYmf5VaEk3y_big.jpg" ,[COLOR orange][B]AÇÃO[COLOR yellow] -> [COLOR white]Corrida Mortal[/B][/COLOR]
+http://b5.vc:80/movie/danilo10/10danilo/19982.mp4
