@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-2.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/2L31gDii1TybJKveiaMhnnVaXZG_big.jpg" ,[COLOR orange][B]DRAMA[COLOR yellow] -> [COLOR white]1[/B][/COLOR]
+http://b5.vc:80/movie/danilo10/10danilo/42538.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/a58L5z5LyADGVfAYfYmf5VaEk3y_big.jpg" ,[COLOR orange][B]AÇÃO[COLOR yellow] -> [COLOR white]C1[/B][/COLOR]
+http://b5.vc:80/movie/danilo10/10danilo/19982.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/2L31gDii1TybJKveiaMhnnVaXZG_big.jpg",[COLOR orange][B]DRAMA[COLOR yellow] -> [COLOR white]Correndo Por Um Sonho[/B][/COLOR]
 http://b5.vc:80/movie/danilo10/10danilo/42538.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/a58L5z5LyADGVfAYfYmf5VaEk3y_big.jpg" ,[COLOR orange][B]AÇÃO[COLOR yellow] -> [COLOR white]Corrida Mortal[/B][/COLOR]
