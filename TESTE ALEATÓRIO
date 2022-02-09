@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime]●●●[[[/COLOR][B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<title>[COLOR lime][B]●●●[COLOR white]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qZe6TxOfxWcye-QO6lAVXJ1ecHvdRK9Y/view?usp=sharing?usp=drivesdk</link>
 <thumbnail>THUMBNAIL DO FILME</thumbnail>
 <fanart>FANART DO FILME</fanart>
