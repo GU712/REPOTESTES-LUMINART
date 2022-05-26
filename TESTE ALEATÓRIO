@@ -1,15 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cckvJFp/SRS-SERV-LS.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]  Agatha Christie's Poirot (1989)  [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<CAPADASERIE1>" group-title="[COLOR white][B] <NOMEDASERIE> [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]cripta1[/B][/COLOR]
-https://www-oaj12760.ssl0d.com/DpOP5wXec_YxJ-F4SPye1w/1653596953/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPtNLre_bhAL9zeR7RKmKS8HeN8XeWs5i7WnLyUG55BR3YxRJ7D6JIDrJqjEh4mdTwgyk40w0hRGtuqDH7E1s15eKAY_uJEI0gzb1GRMwTI3dVK_ZCQSXOizzlqA5dPhJXxMLQ0Mp3b6cQkcGowAcxYfCct30r4IMC6TulLr0b-JEriJb0_q2YR1d4gVkJ9g3ptVdLrAztHHcuXFn6_vkWURE17AKtVyOd7g5MLbUR8mme3wQ12Me2kjTogSW6RZxtc/01.While.the.Cats.Away.Dub.mp4
-#EXTINF:-1 tvg-logo="<CAPADASERIE1>" group-title="[COLOR white][B] <NOMEDASERIE> [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]cripta1[/B][/COLOR]
-https://www-u8s35747.ssl0d.com/XoDJrsziNgOhef8Reb9gmg/1653597523/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPsvqXhHj7mJ6AtuYKqkDjgv_QD548NvldLvqgPdwGOehvBCyVe0B5ZBGe765Cj3A216lSL74RpGd9afWRSgPxfrqa58wBpKkjP9qP9C1WTchAXy3R1c77KVrZF_EwJXpzzJldZIt0yXtj61FF4IRR2cveMzKbtOWDlJ3FnrYpZ21Vb4Ap5u6GDWfmYejgHgTJaMRxNkQNKmnBmj4VqO_MmMutPSxSQ6-OntuSDVTWy5GTyGrDO6yJbbOiJZC4vK5GQ/02.Nature.Dub.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B],Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Aventura da Cozinheira de Clapham[/B][/COLOR]
+https://www-xrm65778.ssl0d.com/Gr8o6h5flQnTxLJZhH5HHw/1653621811/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPsWXQoJLQ3hNH-P3EpGkahlNizYi8ilYj7NsWvaSKTd_rqeL8486mimwMc5fLfzR3kJSs6dlPZncjtNw9JMpCkmx-4JqF1flJ08Kjr8R_oyIpBqayjixKWmiwEj_qq8pmQmLJiL56kkoTMTGYvOyjW8CXjvwypHT8HVX8771TG_yRtsaJ74BI6PRV-YgwDKENnVNPShtMyg5PCmo5Ns98G-6cDjgtl-7BoDoX_F36G6lqtO9D8PwVtI4WLymRwst_g/LS-T01E01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Morte nos Estábulos[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Aventura de Johnnie Waverly[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]24 Melros[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Apartamento do 3º Andar[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Triângulo em Rhodes[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Problema no Mar[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Roubo Inacreditável[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Rei de Paus[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Sonho[/B][/COLOR]
+LINKDOFILME
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
-#EXTINF:-1 tvg-logo="<CAPADASERIE1>" group-title="[COLOR white][B] Tales.Cripta2 [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]cripta1[/B][/COLOR]
-https://tinyurl.com/Tales-cripta-LS-T01E01.mp4
-#EXTINF:-1 tvg-logo="<CAPADASERIE1>" group-title="[COLOR white][B] Tales.Cripta2 [/B][/COLOR]",[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]cripta2[/B][/COLOR]
-https://tinyurl.com/Tales-cripta-LS-T01E02.mp4
