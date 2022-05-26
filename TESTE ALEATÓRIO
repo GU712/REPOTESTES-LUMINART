@@ -1,8 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]  Agatha Christie's Poirot (1989)  [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cckvJFp/SRS-SERV-LS.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989)  [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B],Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Aventura da Cozinheira de Clapham[/B][/COLOR]
@@ -31,17 +36,6 @@ LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Rei de Paus[/B][/COLOR]
 LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Sonho[/B][/COLOR]
-LINKDOFILME
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B] Agatha Christie's Poirot (1989) [/B][/COLOR]",[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Sonho[/B][/COLOR]
 LINKDOFILME
