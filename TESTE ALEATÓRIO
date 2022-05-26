@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f06WLSF/segunda.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1,1. herculoides 01
-https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Os.Herculoides/HD/LS-T01E01.mp4
-#EXTINF:-1,1. herculoides 02
-https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Os.Herculoides/HD/LS-T01E02.mp4
-#EXTINF:-1,1. herculoides 3
-https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Os.Herculoides/HD/LS-T01E03.mp4
+#EXTINF:-1 tvg-logo="<CAPADASERIE1>" group-title="[COLOR white][B] <NOMEDASERIE> [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]cripta1[/B][/COLOR]
+https://www-oaj12760.ssl0d.com/DpOP5wXec_YxJ-F4SPye1w/1653596953/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPtNLre_bhAL9zeR7RKmKS8HeN8XeWs5i7WnLyUG55BR3YxRJ7D6JIDrJqjEh4mdTwgyk40w0hRGtuqDH7E1s15eKAY_uJEI0gzb1GRMwTI3dVK_ZCQSXOizzlqA5dPhJXxMLQ0Mp3b6cQkcGowAcxYfCct30r4IMC6TulLr0b-JEriJb0_q2YR1d4gVkJ9g3ptVdLrAztHHcuXFn6_vkWURE17AKtVyOd7g5MLbUR8mme3wQ12Me2kjTogSW6RZxtc/01.While.the.Cats.Away.Dub.mp4
+
+#EXTINF:-1 tvg-logo="<CAPADASERIE1>" group-title="[COLOR white][B] <NOMEDASERIE> [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]cripta1[/B][/COLOR]
+https://www-u8s35747.ssl0d.com/XoDJrsziNgOhef8Reb9gmg/1653597523/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPsvqXhHj7mJ6AtuYKqkDjgv_QD548NvldLvqgPdwGOehvBCyVe0B5ZBGe765Cj3A216lSL74RpGd9afWRSgPxfrqa58wBpKkjP9qP9C1WTchAXy3R1c77KVrZF_EwJXpzzJldZIt0yXtj61FF4IRR2cveMzKbtOWDlJ3FnrYpZ21Vb4Ap5u6GDWfmYejgHgTJaMRxNkQNKmnBmj4VqO_MmMutPSxSQ6-OntuSDVTWy5GTyGrDO6yJbbOiJZC4vK5GQ/02.Nature.Dub.mp4
