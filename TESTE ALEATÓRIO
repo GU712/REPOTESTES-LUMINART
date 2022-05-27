@@ -1,36 +1,311 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cckvJFp/SRS-SERV-LS.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTM3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032215.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Erros E Omissões [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032216.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Vantagens [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032217.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Segredinhos Sujos [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032218.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Fiança [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032219.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Ossos Do Ofício [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032220.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Conheça O Adversário [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032221.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Crise De Identidade [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032222.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Invicto [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032223.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Vida De Fachada [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032224.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]A Regra Do Jogo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032225.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q6EYy2xsdOqSnbIwu0KmY1FrdrD.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Briga De Cachorro Grande [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032226.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]TEMP 02[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Aventura da Cozinheira de Clapham[/B][/COLOR]
-https://www-xrm65778.ssl0d.com/Gr8o6h5flQnTxLJZhH5HHw/1653621811/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPsWXQoJLQ3hNH-P3EpGkahlNizYi8ilYj7NsWvaSKTd_rqeL8486mimwMc5fLfzR3kJSs6dlPZncjtNw9JMpCkmx-4JqF1flJ08Kjr8R_oyIpBqayjixKWmiwEj_qq8pmQmLJiL56kkoTMTGYvOyjW8CXjvwypHT8HVX8771TG_yRtsaJ74BI6PRV-YgwDKENnVNPShtMyg5PCmo5Ns98G-6cDjgtl-7BoDoX_F36G6lqtO9D8PwVtI4WLymRwst_g/LS-T01E01.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Morte nos Estábulos[/B][/COLOR]
-https://www-1sk66130.ssl0d.com/6SFqSKi0GQLwdJWu1KjK7w/1653621896/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPsZicPZL8B1euQbgEwp2F_1PlsDDvX6rUq9B9uls2Fj2Qg3FTaYm7_kRCoxl04ohTmO_N_QdB8byHZd3fxJUN4aCcx60iwXbmQvgYJqVhgY1FKFLS_n0s1sRHoaw1bVWm799vU37SPa_t8cyYJyMcYpmt3-BxfLr6-BLhLhhBwehT2SkLEQQPjh18hhhUZjIaE_nSeOb3dqwl20KF_BoL8UrbbdizPVEv0TKjgLplFazQtqLq5VDd5LA0TxvgKODq4/LS-T01E02.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Aventura de Johnnie Waverly[/B][/COLOR]
-https://www-qen37405.ssl0d.com/IhZAf8C2R7fsJthjGx5vjQ/1653625555/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPuHrWE9pw-yA9AIxcCNseUPooBh8MqFkwxx1ek2T1mBSHv4VZEbJlj9Pv-f3NdIUhk-PVWbCIsyEMTR7BtcYGv9mQEMoR-eeI4GyGbkD84z47SO9G5NjQsffKk-Z0Kj3p4i5sF-l8tiYdJeeR8yNTLgw8JQ4Zmsak-kktfTX05zVR8ugmvZkvQqrXJacBiJOafrmY2Smlr0GwRXEKadcBg_f0p-7ZlkPD1iTDLzdY2eiH6AUi084L5e7t9cWagYX8Y/LS-T01E03.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]24 Melros[/B][/COLOR]
-https://www-p8k98486.ssl0d.com/pshSuOkiXDnFa4zhvpn0TA/1653625625/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPtGx4MJkkDC9P54rrXupVWgkNZq29bpKVuONCPJRqg75J5xu15p-_6XZX-3U0XP3ZfX-D6hElwcYvkHm3K8LlKDvl09XuAqyT4M5qirSLhb38BLuJsXBRzXvY7l-WbVApRMvWBCdnMUfR3rM1y_XhQktVwbesAYk0TofLDlHbfzMHY_D8JQOhZWx-YUIfl_W-lYqECFMEmSOu0zqooKEIOyOFh2DJx6-Z9QqgcpT9OGUuAh6_wPDyx-kM8Q0FQwZDs/LS-T01E04.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Apartamento do 3º Andar[/B][/COLOR]
-https://www-x0o14755.ssl0d.com/US88URasB3xJBYu1mz5IOw/1653622969/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPszNsNjBVsVkm7rGpnTFHYRg5LnfSY33Z5yIYoVTCVP_eoifmxXDmtgcq4KWLXlDMznYRHNK2fmr2oTyxRBlLnL_yVdhZJZjrBS9B47-67ezZhV6eJT5xLaD0CHRIXSlkTa9mwcxvVJUe1_oAQxyWAKMe6M2E_euLEYU3vEYI4LBby7jfCno89-IeOiZLU7dOHzrj3dyWFoisRHqYMqsSt-o7yyiW6w6708_t2CGrLkOqhlr5HMz_WSEPQFkT3BVIA/LS-T01E05.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Triângulo em Rhodes[/B][/COLOR]
-https://www-e125809.ssl0d.com/H6CNrMwwVVXGdaHq0VtOIA/1653625665/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPv9Gc2roPzHX_h-hhPquXacRMln8OItDhgtgtU2c4DOVhGE-BOkCogBBVLlkOVfmwJmo61YgZJglsturTGLVaEPbCXdVY9wSQ-RPhCbka_k1scSmIzXdB98X9vON7NQ2uZryS6Bm0nkTOjORj7HiKPr1z_2PzBUMRXu3FZNFTk3Q7_gkMzug05CSL94r8KYNAYYJwt1nMGEl0tToC9ScvlW4aNVN2rlrKwd_wpD-c5PwHdBoNi0wUI28s76j5hBajU/LS-T01E06.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Problema no Mar[/B][/COLOR]
-https://www-lje71967.ssl0d.com/pKDdVQ02YDiTilrZ-880Gg/1653625703/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPvNWDLXoFYW_oHrrztZ8g2WtfRjKwRxZWgr5o7vEywgQGQ-qYt5Dpzc9kuT9PWbnwJCmyOHwnQBpca6xLu1viN-E4agPsG1rY8-uNElFQJ8J8QTwEWZNU2EX1Z9icef4phRgYHeBg0OwMxZeADWy6wSVF1_LIixN8YnHvzjLiKXlskjKQbmxJVZd3egUmdsSejis1ZJd_vVgYavPwPpSXI5LDPEe2IhdP_mxAd1u0L2DBz7AdX4mybw86gtjcdtLGs/LS-T01E07.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Roubo Inacreditável[/B][/COLOR]
-https://www-qen37405.ssl0d.com/uxkYQEi5D2aPdcs2aGi-Iw/1653625740/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPtTCjOuBFu3uIxallEoBHWnmaaaoKA3vijCQ6txS_-S0OluP6lvi-BzuwopAHVG-IZQ58PWY1sWnGaNtT5B_uChnN3oF5pLYj2qUu3rt22xBDNgYNw3priST3mbaVoVOufdI65bB-ovKweH-2dPGX0e6hO26vTdb20IXxM45GjbEhkc-Nm9xDLiHoPb4R9dhvg4h7zwKooXqljRxE3lWad4L_LWUInEMh6fAzRK6XvsGAJu7jESO6zXXHWvK2JzBXQ/LS-T01E08.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Rei de Paus[/B][/COLOR]
-https://www-1sk66130.ssl0d.com/b9i4P40Qbt6Nxvcfnw829w/1653625773/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPtGvaCbmPx24WPUqm1wfgeXhZlwFx7PFxxX4BsSQbutabpwRpUgDFVp1O5fWvU_DhLuH-PpKT94WKtnC9PhjIvsMsfv2EsmjGUsiI57mcafEir250zLP-OZAEKQUGs4_cjQWEVvaUKDPSBXEECqVRTdJoAkERPmbD8lJMd7ySOo0eIngOzM4deUX8V-9EXMd2KaSv2Jj3oJR5YJPg6B33TwKw3vDfp60zKrtErQ47TVh8JGVvgzu8nWjvcl09PE9PE/LS-T01E09.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg" group-title="[COLOR white][B]Agatha Christie's Poirot (1989)[/B][/COLOR]",[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Sonho[/B][/COLOR]
-https://www-1sk66130.ssl0d.com/b9i4P40Qbt6Nxvcfnw829w/1653625773/IZJovpImN8tJjrDt5gfwuIqQOJoFNYGOWmXjXSl8zPtGvaCbmPx24WPUqm1wfgeXhZlwFx7PFxxX4BsSQbutabpwRpUgDFVp1O5fWvU_DhLuH-PpKT94WKtnC9PhjIvsMsfv2EsmjGUsiI57mcafEir250zLP-OZAEKQUGs4_cjQWEVvaUKDPSBXEECqVRTdJoAkERPmbD8lJMd7ySOo0eIngOzM4deUX8V-9EXMd2KaSv2Jj3oJR5YJPg6B33TwKw3vDfp60zKrtErQ47TVh8JGVvgzu8nWjvcl09PE9PE/LS-T01E09.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Ela Sabe [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032240.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Escolha Um Lado [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032241.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Conheça A Nova Chefe [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032242.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Descoberta [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032243.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Ponto De Ruptura [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032244.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Aposto Tudo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032245.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Golpe Baixo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032246.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Rebobinar [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032247.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Asteriscos [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032248.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Matar Ou Morrer [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032249.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Ponto Cego [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032250.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Lei Da Selva [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032251.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Zane Contra Zane [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032252.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Ele Voltou [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032253.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Normandia [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032254.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tX555XUvxQr2GOtvoO9DbWjOHi3.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Guerra [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032255.mp4
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]TEMP 03[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]O Acordo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032269.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]É Pegar Ou Largar [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032270.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Assuntos Pendentes [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032271.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Conflito Ddme Interesses [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032272.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Sombra De Dúvidas [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032273.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]A Outra Vez [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032274.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]A Gata É Minha [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032275.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Jogo Final [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032276.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Má Fé [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032277.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Fica [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032278.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Segredos Enterrados [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032279.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Águas Passadas [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032280.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Há Controvérsias [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032281.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Coração Delicado [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032282.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]Saber Quando Desistir [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032283.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qXXFn6rd6XPeM17miB1dK24zMaS.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Sem Saída [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032284.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]TEMP 04[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Um, Dois, Três E Já [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032299.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Café, Almoço E Janta [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032300.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Dois Nos Joelhos [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032301.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Alavanca [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032302.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]O Peso Justo De Uma Libra [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032303.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Literalmente Queimado [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032304.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Terminamos [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032305.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Exposição [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032306.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Já Era [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032307.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Gladiadores Em Roma [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032308.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Já Basta [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032309.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Respeito [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032310.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Encruzilhada [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032311.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Descarrilado [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032312.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Intenções [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032313.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]Só Um Rostinho Bonito [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032314.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]TEMP 05[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Recusa [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032325.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Compensação [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032326.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Sem Reposição [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032327.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Não Posso Fazer Nada [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032328.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]De Igual Para Igual [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032329.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Privilégio [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032330.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Acertando No Lugar Certo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032331.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Mea Culpa [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032332.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Sem Convite [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032333.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Fé [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032334.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E11[COLOR yellow] -> [COLOR white]Tiro Pela Culatra [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032335.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E12[COLOR yellow] -> [COLOR white]Viver Para Lutar [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032336.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E13[COLOR yellow] -> [COLOR white]Nesse Mundo De Meu Deus [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032337.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E14[COLOR yellow] -> [COLOR white]Autodefesa [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032338.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E15[COLOR yellow] -> [COLOR white]Tique-taque [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032339.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/m3zVPFZYnoXBl1UdjdJHbaj76le.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T05E16[COLOR yellow] -> [COLOR white]Aos 45 Do Segundo Tempo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032340.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]TEMP 06[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]Às Encrencas [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032341.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Contas A Pagar [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032342.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]De Volta Ao Mapa [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032343.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E04[COLOR yellow] -> [COLOR white]O Trato [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032344.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E05[COLOR yellow] -> [COLOR white]Confiança [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032345.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E06[COLOR yellow] -> [COLOR white]Espanha [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032346.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E07[COLOR yellow] -> [COLOR white]Balançar As Árvores [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032347.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E08[COLOR yellow] -> [COLOR white]Sem Tempo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032348.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E09[COLOR yellow] -> [COLOR white]No Prato Em Que Comeu [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032349.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E10[COLOR yellow] -> [COLOR white]P.S.L. [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032350.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E11[COLOR yellow] -> [COLOR white]Ela Se Foi [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032351.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E12[COLOR yellow] -> [COLOR white]O Quadro [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032352.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E13[COLOR yellow] -> [COLOR white]Dentes, Nariz, Dentes [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032353.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E14[COLOR yellow] -> [COLOR white]Admissão Dd Culpa [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032354.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E15[COLOR yellow] -> [COLOR white]Quid Pro Quo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032355.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T06E16[COLOR yellow] -> [COLOR white]Comitê [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032356.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]TEMP 07[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E01[COLOR yellow] -> [COLOR white]É Preciso Arriscar [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032373.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E02[COLOR yellow] -> [COLOR white]A Estátua [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032374.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E03[COLOR yellow] -> [COLOR white]Na Lama [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032375.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E04[COLOR yellow] -> [COLOR white]Dividir E Dominar [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032376.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E05[COLOR yellow] -> [COLOR white]Trabalho Voluntário [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032377.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E06[COLOR yellow] -> [COLOR white]De Volta Ao Ninho [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032378.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E07[COLOR yellow] -> [COLOR white]Cartas Na Mesa [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032379.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E08[COLOR yellow] -> [COLOR white]100 [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032380.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E09[COLOR yellow] -> [COLOR white]Que Vergonha [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032381.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E10[COLOR yellow] -> [COLOR white]Donna [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032382.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E11[COLOR yellow] -> [COLOR white]Verdades Difíceis [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032383.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E12[COLOR yellow] -> [COLOR white]Homem Mau [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032384.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E13[COLOR yellow] -> [COLOR white]Inevitável [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032385.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E14[COLOR yellow] -> [COLOR white]Chega De Contraceptivo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032386.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E15[COLOR yellow] -> [COLOR white]Choramingando [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032387.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j3YyzH3JO7ab8muthbLAvrDjY7.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T07E16[COLOR yellow] -> [COLOR white]Adeus [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032388.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]TEMP 08[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E01[COLOR yellow] -> [COLOR white]O Braço Direito [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032402.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E02[COLOR yellow] -> [COLOR white]Hierarquia [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032403.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E03[COLOR yellow] -> [COLOR white]Promessas E Mais Promessas [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032404.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E04[COLOR yellow] -> [COLOR white]Receita Por Metro Quadrado [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032405.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E05[COLOR yellow] -> [COLOR white]Boa Lama [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032406.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E06[COLOR yellow] -> [COLOR white]Gatos, Balé, Harvey Specter [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032407.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E07[COLOR yellow] -> [COLOR white]Vinho Azedo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032408.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E08[COLOR yellow] -> [COLOR white]Coral Gables [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032409.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E09[COLOR yellow] -> [COLOR white]Moção De Adiamento [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032410.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E10[COLOR yellow] -> [COLOR white]Sócio-Gerente [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032411.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E11[COLOR yellow] -> [COLOR white]Rocky 8 [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032412.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E12[COLOR yellow] -> [COLOR white]Caça Às Baleias [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032413.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E13[COLOR yellow] -> [COLOR white]O Bem Maior [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032414.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E14[COLOR yellow] -> [COLOR white]Iguais [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032415.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E15[COLOR yellow] -> [COLOR white]Laranja [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032416.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ynVxP6nwqLhFj7nSYO4r9zzDgx.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T08E16[COLOR yellow] -> [COLOR white]Harvey [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10056787.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]TEMP 09[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T09E01[COLOR yellow] -> [COLOR white]Tudo Mudou [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032417.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T09E02[COLOR yellow] -> [COLOR white]Mestre Especial [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032418.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T09E03[COLOR yellow] -> [COLOR white]Moinhos [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032419.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T09E04[COLOR yellow] -> [COLOR white]Cairo [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032420.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T09E05[COLOR yellow] -> [COLOR white]Se o Sapato Servir [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032421.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T09E06[COLOR yellow] -> [COLOR white]Seja o Que For Preciso [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032422.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T09E07[COLOR yellow] -> [COLOR white]Rota Cênica [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032423.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T09E08[COLOR yellow] -> [COLOR white]Dilema do Prisioneiro [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032424.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T09E09[COLOR yellow] -> [COLOR white]Trovão Afastado [/B][/COLOR]</link>
+http://asd2.me:80/series/emerson12/emerson1234/10032425.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rN9psvt6KvUg0XnrimbIqR7zzoo.jpg" group-title="[COLOR white][B]Suits: Homens de Terno (2011)[/B][/COLOR]",[COLOR orange][B]T09E10[COLOR yellow] -> [COLOR white]Um Último Golpe
+http://asd2.me:80/series/emerson12/emerson1234/10032426.mp4
 
