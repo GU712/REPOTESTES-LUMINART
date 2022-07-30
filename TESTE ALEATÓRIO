@@ -1,10 +1,5 @@
-<item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sangue Azul (2010) - T01 - HD LEG[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f3e969e0504d79d9095be8851e9d1aea6b1483b</link>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/opoxq9vioZ4Pk552YGpUdTFFq07.jpg</fanart>
-<info>Uma família composta por membros que trabalham a favor da lei, cada um à sua maneira</info>
-<genre>CRIME E DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cmptwsq/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR white][B]AnimeTV[/B][/COLOR]
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1435494181.m3u8
 
