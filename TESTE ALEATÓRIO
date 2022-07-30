@@ -24,3 +24,6 @@ https://5eaa6849d0971.streamlock.net/ctvpb/ctvpb/chunklist_w311481941.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4N56wby/icon-Fronteira-Movies.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Fronteira Movies[/B][/COLOR]
 https://alanza.iptv2022.com/FRONTEIRA_MOVIES/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FB5wyvF/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Hits TV[/B][/COLOR]
+https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w2079897566.m3u8
+
