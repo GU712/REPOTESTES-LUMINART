@@ -18,3 +18,6 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w915517756.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9h31jwS/CONECTV.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] VARIEDADES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]ConectTV[/B][/COLOR]
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jTq7dP9/iconCTV.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] NOSTALGIA [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]CTV[/B][/COLOR]
+https://5eaa6849d0971.streamlock.net/ctvpb/ctvpb/chunklist_w311481941.m3u8
+
