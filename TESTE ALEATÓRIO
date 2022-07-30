@@ -14,3 +14,7 @@ https://alanza.iptv2022.com/AWTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GMSC1dW/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] NOSTALGIA [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Bons Tempos TV[/B][/COLOR]
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w915517756.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9h31jwS/CONECTV.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] VARIEDADES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]ConectTV[/B][/COLOR]
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
