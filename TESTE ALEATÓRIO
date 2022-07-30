@@ -1,5 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cmptwsq/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR white][B]AnimeTV[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cmptwsq/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]AnimeTV [/B][/COLOR]
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1435494181.m3u8
-
