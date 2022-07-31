@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PML2VwL/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]AnimeTV2[/B][/COLOR]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cmptwsq/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]AnimeTV [/B][/COLOR]
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1435494181.m3u8
@@ -29,4 +29,7 @@ https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w2079897566.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MgKJ5D5/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Imperial TV[/B][/COLOR]
 https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w886409549.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sHzNpZd/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]ISTV[/B][/COLOR]
+https://alanza.iptv2022.com/ISTV_pt-br/tracks-v1a1/mono.m3u8
 
