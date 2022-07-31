@@ -35,3 +35,6 @@ https://alanza.iptv2022.com/ISTV_pt-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xjYgV5M/icon.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] NOSTALGIA [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Max 90 TV[/B][/COLOR]
 https://alanza.iptv2022.com/TV_MAX_90/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8vCr0t/df2f0f5af101cc9f947dadd3572eb603.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Murilo TV[/B][/COLOR]
+https://video01.kshost.com.br:4443/murilo9207/murilo9207/chunklist_w523216937.m3u8
