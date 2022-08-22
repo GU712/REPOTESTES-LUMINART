@@ -1,4 +1,13 @@
 <item>
+<title>[B][COLOR white]BLUES [/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yD2tXP77DdQndfimYIYqxBv/?page=0</jsonrpc>
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>teste iten</title>
 <link>http://api.magiaiptv.com/live/800196/128093/m1_4hIEyg1YQAp0WHvfUTweu3D_720p</link>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
