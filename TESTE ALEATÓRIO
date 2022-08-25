@@ -14,6 +14,9 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]RECORD [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]PREMIERE [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TELECINE [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
@@ -218,21 +221,21 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Polishop TV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0du/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 2[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]PREMIERE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 2[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0af/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 3[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]PREMIERE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 3[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0c3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 4[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]PREMIERE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 4[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 5[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]PREMIERE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 5[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0b0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 6[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]PREMIERE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 6[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 7[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]PREMIERE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 7[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a09h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 8[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]PREMIERE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere 8[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a08w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere Clubes[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]PREMIERE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Premiere Clubes[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Prime Box Brazil[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0aq/index.m3u8
