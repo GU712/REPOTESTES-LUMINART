@@ -2,5 +2,5 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FBmzZZH/TVs-ONLINE-SERV-LS.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEKddLl.png" ,[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Animal Planet[/B][/COLOR]
+#EXTINF:-1 tvg-id="2",Animal Planet
 http://45.175.61.242:4000/play/a047/index.m3u8
