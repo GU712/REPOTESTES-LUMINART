@@ -2,25 +2,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FBmzZZH/TVs-ONLINE-SERV-LS.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1,A&E
-http://45.175.61.242:4000/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-id="1",AMC
-http://45.175.61.242:4000/play/a07d/index.m3u8
-#EXTINF:-1,AXN
-http://45.175.61.242:4000/play/a0as/index.m3u8
-#EXTINF:-1 tvg-id="2",Animal Planet
-http://45.175.61.242:4000/play/a047/index.m3u8
-#EXTINF:-1,Arte 1
-http://45.175.61.242:4000/play/a04u/index.m3u8
-#EXTINF:-1,BIS
-http://45.175.61.242:4000/play/a09a/index.m3u8
-#EXTINF:-1,Baby TV
-http://45.175.61.242:4000/play/a08m/index.m3u8
-#EXTINF:-1,Band News
-http://45.175.61.242:4000/play/a0ae/index.m3u8
-#EXTINF:-1,Band Sports
-http://45.175.61.242:4000/play/a0a3/index.m3u8
-#EXTINF:-1,Bandeirantes
-http://45.175.61.242:4000/play/a0eg/index.m3u8
-#EXTINF:-1,Boa Vontade TV
-http://45.175.61.242:4000/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEKddLl.png" ,[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Animal Planet[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http:://45.175.61.242:4000/play/a047/index.m3u8
+
