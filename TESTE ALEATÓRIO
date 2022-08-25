@@ -2,16 +2,19 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]HBO [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]HBO [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]KIDs [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]GLOBO [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -30,17 +33,17 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]BIS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a09a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Baby TV[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]KIDs [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Baby TV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Band News[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]BANDEIRANTES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Band News[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0ae/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Band Sports[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]BANDEIRANTES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Band Sports[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0a3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Bandeirantes[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]BANDEIRANTES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Bandeirantes[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Boa Vontade TV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Boomerang[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]KIDs [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Boomerang[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0dj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]CGTN[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a098/index.m3u8
@@ -50,7 +53,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0ig/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]CNN Brasil[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a09s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]CNN Espaæol[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]CNN Espanol[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0au/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]CNN Internacional[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0ea/index.m3u8
@@ -82,7 +85,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0hb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Cartoon Network[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a09n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Cartoonito[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]KIDs [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Cartoonito[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0ih/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Cinemax[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0dz/index.m3u8
@@ -102,7 +105,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0e4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Discovery Turbo[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Disney[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]KIDs [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Disney[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0dl/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]E![/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0bn/index.m3u8
@@ -190,9 +193,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0dt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]National Geographic[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0ab/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Nick Jr[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]KIDs [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Nick Jr[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0dm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Nickelodeon[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]KIDs [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Nickelodeon[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]OFF[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a08g/index.m3u8
@@ -344,7 +347,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]TV RECORD NACIONAL[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0k8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]TV Ra tim bum[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]KIDs [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]TV Ra tim bum[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]TV Senado[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0iw/index.m3u8
@@ -382,7 +385,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]The History Channel[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0e5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Tooncast[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]KIDs [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Tooncast[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]TruTV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a08l/index.m3u8
