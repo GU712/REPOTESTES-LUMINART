@@ -14,6 +14,9 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TELECINE [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]BANDEIRANTES [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
