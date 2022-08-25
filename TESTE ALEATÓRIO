@@ -1,16 +1,6 @@
-<item>
-<title>[B][COLOR white]BLUES [/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yD2tXP77DdQndfimYIYqxBv/?page=0</jsonrpc>
-<thumbnail>ICONE</thumbnail>
-<fanart>FUNDO</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FBmzZZH/TVs-ONLINE-SERV-LS.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
 
-<item>
-<title>teste iten</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_4hIEyg1YQAp0WHvfUTweu3D_720p</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEKddLl.png" ,[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Animal Planet[/B][/COLOR]
+http://45.175.61.242:4000/play/a047/index.m3u8
