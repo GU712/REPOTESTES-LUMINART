@@ -2,20 +2,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] VARIEDADES [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] NOSTALGIA [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]HBO [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
@@ -46,48 +32,6 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PML2VwL/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]AnimeTV2[/B][/COLOR]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cmptwsq/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]AnimeTV [/B][/COLOR]
-https://stmv1.srvif.com/animetv/animetv/chunklist_w1435494181.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q60NR80/ANITV.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]AniTV[/B][/COLOR]
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist_w1073079000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XYQDKcG/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] VARIEDADES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]AWTV[/B][/COLOR]
-https://alanza.iptv2022.com/AWTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GMSC1dW/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] NOSTALGIA [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Bons Tempos TV[/B][/COLOR]
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w915517756.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9h31jwS/CONECTV.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] VARIEDADES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]ConectTV[/B][/COLOR]
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jTq7dP9/iconCTV.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] NOSTALGIA [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]CTV[/B][/COLOR]
-https://5eaa6849d0971.streamlock.net/ctvpb/ctvpb/chunklist_w311481941.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4N56wby/icon-Fronteira-Movies.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Fronteira Movies[/B][/COLOR]
-https://alanza.iptv2022.com/FRONTEIRA_MOVIES/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FB5wyvF/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Hits TV[/B][/COLOR]
-https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w2079897566.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MgKJ5D5/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Imperial TV[/B][/COLOR]
-https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w886409549.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sHzNpZd/icon.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]ISTV[/B][/COLOR]
-https://alanza.iptv2022.com/ISTV_pt-br/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xjYgV5M/icon.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] NOSTALGIA [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Max 90 TV[/B][/COLOR]
-https://alanza.iptv2022.com/TV_MAX_90/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8vCr0t/df2f0f5af101cc9f947dadd3572eb603.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ANIMES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Murilo TV[/B][/COLOR]
-https://video01.kshost.com.br:4443/murilo9207/murilo9207/chunklist_w523216937.m3u8
-
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7588/cabecalho-7588-20220420192355.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] NOSTALGIA [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Caravana Play[/B][/COLOR]
-https://stmv5.samcast.com.br/keynnidouglas9516/keynnidouglas9516/chunklist_w1302890421.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]FILMES E SÉRIES [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]A&E[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0dh/index.m3u8
@@ -465,6 +409,3 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a07q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thQHxmz/TVs-ONLINE-SERV-ALT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white]TESTE [/B][/COLOR]",[COLOR orange][B]SERVER ALT [COLOR yellow]-> [COLOR white]Woohoo[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER ALT[/B][/COLOR];url=http://45.175.61.242:4000/play/a0iu/index.m3u8
-
-
-
