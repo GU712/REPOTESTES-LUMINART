@@ -25,5 +25,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   <info>teste</info>
 </item>
 
+<item>
+<title>[COLOR white][B]NOMEDOFILME (DATA)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=sxcxBBHVzu0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Ilha da Garganta Cortada[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1ff2f84ea432707a67c95fa2e65416540dd52df$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ilha da Garganta Cortada - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:751359ea4f7478725be1cbf5a084a8b1a0628a96$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ilha da Garganta Cortada - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-A.Ilha.da%20Garganta.Cortada.1996.FHD.dub.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ilha da Garganta Cortada - FHD DUB[/B][/COLOR]</link>
+<link>imdb=tt10648342</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cVxHyXDv1WbHOVxIuyVZhGAysoR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ezPg8GtzOQVT66r7224n8pY7y1I.jpg</fanart>
+<info>Morgan é a filha de um pirata que segue os passos do pai. Quando ele morre, ela herda o navio, uma tripulação de bandidos e um terço de um mapa do tesouro. Ela parte pelo Caribe em busca das riquezas, mas o mapa está em latim.</info>
+<genre>AVENTURA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+
 
 	
