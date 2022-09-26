@@ -58,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=sxcxBBHVzu0</link>
+<link>plugin://plugin.video.youtube/play/?video_id=sxcxBBHVzu0</link>
 <thumbnail><CAPADOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
