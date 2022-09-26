@@ -1,16 +1,3 @@
-<channels>
-<channel>
-<name>[COLOR white][B]A Casa do Dragão (2022) [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1Q-IDMB-MTX/main/D-SRS-IMDB-SEL-MTX</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/l6a81INNwpmncRbQxaulLIhkxal.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
-<info>Assista a série A Casa do Dragão. 
-[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 10 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 2022[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]A Ilha da Garganta Cortada (1995)[/B][/COLOR]</title>
@@ -61,8 +48,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]THOR (DATA)[/B][/COLOR]</title>
-<link>imdb=tt10648342</link>
+<title>[COLOR white][B]TESTE LINK[/B][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/GU712/B1I-CRDR-LS-MTX/main/C19-SRS-A.C.Poirot-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/cVxHyXDv1WbHOVxIuyVZhGAysoR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ezPg8GtzOQVT66r7224n8pY7y1I.jpg</fanart>
 <info>Morgan é a filha de um pirata que segue os passos do pai. Quando ele morre, ela herda o navio, uma tripulação de bandidos e um terço de um mapa do tesouro. Ela parte pelo Caribe em busca das riquezas, mas o mapa está em latim.</info>
