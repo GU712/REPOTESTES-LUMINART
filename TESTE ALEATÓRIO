@@ -12,19 +12,11 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
-<title>[COLOR white][B]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem (2021)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=4thGwytBRF0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b33008a2f62801eafefe16135ba7749864afc224$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ps37ypxcljlxbgqyt26rhsk47zhvvywv$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem - FHD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.brplayer/?imdb=tt1745960$nome=[COLOR orange][B]BRPLAYER[COLOR yellow] -> [COLOR white]TOP GUN[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/kIzMlyaIFWWkFDVbla2O10kYe1b.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3XNLD0Z8sQhLBwnHu8bCrVcQ8Ed.jpg</fanart>
-<info>Scooby-Doo se une a Coragem, o Cão Covarde, em uma parceria inédita. Juntos, essa dupla canina tenta superar os medos e salvar o mundo de um exército de insetos.</info>
-<genre>SCOOBY DOO</genre>
+  <title>filme teste</title>
+  <link>imdb=tt10648342</link>
+  <thumbnail></thumbnail>
+  <info>teste</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
