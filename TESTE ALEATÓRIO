@@ -58,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=<LINKTRAILER></link>
+<link>plugin://plugin.video.tubemusic/?video_id=sxcxBBHVzu0</link>
 <thumbnail><CAPADOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
@@ -68,7 +68,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:751359ea4f7478725be1cbf5a084a8b1a0628a96</link>
 <thumbnail><CAPADOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
@@ -78,7 +78,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]BRPLAYER[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA)[/B][/COLOR]</title>
-<link>imdb=<LINKIMDb></link>
+<link>imdb=tt10648342</link>
 <thumbnail><CAPADOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
@@ -88,7 +88,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA)[/B][/COLOR]</title>
-<link><LINKSERVERLS></link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-A.Ilha.da%20Garganta.Cortada.1996.FHD.dub.mkv</link>
 <thumbnail><CAPADOFILME></thumbnail>
 <fanart><FUNDODOFILME></fanart>
 <info><SINOPSE></info>
