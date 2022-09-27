@@ -18,7 +18,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 06 EPs[/B][/COLOR]</link>		
 
-<link>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Os Herdeiros do Dragao[/B][/COLOR]plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode1</link>
+<link>plugin://plugin.video.brplayer/?imdb=tt11198330$nome=&season=1&episode1[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Os Herdeiros do Dragao[/B][/COLOR]</link>
 
 <link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
 <link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
