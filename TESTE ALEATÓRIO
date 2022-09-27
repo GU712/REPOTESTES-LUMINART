@@ -1,64 +1,3 @@
-
-<item>
-<title>[COLOR white][B]A Ilha da Garganta Cortada (1995)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=sxcxBBHVzu0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Ilha da Garganta Cortada[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1ff2f84ea432707a67c95fa2e65416540dd52df$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ilha da Garganta Cortada - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:751359ea4f7478725be1cbf5a084a8b1a0628a96$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ilha da Garganta Cortada - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-A.Ilha.da%20Garganta.Cortada.1996.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ilha da Garganta Cortada - FHD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.brplayer/?imdb=tt1745960$nome=[COLOR orange][B]LS-ALT[COLOR yellow] -> [COLOR white]TOP GUN[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/cVxHyXDv1WbHOVxIuyVZhGAysoR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ezPg8GtzOQVT66r7224n8pY7y1I.jpg</fanart>
-<info>Morgan é a filha de um pirata que segue os passos do pai. Quando ele morre, ela herda o navio, uma tripulação de bandidos e um terço de um mapa do tesouro. Ela parte pelo Caribe em busca das riquezas, mas o mapa está em latim.</info>
-<genre>AVENTURA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
-<item>
-  <title>filme teste</title>
-  <link>imdb=tt0265086</link>
-  <thumbnail></thumbnail>
-  <info>teste</info>
-</item>
-
-<item>
-  <title>serie teste LOTE</title>
-  <link>imdb=tt12708542|season=1|episode=1</link>
-  <thumbnail></thumbnail>
-  <info>teste</info>
-</item>
-
-<item>
-  <title>serie teste 1DRAGÃO</title>
-  <link>imdb=tt11198330|season=1|episode=1</link>
-  <thumbnail></thumbnail>
-  <info>teste</info>
-</item>
-
-<item>
-<title>[COLOR white][B]NOMEDOFILME4 (DATA)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=sxcxBBHVzu0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Ilha da Garganta Cortada[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1ff2f84ea432707a67c95fa2e65416540dd52df$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ilha da Garganta Cortada - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:751359ea4f7478725be1cbf5a084a8b1a0628a96$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ilha da Garganta Cortada - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-A.Ilha.da%20Garganta.Cortada.1996.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ilha da Garganta Cortada - FHD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.brplayer/?imdb=tt10648342$nome=[COLOR orange][B]BRPLAYER[COLOR yellow] -> [COLOR white]THOR 2[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cVxHyXDv1WbHOVxIuyVZhGAysoR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ezPg8GtzOQVT66r7224n8pY7y1I.jpg</fanart>
-<info>Morgan é a filha de um pirata que segue os passos do pai. Quando ele morre, ela herda o navio, uma tripulação de bandidos e um terço de um mapa do tesouro. Ela parte pelo Caribe em busca das riquezas, mas o mapa está em latim.</info>
-<genre>AVENTURA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]TESTE LINK[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/GU712/B1I-CRDR-LS-MTX/main/C19-SRS-A.C.Poirot-MTX</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cVxHyXDv1WbHOVxIuyVZhGAysoR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ezPg8GtzOQVT66r7224n8pY7y1I.jpg</fanart>
-<info>Morgan é a filha de um pirata que segue os passos do pai. Quando ele morre, ela herda o navio, uma tripulação de bandidos e um terço de um mapa do tesouro. Ela parte pelo Caribe em busca das riquezas, mas o mapa está em latim.</info>
-<genre>AVENTURA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
 <link>NOLINK</link>	
@@ -70,43 +9,151 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=sxcxBBHVzu0</link>
-<thumbnail><CAPADOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSE></info>
-<genre><GENERO></genre>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Casa do Dragão[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=ZuSSAGGpvlI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/96NUnE3LTKIjod4g3cYQiZTzbl0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>FICÇÃO E FANTASIA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+TORRENTS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Casa do Dragão (DATA) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
+<info>Não foram os sonhos que os tornaram reis. Foram os dragões.</info>
+<genre>FICÇÃO E FANTASIA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:751359ea4f7478725be1cbf5a084a8b1a0628a96</link>
-<thumbnail><CAPADOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSE></info>
-<genre><GENERO></genre>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Casa do Dragão (2022) - HD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 05 EPs[/B][/COLOR]</link>			
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e09c55cd337f60379bc790a314d364a56746e1c1$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Os Herdeiros do Dragao [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9cabec35c788d9c3e57b2f02947d7d88b1b9164$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Principe Canalha [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:620ee37db237691cbb1e43d8cbe09169d2b8e040$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Segundo de Seu Nome [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01abb206daf0b1717fc4b5c7190c7448c2838dfb$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Rei do Mar Estreito [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a0c087aadb5f090cac3b1701b6bad44d321f5d7$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/mmBloRNmFQIiIk4NIs8otZiZoDt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
+<info>Não foram os sonhos que os tornaram reis. Foram os dragões.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BRPLAYER
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]BR PLAYER[COLOR yellow] -> [COLOR white]A Casa do Dragão (2022) - T01 - HD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 06 EPs[/B][/COLOR]</link>		
+
+<link>plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode1$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Os Herdeiros do Dragao [/B][/COLOR]</link>
+<link>plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode2$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Principe Canalha [/B][/COLOR]</link>
+<link>plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode3$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Segundo de Seu Nome [/B][/COLOR]</link>
+<link>plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Rei do Mar Estreito [/B][/COLOR]</link>
+<link>plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode5$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Iluminamos o Caminho [/B][/COLOR]</link>
+<link>plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode6$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Princesa e a Rainha [/B][/COLOR]</link>
+link>plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode7$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Marca de deriva [/B][/COLOR]</link>
+link>plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode8$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+link>plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode9$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+link>plugin://plugin.video.brplayer/?imdb=tt11198330&season=1&episode10$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/mmBloRNmFQIiIk4NIs8otZiZoDt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
+<info>Não foram os sonhos que os tornaram reis. Foram os dragões.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SERVER LS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Casa do Dragão (2022) - T01 - HD DUAL+LEG[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 05 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Casa.do.Dragao/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Os Herdeiros do Dragao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Casa.do.Dragao/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Principe Canalha [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Casa.do.Dragao/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Segundo de Seu Nome [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Casa.do.Dragao/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Rei do Mar Estreito [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Casa.do.Dragao/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Iluminamos o Caminho [/B][/COLOR]</link>
+link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Casa.do.Dragao/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Casa.do.Dragao/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Casa.do.Dragao/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Casa.do.Dragao/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/mmBloRNmFQIiIk4NIs8otZiZoDt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
+<info>Não foram os sonhos que os tornaram reis. Foram os dragões.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Casa do Dragão (DATA) - T02 - FHD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
+<info>Não foram os sonhos que os tornaram reis. Foram os dragões.</info>
+<genre>FICÇÃO E FANTASIA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]BRPLAYER[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA)[/B][/COLOR]</title>
-<link>imdb=tt10648342</link>
-<thumbnail><CAPADOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSE></info>
-<genre><GENERO></genre>
+<title>[COLOR black].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-A.Ilha.da%20Garganta.Cortada.1996.FHD.dub.mkv</link>
-<thumbnail><CAPADOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSE></info>
-<genre><GENERO></genre>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU  ?
+ CONTATE O SUPORTE , QUE RESOLVEMOS. [/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-	
