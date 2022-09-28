@@ -11,22 +11,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <item>
-  <title>serie teste A</title>
-  <link>imdb=/tt0185906|season=1|episode=1</link>
+  <title>serie teste B</title>
+  <link>imdb=/tt14001894|season=1|episode=1</link>
   <thumbnail></thumbnail>
   <info>teste</info>
 </item>
 
 <item>
   <title>serie teste A</title>
-  <link>imdb=/tt0185906|season=1|episode=3</link>
+  <link>imdb=/tt14001894|season=1|episode=3</link>
   <thumbnail></thumbnail>
   <info>teste</info>
 </item>
 
 <item>
   <title>serie teste A</title>
-  <link>imdb=/tt0185906|season=1|episode=3</link>
+  <link>imdb=/tt14001894|season=1|episode=3</link>
   <thumbnail></thumbnail>
   <info>teste</info>
 </item>
