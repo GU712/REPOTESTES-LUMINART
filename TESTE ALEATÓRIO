@@ -139,7 +139,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]E Vencer ou Morrer[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Ponto Final[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Baelor[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/TESTE%20LEG.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]TESTE[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Fogo e Sangue[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/wNOdNgqoySuWbQk3F0QZjPKp8X7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aGehSaCUVfWFSu953kuo6BsyZVw.jpg</fanart>
@@ -153,9 +153,8 @@ item>
 
 <link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Norte Se Lembra[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]As Terras da Noite[/B][/COLOR]</link>
 
 <link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
 <link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
@@ -304,5 +303,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
