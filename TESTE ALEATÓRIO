@@ -80,12 +80,6 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] PERNANBUCO [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] NOME [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] NOME [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -487,11 +481,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/436
 #EXTINF:-1 tvg-id="GLRPCHD" tvg-name="RPC Curitiba (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] GLOBO [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]RPC Curitiba (Globo)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/434
-#EXTINF:-1 tvg-id="GLRPCHD" tvg-name="RPC Curitiba (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Parana",RPC Curitiba (Globo)[/B][/COLOR]
+#EXTINF:-1 tvg-id="GLRPCHD" tvg-name="RPC Curitiba (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] PARANÁ [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]RPC Curitiba (Globo)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/434
 #EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC Maringá (Globo)" tvg-logo="https://distv.net/icones/rpcglobo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] GLOBO [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]RPC Maringá (Globo)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/372
-#EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC Maringá (Globo)" tvg-logo="https://distv.net/icones/rpcglobo.png" group-title="Canais | Parana",RPC Maringá (Globo)[/B][/COLOR]
+#EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC Maringá (Globo)" tvg-logo="https://distv.net/icones/rpcglobo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] PARANÁ [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]RPC Maringá (Globo)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/372
 #EXTINF:-1 tvg-id="ZYB305" tvg-name="TV Asa Branca (Globo)" tvg-logo="https://distv.net/icones/tvasabranca.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] GLOBO [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]TV Asa Branca (Globo)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/423
@@ -595,7 +589,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/463
 #EXTINF:-1 tvg-id="ZYB405" tvg-name="RIC TV Maringá (Record TV)" tvg-logo="https://distv.net/icones/rictv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] RECORD [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]RIC TV Maringá (Record TV)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/370
-#EXTINF:-1 tvg-id="ZYB405" tvg-name="RIC TV Maringá (Record TV)" tvg-logo="https://distv.net/icones/rictv.png" group-title="Canais | Parana",RIC TV Maringá (Record TV)[/B][/COLOR]
+#EXTINF:-1 tvg-id="ZYB405" tvg-name="RIC TV Maringá (Record TV)" tvg-logo="https://distv.net/icones/rictv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] PARANÁ [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]RIC TV Maringá (Record TV)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/370
 #EXTINF:-1 tvg-id="ZYA427" tvg-name="TV Cidade (Record TV)" tvg-logo="https://distv.net/icones/record.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] RECORD [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]TV Cidade (Record TV)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/351
@@ -629,7 +623,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/322
 #EXTINF:-1 tvg-id="ZYB397" tvg-name="TV Tarobá Cascavel (Band)" tvg-logo="https://distv.net/icones/tvtaroba.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] BAND [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]TV Tarobá Cascavel (Band)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/373
-#EXTINF:-1 tvg-id="ZYB397" tvg-name="TV Tarobá Cascavel (Band)" tvg-logo="https://distv.net/icones/tvtaroba.png" group-title="Canais | Parana",TV Tarobá Cascavel (Band)[/B][/COLOR]
+#EXTINF:-1 tvg-id="ZYB397" tvg-name="TV Tarobá Cascavel (Band)" tvg-logo="https://distv.net/icones/tvtaroba.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] PARANÁ [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]TV Tarobá Cascavel (Band)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/373
 #EXTINF:-1 tvg-id="" tvg-name="TV Café com Leitte" tvg-logo="https://distv.net/icones/tvcafecomleite.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] CEARÁ [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]TV Café com Leitte[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/353
@@ -639,7 +633,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/352
 #EXTINF:-1 tvg-id="TVVALE" tvg-name="TV Verde Vale" tvg-logo="https://distv.net/icones/tvverdevale.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] CEARÁ [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]TV Verde Vale[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/356
-#EXTINF:-1 tvg-id="" tvg-name="TV Caiuá (RedeTV! Mais)" tvg-logo="https://distv.net/icones/tvcaiua.png" group-title="Canais | Parana",TV Caiuá (RedeTV! Mais)[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV Caiuá (RedeTV! Mais)" tvg-logo="https://distv.net/icones/tvcaiua.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] PARANÁ [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]TV Caiuá (RedeTV! Mais)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/375
 #EXTINF:-1 tvg-id="globonordeste.br" tvg-name="TV Globo Nordeste (Globo)" tvg-logo="https://distv.net/icones/globonordeste.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] GLOBO [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]TV Globo Nordeste (Globo)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/272
@@ -657,3 +651,4 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/318
 #EXTINF:-1 tvg-id="" tvg-name="TV Miramar (TV Cultura)" tvg-logo="https://distv.net/icones/tvmiramar.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] PARAIBA [/B][/COLOR]",[COLOR orange][B]SERVER X [COLOR yellow]-> [COLOR white]TV Miramar (TV Cultura)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR]&url=http://a5telecom.tvpn.eu:80/7098/7098/323
+
