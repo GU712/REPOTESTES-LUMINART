@@ -32,7 +32,7 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] TELECINE [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ESPORTES  [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] ESPORTES [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white] PREMIERE [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
