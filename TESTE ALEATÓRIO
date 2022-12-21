@@ -1,12 +1,24 @@
-<item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T01/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-<item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Pantera Cor-de-Rosa[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/Abertura.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
-<item>
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>	
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]A Pantera Cor-de-Rosa[/COLOR][/B]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=4KVhfEKllx4</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg</thumbnail>	
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>DESENHOS</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
 <title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]A Pantera de Pijama[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T01/LS-T01E02.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
@@ -498,3 +510,39 @@
 <title>[COLOR orange][B]LS-T04E32[COLOR yellow] -> [COLOR white]Supermercado Cor-de-rosa[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T04/LS-T04E32.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg</thumbnail><fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>
+<title>[COLOR black].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU  ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>
+<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ? [/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS. [/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
