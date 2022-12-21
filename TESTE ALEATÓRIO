@@ -20,6 +20,11 @@ LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 01[/B][/COLOR]",[COLOR orange][B]TEMP 01 <-> 33 EPs - FHD DUAL[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 01[/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Pantera Pinta o Sete[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T01/LS-T01E01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 01[/B][/COLOR]",[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Pantera de Pijama[/B][/COLOR]
@@ -86,6 +91,12 @@ https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T01/LS-T01E31
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T01/LS-T01E32.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 01[/B][/COLOR]",[COLOR orange][B]T01E33[COLOR yellow] -> [COLOR white]Parabens E Cor-de-rosa[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T01/LS-T01E33.mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 02[/B][/COLOR]",[COLOR orange][B]TEMP 02 <-> 33 EPs - FHD DUAL[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 02[/B][/COLOR]",[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Pantera Pre-fabricada[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T02/LS-T02E01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 02[/B][/COLOR]",[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]A Mao e Mais Rapida Que o Olho[/B][/COLOR]
@@ -152,6 +163,12 @@ https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T02/LS-T02E31
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T02/LS-T02E32.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 02[/B][/COLOR]",[COLOR orange][B]T02E33[COLOR yellow] -> [COLOR white]Travessura Cor-de-rosa[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T02/LS-T02E33.mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 03[/B][/COLOR]",[COLOR orange][B]TEMP 03 <-> 26 EPs - FHD DUAL[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 03[/B][/COLOR]",[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Pantera com Pulga[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T03/LS-T03E01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 03[/B][/COLOR]",[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]O Furo da Pantera[/B][/COLOR]
@@ -204,6 +221,12 @@ https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T03/LS-T03E24
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T03/LS-T03E25.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 03[/B][/COLOR]",[COLOR orange][B]T03E26[COLOR yellow] -> [COLOR white]Terapia cor-de-rosa[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T03/LS-T03E26.mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 04[/B][/COLOR]",[COLOR orange][B]TEMP 04 <-> 32 EPs - FHD DUAL[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 04[/B][/COLOR]",[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Fotos Cor-de-rosa[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T04/LS-T04E01.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 04[/B][/COLOR]",[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Fliperama Cor-de-rosa[/B][/COLOR]
@@ -269,7 +292,6 @@ https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T04/LS-T04E31
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ulQ6nGkApH7gkoWIo1sGcCGPkHk.jpg" group-title="[COLOR orange][B]SERVER LS[COLOR yellow] ->[COLOR white]TEMP 04[/B][/COLOR]",[COLOR orange][B]T04E32[COLOR yellow] -> [COLOR white]Supermercado Cor-de-rosa[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Pantera.Cor.de.Rosa/T04/LS-T04E32.mkv
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
