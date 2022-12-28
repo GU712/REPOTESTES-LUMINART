@@ -1,189 +1,52 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B]SERVER 2[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<subchannel>
-<name>[COLOR white][B]TEMP 01 (1969) 17 EPs - SD DUAL[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart>
-<info>Assista aqui a série Nomedaserie
-</info>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
 
-<subchannel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitems>
-<subitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]Dick Vigarista e Muttley: Máquinas Voadoras[/COLOR][/B]</title>	
-<link>plugin://plugin.video.tubemusic/?video_id=8zTuWPjYDL8</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/kq4RiiymUGPLkEQklmO7vvZ8Pi4.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart>
-<info>As aventuras de Dick Vigarista e sua Esquadrilha Abutre, caçando freneticamente o pombo-correio Doodle.</info>
-<genre>DESENHOS</genre>
-</subitem>
-
-<subitem>
-<title>[COLOR orange][B]TEMP 01 (1969) 17 EPs - SD DUAL[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Tudo Por Umas Férias - Muttley o Amotinado - O Aniversário de Muttley[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Sigam aquela Pena - Muttley E o Pé de Feijão - Operação Bigorna[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Comandante Muttley - O Maravilhoso MuttDini - Precisa-se de Novos Aviões[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]O Amor é Lindo - O Canastrão - Todos à Bordo[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Pequem Aquele Pombo - O Grande Equilibrista - Zilly, o Corajoso[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]A Patrulha Cuco - Muttley O Mascarado - Pilotos de Peste[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]O Desfiladeiro da Morte - Operação Dragão - O Dublê[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Esquadrilha Miope - Vai Gasolina Ai ? - Muttley Boone[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Quem é Quem - Operação Cérebro de Passarinho - Homem ao Mar[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Astros Desastrados - Adeus Dick - Aqualoucos[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Olha o Passarinho - Férias Furadas - Leonardo De Muttley[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Pegar Que Pombo ? - Teto Zero Zero - Liguem os Motores[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Mistério das Medalhasn - Vá Para o Sul Pombo - Almirante Maca-Cão[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Operação Desespero - Entrando Numa Fria - Professor Muttley[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Vidente que Mente - Camuflagem Camuflada - Muttley o Vira-Lata da Selva[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Uma Ilha Quase Deserta - Operação Moinho - O Vira-Nauta[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Falha Infalível - Feliz Aniversário - Super Muttley[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/SD/LS-T01E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E01[COLOR yellow] -> [COLOR white]A Noite Sem Amanhã<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127469.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E02[COLOR yellow] -> [COLOR white]O Salão Dos Ossos<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127470.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E03[COLOR yellow] -> [COLOR white]O Olho do Observador<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127471.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E04[COLOR yellow] -> [COLOR white]As Crianças Perdidas<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127472.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E05[COLOR yellow] -> [COLOR white]O Vale Dos Unicórnio<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127473.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E06[COLOR yellow] -> [COLOR white]A Procura Do Esqueleto Guerreiro<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127474.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E07[COLOR yellow] -> [COLOR white]Em Busca Do Mestre Dos Magos<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127475.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E08[COLOR yellow] -> [COLOR white]A Bela e a Fera Do Pântano<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127476.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E09[COLOR yellow] -> [COLOR white]Servo Do Mal<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127477.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E10[COLOR yellow] -> [COLOR white]Prisão Sem Muros<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127478.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E11[COLOR yellow] -> [COLOR white]O Jardim de Zinn<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127479.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E12[COLOR yellow] -> [COLOR white]A Caixa<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127480.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]S2-T01E13[COLOR yellow] -> [COLOR white]As Mágicas Desastrosas De Presto<POT[/B]>
+http://acsc.cc:80/series/1Lucilim/1Luci2532/127481.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<subchannel>
-<name>[COLOR white][B]TEMP 01 (1969) 11 EPs - FHD DUAL[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart>
-<info>Assista aqui a série Nomedaserie
-</info>
-
-<subsubitems>
-<subsubitem>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</subsubitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Tudo Por Umas Férias - Muttley o Amotinado - O Aniversário de Muttley[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Sigam aquela Pena - Muttley E o Pé de Feijão - Operação Bigorna[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Comandante Muttley - O Maravilhoso MuttDini - Precisa-se de Novos Aviões[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]O Amor é Lindo - O Canastrão - Todos à Bordo[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Pequem Aquele Pombo - O Grande Equilibrista - Zilly, o Corajoso[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]A Patrulha Cuco - Muttley O Mascarado - Pilotos de Peste[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]O Desfiladeiro da Morte - Operação Dragão - O Dublê[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Esquadrilha Miope - Vai Gasolina Ai ? - Muttley Boone[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Quem é Quem - Operação Cérebro de Passarinho - Homem ao Mar[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Astros Desastrados - Adeus Dick - Aqualoucos[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
-<subitem><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Olha o Passarinho - Férias Furadas - Leonardo De Muttley[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Maquinas.Voadoras/FHD/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/oudPMvOFoOBmMvvCrwRhIEw0mJu.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart></subitem>
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" Caverna do Dragão (1983),[COLOR black]O VÍDEO NÃO ABRIU ?[/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]QUER ASSISTIR OUTRA TEMPORADA ?[/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="[COLOR white][B]Caverna do Dragão (1983)[/B][/COLOR]",[COLOR orange]CONTATE O SUPORTE , QUE RESOLVEMOS.[/COLOR]
+LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE SEÇÕES  - FILMES  SÉRIES E COLEÇÕES
-</subsubsubitems>
-</subchannel>
-</channel>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
