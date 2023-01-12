@@ -1,6 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B]SERIES NO SERVER 1[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]TEMPORADA 1[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T0101 - Piloto[/B][/COLOR]
@@ -35,6 +43,10 @@ http://conexaoonline.top:80/series/1123645274/6006605/136507.mp4
 http://conexaoonline.top:80/series/1123645274/6006605/136508.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T0116 - Hora Prevista de Partida[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/136509.mp4
+
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]TEMPORADA 2[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T02E01 - Apertem os Cintos[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/206755.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T02E02 - Na Pista[/B][/COLOR]
@@ -61,6 +73,10 @@ http://conexaoonline.top:80/series/1123645274/6006605/206765.mp4
 http://conexaoonline.top:80/series/1123645274/6006605/206766.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T02E13 - Condições de Formação de Gelo[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/206767.mp4
+
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]TEMPORADA 3[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T03E01 - Tailfin[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/184751.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T03E02 - Cabeça Morta[/B][/COLOR]
@@ -87,6 +103,10 @@ http://conexaoonline.top:80/series/1123645274/6006605/184761.mp4
 http://conexaoonline.top:80/series/1123645274/6006605/184762.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T03E13 - Socorro (Parte 2)[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/184763.mp4
+
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]TEMPORADA 4[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T04E01 - Episódio 1[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/282951.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T04E02 - Episódio 2[/B][/COLOR]
@@ -108,7 +128,12 @@ http://conexaoonline.top:80/series/1123645274/6006605/282959.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Manifest T04E10 - Episódio 10[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/282960.mp4
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]TEMPORADA 1[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T01E01 - Piloto[/B][/COLOR]
@@ -137,6 +162,10 @@ http://conexaoonline.top:80/series/1123645274/6006605/147428.mp4
 http://conexaoonline.top:80/series/1123645274/6006605/147429.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T01E13 - Me leve de volta ao Inferno[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/147430.mp4
+
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]TEMPORADA 2[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T02E01 - Direto do Inferno[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/147431.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T02E02 - Mentira cabeluda[/B][/COLOR]
@@ -173,6 +202,10 @@ http://conexaoonline.top:80/series/1123645274/6006605/147446.mp4
 http://conexaoonline.top:80/series/1123645274/6006605/147447.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T02E18 - O bom o mau e o torrado[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/147448.mp4
+
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]TEMPORADA 3[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T03E01 - Eles voltaram né?[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/147449.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T03E02 - Aquele que tem a cenourinha[/B][/COLOR]
@@ -226,6 +259,9 @@ http://conexaoonline.top:80/series/1123645274/6006605/147473.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T03E26 - Era uma vez[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/147474.mp4
 
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]TEMPORADA 4[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T04E01 - Está tudo certo[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/147475.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T04E02 - Alguém andou lendo o Inferno de Dante[/B][/COLOR]
@@ -246,6 +282,9 @@ http://conexaoonline.top:80/series/1123645274/6006605/147482.mp4
 http://conexaoonline.top:80/series/1123645274/6006605/147483.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T04E10 - Quem é o novo rei do inferno?[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/147484.mp4
+
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]TEMPORADA 5[/B][/COLOR]
+LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T05E01 - Episódio 1[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/147485.mp4
@@ -280,6 +319,9 @@ http://conexaoonline.top:80/series/1123645274/6006605/170646.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T05E16 - Episódio 16[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/170647.mp4
 
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]TEMPORADA 6[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T06E01 - Episódio 1[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/205444.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T06E02 - Episódio 2[/B][/COLOR]
@@ -300,3 +342,18 @@ http://conexaoonline.top:80/series/1123645274/6006605/205451.mp4
 http://conexaoonline.top:80/series/1123645274/6006605/205452.mp4
 #EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Lucifer[/B][/COLOR]",[COLOR orange][B]S1[COLOR yellow]-> [COLOR white]Lucifer T06E10 - Episódio 10[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/205453.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]<NOMEDASERIE><DATA>[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]<NOMEDASERIE><DATA>[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]<NOMEDASERIE><DATA>[/B][/COLOR]",[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]<NOMEDASERIE><DATA>[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
