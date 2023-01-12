@@ -1,106 +1,106 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E01 - Piloto
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E01 - Piloto[/B][/COLOR]
 http://conexaoonline.top:80/series/1123645274/6006605/136494.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E02 - Reintegração
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E02 - Reintegração
 http://conexaoonline.top:80/series/1123645274/6006605/136495.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E03 - Turbulência
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E03 - Turbulência
 http://conexaoonline.top:80/series/1123645274/6006605/136496.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E04 - Bagagem não Reclamada
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E04 - Bagagem não Reclamada
 http://conexaoonline.top:80/series/1123645274/6006605/136497.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E05 - Vôo de Conexão
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E05 - Vôo de Conexão
 http://conexaoonline.top:80/series/1123645274/6006605/136498.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E06 - Fora do Radar
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E06 - Fora do Radar
 http://conexaoonline.top:80/series/1123645274/6006605/136499.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E07 - S.N.A.F.U.
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E07 - S.N.A.F.U.
 http://conexaoonline.top:80/series/1123645274/6006605/136500.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E08 - Beco Sem Saída
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E08 - Beco Sem Saída
 http://conexaoonline.top:80/series/1123645274/6006605/136501.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E09 - Cálculo Morto
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E09 - Cálculo Morto
 http://conexaoonline.top:80/series/1123645274/6006605/136502.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E10 - Vento Cruzado
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E10 - Vento Cruzado
 http://conexaoonline.top:80/series/1123645274/6006605/136503.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E11 - Rastros
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E11 - Rastros
 http://conexaoonline.top:80/series/1123645274/6006605/136504.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E12 - Ponto de Fuga
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E12 - Ponto de Fuga
 http://conexaoonline.top:80/series/1123645274/6006605/136505.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E13 - Liberado para Abordagem
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E13 - Liberado para Abordagem
 http://conexaoonline.top:80/series/1123645274/6006605/136506.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E14 - Atualizar
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E14 - Atualizar
 http://conexaoonline.top:80/series/1123645274/6006605/136507.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E15 - Aterrissagem Forçada
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E15 - Aterrissagem Forçada
 http://conexaoonline.top:80/series/1123645274/6006605/136508.mp4
-#EXTINF:-1, group-title="Manifest", S01 Manifest - S01E16 - Hora Prevista de Partida
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Manifest - S01E16 - Hora Prevista de Partida
 http://conexaoonline.top:80/series/1123645274/6006605/136509.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E01 - Apertem os Cintos
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E01 - Apertem os Cintos
 http://conexaoonline.top:80/series/1123645274/6006605/206755.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E02 - Na Pista
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E02 - Na Pista
 http://conexaoonline.top:80/series/1123645274/6006605/206756.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E03 - Falso Horizonte
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E03 - Falso Horizonte
 http://conexaoonline.top:80/series/1123645274/6006605/206757.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E04 - Caixa-Preta
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E04 - Caixa-Preta
 http://conexaoonline.top:80/series/1123645274/6006605/206758.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E05 - Voo Coordenado
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E05 - Voo Coordenado
 http://conexaoonline.top:80/series/1123645274/6006605/206759.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E06 - Viagem de Volta
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E06 - Viagem de Volta
 http://conexaoonline.top:80/series/1123645274/6006605/206760.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E07 - Saída de Emergência
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E07 - Saída de Emergência
 http://conexaoonline.top:80/series/1123645274/6006605/206761.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E08 - Siga em Frente
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E08 - Siga em Frente
 http://conexaoonline.top:80/series/1123645274/6006605/206762.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E09 - Garrafas de Avião
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E09 - Garrafas de Avião
 http://conexaoonline.top:80/series/1123645274/6006605/206763.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E10 - Desvio de Curso
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E10 - Desvio de Curso
 http://conexaoonline.top:80/series/1123645274/6006605/206764.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E11 - Menores Desacompanhados
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E11 - Menores Desacompanhados
 http://conexaoonline.top:80/series/1123645274/6006605/206765.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E12 - Indicativo de Chamada
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E12 - Indicativo de Chamada
 http://conexaoonline.top:80/series/1123645274/6006605/206766.mp4
-#EXTINF:-1, group-title="Manifest", S02 Manifest - S02E13 - Condições de Formação de Gelo
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S02 Manifest - S02E13 - Condições de Formação de Gelo
 http://conexaoonline.top:80/series/1123645274/6006605/206767.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E01 - Tailfin
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E01 - Tailfin
 http://conexaoonline.top:80/series/1123645274/6006605/184751.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E02 - Cabeça Morta
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E02 - Cabeça Morta
 http://conexaoonline.top:80/series/1123645274/6006605/184752.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E03 - Braço direito
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E03 - Braço direito
 http://conexaoonline.top:80/series/1123645274/6006605/184753.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E04 - Parafuso
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E04 - Parafuso
 http://conexaoonline.top:80/series/1123645274/6006605/184754.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E05 - Aterragem na Água
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E05 - Aterragem na Água
 http://conexaoonline.top:80/series/1123645274/6006605/184755.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E06 - Espiral do Cemitério
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E06 - Espiral do Cemitério
 http://conexaoonline.top:80/series/1123645274/6006605/184756.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E07 - Precioso Cargo
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E07 - Precioso Cargo
 http://conexaoonline.top:80/series/1123645274/6006605/184757.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E08 - Destino desconhecido
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E08 - Destino desconhecido
 http://conexaoonline.top:80/series/1123645274/6006605/184758.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E09 - Espantalho
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E09 - Espantalho
 http://conexaoonline.top:80/series/1123645274/6006605/184759.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E10 - Calibração da bússola
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E10 - Calibração da bússola
 http://conexaoonline.top:80/series/1123645274/6006605/184760.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E11 - Sem taxas
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E11 - Sem taxas
 http://conexaoonline.top:80/series/1123645274/6006605/184761.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E12 - Socorro (Parte 1)
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E12 - Socorro (Parte 1)
 http://conexaoonline.top:80/series/1123645274/6006605/184762.mp4
-#EXTINF:-1, group-title="Manifest", S03 Manifest - S03E13 - Socorro (Parte 2)
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S03 Manifest - S03E13 - Socorro (Parte 2)
 http://conexaoonline.top:80/series/1123645274/6006605/184763.mp4
-#EXTINF:-1, group-title="Manifest", S04 Manifest - S04E01 - Episódio 1
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S04 Manifest - S04E01 - Episódio 1
 http://conexaoonline.top:80/series/1123645274/6006605/282951.mp4
-#EXTINF:-1, group-title="Manifest", S04 Manifest - S04E02 - Episódio 2
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S04 Manifest - S04E02 - Episódio 2
 http://conexaoonline.top:80/series/1123645274/6006605/282952.mp4
-#EXTINF:-1, group-title="Manifest", S04 Manifest - S04E03 - Episódio 3
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S04 Manifest - S04E03 - Episódio 3
 http://conexaoonline.top:80/series/1123645274/6006605/282953.mp4
-#EXTINF:-1, group-title="Manifest", S04 Manifest - S04E04 - Episódio 4
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S04 Manifest - S04E04 - Episódio 4
 http://conexaoonline.top:80/series/1123645274/6006605/282954.mp4
-#EXTINF:-1, group-title="Manifest", S04 Manifest - S04E05 - Episódio 5
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S04 Manifest - S04E05 - Episódio 5
 http://conexaoonline.top:80/series/1123645274/6006605/282955.mp4
-#EXTINF:-1, group-title="Manifest", S04 Manifest - S04E06 - Episódio 6
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S04 Manifest - S04E06 - Episódio 6
 http://conexaoonline.top:80/series/1123645274/6006605/282956.mp4
-#EXTINF:-1, group-title="Manifest", S04 Manifest - S04E07 - Episódio 7
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S04 Manifest - S04E07 - Episódio 7
 http://conexaoonline.top:80/series/1123645274/6006605/282957.mp4
-#EXTINF:-1, group-title="Manifest", S04 Manifest - S04E08 - Episódio 8
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S04 Manifest - S04E08 - Episódio 8
 http://conexaoonline.top:80/series/1123645274/6006605/282958.mp4
-#EXTINF:-1, group-title="Manifest", S04 Manifest - S04E09 - Episódio 9
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S04 Manifest - S04E09 - Episódio 9
 http://conexaoonline.top:80/series/1123645274/6006605/282959.mp4
-#EXTINF:-1, group-title="Manifest", S04 Manifest - S04E10 - Episódio 10
+#EXTINF:-1 tvg-logo="CAPA-SERIE" group-title="[COLOR white][B]Manifest[/B][/COLOR]", S04 Manifest - S04E10 - Episódio 10
 http://conexaoonline.top:80/series/1123645274/6006605/282960.mp4
