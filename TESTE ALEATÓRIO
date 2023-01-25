@@ -3,15 +3,15 @@
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97KPJhJp5SzcHi4yQniZjKv6Yyc.jpg" group-title="[COLOR orange][B]12 Heróis (2018)[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97KPJhJp5SzcHi4yQniZjKv6Yyc.jpg" group-title="[COLOR white][B]12 Heróis (2018)[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97KPJhJp5SzcHi4yQniZjKv6Yyc.jpg" group-title="[COLOR white][B]12 Heróis (2018)[/B][/COLOR]",[COLOR orange][B]TORRENT[/B][/COLOR][COLOR white]A Liga Extraordinária - HD DUAL+LEG[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97KPJhJp5SzcHi4yQniZjKv6Yyc.jpg" group-title="[COLOR white][B]12 Heróis (2018)[/B][/COLOR]",[COLOR orange][B]TORRENT[COLOR yellow]-> [COLOR white]A Liga Extraordinária - HD DUAL+LEG[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b36d6238fa1d45984f7d06bce89af7e59cf4e35
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97KPJhJp5SzcHi4yQniZjKv6Yyc.jpg" group-title="[COLOR white][B]12 Heróis (2018)[/B][/COLOR]",[COLOR orange][B]TORRENT[/B][/COLOR][COLOR white]<NOMEDOFILME> - FHD DUAL+LEG[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97KPJhJp5SzcHi4yQniZjKv6Yyc.jpg" group-title="[COLOR white][B]12 Heróis (2018)[/B][/COLOR]",[COLOR orange][B]TORRENT[COLOR yellow]-> [COLOR white]<NOMEDOFILME> - FHD DUAL+LEG[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6984e1b126c42b960448829f8b7e2dc6df0e5ac6
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97KPJhJp5SzcHi4yQniZjKv6Yyc.jpg" group-title="[COLOR white][B]12 Heróis (2018)[/B][/COLOR]",[COLOR orange][B]TORRENT[/B][/COLOR][COLOR white]<NOMEDOFILME> - UFHD DUAL+LEG[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97KPJhJp5SzcHi4yQniZjKv6Yyc.jpg" group-title="[COLOR white][B]12 Heróis (2018)[/B][/COLOR]",[COLOR orange][B]TORRENT[COLOR yellow]-> [COLOR white]<NOMEDOFILME> - UFHD DUAL+LEG[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6984e1b126c42b960448829f8b7e2dc6df0e5ac6
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
