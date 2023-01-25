@@ -6,6 +6,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
+#EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]<NOMEDOFILME>[/B][/COLOR]
+plugin://plugin.video.tubemusic/?video_id=CO3BPv5V6k4
+
 #EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]<NOMEDOFILME> - HD DUAL+LEG[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b36d6238fa1d45984f7d06bce89af7e59cf4e35
 
