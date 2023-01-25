@@ -7,14 +7,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]<NOMEDOFILME>[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=CO3BPv5V6k4
+plugin://plugin.video.tubemusic/?video_id=<LINKMAGNET>
 
 #EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]<NOMEDOFILME> - HD DUAL+LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b36d6238fa1d45984f7d06bce89af7e59cf4e35
+plugin://plugin.video.elementum/play?uri=<LINKMAGNET>
 
 #EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]<NOMEDOFILME> - FHD DUAL+LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6984e1b126c42b960448829f8b7e2dc6df0e5ac6
+plugin://plugin.video.elementum/play?uri=<LINKMAGNET>
 
 #EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]<NOMEDOFILME> - UFHD DUAL+LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6984e1b126c42b960448829f8b7e2dc6df0e5ac6
+plugin://plugin.video.elementum/play?uri=<LINKMAGNET>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
