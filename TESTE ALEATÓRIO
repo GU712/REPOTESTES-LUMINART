@@ -1,31 +1,41 @@
-#EXTM3U
-#EXTINF:-1,GLOBO SP FHD Max
-http://7go.xyz:8080/emerson67/emj68hg/54357
-#EXTINF:-1,GLOBO SP FHD¹
-http://7go.xyz:8080/emerson67/emj68hg/18533
-#EXTINF:-1,GLOBO SP FHD²
-http://7go.xyz:8080/emerson67/emj68hg/22175
-#EXTINF:-1,GLOBO SP FHD ᶜᴰᴺ ²
-http://7go.xyz:8080/emerson67/emj68hg/29601
-#EXTINF:-1,GLOBO SP HD¹
-http://7go.xyz:8080/emerson67/emj68hg/18558
-#EXTINF:-1,GLOBO SP HD²
-http://7go.xyz:8080/emerson67/emj68hg/29602
-#EXTINF:-1,GLOBO SP HD ᶜᴰᴺ²
-http://7go.xyz:8080/emerson67/emj68hg/18569
-#EXTINF:-1,GLOBO SP SD¹
-http://7go.xyz:8080/emerson67/emj68hg/18576
-#EXTINF:-1,GLOBO SP SD²
-http://7go.xyz:8080/emerson67/emj68hg/50097
-#EXTINF:-1,GLOBO RJ FHD¹
-http://7go.xyz:8080/emerson67/emj68hg/28776
-#EXTINF:-1,GLOBO RJ FHD²
-http://7go.xyz:8080/emerson67/emj68hg/18587
-#EXTINF:-1,GLOBO RJ FHD ᶜᴰᴺ²
-http://7go.xyz:8080/emerson67/emj68hg/64728
-#EXTINF:-1,GLOBO RJ HD¹
-http://7go.xyz:8080/emerson67/emj68hg/18556
-#EXTINF:-1,GLOBO RJ HD²
-http://7go.xyz:8080/emerson67/emj68hg/22171
-#EXTINF:-1,GLOBO RJ HD ᶜᴰᴺ ²
-http://7go.xyz:8080/emerson67/emj68hg/22169
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]Manifest: O Mistério do Voo 828[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 1 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E01[COLOR yellow] -> [COLOR white]Piloto[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136494.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E02[COLOR yellow] -> [COLOR white]Reintegração[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136495.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E03[COLOR yellow] -> [COLOR white]Turbulência[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136496.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E04[COLOR yellow] -> [COLOR white]Bagagem Não Reclamada[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136497.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E05[COLOR yellow] -> [COLOR white]Voo de Conexão[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136498.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E06[COLOR yellow] -> [COLOR white]Fora do Radar[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136499.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E07[COLOR yellow] -> [COLOR white]S.N.A.F.U.[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136500.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E08[COLOR yellow] -> [COLOR white]Beco Sem Saída[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136501.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E09[COLOR yellow] -> [COLOR white]Cálculo Morto[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136502.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E10[COLOR yellow] -> [COLOR white]Vento Cruzado[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136503.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E11[COLOR yellow] -> [COLOR white]Rastros[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136504.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E12[COLOR yellow] -> [COLOR white]Ponto de Fuga[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136505.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E13[COLOR yellow] -> [COLOR white]Liberado para Abordagem[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136506.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E14[COLOR yellow] -> [COLOR white]Atualizar[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136507.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E15[COLOR yellow] -> [COLOR white]Aterrissagem Forçada[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136508.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2Kno6wvhjfsKggT49NVF9eKFyY.jpg" group-title="[COLOR white][B]Manifest: O Mistério do Voo 828 (2018)[/B][/COLOR]",[COLOR orange][B]S1-T01E16[COLOR yellow] -> [COLOR white]Hora Prevista de Partida[/B][/COLOR]
+http://conexaoonline.top:80/series/1123645274/6006605/136509.mp4
