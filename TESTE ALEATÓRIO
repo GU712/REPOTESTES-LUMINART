@@ -1,14 +1,10 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B]SERIES NO SERVER 2[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="<CAPADASERIE>" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]Monstro do Pântano[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]Monstro do Pântano[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<CAPA 1>" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]Piloto[/B][/COLOR]
@@ -42,5 +38,3 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
