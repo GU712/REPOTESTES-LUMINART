@@ -1,49 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B]SERIES NO SERVER 2[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]Ace Ventura[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]Ace Ventura[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow]-> [COLOR white]Ace Ventura: Um Detetive Diferente (1994) - HD DUAL+LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Ace.Ventura/LS-Ace.Ventura.1.1994.FHD.DUAL.mkv
+
+#EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]Ace Ventura[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow]-> [COLOR white]Ace Ventura 2 - Um Maluco na África (1995) - FHD DUAL+LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Ace.Ventura/LS-Ace.Ventura.2.1995.FHD.DUAL.mkv
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]Monstro do Pantano[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]Piloto[/B][/COLOR]
-http://acsc.cc:80/series/1Lucilim/1Luci2532/95864.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]Palavras A Parte[/B][/COLOR]
-http://acsc.cc:80/series/1Lucilim/1Luci2532/95865.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]Ele Fala[/B][/COLOR]
-http://acsc.cc:80/series/1Lucilim/1Luci2532/95866.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]Escuridão Na Periferia Da Cidade[/B][/COLOR]
-http://acsc.cc:80/series/1Lucilim/1Luci2532/95867.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]Dirija A Noite Toda[/B][/COLOR]
-http://acsc.cc:80/series/1Lucilim/1Luci2532/95868.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]O Preço Que Voce Paga[/B][/COLOR]
-http://acsc.cc:80/series/1Lucilim/1Luci2532/95869.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E07[COLOR yellow] -> [COLOR white]Brilhante Disfarce[/B][/COLOR]
-http://acsc.cc:80/series/1Lucilim/1Luci2532/95870.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S1-T01E08[COLOR yellow] -> [COLOR white]Longa Caminhada Para Casa[/B][/COLOR]
-http://acsc.cc:80/series/1Lucilim/1Luci2532/95871.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S1-T01E09[COLOR yellow] -> [COLOR white]A Liçao De Anatomia[/B][/COLOR]
-http://acsc.cc:80/series/1Lucilim/1Luci2532/95872.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S1-T01E10[COLOR yellow] -> [COLOR white]Pontas Soltas[/B][/COLOR]
-http://acsc.cc:80/series/1Lucilim/1Luci2532/95873.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]O Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-
