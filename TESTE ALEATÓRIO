@@ -1,7 +1,7 @@
 <item>
-<title>[COLOR white][B]TESTE(DATA) [/B][/COLOR]</title>
+<title>[COLOR white][B]TESTE2(DATA) [/B][/COLOR]</title>
 
-<link>plugin://plugin.video.resolverurl_player?url=https://dropload.io/g3ypm2t96pvk[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://dropload.io/g3ypm2t96pvk[</link>
 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5rtXHSx4sXJKMJsLR7OUjryCHl.jpg</thumbnail>
 <fanart><FUNDO></fanart>
@@ -9,3 +9,4 @@
 <genre><GENERO></genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
