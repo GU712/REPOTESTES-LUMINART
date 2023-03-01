@@ -1,12 +1,25 @@
-<item>
-<title>[COLOR white][B]TESTE3(DATA) [/B][/COLOR]</title>
-
-<link>plugin://plugin.video.resolverurl_player?url=https://dropload.io/g3ypm2t96pvk</link>
-
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5rtXHSx4sXJKMJsLR7OUjryCHl.jpg</thumbnail>
-<fanart><FUNDO></fanart>
-<info><SINOPSE></info>
-<genre><GENERO></genre>
-</item>
+#EXTM3U
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="[COLOR white][B]O Pior Vizinho do Mundo (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="[COLOR white][B]O Pior Vizinho do Mundo (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]O Pior Vizinho do Mundo[/B][/COLOR]
+plugin://plugin.video.tubemusic/?video_id=<LINKMAGNET>
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="[COLOR white][B]O Pior Vizinho do Mundo (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]O Pior Vizinho do Mundo - FHD DUAL[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UEYMNLZO5ARDXU2DSQDDCW2ZVWE5KDSW
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="[COLOR white][B]O Pior Vizinho do Mundo (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]O Pior Vizinho do Mundo - UFHD LEG[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b8534078c590987850fc825079633f4aab5d584
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
