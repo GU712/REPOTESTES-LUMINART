@@ -1,10 +1,138 @@
-<item>
-<title>[COLOR white][B]Alta Voltagem (1997)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Alta Voltagem[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-FM/LS-Alta.Voltagem.1997.HD.DUB.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Alta Voltagem - HD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/f26ClqwwDzC1ql6d7PpAbhWj3N7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wtoa3q9lSxp2NURq1CLmiOOyNEC.jpg</fanart>
-<info>Um grupo de jovens rouba um banco, e descobrem uma fachada para lavagem de dinheiro para o mercado de droga.</info>
-<genre>AÇÃO</genre>
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>	
+<title>[COLOR orange][B]ABERTURA[COLOR yellow] ->[COLOR white]O Mandaloriano[/COLOR][/B]</title>	
+<link>plugin://plugin.video.tubemusic/?video_id=CppDmmfNvHM</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro.</info>
+<genre>STAR WARS</genre> 
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2019) 02 EPs - FHD - DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]A Criança[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c7nhihvzy646r4y6wdoj37rixinkumf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Pecado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47f041bf00e7cd74693143258df967a553661911</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Santuário[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c9806b107fc24c064cd988385831c353d233034</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8be31ccdddc8418c8dd436dc701e29e283fa68ae</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0024b5415eeeed254dac91de47a9b03202828a87</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7vji7vh5znnceadc6px6ifd55kfo3aku</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Redenção[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0283bb97d55b72e532b6a0c41eec4086ed5b2507</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 02 (2020) 08 EPs - FHD - DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]O Marechal[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]O Passageiro[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4tjdhknim4ucp7b2c7uvc5yfzs2g2sso</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]A Herdeira[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]O Cerco[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a23ff7c7ab6a6746e6d67946ee55e6e2831f9566</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]A Jedi[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5qwf3syodtms5wabcfvcqv76pmzpttfq</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]A Tragédia[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3s67dnnuq6ngyn63evohl7xz3c6hbhbq</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]O Que Acredita[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item>				
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>				
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>				
+<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
