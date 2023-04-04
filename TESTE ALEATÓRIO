@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
 #EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes" , Pluto TV Cine Sucessos
 https://i.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
