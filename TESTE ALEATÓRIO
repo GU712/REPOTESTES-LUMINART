@@ -1,38 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]FILMES[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]FILMES[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]ENTRETENIMENTO[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]ENTRETENIMENTO[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]ANIME E GEEK[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]CURIOSIDADES[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]CURIOSIDADES[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]INFANTIL[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]INFANTIL[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]COMÉDIA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]INVESTIGAÇÃO[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]ESTILO DE VIDA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]ESPORTES[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]COMÉDIA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]ESTILO DE VIDA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="<LOGODOSERVER>" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]MÚSICA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white]MÚSICA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
