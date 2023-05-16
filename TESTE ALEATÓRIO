@@ -1,61 +1,56 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]TESTE 2 (DATA) - FHD DUAL+LEG[/B][/COLOR]</title>			
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b24bb86d1154395182e9b93cfbd6930b77683ec$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Anna O Perigo Tem Nome - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1ff16991d6348e4e5e2b8f17a13e55ee98623c3$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Anna O Perigo Tem Nome - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-FM/LS-Anna-O.Perigo.Tem.Nome.2019.HD.dub.MP4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Anna O Perigo Tem Nome - HD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/oHDnvxSDOTsaYZSUibJjrEMWMLL.jpg</fanart>				
-<info>Por trás da beleza marcante de Anna Poliatova há um segredo que irá expor sua indestrutível força e habilidade para se tornar uma das assassinas mais temidas do mundo. Uma eletrizante e emocionante viagem repleta de energia, reviravoltas surpreendentes e ação de tirar o fôlego.</info>				
-<genre>AÇÃO</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]Série - Echo 3[/B][/COLOR]
+LINKDOFILME
 
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]TESTE (DATA) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Starsky.Hutch/T01/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/izpHDl5JB4JIkA8ZUfJq6WTtoA9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5L6NyLp1TowYfvM1TbTNvOTYPXL.jpg</fanart>
-<info>O Plano É Ousado, As Chances São Pequenas.</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
 
-<item>
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]Flyaway[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/180716.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]Tora Bora na Cidade[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/180717.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]O Apostador[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/180718.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]Rio Acima[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/181253.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]Nós Rejeitamos a Sua Influência[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/181889.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]Habeas Pancadus[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/182482.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E07[COLOR yellow] -> [COLOR white]Vermelho é Positivo, Preto é Negativo[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/183276.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E08[COLOR yellow] -> [COLOR white]Assuntos de Família[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/183277.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E09[COLOR yellow] -> [COLOR white]Terra Queimada[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/184391.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E10[COLOR yellow] -> [COLOR white]Calor[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185113.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
