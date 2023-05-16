@@ -1,7 +1,80 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO5[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B]SERIES NO SERVER 2[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+NUMERAL			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "A"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - SD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185633.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185634.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185635.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185636.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185637.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185638.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E07[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185639.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E08[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185640.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E09[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185641.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E10[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185642.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E11[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185643.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E12[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185644.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E13[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185645.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E14[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185646.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E15[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185647.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E16[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185648.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E17[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185649.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E18[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185650.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E19[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185651.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E20[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185652.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E21[COLOR yellow] -> [COLOR white]A Lei e o Crime[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185653.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "B"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "C"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "D"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "E"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
@@ -29,14 +102,450 @@ http://acsc.cc:80/series/jh0082772/R2772r/183277.mp4
 http://acsc.cc:80/series/jh0082772/R2772r/184391.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E10[COLOR yellow] -> [COLOR white]Calor[/B][/COLOR]
 http://acsc.cc:80/series/jh0082772/R2772r/185113.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "F"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "G"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "H"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "I"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "J"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "K"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "L"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "M"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]Piloto[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/95864.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]Palavras A Parte[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/95865.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]Ele Fala[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/95866.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]Escuridão Na Periferia Da Cidade[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/95867.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]Dirija A Noite Toda[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/95868.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]O Preço Que Voce Paga[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/95869.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S2-T01E07[COLOR yellow] -> [COLOR white]Brilhante Disfarce[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/95870.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S1-T01E08[COLOR yellow] -> [COLOR white]Longa Caminhada Para Casa[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/95871.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S1-T01E09[COLOR yellow] -> [COLOR white]A Liçao De Anatomia[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/95872.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg" group-title="[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]",[COLOR orange][B]S1-T01E10[COLOR yellow] -> [COLOR white]Pontas Soltas[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/95873.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "N"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "O"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]O Cangaceiro do Futuro (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/j0TdeK3G8FIsZ6rtY1G22UN5mKi.jpg" group-title="[COLOR white][B]O Cangaceiro do Futuro (2022)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/j0TdeK3G8FIsZ6rtY1G22UN5mKi.jpg" group-title="[COLOR white][B]O Cangaceiro do Futuro (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]O Rei do Cagaço[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/182708.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/j0TdeK3G8FIsZ6rtY1G22UN5mKi.jpg" group-title="[COLOR white][B]O Cangaceiro do Futuro (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]Frescando com o Inimigo[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/182709.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/j0TdeK3G8FIsZ6rtY1G22UN5mKi.jpg" group-title="[COLOR white][B]O Cangaceiro do Futuro (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]Oxente, Formô![/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/182710.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/j0TdeK3G8FIsZ6rtY1G22UN5mKi.jpg" group-title="[COLOR white][B]O Cangaceiro do Futuro (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]Ai-Jegue[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/182711.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/j0TdeK3G8FIsZ6rtY1G22UN5mKi.jpg" group-title="[COLOR white][B]O Cangaceiro do Futuro (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]Com a Boca na Botija[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/182712.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/j0TdeK3G8FIsZ6rtY1G22UN5mKi.jpg" group-title="[COLOR white][B]O Cangaceiro do Futuro (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]Cabra Marcado pra Morrer[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/182713.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/j0TdeK3G8FIsZ6rtY1G22UN5mKi.jpg" group-title="[COLOR white][B]O Cangaceiro do Futuro (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E07[COLOR yellow] -> [COLOR white]Cagado e Cuspido[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/182714.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "P"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6G4Oyka3r4Wq429jJ2PoWidMmSG.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD LEG[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6G4Oyka3r4Wq429jJ2PoWidMmSG.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]A Amiga Imaginária Emily / A Menina Perdida[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/167490.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6G4Oyka3r4Wq429jJ2PoWidMmSG.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]A Estrada Assombrada / Em Busca de um O[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/167491.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6G4Oyka3r4Wq429jJ2PoWidMmSG.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]O Duende / Observando em Terras Silvestres[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/167492.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6G4Oyka3r4Wq429jJ2PoWidMmSG.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]Os Espíritos da Mansão Mansfield[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/167493.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6G4Oyka3r4Wq429jJ2PoWidMmSG.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]Um Jogo Perigoso / O UFO de Trumball[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/167494.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6G4Oyka3r4Wq429jJ2PoWidMmSG.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]O Homem Da Chuva[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/167495.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 02 - HD LEG[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E01[COLOR yellow] -> [COLOR white]A Caixa Dybbuk[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168047.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E02[COLOR yellow] -> [COLOR white]Homem no Sotão[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168048.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E03[COLOR yellow] -> [COLOR white]Medo no Brooklyn[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168049.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E04[COLOR yellow] -> [COLOR white]Assombração no Teatro Capitólio[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168050.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E05[COLOR yellow] -> [COLOR white]Mulher na Escada[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168051.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E06[COLOR yellow] -> [COLOR white]O Apartamento[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168052.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E07[COLOR yellow] -> [COLOR white]Assombração Real em Connecticut[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168053.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E08[COLOR yellow] -> [COLOR white]A Fazenda Fox Hollow[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168054.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E09[COLOR yellow] -> [COLOR white]A Abdução[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168055.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E10[COLOR yellow] -> [COLOR white]A Cabana / Um Fantasma no Jardim[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168056.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E11[COLOR yellow] -> [COLOR white]Indícios Preocupantes em Hollywood [/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168057.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ajrZI4S9I2Lr4QwO5a8ldRx5pQo.jpg" group-title="[COLOR white][B]Paranormal Witness (2011)[/B][/COLOR]",[COLOR orange][B]S2-T02E12[COLOR yellow] -> [COLOR white]Os Inquilinos[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/168058.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]Em Busca da Verdade (Piloto)[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63196.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]Acerto de Contas[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63197.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]Teste do Celular[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63198.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]A Volta de Sucre[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63199.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]A Transferência[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63200.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]A Rebelião (1ª Parte)[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63201.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E07[COLOR yellow] -> [COLOR white]A Rebelião (2ª Parte)[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63202.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E08[COLOR yellow] -> [COLOR white]Perseguição[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63203.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E09[COLOR yellow] -> [COLOR white]Um Novo Chefe[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63204.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E10[COLOR yellow] -> [COLOR white]De Volta ao Plano de Fuga[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63205.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E11[COLOR yellow] -> [COLOR white] é Demais[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63206.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E12[COLOR yellow] -> [COLOR white]Perdão Fatal[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63207.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E13[COLOR yellow] -> [COLOR white]O Fim do Tunel[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63208.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E14[COLOR yellow] -> [COLOR white]O Rato[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63209.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E15[COLOR yellow] -> [COLOR white]O Adiamento[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63210.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E16[COLOR yellow] -> [COLOR white]O Guardião do Irmão[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63211.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E17[COLOR yellow] -> [COLOR white]O Surto[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63212.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E18[COLOR yellow] -> [COLOR white]O Blefe[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63213.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E19[COLOR yellow] -> [COLOR white]A Chave[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63214.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E20[COLOR yellow] -> [COLOR white]A Segunda Fuga[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63215.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E21[COLOR yellow] -> [COLOR white]A Noite da Fuga[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63216.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T01E22[COLOR yellow] -> [COLOR white]A Reta Final[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63217.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 02 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E01[COLOR yellow] -> [COLOR white]Caçada Humana[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63218.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E02[COLOR yellow] -> [COLOR white]Tentativa de Resgate[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63219.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E03[COLOR yellow] -> [COLOR white]Perseguição[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63220.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E04[COLOR yellow] -> [COLOR white]Primeiro a Morrer[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63221.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E05[COLOR yellow] -> [COLOR white]Mapa [/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63222.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E06[COLOR yellow] -> [COLOR white]Subdivisão[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63223.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E07[COLOR yellow] -> [COLOR white]Enterrado[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63224.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E08[COLOR yellow] -> [COLOR white]Armadilha Mortal[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63225.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E09[COLOR yellow] -> [COLOR white]Desenterrado[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63226.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E10[COLOR yellow] -> [COLOR white]Ponto de Encontro[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63227.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E11[COLOR yellow] -> [COLOR white]Bolshoi Booze[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63228.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E12[COLOR yellow] -> [COLOR white]Separação[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63229.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E13[COLOR yellow] -> [COLOR white]Encurralados[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63230.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E14[COLOR yellow] -> [COLOR white]João Ninguém[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63231.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E15[COLOR yellow] -> [COLOR white]A Mensagem[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63232.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E16[COLOR yellow] -> [COLOR white]Chicago[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63233.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E17[COLOR yellow] -> [COLOR white]Sangue Ruim[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63234.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E18[COLOR yellow] -> [COLOR white]O Acordo[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63235.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E19[COLOR yellow] -> [COLOR white]Doce Caroline[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63236.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E20[COLOR yellow] -> [COLOR white]Panamá[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63237.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E21[COLOR yellow] -> [COLOR white]Fim do Caminho[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63238.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T02E22[COLOR yellow] -> [COLOR white]A Volta[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63239.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 03 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E01[COLOR yellow] -> [COLOR white]Orientação (Sona)[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63240.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E02[COLOR yellow] -> [COLOR white]Fogo e Água[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63241.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E03[COLOR yellow] -> [COLOR white]O Telefonema[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63242.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E04[COLOR yellow] -> [COLOR white]A Cerca[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63243.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E05[COLOR yellow] -> [COLOR white]Interferência[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63244.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E06[COLOR yellow] -> [COLOR white]As Fotos[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63245.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E07[COLOR yellow] -> [COLOR white]A Fuga[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63246.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E08[COLOR yellow] -> [COLOR white]Tentativa de Fuga[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63247.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E09[COLOR yellow] -> [COLOR white]Tentativa Frustrada[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63248.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E10[COLOR yellow] -> [COLOR white]Por Um Fio[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63249.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E11[COLOR yellow] -> [COLOR white]Fuga Noturna[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63250.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E12[COLOR yellow] -> [COLOR white]Inferno ou Alto-Mar[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63251.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T03E13[COLOR yellow] -> [COLOR white]A Arte de Negociar[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63252.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 04 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E01[COLOR yellow] -> [COLOR white]Scylla [/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63253.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E02[COLOR yellow] -> [COLOR white]A Invasão[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63254.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E03[COLOR yellow] -> [COLOR white]A Busca Continua[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63255.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E04[COLOR yellow] -> [COLOR white]Águias e Anjos[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63256.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E05[COLOR yellow] -> [COLOR white]Sã e Salva[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63257.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E06[COLOR yellow] -> [COLOR white]O Erro[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63258.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E07[COLOR yellow] -> [COLOR white]O Quinto Cartão[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63259.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E08[COLOR yellow] -> [COLOR white]O Preço[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63260.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E09[COLOR yellow] -> [COLOR white]Resultado Inesperado[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63261.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E10[COLOR yellow] -> [COLOR white]A Planta[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63262.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E11[COLOR yellow] -> [COLOR white]Rebelião Silenciosa[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63263.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E12[COLOR yellow] -> [COLOR white]Altruísmo[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63264.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E13[COLOR yellow] -> [COLOR white]O Trato[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63265.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E14[COLOR yellow] -> [COLOR white]Apenas Negócios[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63266.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E15[COLOR yellow] -> [COLOR white]Experiência de Vida e Morte[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63267.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E16[COLOR yellow] -> [COLOR white]O Estado Ensolarado[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63268.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E17[COLOR yellow] -> [COLOR white]Traição[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63269.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E18[COLOR yellow] -> [COLOR white]VS[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63270.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E19[COLOR yellow] -> [COLOR white]A Conferência[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63271.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E20[COLOR yellow] -> [COLOR white]Mocinhos e Bandidos[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63272.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E21[COLOR yellow] -> [COLOR white]A Troca[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63273.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T04E22[COLOR yellow] -> [COLOR white]A Verdade Revelada[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63274.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gYRAeIwvRzNxod8WymvrZViE6Gn.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 05 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gYRAeIwvRzNxod8WymvrZViE6Gn.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T05E01[COLOR yellow] -> [COLOR white]Ogygia[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63275.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gYRAeIwvRzNxod8WymvrZViE6Gn.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T05E02[COLOR yellow] -> [COLOR white]Kaniel Outis[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63276.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gYRAeIwvRzNxod8WymvrZViE6Gn.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T05E03[COLOR yellow] -> [COLOR white]A Mentira[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63277.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gYRAeIwvRzNxod8WymvrZViE6Gn.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T05E04[COLOR yellow] -> [COLOR white]O Dilema do Prisioneiro[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63278.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gYRAeIwvRzNxod8WymvrZViE6Gn.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T05E05[COLOR yellow] -> [COLOR white]Contingência[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63279.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gYRAeIwvRzNxod8WymvrZViE6Gn.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T05E06[COLOR yellow] -> [COLOR white]Fuga Pelo Deserto[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63280.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gYRAeIwvRzNxod8WymvrZViE6Gn.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T05E07[COLOR yellow] -> [COLOR white]Mar Negro[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63281.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gYRAeIwvRzNxod8WymvrZViE6Gn.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T05E08[COLOR yellow] -> [COLOR white]Descendência[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63282.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gYRAeIwvRzNxod8WymvrZViE6Gn.jpg" group-title="[COLOR white][B]Prison Break (2005)[/B][/COLOR]",[COLOR orange][B]S2-T05E09[COLOR yellow] -> [COLOR white]Atrás dos Olhos[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/63283.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]A Neve Abre Caminho[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8232.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]Das Sombras, Falcão Alça Voo[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8233.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]Soco do Trovão, Estrondo de Canhão[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8234.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]Palma dos Oito Trigramas[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8235.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]Sob as Folhas, Colher Lótus[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8236.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]Imortal Emerge da Caverna[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8237.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E07[COLOR yellow] -> [COLOR white]Derrubar Árvore e Suas Raízes[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8238.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E08[COLOR yellow] -> [COLOR white]A Bênção de Muitas Fraturas[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8239.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E09[COLOR yellow] -> [COLOR white]A Senhora de Todas as Agonias[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8240.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E10[COLOR yellow] -> [COLOR white]Tigre Negro Rouba Coração[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8241.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E11[COLOR yellow] -> [COLOR white]Devolver o Cavalo ao Estábulo[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8242.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E12[COLOR yellow] -> [COLOR white]A Cabeça da Serpente[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8243.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hEJHWHdvaPbI605KuId4K3HT5oR.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T01E13[COLOR yellow] -> [COLOR white]Dragão Brinca Com Fogo[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8244.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 02 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T02E01[COLOR yellow] -> [COLOR white]A Fúria do Punho de Ferro[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8245.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T02E02[COLOR yellow] -> [COLOR white]Ninguém Vai Botar Fogo Aqui[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8246.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T02E03[COLOR yellow] -> [COLOR white]Segredo Mortal[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8247.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T02E04[COLOR yellow] -> [COLOR white]Alvo: Punho de Ferro[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8248.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T02E05[COLOR yellow] -> [COLOR white]Coração do Dragão[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8249.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T02E06[COLOR yellow] -> [COLOR white]Morte Certa Para o Dragão[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8250.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T02E07[COLOR yellow] -> [COLOR white]Por Um Triz[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8251.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T02E08[COLOR yellow] -> [COLOR white]Cidadela À Beira da Vingança[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8252.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T02E09[COLOR yellow] -> [COLOR white]Guerra Sem Fim[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8253.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg" group-title="[COLOR white][B]Punho de Ferro (2017)[/B][/COLOR]",[COLOR orange][B]S2-T02E10[COLOR yellow] -> [COLOR white]Um Duelo de Ferro[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/8254.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Q"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "R"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "S"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "T"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "U"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "V"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "X"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Y"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "W"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Z"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
