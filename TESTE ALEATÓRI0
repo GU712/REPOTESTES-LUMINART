@@ -8,6 +8,11 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA) - FHD HD SD DUB DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]John Wick 4: Baba Yaga (2023) - HDCAM[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
@@ -22,3 +27,63 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L3TRRF5NLGKR3VSKHMZFJ6IKKOYDWEBA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tudo em Todo o Lugar ao Mesmo Tempo (2022) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREQ7F7USBK26SJHWKZDDF7OZQK4PUAU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]M3GAN (2023) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccc8fe4982b383014320a2db80feb9b6845aa189</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Pior Vizinho do Mundo (2022) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UEYMNLZO5ARDXU2DSQDDCW2ZVWE5KDSW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Gato de Botas 2: O Último Pedido (2022) - HD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4591ae7fcb08294c656305636c49aeda2e83adea</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Pantera Negra: Wakanda para Sempre (2022) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dd755b18290338d7d069a204aa61961ffefa197</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jung_E (2023) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:806fd21d27e579bee117e964ddea8049b4080dcb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
