@@ -3,15 +3,14 @@
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg" group-title="[COLOR white][B]A Maldição da Mansão Bly (2020)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",TOR-T01E01[COLOR yellow]-> [COLOR white]<NOMEDOEPS>[/B][/COLOR
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg" group-title="[COLOR white][B]A Maldição da Mansão Bly (2020)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]A Maldição da Mansão Bly - T01 - FHD DUB[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",TOR-T01E02[COLOR yellow]-> [COLOR white]<NOMEDOEPS>[/B][/COLOR
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4d233a9a8672827fc3a17e9517705ccb46d4a4e
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg" group-title="[COLOR white][B]A Maldição da Mansão Bly (2020)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]A Maldição da Mansão Bly - T01 - FHD LEG[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3223d6fdb4cb01f3038efd6b71ef8c9eb1f68773
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -23,3 +22,4 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
