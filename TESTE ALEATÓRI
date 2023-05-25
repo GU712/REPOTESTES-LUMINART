@@ -2,6 +2,16 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSPp8Hx/FLMS-LAN-ICON-2023.png" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" group-title="[COLOR white][B]O Exorcista do Papa (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" group-title="[COLOR white][B]O Exorcista do Papa (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]O Exorcista do Papa[/B][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=NT7d8sWLVCM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" group-title="[COLOR white][B]O Exorcista do Papa (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]O Exorcista do Papa - FHD DUAL[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L3TRRF5NLGKR3VSKHMZFJ6IKKOYDWEBA
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 #EXTINF:-1,Hamburger Hill
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" ,[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]John Wick 4 - HDCAM[/B][/COLOR]
