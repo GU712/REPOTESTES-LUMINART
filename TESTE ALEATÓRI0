@@ -37,7 +37,7 @@ plugin://plugin.video.elementum/play?uri=<MAGNET>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
 LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]O VIDEO NÃO ABRIU ?[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]NAO ENCONTROU O QUE QUERIA ?[/B][/COLOR]
 LINKDOFILME
