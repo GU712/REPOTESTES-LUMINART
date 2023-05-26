@@ -8,9 +8,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TEMP 01 <-> 09 EPS - FHD DUAL[/B][/COLOR]
-LINKDOFILME
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow]-> [COLOR white]<NOMEDOEPS>[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac
 
