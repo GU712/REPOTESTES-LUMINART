@@ -1,46 +1,73 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mSPp8Hx/FLMS-LAN-ICON-2023.png" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]TEMP 01 <-> 00 EPS - FHD HD SD DUB DUAL+LEG[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<MAGNET>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]NAO ENCONTROU O QUE QUERIA ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (DATA) 08 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
+<item><title>[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano<POT[/B]>
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
 
-#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]TEMP 01 <-> 00 EPS - FHD HD SD DUB DUAL+LEG[/B][/COLOR]
-LINKDOFILME
+<item><title>[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]A Criança<POT[/B]>
+plugin://plugin.video.elementum/play?uri=MAGNET
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
 
-#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Todo Dia a Mesma Noite - HD DUAL+LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<MAGNET>
+<item><title>[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]O Pecado<POT[/B]>
+plugin://plugin.video.elementum/play?uri=MAGNET
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E04[COLOR yellow] -> [COLOR white]Santuário<POT[/B]>
+plugin://plugin.video.elementum/play?uri=MAGNET
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro<POT[/B]>
+plugin://plugin.video.elementum/play?uri=MAGNET
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro<POT[/B]>
+plugin://plugin.video.elementum/play?uri=MAGNET
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas<POT[/B]>
+plugin://plugin.video.elementum/play?uri=MAGNET
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E08[COLOR yellow] -> [COLOR white]Redenção<POT[/B]>
+plugin://plugin.video.elementum/play?uri=MAGNET
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]O VIDEO NÃO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]NAO ENCONTROU O QUE QUERIA ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
