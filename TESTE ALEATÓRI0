@@ -1,44 +1,30 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]TEMP 01 (DATA) 08 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
-</item>
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+NUMERAL			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-
-<item>
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR white][B]24 Horas (2001-2010) 
+ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C2-SRS-24.Horas-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/9I4ktOf2MSIHXo8FcmUVbwiBMV5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/be6mDIMv7cg8duWkcYVnTB8rphO.jpg</fanart>
+<info>Série 24 Horas  - ATUALIZANDO.
+[COLOR orange][B]AÇÃO[/B][/COLOR]
+[COLOR orange][B]09 TEMPS - 204 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2001 a 2010[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
