@@ -53,14 +53,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Águia de Fogo (1984 - 1987) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C6-SRS-Aguia.de.Fogo-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/uSlnBIJsCkfXcHP7P9cOzmBIk4t.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
-<info>Assista aqui os episodios da série Águia de Fogo. 
-[COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]04 TEMPS - 70 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 1984 a 1987[/B][/COLOR]</info>
+<name>[COLOR white][B]NOMEALVO (0 Filmes)[/B][/COLOR]</name>
+<externallink><LINKRAWPAGEALVO></externallink>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>Assista aqui os filmes da coleção
+[B]NOMEALVO. 
+[COLOR orange][B]<GENERO>
+[COLOR orange][B]0 FILMES
+[COLOR orange][B]ANOS - (0000 a 0000)
+[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
