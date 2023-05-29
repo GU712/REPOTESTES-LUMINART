@@ -14,6 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NUMERAL			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+
 <channels>
 <channel>
 <name>[COLOR white][B]24 Horas (2001-2010) - ATUALIZANDO[/B][/COLOR]</name>
@@ -22,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/be6mDIMv7cg8duWkcYVnTB8rphO.jpg</fanart>
 <info>[COLOR white]Assista aqui a série 
 [B]Flash.[/B]
-[COLOR orange][B]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO.[/B]
+[COLOR orange][B]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO[/B]
 [COLOR orange][B]AÇÃO[/B]
 [COLOR orange][B]ANOS - 2001 a 2010[/B]
 [COLOR orange][B]09 TEMPs - 204 EPs[/B]
@@ -34,28 +35,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Flash (2023) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2A5-SRS-Flash.TOR-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/bJfdgVTpmpIo29B2ih8LceGFgc4.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/jeruqNWhqRqOR1QyqdQdHunrvU5.jpg</fanart>
-<info>Assista aqui os episodios da série Flash.
-[COLOR orange][B]SUPER-HERÓI[/B][/COLOR]
-[COLOR orange][B]ANO - 2023[/B][/COLOR]
-[COLOR orange][B]TEMP 09 - 11 EPS[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]NOMEDASERIE (0000-0000) - INCOMPLETA - ATUALIZANDO[/B][/COLOR]</name>
 <externallink><LINKRAWPAGEALVO></externallink>
 <thumbnail><CAPADASERIE></thumbnail>
 <fanart><FUNDODASERIE></fanart>
-<info>[COLOR white]Assista aqui a série 
+<info>[COLOR white]Assista aqui a série: 
 [B]NOMEDASERIE
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]ANOS - 0000 a 0000
+[COLOR orange]ANO - 0000 a 0000
 [COLOR orange]<GENERO>
 [COLOR orange]00 TEMPs - 000 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
@@ -64,5 +51,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-
+<channels>
+<channel>
+<name>[COLOR white][B]Águia de Fogo (1984 - 1987) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C6-SRS-Aguia.de.Fogo-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/uSlnBIJsCkfXcHP7P9cOzmBIk4t.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+<info>Assista aqui os episodios da série Águia de Fogo. 
+[COLOR orange][B]AÇÃO[/B][/COLOR]
+[COLOR orange][B]04 TEMPS - 70 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 1984 a 1987[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
