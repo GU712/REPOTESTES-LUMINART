@@ -11,11 +11,64 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]TOR[COLOR yellow] -> [COLOR white]NOMEDASERIE  - INCOMPLETA - ATUALIZANDO[/B][/COLOR]</title>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>NOLINK$nome=[COLOR orange][B]TOR[COLOR yellow] -> [COLOR orange]TEMP 01 (DATA) 00 EPs - FHD SD DUB DUAL[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
 $nome=[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
 $nome=[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
+$nome=[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
+$nome=[COLOR orange][B]TOR-T01E04[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
+$nome=[COLOR orange][B]TOR-T01E05[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/qRBkSzlOsdbR5BxhaFz7VIpMjwj.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Todo Dia a Mesma Noite
+[COLOR orange]Status[COLOR yellow]->[COLOR white]COMPLETA
+[COLOR orange][B]CRIME E DRAMA
+[COLOR orange][B]ANO - 2023
+[COLOR orange][B]01 TEMP - 05 EPS
+[COLOR orange]SINOPSE[COLOR yellow]->[COLOR white][/B]Um incêndio na boate Kiss mata 242 pessoas. Agora, os familiares das vítimas lutam por justiça.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TOR[COLOR yellow] -> [COLOR white]NOMEDASERIE  - INCOMPLETA - ATUALIZANDO[/B][/COLOR]</title>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>NOLINK$nome=[COLOR orange][B]TOR[COLOR yellow] -> [COLOR orange]TEMP 01 (DATA) 00 EPs - FHD SD DUB DUAL[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>NOLINK$nome=[COLOR orange][B]TOR[COLOR yellow] -> [COLOR orange]TEMP 02 (DATA) 00 EPs - FHD SD DUB DUAL[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
+$nome=[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
+$nome=[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
+$nome=[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
+$nome=[COLOR orange][B]TOR-T01E04[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
+$nome=[COLOR orange][B]TOR-T01E05[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][/COLOR]</link>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <thumbnail>https://www.themoviedb.org/t/p/original/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/qRBkSzlOsdbR5BxhaFz7VIpMjwj.jpg</fanart>
@@ -29,6 +82,7 @@ $nome=[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]<NOMEDOEPS>[/B][
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[COLOR orange][B]TOR-TEMP 01[COLOR yellow] -> [COLOR white] O Exterminador do Futuro: As Crônicas de Sarah Connor (2008)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:321117E7FC2C260D48EBB5FE4D9393AAB8005A71</link>
