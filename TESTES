@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="ICONE-LS",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]GB SP FHDb[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE - SERVER X[COLOR yellow] -> [COLOR white]SERVER X[/B][/COLOR];url=http://asd2.me:80/p223397x/3859041/6283
+
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/6283.png" group-title="GLOBOS",GB SP FHD
 http://asd2.me:80/p223397x/3859041/6283
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDb" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/4290dbb2-07e0-418f-2611-6f64a7f3cf00/original" group-title="GLOBOS",GB SP FHDb
