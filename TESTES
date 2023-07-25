@@ -12,6 +12,15 @@ http://acsc.cc:80/series/5516981347887/x347887aB/204225.mp4
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR orange][B]S2[COLOR yellow] -> [COLOR white][B]Fantasmas de Beirute[/B][/COLOR]",[COLOR orange][B]S2[COLOR yellow] -> [COLOR white]T01E01[/B][/COLOR]
 http://acsc.cc:80/series/5516981347887/x347887aB/204224.mp4
 
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR orange][B]S2[COLOR yellow] -> [COLOR white][B]Fantasmas de Beirute",[COLOR orange]S2[COLOR yellow] -> [COLOR white]T01E04[/B][/COLOR]
+http://acsc.cc:80/series/5516981347887/x347887aB/204227.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR orange][B]S2[COLOR yellow] -> [COLOR white][B]Fantasmas de Beirute",[COLOR orange]S2[COLOR yellow] -> [COLOR white]T01E03[/B][/COLOR]
+http://acsc.cc:80/series/5516981347887/x347887aB/204226.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR orange][B]S2[COLOR yellow] -> [COLOR white][B]Fantasmas de Beirute",[COLOR orange]S2[COLOR yellow] -> [COLOR white]T01E02[/B][/COLOR]
+http://acsc.cc:80/series/5516981347887/x347887aB/204225.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR orange][B]S2[COLOR yellow] -> [COLOR white][B]Fantasmas de Beirute",[COLOR orange]S2[COLOR yellow] -> [COLOR white]T01E01[/B][/COLOR]
+http://acsc.cc:80/series/5516981347887/x347887aB/204224.mp4
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
@@ -20,3 +29,4 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
