@@ -1,25 +1,13 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]TEMP 01 (1965) 29 EPs - SD DUB[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/cW5zmGlnfgPBQhEhRv4QGVY1xbQ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/upqfQF1LBPf7IRZao0sxt1BHZlx.jpg</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]LS-T01E00[COLOR yellow] -> [COLOR white]Sem Lugar pra se Esconder[/B][/COLOR]</title>
-<link>https://tinyurl.com/lost-space-old-fhd-t01e00</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cW5zmGlnfgPBQhEhRv4QGVY1xbQ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/upqfQF1LBPf7IRZao0sxt1BHZlx.jpg</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]O Clandestino Teimoso[/B][/COLOR]</title>
-<link>https://tinyurl.com/lost-space-old-fhd-t01e01</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cW5zmGlnfgPBQhEhRv4QGVY1xbQ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/upqfQF1LBPf7IRZao0sxt1BHZlx.jpg</fanart></item>
+#EXTINF:-1 tvg-name="Natal em Hollywood [L] (2022)" tvg-logo="https://acsa.ws/tmdb/t/p/w600_and_h900_bestv2/4BSOsZLMDO6sCNAqwFKwvTXo1BM.jpg" group-title="[COLOR white][B]LEGENDADOS[/B][/COLOR]",[COLOR orange][B]S2[COLOR yellow] -> [COLOR white]Natal em Hollywood [L] (2022)[/B][/COLOR]
+http://acsa.ws:80/movie/11998858174/Rob658827/181081.mp4
+#EXTINF:-1 tvg-name="Meet Cute (2022)" tvg-logo="https://acsa.ws/tmdb/t/p/w600_and_h900_bestv2/8NBlso3DuV3frqOzLZ4UYPMTqYu.jpg" group-title="[COLOR white][B]COMÉDIA E ROMANCE[/B][/COLOR]",[COLOR orange][B]S2[COLOR yellow] -> [COLOR white]Meet Cute (2022)[/B][/COLOR]
+http://acsa.ws:80/movie/11998858174/Rob658827/181080.mp4
+#EXTINF:-1 tvg-name="Meu Nome é Vingança (2022)" tvg-logo="https://acsa.ws/tmdb/t/p/w600_and_h900_bestv2/tlZGDi8anF7Fcs5HGVaTEMnv1hp.jpg" group-title="[COLOR white][B]AÇÃO E GUERRA[/B][/COLOR]",[COLOR orange][B]S2[COLOR yellow] -> [COLOR white]Meu Nome é Vingança (2022)[/B][/COLOR]
+http://acsa.ws:80/movie/11998858174/Rob658827/181079.mp4
+#EXTINF:-1 tvg-name="Spectral (2016)" tvg-logo="https://acsa.ws/tmdb/t/p/w600_and_h900_bestv2/ptW67F2eMTF2AruIG197obOGGOE.jpg" group-title="[COLOR white][B]FICÇÃO E FANTASIA[/B][/COLOR]",[COLOR orange][B]S2[COLOR yellow] -> [COLOR white]Spectral (2016)[/B][/COLOR]
+http://acsa.ws:80/movie/11998858174/Rob658827/181073.mp4
