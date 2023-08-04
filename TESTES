@@ -1,223 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/705364_v9_ba.jpg" group-title="[COLOR orange][B]COLEÇÃO ED STAFORD[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="LOGODOSERVIDOR" group-title="[COLOR orange][B]DISCOVERY - HISTÓRIA[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5wRKq9TDgHb2eK75AIUq6Cka7EK.jpg" group-title="[COLOR white][B]Ed Stafford: Nu e Abandonado (2013)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5wRKq9TDgHb2eK75AIUq6Cka7EK.jpg" group-title="[COLOR white][B]Ed Stafford: Nu e Abandonado (2013)[/B][/COLOR]",[COLOR orange][B]Nu e Abandonado[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5wRKq9TDgHb2eK75AIUq6Cka7EK.jpg" group-title="[COLOR white][B]Ed Stafford: Nu e Abandonado (2013)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUAL[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]Os Vikings na America[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5wRKq9TDgHb2eK75AIUq6Cka7EK.jpg" group-title="[COLOR white][B]Ed Stafford: Nu e Abandonado (2013)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Parte 1[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Nu.e.Abandonado/01-Parte.1.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5wRKq9TDgHb2eK75AIUq6Cka7EK.jpg" group-title="[COLOR white][B]Ed Stafford: Nu e Abandonado (2013)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Parte 2[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Nu.e.Abandonado/01-Parte.2.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5wRKq9TDgHb2eK75AIUq6Cka7EK.jpg" group-title="[COLOR white][B]Ed Stafford: Nu e Abandonado (2013)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Parte 3[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Nu.e.Abandonado/01-Parte.3.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5wRKq9TDgHb2eK75AIUq6Cka7EK.jpg" group-title="[COLOR white][B]Ed Stafford: Nu e Abandonado (2013)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Retrospectiva[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Nu.e.Abandonado/04-Retrospectiva.mkv
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://tinyurl.com/vikingsnaamerica-ep-01
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://tinyurl.com/vikingsnaamerica-ep-02
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://tinyurl.com/vikingsnaamerica-ep-03
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://tinyurl.com/vikingsnaamerica-ep-04
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://tinyurl.com/vikingsnaamerica-ep-05
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://tinyurl.com/vikingsnaamerica-ep-06
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Nu e Abandonado (2013)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
 LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Nu e Abandonado (2013)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Nu e Abandonado (2013)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]O Sobrevivente[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUAL[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Borneu[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T01/01-Borneu.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Romenia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T01/02-Romenia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Australia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T01/03-Australia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Botswana[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T01/04-Botswana.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Venezuela[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T01/05-Venezuela.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Tailandia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T01/06-Tailandia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Ruanda[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T01/07-Ruanda.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Arizona[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T01/08-Arizona.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Regras de Sobrevivencia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T01/09-Regras.de.Sobrevivencia.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 02 - HD DUAL[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Deserto de Gobi[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T02/01-Deserto.de.Gobi.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Guatemala[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T02/02-Guatemala.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Namibia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T02/03-Namibia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Patagonia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T02/04-Patagonia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Filipinas[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T02/05-Filipinas.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f2RD52rBSA0EH0P8Bcm4VBImlgr.jpg" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Noruega[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/O.Sobrevivente/T02/06-Noruega.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: O Sobrevivente (2014)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1L7okF1oRVTsz7SfLxM5ZRsBtV.jpg" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1L7okF1oRVTsz7SfLxM5ZRsBtV.jpg" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]Rumo ao Desconhecido[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1L7okF1oRVTsz7SfLxM5ZRsBtV.jpg" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUAL[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1L7okF1oRVTsz7SfLxM5ZRsBtV.jpg" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Misterios do Desconhecido[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Rumo.ao.Desconhecido/01-Misterios.do.Desconhecido.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1L7okF1oRVTsz7SfLxM5ZRsBtV.jpg" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Papua Ocidental[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Rumo.ao.Desconhecido/02-Papua.Ocidental.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1L7okF1oRVTsz7SfLxM5ZRsBtV.jpg" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Siberia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Rumo.ao.Desconhecido/03-Siberia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1L7okF1oRVTsz7SfLxM5ZRsBtV.jpg" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Etiopia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Rumo.ao.Desconhecido/04-Etiopia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1L7okF1oRVTsz7SfLxM5ZRsBtV.jpg" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Brasil[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Rumo.ao.Desconhecido/05-Brasil.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1L7okF1oRVTsz7SfLxM5ZRsBtV.jpg" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Zambia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Rumo.ao.Desconhecido/06-Zambia.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Rumo ao Desconhecido (2015)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f9ErGmPnYonI5WwY3H8Om0cvQ3W.jpg" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f9ErGmPnYonI5WwY3H8Om0cvQ3W.jpg" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]Desafio Mortal[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f9ErGmPnYonI5WwY3H8Om0cvQ3W.jpg" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUAL[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f9ErGmPnYonI5WwY3H8Om0cvQ3W.jpg" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Madagascar[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Desafio.Mortal/01-Madagascar.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f9ErGmPnYonI5WwY3H8Om0cvQ3W.jpg" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Bulgaria[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Desafio.Mortal/02-Bulgaria.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f9ErGmPnYonI5WwY3H8Om0cvQ3W.jpg" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Isolado na Mongolia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Desafio.Mortal/03-Isolado.na.Mongolia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f9ErGmPnYonI5WwY3H8Om0cvQ3W.jpg" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Laos[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Desafio.Mortal/04-Laos.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f9ErGmPnYonI5WwY3H8Om0cvQ3W.jpg" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Bolivia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Desafio.Mortal/05-Bolivia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f9ErGmPnYonI5WwY3H8Om0cvQ3W.jpg" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Panama[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Desafio.Mortal/06-Panama.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Desafio Mortal (2017)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uG1rsjA3glchAdtgfNnwRcEAVP1.jpg" group-title="[COLOR white][B]Ed Stafford: Sobrevivendo nas Ruas (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uG1rsjA3glchAdtgfNnwRcEAVP1.jpg" group-title="[COLOR white][B]Ed Stafford: Sobrevivendo nas Ruas (2019)[/B][/COLOR]",[COLOR orange][B]Sobrevivendo nas Ruas[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uG1rsjA3glchAdtgfNnwRcEAVP1.jpg" group-title="[COLOR white][B]Ed Stafford: Sobrevivendo nas Ruas (2019)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uG1rsjA3glchAdtgfNnwRcEAVP1.jpg" group-title="[COLOR white][B]Ed Stafford: Sobrevivendo nas Ruas (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Manchester[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Sobrevivendo.nas.Ruas/01-Manchester.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uG1rsjA3glchAdtgfNnwRcEAVP1.jpg" group-title="[COLOR white][B]Ed Stafford: Sobrevivendo nas Ruas (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Londres[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Sobrevivendo.nas.Ruas/02-Londres.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uG1rsjA3glchAdtgfNnwRcEAVP1.jpg" group-title="[COLOR white][B]Ed Stafford: Sobrevivendo nas Ruas (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Glasgow[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Sobrevivendo.nas.Ruas/03-Glasgow.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Sobrevivendo nas Ruas (2019)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Sobrevivendo nas Ruas (2019)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford: Sobrevivendo nas Ruas (2019)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1THS7SxqTo7FLQW1AhsWX7zYBWP.jpg" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1THS7SxqTo7FLQW1AhsWX7zYBWP.jpg" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]Contra Todos[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1THS7SxqTo7FLQW1AhsWX7zYBWP.jpg" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUAL[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1THS7SxqTo7FLQW1AhsWX7zYBWP.jpg" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Borneu[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Contra.Todos/01-Borneu.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1THS7SxqTo7FLQW1AhsWX7zYBWP.jpg" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Cazaquistao[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Contra.Todos/02-Cazaquistao.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1THS7SxqTo7FLQW1AhsWX7zYBWP.jpg" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Mongolia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Contra.Todos/03-Mongolia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1THS7SxqTo7FLQW1AhsWX7zYBWP.jpg" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Tailandia[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Contra.Todos/04-Tailandia.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1THS7SxqTo7FLQW1AhsWX7zYBWP.jpg" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Palau[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Contra.Todos/05-Palau.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1THS7SxqTo7FLQW1AhsWX7zYBWP.jpg" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]India[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Ed.Stafford/Contra.Todos/06-India.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ed Stafford Contra Todos (2019)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
