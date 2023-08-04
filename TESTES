@@ -4,32 +4,32 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]Egito Revelado[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]Egito Revelado[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]A Múmia Que Grita[/B][/COLOR]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]A Múmia Que Grita[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Egito%20Revelado%20-%20Discovery/01%20A%20M%C3%BAmia%20Que%20Grita.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]O Rei Escorpião[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]O Rei Escorpião[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Egito%20Revelado%20-%20Discovery/02%20O%20Rei%20Escorpi%C3%A3o.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]A Esfinge[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]A Esfinge[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Egito%20Revelado%20-%20Discovery/03%20A%20Esfinge.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Cleópatra[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Cleópatra[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Egito%20Revelado%20-%20Discovery/04%20Cle%C3%B3patra.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Pirâmides[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Pirâmides[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Egito%20Revelado%20-%20Discovery/05%20Pir%C3%A2mides.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Vale dos Reis[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Vale dos Reis[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Egito%20Revelado%20-%20Discovery/06%20O%20Vale%20dos%20Reis.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Ramsés[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Ramsés[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Egito%20Revelado%20-%20Discovery/07%20Rams%C3%A9s.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-rev" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]A Tumba Perdida de Alexandre[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/egito-revelado" group-title="[COLOR white][B]Egito Revelado (2011)[/B][/COLOR]",[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]A Tumba Perdida de Alexandre[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Egito%20Revelado%20-%20Discovery/08%20A%20Tumba%20Perdida%20de%20Alexandre.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
