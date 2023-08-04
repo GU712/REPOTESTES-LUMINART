@@ -1,72 +1,34 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]Em Busca dos Vikings (2019) 06 EPs - SD DUB[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://tinyurl.com/vikingsnaamerica</thumbnail>
-<fanart>https://tinyurl.com/discofundo</fanart>
-</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]Os Vikings na America[/B][/COLOR]
+LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Em Busca dos Vikings[/B][/COLOR]</title>
-<link>https://tinyurl.com/vikingsnaamerica-ep-01</link>
-<thumbnail>https://tinyurl.com/vikingsnaamerica</thumbnail><fanart>https://tinyurl.com/discofundo</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Em Busca dos Vikings[/B][/COLOR]</title>
-<link>https://tinyurl.com/vikingsnaamerica-ep-02</link>
-<thumbnail>https://tinyurl.com/vikingsnaamerica</thumbnail><fanart>https://tinyurl.com/discofundo</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Em Busca dos Vikings[/B][/COLOR]</title>
-<link>https://tinyurl.com/vikingsnaamerica-ep-03</link>
-<thumbnail>https://tinyurl.com/vikingsnaamerica</thumbnail><fanart>https://tinyurl.com/discofundo</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Em Busca dos Vikings[/B][/COLOR]</title>
-<link>https://tinyurl.com/vikingsnaamerica-ep-04</link>
-<thumbnail>https://tinyurl.com/vikingsnaamerica</thumbnail><fanart>https://tinyurl.com/discofundo</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Em Busca dos Vikings[/B][/COLOR]</title>
-<link>https://tinyurl.com/vikingsnaamerica-ep-05</link>
-<thumbnail>https://tinyurl.com/vikingsnaamerica</thumbnail><fanart>https://tinyurl.com/discofundo</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Em Busca dos Vikings[/B][/COLOR]</title>
-<link>https://tinyurl.com/vikingsnaamerica-ep-06</link>
-<thumbnail>https://tinyurl.com/vikingsnaamerica</thumbnail><fanart>https://tinyurl.com/discofundo</fanart></item>
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Em%20Busca%20dos%20Vikings%20-%20Discovery/Em%20Busca%20dos%20Vikings%20-%2001%20Primeiro%20assentamento%20Viking%20na%20Am%C3%A9rica.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Em%20Busca%20dos%20Vikings%20-%20Discovery/Em%20Busca%20dos%20Vikings%20-%2002.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Em%20Busca%20dos%20Vikings%20-%20Discovery/Em%20Busca%20dos%20Vikings%20-%2003.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Em%20Busca%20dos%20Vikings%20-%20Discovery/Em%20Busca%20dos%20Vikings%20-%2004.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Em%20Busca%20dos%20Vikings%20-%20Discovery/Em%20Busca%20dos%20Vikings%20-%2005.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Em%20Busca%20dos%20Vikings%20-%20Discovery/Em%20Busca%20dos%20Vikings%20-%2006.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
