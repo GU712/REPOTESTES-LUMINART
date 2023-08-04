@@ -1,47 +1,12 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="LOGODOSERVIDOR" group-title="[COLOR orange][B]DISCOVERY - HISTÓRIA[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]Os Vikings na America[/B][/COLOR]
-LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 07 (1996) 32 EPs - FHD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/xDivDzd1yF7NG6GW6ccz7ramLuv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gcI9rFfXN99r8NvxVrU6yRfNn7P.jpg</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
-https://tinyurl.com/vikingsnaamerica-ep-01
-#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
-https://tinyurl.com/vikingsnaamerica-ep-02
-#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
-https://tinyurl.com/vikingsnaamerica-ep-03
-#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
-https://tinyurl.com/vikingsnaamerica-ep-04
-#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
-https://tinyurl.com/vikingsnaamerica-ep-05
-#EXTINF:-1 tvg-logo="https://tinyurl.com/vikingsnaamerica" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Os Vikings na America[/B][/COLOR]
-https://tinyurl.com/vikingsnaamerica-ep-06
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]American Vikings (2019)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T07E01[COLOR yellow] -> [COLOR white]Cocoricó[/B][/COLOR]</title>
+<link>https://tinyurl.com/vikingsnaamerica-ep-02</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xDivDzd1yF7NG6GW6ccz7ramLuv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/gcI9rFfXN99r8NvxVrU6yRfNn7P.jpg</fanart></item>
