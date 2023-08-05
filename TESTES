@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES2[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -18,6 +18,16 @@ https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/A%20Corrida%20da%20Morte%20-%20Discovery.mkv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Ilha dos Tubarões[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/A%20Ilha%20dos%20Tubar%C3%B5es%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Invasão da Lula Gigante[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/A%20Invas%C3%A3o%20da%20Lula%20Gigante%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Tigresa Rainha[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/A%20Tigresa%20Rainha%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Verdade Sobre Os Leões - 01 Felino Social[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/A%20Verdade%20Sobre%20Os%20Le%C3%B5es%20-%2001%20Felino%20Social%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Verdade Sobre Os Leões - 02 Leões - O Fim do Caminho[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/A%20Verdade%20Sobre%20Os%20Le%C3%B5es%20-%2002%20Le%C3%B5es%20-%20O%20Fim%20do%20Caminho%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Volta dos Tigres[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/A%20Volta%20dos%20Tigres%20-%20Discovery.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
