@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES3[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES4[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -61,6 +61,26 @@ https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Grandes%20Pal%C3%A1cios%20-%20Topkapi%20-%20Turquia%20-%20Discovery.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hiroshima[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Hiroshima%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Homem Pré-histórico[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Homem%20Pr%C3%A9-hist%C3%B3rico%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]KV63 - A Revelação[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/KV63%20-%20A%20Revela%C3%A7%C3%A3o%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Megatornado em Oklahoma[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Megatornado%20em%20Oklahoma%20-%20720p%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Megatufão Nas Filipinas[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Megatuf%C3%A3o%20Nas%20Filipinas%20-%20720p%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mistérios da Ásia - Jóias Na Selva[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Mist%C3%A9rios%20da%20%C3%81sia%20-%20J%C3%B3ias%20Na%20Selva%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mistérios da Ásia - Segredos da Grande Muralha[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Mist%C3%A9rios%20da%20%C3%81sia%20-%20Segredos%20da%20Grande%20Muralha%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mistérios da Ásia - Templos Perdidos da Índia[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Mist%C3%A9rios%20da%20%C3%81sia%20-%20Templos%20Perdidos%20da%20%C3%8Dndia%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Morte na Neve[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Morte%20na%20Neve%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mulheres Faraós[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Mulheres%20Fara%C3%B3s%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Nascido para Reinar[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Nascido%20para%20Reinar%20-%201080p%20-%20H265%20-%20Discovery.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
