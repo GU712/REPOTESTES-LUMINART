@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES2[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES3[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -28,6 +28,16 @@ https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/A%20Verdade%20Sobre%20Os%20Le%C3%B5es%20-%2002%20Le%C3%B5es%20-%20O%20Fim%20do%20Caminho%20-%20Discovery.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Volta dos Tigres[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/A%20Volta%20dos%20Tigres%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]África 5 - Elefante - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/%C3%81frica%205%20-%20Elefante%20-%20LEG%20-%20Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Águas Mortais - com Les Stroud[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/%C3%81guas%20Mortais%20-%20com%20Les%20Stroud%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Animais Gladiadores - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/Animais%20Gladiadores%20-%20LEG%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Animais Mortais - Brasil - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/Animais%20Mortais%20-%20Brasil%20-%20LEG%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Apalaches Selvagens - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[Discovery%20-%20Animal,%20Natureza,%20Vida%20Selvagem]/Apalaches%20Selvagens%20-%20LEG%20-%20Discovery.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Animal - Natureza - Vida Selvagem[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
