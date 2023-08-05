@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES2[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES3[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -41,6 +41,26 @@ https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/De%20Volta%20A%20KV63%20-%20Discovery.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desafiando O Perigo[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Desafiando%20O%20Perigo%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Diamantes do Gelo[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Diamantes%20do%20Gelo%20-%20720p%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Egito - Deuses e Demônios - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Egito%20-%20Deuses%20e%20Dem%C3%B4nios%20-%20LEG%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Egito - Deuses e Demônios - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Egito%20-%20Deuses%20e%20Dem%C3%B4nios%20-%20Legendado%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Escândalos da Antiguidade[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Esc%C3%A2ndalos%20da%20Antiguidade%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Grandes Castelos da Europa[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Grandes%20Castelos%20da%20Europa%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Grandes Livros - A Origem das Espécies[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Grandes%20Livros%20-%20A%20Origem%20das%20Esp%C3%A9cies%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Grandes Livros - Drácula[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Grandes%20Livros%20-%20Dr%C3%A1cula%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Grandes Palácios - Hampton Court - Londres[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Grandes%20Pal%C3%A1cios%20-%20Hampton%20Court%20-%20Londres%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Grandes Palácios - Topkapi - Turquia[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Grandes%20Pal%C3%A1cios%20-%20Topkapi%20-%20Turquia%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hiroshima[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Hiroshima%20-%20Discovery.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
