@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES1[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES2[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -23,6 +23,24 @@ https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Atl%C3%A2ntida%20-%20Os%20%C3%9Altimos%20Dias%20-%20Discovery.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Atlas - Egito - LEG[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Atlas%20-%20Egito%20-%20Legendado%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Autocirurgia[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Autocirurgia%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Autópsia de Uma Múmia - A Ilha das Múmias[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Aut%C3%B3psia%20de%20Uma%20M%C3%BAmia%20-%20A%20Ilha%20das%20M%C3%BAmias%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cidades Submersas[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Cidades%20Submersas%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Civilização Inundada[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Civiliza%C3%A7%C3%A3o%20Inundada%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cleópatra A Rainha do Egito[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Cle%C3%B3patra%20A%20Rainha%20do%20Egito%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Códigos e Conspirações - 03 Bunkers - 1TP[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/C%C3%B3digos%20e%20Conspira%C3%A7%C3%B5es%20-%2003%20Bunkers%20-%201TP%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Contos Egípcios - Tútmes III[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Contos%20Eg%C3%ADpcios%20-%20T%C3%BAtmes%20III%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]De Volta A KV63[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/De%20Volta%20A%20KV63%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desafiando O Perigo[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Desafiando%20O%20Perigo%20-%20Discovery.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
