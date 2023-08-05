@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES6[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -103,6 +103,8 @@ https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20
 #EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Guia Completo das Múmias[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/O%20Guia%20Completo%20das%20M%C3%BAmias%20-%20Discovery.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mistério de Nerfertiti - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/O%20Mist%C3%A9rio%20de%20Nerfertiti%20-%20LEG%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mistério de Nerfertiti - LEG[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/O%20Mist%C3%A9rio%20de%20Nerfertiti%20-%20Legendado%20-%20Discovery.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Ultimo Dia dos Dinossauros - LEG[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/O%20Ultimo%20Dia%20dos%20Dinossauros%20-%20LEG%20-%20Discovery.mp4
@@ -132,6 +134,17 @@ https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Todas%20As%20Pir%C3%A2mides%20do%20Mundo%20-%20Discovery.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Viagem Centro Terra[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Viagem%20Centro%20Terra%20-%20Discovery.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Ultimo Dia dos Dinossauros - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/O%20Ultimo%20Dia%20dos%20Dinossauros%20-%20LEG%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Ultimo Dia dos Dinossauros - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/O%20Ultimo%20Dia%20dos%20Dinossauros%20-%20Legendado%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Por Dentro das Pirâmides[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Por%20Dentro%20das%20Pir%C3%A2mides%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Porquê O Egito Antigo Caiu - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Porqu%C3%AA%20O%20Egito%20Antigo%20Caiu%20-%20LEG%20-%20Discovery.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Porquê O Egito Antigo Caiu - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[Discovery%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/Porqu%C3%AA%20O%20Egito%20Antigo%20Caiu%20-%20Legendado%20-%20Discovery.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Historia - Guerra - Biografias[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
