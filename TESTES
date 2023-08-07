@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DISCOVERY FILMES2[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -26,8 +26,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]GRUPO B[/B][/COLOR]",[COLOR orange][B]S - LS [COLOR yellow] -> [COLOR white]Vulcões Apocalípticos[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Documentários e Séries de TV/Discovery/Discovery - Universo, Ciência, Tecnológia, Diversos/[Discovery - Universo, Ciência, Tecnológia, Diversos]/Vulcões Apocalípticos - Discovery.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]GRUPO A[/B][/COLOR]",[COLOR orange][B]S - LS [COLOR yellow] -> [COLOR white]Vulcões Apocalípticos[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Discovery/Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Discovery%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Vulc%C3%B5es%20Apocal%C3%ADpticos%20-%20Discovery.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]GRUPO B[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
