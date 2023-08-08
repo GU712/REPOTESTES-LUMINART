@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]THE HISTORY CHANNEL FILMES[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]THE HISTORY CHANNEL FILMES2[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -69,7 +69,7 @@ https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20
 #EXTINF:-1 tvg-logo="https://tinyurl.com/nat-geog" group-title="[COLOR white][B]NatGeo - Historia Guerra Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Elo Perdido - NatGeo[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/NatGeo%20-%20National%20Geographic/NatGeo%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[NatGeo%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/O%20Elo%20Perdido%20-%20NatGeo%20-%20NatGeo.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/nat-geog" group-title="[COLOR white][B]NatGeo - Historia Guerra Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Funeral de Tutancâmon[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/NatGeo%20-%20National%20Geographic/NatGeo%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[NatGeo%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/O%20Funeral%20de%20Tutancâmon%20-%20NatGeo.mp4
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/NatGeo%20-%20National%20Geographic/NatGeo%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[NatGeo%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/O%20Funeral%20de%20Tutanc%C3%A2mon%20-%20NatGeo.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/nat-geog" group-title="[COLOR white][B]NatGeo - Historia Guerra Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Sonho de Voar[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/NatGeo%20-%20National%20Geographic/NatGeo%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/[NatGeo%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias]/O%20Sonho%20de%20Voar%20-%20NatGeo.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/nat-geog" group-title="[COLOR white][B]NatGeo - Historia Guerra Biografias[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Tesouro de Tutancâmon[/B][/COLOR]
