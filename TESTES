@@ -841,23 +841,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <items>
 <item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ?[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bHQjmRgZcXz52AreInhumqHSYY9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>SEÇÃO ESPECIAL SCOOBY DOO</genre> 
-</item>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1941) 40 EPs - SD DUAL+LEG[/B][/COLOR]</title>
@@ -874,79 +857,158 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Biruta[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E01.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970) FHD DUAL[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Pânico na Cozinha[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E02.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
 
-<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? [/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Matador De Hollywood[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E03.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
 
-<link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 17 EPs[/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Um As Demais[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E04.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Fantasma do Cavaleiro Negro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]De Sururu no Castelo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Uma Pista para Scooby-Doo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Meta-se com a Sua Vida [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Isca para Ladrao [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Que Macumba e Essa? [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Nao Macaqueie o Macaco [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Aventura no Parque [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Nos Bastidores [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Confusao na Elevacao [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Os Fantasmas Galopante [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Scooby-Doo e a Mumia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Feitiso Contra o Feiticeiro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma Espacia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Navio Fantasma [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E16.mkv$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Uma Noite com Medo Nao Acaba Cedo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E17.mkv$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]O Fantasma da Neve [/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]A Loja Do Prego[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E05.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
 
-<link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs[/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Baseball Maluco[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E06.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Onde Esta o Monstro? [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Misterio da Mascara [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E03.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]De Arrepiar os Cabelos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E04.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Homem das Cavernas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E05.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Uma Casa Mal-Assombrada [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E06.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Idolo do Terror [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E07.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Quem e Que Esta com Medo Ai? [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E08.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Com Fantasma Nao Se Brinca [/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]O Acrobata Maluco[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E07.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bHQjmRgZcXz52AreInhumqHSYY9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
-<info> Quatro adolescentes metidos a detetives, Fred, Velma, Daphne e Salsicha, com um cão dinamarquês falante chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina do Mistério e ajudam a investigar casos misteriosos.</info>
-<genre>DESENHOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]O Afanador De Gasolina[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E08.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]O Doido da Praia[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E09.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Ski Para Dois[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E10.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Uma Dama Muito Fina[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E11.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]O Pica Pau Come Fora[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E12.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]O Famoso Diplomata[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E13.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]O Biruta A Solta[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E14.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Quem Cozinha Quem[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E15.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Hora Do Banho[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E16.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Carteira de Motorista[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E17.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Amigos Penosos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E18.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Presuntos Defumados[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E19.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]O Passarinho do Relógio[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E20.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Roubando Gasolina[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E21.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]O Ovo da Galinha[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E22.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Mata Gigantes[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E23.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]A Cartola[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E24.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]O Fila Bóia[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E25.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]Hora do Bebe[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E26.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E27[COLOR yellow] -> [COLOR white]O Xerife[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E27.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E28[COLOR yellow] -> [COLOR white]O Mensageiro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E28.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E29[COLOR yellow] -> [COLOR white]Durma Bem[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E29.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E30[COLOR yellow] -> [COLOR white]Cricket Maluco[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E30.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E31[COLOR yellow] -> [COLOR white]Campeão do Estilingue[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E31.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E32[COLOR yellow] -> [COLOR white]Os Trabalhadores Da Floresta[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E32.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E33[COLOR yellow] -> [COLOR white]A Polka do Pica Pau[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E33.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E34[COLOR yellow] -> [COLOR white]Uma Aventura no Supermercado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E34.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E35[COLOR yellow] -> [COLOR white]Nascido Para Picar[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E35.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E36[COLOR yellow] -> [COLOR white]O Grande Logro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E36.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E37[COLOR yellow] -> [COLOR white]Campeão de Golf[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E37.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E38[COLOR yellow] -> [COLOR white]O Cabeleireiro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E38.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E39[COLOR yellow] -> [COLOR white]O Grande Quem Faz Isso[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/3-PICA.PAU/Pica.Pau.e.Amigos/SD-DUAL/LS-T01E39.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart></item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FECHAMENTO DO SUBCHANEL FILMES E SERIES - SÉRIES
@@ -1500,9 +1562,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-MANTER TAG DE FECHAMENTO ENTRE SEÇÕES ESPECIAIS - FILMES E SÉRIES
+MANTER TAG DE FECHAMENTO GERAL
 </items>
 </channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
