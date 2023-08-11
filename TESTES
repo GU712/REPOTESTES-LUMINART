@@ -863,13 +863,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>		
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970)[/B][/COLOR] HD e FHD DUB</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ?[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - 17 EPs[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35011a5bc78309fae5fe071e8fde4e3afded5847$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:669f45817665dfb6344fb10675ff39c36a58ed46$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - FHD DUB[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:104f708e4d0728535071f7ed0c7f08059760119f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bde0a161ce1aacf820034c8bdec58703d6fca24b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - FHD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ?[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - 17 EPs[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35011a5bc78309fae5fe071e8fde4e3afded5847$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:669f45817665dfb6344fb10675ff39c36a58ed46$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - FHD DUB[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:104f708e4d0728535071f7ed0c7f08059760119f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bde0a161ce1aacf820034c8bdec58703d6fca24b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bHQjmRgZcXz52AreInhumqHSYY9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 <info>Quatro adolescentes metidos a detetives, Fred, Velma, Daphne e Salsicha, com um cão dinamarquês falante chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina do Mistério e ajudam a investigar casos misteriosos.</info>
@@ -877,41 +877,71 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo Cadê Você ? (1969-1970) FHD DUAL[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? [/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Scooby-Doo Cade Voce ? [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 17 EPs[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 17 EPs[/B][/COLOR]</link>
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Fantasma do Cavaleiro Negro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]De Sururu no Castelo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Uma Pista para Scooby-Doo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Meta-se com a Sua Vida [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Isca para Ladrao [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Que Macumba e Essa? [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Nao Macaqueie o Macaco [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Aventura no Parque [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E09.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Nos Bastidores [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E10.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Confusao na Elevacao [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E11.mkv$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Os Fantasmas Galopante [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E12.mkv$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Scooby-Doo e a Mumia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E13.mkv$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Feitiso Contra o Feiticeiro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E14.mkv$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma Espacia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E15.mkv$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Navio Fantasma [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E16.mkv$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Uma Noite com Medo Nao Acaba Cedo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E17.mkv$$lsname=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]O Fantasma da Neve [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Fantasma do Cavaleiro Negro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]De Sururu no Castelo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Uma Pista para Scooby-Doo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Meta-se com a Sua Vida [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Isca para Ladrao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Que Macumba e Essa? [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Nao Macaqueie o Macaco [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Aventura no Parque [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Nos Bastidores [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Confusao na Elevacao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Os Fantasmas Galopante [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Scooby-Doo e a Mumia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Feitiso Contra o Feiticeiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma Espacia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Navio Fantasma [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E16.mkv$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Uma Noite com Medo Nao Acaba Cedo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T01E17.mkv$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]O Fantasma da Neve [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs[/B][/COLOR]</link>
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E01.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Onde Esta o Monstro? [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E02.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Misterio da Mascara [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E03.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]De Arrepiar os Cabelos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E04.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Homem das Cavernas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E05.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Uma Casa Mal-Assombrada [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E06.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Idolo do Terror [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E07.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Quem e Que Esta com Medo Ai? [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E08.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Com Fantasma Nao Se Brinca [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Onde Esta o Monstro? [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Misterio da Mascara [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E03.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]De Arrepiar os Cabelos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E04.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Homem das Cavernas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E05.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Uma Casa Mal-Assombrada [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E06.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Idolo do Terror [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E07.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Quem e Que Esta com Medo Ai? [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Cade.Voce/LS-T02E08.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Com Fantasma Nao Se Brinca [/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bHQjmRgZcXz52AreInhumqHSYY9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
@@ -958,9 +988,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Treze Fantasmas do Scooby-Doo - FHD DUB[/B][/COLOR]</title>
-<link>NOLINK$$lsname=[COLOR orange][B]Temporada 01 - 13 EPs [/B][/COLOR]</link>	
-<link>plugin://plugin.video.youtube/play/?video_id=3J07JqHReA8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Treze Fantasmas do Scooby-Doo[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e96aca56a7cc3052bf0174af7c735921e6bff77b$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Treze Fantasmas do Scooby-Doo - FHD DUB[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]Temporada 01 - 13 EPs [/B][/COLOR]</link>	
+<link>plugin://plugin.video.youtube/play/?video_id=3J07JqHReA8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Treze Fantasmas do Scooby-Doo[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e96aca56a7cc3052bf0174af7c735921e6bff77b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Treze Fantasmas do Scooby-Doo - FHD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/v7S15heYWQSJLM60uZjim7Y9nzG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6wiPmnOM87Ir6Bz6AUJXQ6Nwjia.jpg</fanart>
 <info>Salsicha, Scooby e seus amigos devem devolver 13 fantasmas a um baú mágico que eles inadvertidamente liberaram.</info>
@@ -971,23 +1001,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white][B]Os Treze Fantasmas do Scooby-Doo - FHD DUAL[/B][/COLOR]</title>
 
-<link>NOLINK$$lsname=[COLOR orange][B]Temporada 01 - 13 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B]Temporada 01 - 13 EPs[/B][/COLOR]</link>	
 
-<link>plugin://plugin.video.youtube/play/?video_id=3J07JqHReA8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nomedaserie[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=3J07JqHReA8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nomedaserie[/B][/COLOR]</link>
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Todos os Monstros que Eu Ja Amei [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Grande Magico [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Eu e a Minha Sombra Fantasma [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Pra la de Marrakesh  [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Diversao Monstruosa [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Navio de Fantasmas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Pequeno Monstro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Bruxarias [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E09.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Maravilhoso Scooby [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E10.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Scooby na Quaqualandia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E11.mkv$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Fantasmas de Longa Distancia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E12.mkv$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]O Show Mais Fantasmagorico da Terra [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E13.mkv$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Horror na TV [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Todos os Monstros que Eu Ja Amei [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Grande Magico [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Eu e a Minha Sombra Fantasma [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Pra la de Marrakesh  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Diversao Monstruosa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Navio de Fantasmas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Pequeno Monstro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Bruxarias [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Maravilhoso Scooby [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Scooby na Quaqualandia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Fantasmas de Longa Distancia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]O Show Mais Fantasmagorico da Terra [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/13.Fantasmas/LS-13.Fantasmas.FHD,DUAL.E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Horror na TV [/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/v7S15heYWQSJLM60uZjim7Y9nzG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6wiPmnOM87Ir6Bz6AUJXQ6Nwjia.jpg</fanart>
@@ -1036,9 +1066,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Show do Scooby Doo - FHD DUAL[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=wCsRvK42L48$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Show do Scooby Doo[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B] Completo - 3 Temps - 40 EPs[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe8977a37209244d1e31927cbc2b916a6cdcab23$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Show do Scooby Doo - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=wCsRvK42L48$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Show do Scooby Doo[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B] Completo - 3 Temps - 40 EPs[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe8977a37209244d1e31927cbc2b916a6cdcab23$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Show do Scooby Doo - FHD DUAL[/B][/COLOR]</link>
 <thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>	
 <fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>	
 <info>Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.</info>	
@@ -1049,54 +1079,54 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Show do Scooby Doo - FHD DUAL[/B][/COLOR]</title>	
 	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 16 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 16 EPs[/B][/COLOR]</link>	
 	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Aventura Arrepiante [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Anfitriao E Uma Assombrasao [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Jogo Horripilante [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Fantasma Chocante [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Cavaleiro Sem-Cabesa De Halloween [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Muito Susto Em Camelot [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Sanatorio Assustador [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Zumbi sem Rosto [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E09.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Mamba Wamba [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E10.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Demonio [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E11.mkv$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Uma Parada para Scooby [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E12.mkv$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Tubarao Fantasma [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E13.mkv$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Scooby-Doo  Cade a Tripulasao? [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E14.mkv$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma O Jogo e o Saque [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E15.mkv$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Fantasma do Homem Mau Humorado [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E16.mkv$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Os Espiritos dos 76 [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Aventura Arrepiante [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Anfitriao E Uma Assombrasao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Jogo Horripilante [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Fantasma Chocante [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Cavaleiro Sem-Cabesa De Halloween [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Muito Susto Em Camelot [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Sanatorio Assustador [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Zumbi sem Rosto [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Mamba Wamba [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Demonio [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Uma Parada para Scooby [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Tubarao Fantasma [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Scooby-Doo  Cade a Tripulasao? [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma O Jogo e o Saque [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Fantasma do Homem Mau Humorado [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E16.mkv$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Os Espiritos dos 76 [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 08 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 08 EPs[/B][/COLOR]</link>	
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E01.mkv$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Maldisao do Lago Viking [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E02.mkv$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Vampiros Morcegos e Outros Bichos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E03.mkv$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Aguenta ai  Scooby [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E04.mkv$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Filme de Terror [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E05.mkv$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Corrida Arrepiante [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E06.mkv$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Bruxa de Ozark [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E07.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Cruzeiro Assustador [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E08.mkv$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Pavor das Profundezas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Maldisao do Lago Viking [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Vampiros Morcegos e Outros Bichos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E03.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Aguenta ai  Scooby [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E04.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Filme de Terror [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E05.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Corrida Arrepiante [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E06.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Bruxa de Ozark [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Cruzeiro Assustador [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E08.mkv$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Pavor das Profundezas [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 03 - 16 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 16 EPs[/B][/COLOR]</link>	
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E01.mkv$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Cuidado com o Willawaw [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E02.mkv$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Um Assombroso Triangulo das Bermudas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E03.mkv$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Um Encontro Assustador com o Monstro da Neve [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E04.mkv$$lsname=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Como Expulsar uma Bruxa [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E05.mkv$$lsname=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Monstro de Breu [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E06.mkv$$lsname=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Encontro com o Monstro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E07.mkv$$lsname=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]O Fantasma do Cara de Ferro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E08.mkv$$lsname=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Aventura Arrepiante na Selva [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E09.mkv$$lsname=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]A Gata Fantasma [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E10.mkv$$lsname=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]O Monstro Super Aterrador [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E11.mkv$$lsname=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]O Demonio Diabolico [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E12.mkv$$lsname=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]O Biscoito Chines da Sorte [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E13.mkv$$lsname=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Ameasa em Veneza [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E14.mkv$$lsname=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Nao se Aproxime da Fortaleza do Medo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E15.mkv$$lsname=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]O Bruxo de Winbledon [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E16.mkv$$lsname=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Aventura no Fundo do Mar [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E01.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Cuidado com o Willawaw [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E02.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Um Assombroso Triangulo das Bermudas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E03.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Um Encontro Assustador com o Monstro da Neve [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E04.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Como Expulsar uma Bruxa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E05.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Monstro de Breu [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E06.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Encontro com o Monstro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E07.mkv$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]O Fantasma do Cara de Ferro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E08.mkv$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Aventura Arrepiante na Selva [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E09.mkv$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]A Gata Fantasma [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E10.mkv$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]O Monstro Super Aterrador [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E11.mkv$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]O Demonio Diabolico [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E12.mkv$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]O Biscoito Chines da Sorte [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E13.mkv$nome=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Ameasa em Veneza [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E14.mkv$nome=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Nao se Aproxime da Fortaleza do Medo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E15.mkv$nome=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]O Bruxo de Winbledon [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E16.mkv$nome=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Aventura no Fundo do Mar [/B][/COLOR]</link>
 	
 <thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>	
 <fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>	
@@ -1147,35 +1177,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Ho-ho-límpicos - FHD DUAL[/B][/COLOR]</title>	
 	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 16 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 16 EPs[/B][/COLOR]</link>	
 	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Alpes Suisos/Japao [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Florida/China [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Acapulco/Inglaterra [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Deserto do Saara/Escocia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Fransa/Australia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Grecia/Okazarks [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Italia/Carolina do Norte [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Egito/Floresta de Sherwood [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E09.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Espanha/Himalaia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E10.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]India/Israel [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E11.mkv$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Africa/Sao Francisco [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E12.mkv$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Grande Canyon/Irlanda [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E13.mkv$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Havai/Noruega [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E14.mkv$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Polo Norte/Taiti  [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E15.mkv$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Arizona/Holanda [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E16.mkv$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Quebec/Bagda [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Alpes Suisos/Japao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Florida/China [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Acapulco/Inglaterra [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Deserto do Saara/Escocia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Fransa/Australia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Grecia/Okazarks [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Italia/Carolina do Norte [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Egito/Floresta de Sherwood [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Espanha/Himalaia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]India/Israel [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Africa/Sao Francisco [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Grande Canyon/Irlanda [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Havai/Noruega [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Polo Norte/Taiti  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Arizona/Holanda [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T01/LS-T01E16.mkv$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Quebec/Bagda [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 08 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 08 EPs[/B][/COLOR]</link>	
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E01.mkv$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Russia/Caribe [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E02.mkv$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Nova York/Turquia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E03.mkv$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]America do Sul/Transilvania [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E04.mkv$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] Riviera Francesa/Nova Zelandia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E05.mkv$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Nova Orleans/Atlantida [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E06.mkv$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Marocos/Washington DC [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E07.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Canada/Varsovia - Polonia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E08.mkv$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Siao - Tailandia/A Lua [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Russia/Caribe [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Nova York/Turquia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E03.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]America do Sul/Transilvania [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E04.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] Riviera Francesa/Nova Zelandia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E05.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Nova Orleans/Atlantida [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E06.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Marocos/Washington DC [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Canada/Varsovia - Polonia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Ho-limpicos/T02/LS-T02E08.mkv$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Siao - Tailandia/A Lua [/B][/COLOR]</link>
 	
 <thumbnail>https://www.themoviedb.org/t/p/original/eVi53MC0rKF2iylwseT8eaFxKOX.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>	
@@ -1225,34 +1255,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo e Convidados - FHD DUAL[/B][/COLOR]</title>	
 	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 26 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 26 EPs[/B][/COLOR]</link>	
 	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] A Vingansa do Monstro do Pantano! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Uma Equipe de Detetives Dividida [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Loja de Animais de Terrores Terriveis do Peebles!  [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Elementar Meu Caro Salsicha! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Ollie Sem Brinquedo! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Scooby de Mil Faces!  [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]A Maldisao do Cofre do Professor Madds Markson! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Quando os Urkel-Bos dao Defeito! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E09.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Espectro do Fast Food! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E10.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Ataque do Weird Al-ossauro! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E11.mkv$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Sia, Cade Voce? [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E12.mkv$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Para de Palhasada! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E13.mkv$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Noite de Trevas com o Cavaleiro das Trevas! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E14.mkv$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma Pesadelo da Universidade Psiquica! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E15.mkv$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]A Espada a Raposa e o Scooby-Doo! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E16.mkv$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Misterios de Um Minuto! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E17.mkv$$lsname=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Cavaleiros De Hollywood! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E18.mkv$$lsname=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]O Subterraneo De Nova York! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E19.mkv$$lsname=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Cuidado Com O Monstro De Fogo! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E20.mkv$$lsname=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Bonecos As Pegas! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E21.mkv$$lsname=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]A Senhora Dansarina Da Destruisao! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E22.mkv$$lsname=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]A Bruxa Do Casamento Da Mansao Wainsly [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E23.mkv$$lsname=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Pedaladas Pelo Tempo! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E24.mkv$$lsname=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Eu Vou Enfeitisar Voce! [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E25.mkv$$lsname=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]O Lamento Musical Do Lobisomen Do Colegio!  [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E26.mkv$$lsname=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Scooby-Doo Na Estasao Espacial!  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] A Vingansa do Monstro do Pantano! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Uma Equipe de Detetives Dividida [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Loja de Animais de Terrores Terriveis do Peebles!  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Elementar Meu Caro Salsicha! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Ollie Sem Brinquedo! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Scooby de Mil Faces!  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]A Maldisao do Cofre do Professor Madds Markson! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Quando os Urkel-Bos dao Defeito! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Espectro do Fast Food! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Ataque do Weird Al-ossauro! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Sia, Cade Voce? [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Para de Palhasada! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Noite de Trevas com o Cavaleiro das Trevas! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma Pesadelo da Universidade Psiquica! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]A Espada a Raposa e o Scooby-Doo! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E16.mkv$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Misterios de Um Minuto! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E17.mkv$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Cavaleiros De Hollywood! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E18.mkv$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]O Subterraneo De Nova York! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E19.mkv$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Cuidado Com O Monstro De Fogo! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E20.mkv$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Bonecos As Pegas! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E21.mkv$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]A Senhora Dansarina Da Destruisao! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E22.mkv$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]A Bruxa Do Casamento Da Mansao Wainsly [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E23.mkv$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Pedaladas Pelo Tempo! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E24.mkv$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Eu Vou Enfeitisar Voce! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E25.mkv$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]O Lamento Musical Do Lobisomen Do Colegio!  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Scooby.e.Conv./LS-T01E26.mkv$nome=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Scooby-Doo Na Estasao Espacial!  [/B][/COLOR]</link>
 	
 <thumbnail>https://www.themoviedb.org/t/p/original/uifIEtCUjag8X9a08UCvHImWF2c.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/eI0p3NiMfWPRbRw1XOeB8V0giSd.jpg</fanart>	
@@ -1301,13 +1331,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2010-2012) - SD DUB[/B][/COLOR]</title>	
 	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 26 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 26 EPs[/B][/COLOR]</link>	
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f70fa2865371ed3afdd1b7796628e8e88bc1bc39$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2010) - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f70fa2865371ed3afdd1b7796628e8e88bc1bc39$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2010) - HD DUAL[/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 26 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 26 EPs[/B][/COLOR]</link>	
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DFFA1283A240BCF45DDF8C3D43D15C28A4B25DC$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2012) - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DFFA1283A240BCF45DDF8C3D43D15C28A4B25DC$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2012) - FHD DUAL[/B][/COLOR]</link>
 	
 <thumbnail>https://www.themoviedb.org/t/p/original/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/9vMxBcE4KJs7JevQ9l5eHnUSBZR.jpg</fanart>	
@@ -1319,64 +1349,64 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério S/A (2010-2012) - FHD DUAL[/B][/COLOR]</title>	
 	
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange][B] Temporada 01 - 26 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange][B] Temporada 01 - 26 EPs[/B][/COLOR]</link>	
 	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Cuidado Com o Monstro Que Vem Debaixo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Monstros Assustadores [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Segredo do Caminhao Fantasma [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Vingansa do Homem-Siri[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Musica do Misterio  [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Lenda de Alice May [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] Com Medo do Fantasma [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Nas Garras do Gnomo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E09.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]A Batalha dos Umongonautas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E10.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Uivo do Cao Sinistro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E11.mkv$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]O Soro Secreto [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E12.mkv$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]A Loucura Gritante [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E13.mkv$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Quando a Cigana Chama [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E14.mkv$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Finais Estaduais de Resolusao de Misterios [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E15.mkv$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]A Gangue da Pesada  [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E16.mkv$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Por Onde Anda Afrodite [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E17.mkv$$lsname=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Fuga da Mansao Misteriosa [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E18.mkv$$lsname=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]O Segredo do Dragao [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E19.mkv$$lsname=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]O Susto da Noite [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E20.mkv$$lsname=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]A Cansao da Sereia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E21.mkv$$lsname=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]A Ameasa da Manticora [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E22.mkv$$lsname=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]O Ataque do Horror Decapitado [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E23.mkv$$lsname=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Uma Assombrasao Em Baia Cristal [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E24.mkv$$lsname=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Justisa Morta [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E25.mkv$$lsname=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Peao das Sombras [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E26.mkv$$lsname=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Todos Fogem do Feio [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Cuidado Com o Monstro Que Vem Debaixo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Monstros Assustadores [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Segredo do Caminhao Fantasma [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Vingansa do Homem-Siri[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Musica do Misterio  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Lenda de Alice May [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] Com Medo do Fantasma [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Nas Garras do Gnomo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]A Batalha dos Umongonautas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Uivo do Cao Sinistro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]O Soro Secreto [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]A Loucura Gritante [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Quando a Cigana Chama [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Finais Estaduais de Resolusao de Misterios [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]A Gangue da Pesada  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E16.mkv$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Por Onde Anda Afrodite [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E17.mkv$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Fuga da Mansao Misteriosa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E18.mkv$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]O Segredo do Dragao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E19.mkv$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]O Susto da Noite [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E20.mkv$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]A Cansao da Sereia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E21.mkv$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]A Ameasa da Manticora [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E22.mkv$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]O Ataque do Horror Decapitado [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E23.mkv$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Uma Assombrasao Em Baia Cristal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E24.mkv$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Justisa Morta [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E25.mkv$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Peao das Sombras [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T01/LS-T01E26.mkv$nome=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Todos Fogem do Feio [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange][B] Temporada 02 - 26 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange][B] Temporada 02 - 26 EPs[/B][/COLOR]</link>	
 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E01.mkv$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Noite que o Palhaso Chorou [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E02.mkv$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]A Casa Da Bruxa Da Pesadelo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E03.mkv$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Noite que o Palhaso Chorou 2: Lagrimas de Desespero [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E04.mkv$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E05.mkv$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Teia do Tecelao dos Sonhos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E06.mkv$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Hodag Do Horror [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E07.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Arte das Trevas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E08.mkv$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Encontro Escuro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E09.mkv$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Noite Na Montanha Assombrada [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E10.mkv$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Julgamento Sinistro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E11.mkv$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Terror a Noite [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E12.mkv$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]A Area da Meia Noite [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E13.mkv$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Urso do Medo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E14.mkv$$lsname=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]A Ira de Krampus [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E15.mkv$$lsname=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Corasao Maligno [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E16.mkv$$lsname=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Teatro Mortal [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E17.mkv$$lsname=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Aliens Entre Nos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E18.mkv$$lsname=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]A Manada Monstruosa [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E19.mkv$$lsname=[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]A Dansa dos Mortos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E20.mkv$$lsname=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]O Devorador [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E21.mkv$$lsname=[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]Maos ao Alto [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E22.mkv$$lsname=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]O Homem No Espelho [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E23.mkv$$lsname=[COLOR orange][B]T02E23[COLOR yellow] -> [COLOR white]Pesadelo em Vermelho [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E24.mkv$$lsname=[COLOR orange][B]T02E24[COLOR yellow] -> [COLOR white]Noite Escura dos Casadores [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E25.mkv$$lsname=[COLOR orange][B]T02E25[COLOR yellow] -> [COLOR white]Os Portoes da Tristeza [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E26.mkv$$lsname=[COLOR orange][B]T02E26[COLOR yellow] -> [COLOR white]Alem da Cortina [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E27.mkv$$lsname=[COLOR orange][B]T02E27[COLOR yellow] -> [COLOR white]Desmoronando [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Noite que o Palhaso Chorou [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]A Casa Da Bruxa Da Pesadelo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E03.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Noite que o Palhaso Chorou 2: Lagrimas de Desespero [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E04.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E05.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Teia do Tecelao dos Sonhos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E06.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Hodag Do Horror [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Arte das Trevas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E08.mkv$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Encontro Escuro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E09.mkv$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Noite Na Montanha Assombrada [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E10.mkv$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Julgamento Sinistro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E11.mkv$nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Terror a Noite [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E12.mkv$nome=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]A Area da Meia Noite [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E13.mkv$nome=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Urso do Medo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E14.mkv$nome=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]A Ira de Krampus [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E15.mkv$nome=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Corasao Maligno [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E16.mkv$nome=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Teatro Mortal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E17.mkv$nome=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Aliens Entre Nos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E18.mkv$nome=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]A Manada Monstruosa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E19.mkv$nome=[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]A Dansa dos Mortos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E20.mkv$nome=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]O Devorador [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E21.mkv$nome=[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]Maos ao Alto [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E22.mkv$nome=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]O Homem No Espelho [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E23.mkv$nome=[COLOR orange][B]T02E23[COLOR yellow] -> [COLOR white]Pesadelo em Vermelho [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E24.mkv$nome=[COLOR orange][B]T02E24[COLOR yellow] -> [COLOR white]Noite Escura dos Casadores [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E25.mkv$nome=[COLOR orange][B]T02E25[COLOR yellow] -> [COLOR white]Os Portoes da Tristeza [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E26.mkv$nome=[COLOR orange][B]T02E26[COLOR yellow] -> [COLOR white]Alem da Cortina [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Misterio.SA/T02/LS-T02E27.mkv$nome=[COLOR orange][B]T02E27[COLOR yellow] -> [COLOR white]Desmoronando [/B][/COLOR]</link>
 			
 <thumbnail>https://www.themoviedb.org/t/p/original/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/9vMxBcE4KJs7JevQ9l5eHnUSBZR.jpg</fanart>	
@@ -1430,14 +1460,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedaSérie - FHD DUAL[/B][/COLOR]</title>	
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
 	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <thumbnail>ICONEDASÉRIE</thumbnail>	
@@ -1450,10 +1480,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedaSérie - FHD DUAL[/B][/COLOR]</title>	
 	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>	
 	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <thumbnail>ICONEDASÉRIE</thumbnail>	
