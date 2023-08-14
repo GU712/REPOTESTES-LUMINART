@@ -1,255 +1,87 @@
-#EXTM3U
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (1990) 10 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/aqjPjIrGl3gVM2BVj5q7SGV9pfV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m7PRmak5cwslkGYpqzpULSxAHTs.jpg</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]007 Sem Tempo para Morrer (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/007.Sem.Tempo.para.Morrer.2021.REPACK2.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H264-DUAL-NOTIMETOCRY.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]10 Coisas que Deveriamos Fazer Antes de nos Separar (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/10.Coisas.que.Deveriamos.Fazer.Antes.de.nos.Separar.2020.1080p.BluRay.x264-BdC.DUAL-RK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]2067 (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/2067.2020.1080p.BluRay.x264-MiMiC.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]7 Prisioneiros (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/7.Prisioneiros.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Família Addams 2: Pé na Estrada - The Addams Family 2 (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A%20Fam%C3%ADlia%20Addams%202:%20P%C3%A9%20na%20Estrada%20-%20The.Addams.Family.2.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-CMRG.DUAL-JK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Mansão - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A%20Mans%C3%A3o%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Menina Que Matou os Pais - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A%20Menina%20Que%20Matou%20os%20Pais%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Missy Errada - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A%20Missy%20Errada%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Oitava Noite (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A%20Oitava%20Noite%20(2021)%201080p%20EAC3.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Cacada (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A.Cacada.2020.1080p.BluRay.x264-WUTANG.DUAL-RK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Cinderella Story Starstruck (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A.Cinderella.Story.Starstruck.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.DUAL-G4RiS.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Lenda de Candyman (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A.Lenda.de.Candyman.2021.1080p.BluRay.x264-BLOW.DUAL-RK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Princesa e a Plebeia As Vilas Tambem Amam (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A.Princesa.e.a.Plebeia.As.Vilas.Tambem.Amam.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Subida (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A.Subida.2020.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Ultima Carta de Amor (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/A.Ultima.Carta.de.Amor.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]After Depois do Desencontro (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/After.Depois.do.Desencontro.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.DUAL.THYRSO10.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Alerta Vermelho (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Alerta.Vermelho.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]America - The Motion Picture - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/America%20-%20The%20Motion%20Picture%20-%202021%20-%201080p%20-%20NF.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Amina (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Amina.2021.1080p.NF.WEB-DL.DDP5.1.x264-WolfCrazy.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Amizade de Férias - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Amizade%20de%20F%C3%A9rias%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Amizade Radical - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Amizade%20Radical%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Amizade Colorida (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Amizade.Colorida.2021.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Apex (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Apex.2021.1080p.WEBRip.DD5.1.x264-NOGRP.DUAL-JK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Avos (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Avos.2020.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Aya e a Bruxa (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Aya.e.a.Bruxa.2020.1080p.NF.WEB-DL.DDP5.1.x264-SiGLA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Bad Boys Para Sempre - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Bad%20Boys%20Para%20Sempre%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Boss Level (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Boss.Level.2020.BluRay.1080p.DTS.x264-PRoDJi.DUAL-JK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Caça Invisível - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Ca%C3%A7a%20Invis%C3%ADvel%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Caminhos da Memória - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Caminhos%20da%20Mem%C3%B3ria%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Chamada Explosiva (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Chamada.Explosiva.2021.1080p.NF.WEB-DL.DDP5.1.x264-WolfCrazy.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Cidade de Gelo - (2021)FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Cidade%20de%20Gelo%20-%202021%20-%20Dual%20%C3%81udio%205.1%20-%201080p%20-%20NF.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Cinderela (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Cinderela.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-SiGLA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Conspiracao Implacavel (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Conspiracao.Implacavel.2021.1080p.TC.WEB-DL.AAC2.0.H.264-SiGLA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Coquetel Explosivo (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Coquetel.Explosivo.2021.1080p.BluRay.x264-EXTREME.DUAL-RK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Dano Colateral - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Dano%20Colateral%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Duna (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Duna.2021.1080p.HMAX.10bit.WEBRip.DDP5.1.x265.HEVC-PSA.Dual.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Duna (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Duna.2021.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-FLUX.DUAL-RK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Dupla Explosiva 2 - E a Primeira-Dama do Crime - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Dupla%20Explosiva%202%20-%20E%20a%20Primeira-Dama%20do%20Crime%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Em Guerra com o Vovô - (2020)FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Em%20Guerra%20com%20o%20Vov%C3%B4%20-%202020%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Entre Tiros e Beijos (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Entre.Tiros.e.Beijos.2021.1080p.BluRay.x264-PiGNUS.DUAL-RK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Esticando a Festa - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Esticando%20a%20Festa%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Every Breath You Take (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Every.Breath.You.Take.2021.1080p.BluRay.x264-VETO.DUAL-RK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]F9 The Fast Saga (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/F9.The.Fast.Saga.2021.1080p.BluRay.x264-RUSTED.DUAL-G4RiS4ever.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Finch (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Finch.2021.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-SiGLA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Flummels Extintos (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Flummels.Extintos.2021.1080p.NF.WEB-DL.DDP5.1.x264-WolfCrazy.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Free Guy Assumindo o Controle (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Free.Guy.Assumindo.o.Controle.2021.1080p.BluRay.x264-Ulysse.DUAL-GoT.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Friends - A Reunião (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Friends%20-%20A%20Reuni%C3%A3o%20(2021)%201080p%20AC3.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]G I  Joe Origens - Snake Eyes - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/G.I.%20Joe%20Origens%20-%20Snake%20Eyes%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Garota da Moto (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Garota.da.Moto.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Home Sweet Home Alone REPACK (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Home.Sweet.Home.Alone.REPACK.2021.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-SiGLA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Ilhados - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Ilhados%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Infiltrado - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Infiltrado%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Iniciação - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Inicia%C3%A7%C3%A3o%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Injustice (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Injustice.2021.1080p.BluRay.DTS.x264-MTeam.DUAL-PD.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Invocação do Mal 3 - A Ordem do Demônio (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Invoca%C3%A7%C3%A3o%20do%20Mal%203%20-%20A%20Ordem%20do%20Dem%C3%B4nio%20(2021)%201080p%20AC3.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Judas e o Messias Negro - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Judas%20e%20o%20Messias%20Negro%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Judas e o Messias Negro (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Judas%20e%20o%20Messias%20Negro%20(2021)%201080p%20AC3.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Jumanji Próxima Fase - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Jumanji%20Pr%C3%B3xima%20Fase%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Lindo de Morrer - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Lindo%20de%20Morrer%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Loucuras de Verão - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Loucuras%20de%20Ver%C3%A3o%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Madres - Mães de Ninguém - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Madres%20-%20M%C3%A3es%20de%20Ningu%C3%A9m%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Malignant (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Malignant.2021.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Meu Irmão, Minha Irmã - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Meu%20Irm%C3%A3o,%20Minha%20Irm%C3%A3%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Monster Hunter - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Monster%20Hunter%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Mortal Kombat - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Mortal%20Kombat%20-%202021%20-%201080p%20-%20HEVC%20-%20265%20-%20AMZN.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Mortal Kombat (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Mortal%20Kombat%20(2021)%201080p%20EAC3.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Mulan - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Mulan%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Na Mira do Perigo - (2021)FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Na%20Mira%20do%20Perigo%20-%202021%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Natal em 8 Bits (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Natal.em.8.Bits.2021.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Negra Como a Noite - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Negra%20Como%20a%20Noite%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Nem um Passo em Falso (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Nem%20um%20Passo%20em%20Falso%20(2021)%201080p%20AC3.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]No Gogo do Paulinho - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/No%20Gogo%20do%20Paulinho%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Noitários de Arrepiar - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Noit%C3%A1rios%20de%20Arrepiar%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]O Caso de Richard Jewell - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/O%20Caso%20de%20Richard%20Jewell%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]O Céu da Meia-Noite - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/O%20C%C3%A9u%20da%20Meia-Noite%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]O Esquadrão Suicida - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/O%20Esquadr%C3%A3o%20Suicida%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]O Halloween do Hubie - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/O%20Halloween%20do%20Hubie%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]O Homem nas Trevas 2 (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/O%20Homem%20nas%20Trevas%202.2021.BRRip.1080p.H264.AC3.Dual.Tontom.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]O Menino Que Matou Meus Pais - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/O%20Menino%20Que%20Matou%20Meus%20Pais%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]O Mensageiro do Último Dia - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/O%20Mensageiro%20do%20%C3%9Altimo%20Dia%20-%202020%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]O Príncipe Esquecido - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/O%20Pr%C3%ADncipe%20Esquecido%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]O Esquadrao Suicida (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/O.Esquadrao.Suicida.2021.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-SiGLA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]O Jardim Secreto (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/O.Jardim.Secreto.2020.1080p.HMAX.WEB-DL.DD5.1.x264.DUAL-Cory.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Os Pequenos Vestígios - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Os%20Pequenos%20Vest%C3%ADgios%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Os Pequenos Vestígios (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Os%20Pequenos%20Vest%C3%ADgios%20(2021)%201080p%20EAC3.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Os Muitos Santos de Newark (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Os.Muitos.Santos.de.Newark.2021.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Os Pequenos Vestígios (2021 FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Os.Pequenos.Vest%C3%ADgios.2021.1080p.HMAX.WEB-DL.DDP5.1.Atmos.H.264-SiGLA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Panico em Casa (2021 FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Panico.em.Casa.2021.1080p.iT.WEB-DL.DD5.1.H.264.DUAL-PD.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Pássaros de Liberdade - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/P%C3%A1ssaros%20de%20Liberdade%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]PAW Patrol The Movie (2021 FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/PAW.Patrol.The.Movie.2021.1080p.BluRay.x264.DTS-MT.DUAL.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Perdidos na Escuridao (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Perdidos.na.Escuridao.2020.1080p.TC.WEB-DL.AAC2.0.H.264-SiGLA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Pixie - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Pixie%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Quanto Vale - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Quanto%20Vale%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Roe V Wade (2021 FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Roe.V.Wade.2021.1080p.BluRay.x264-FREEMAN.DUAL-JP.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Rogai por Nós (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Rogai%20por%20N%C3%B3s%20(2021)%201080p%20AC3.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Rogai por Nós (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Rogai%20por%20N%C3%B3s%20(The%20Unholy)%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Sem Retorno - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Sem%20Retorno%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Sem Saida - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Sem%20Saida%20-%202021%20-%20Dual%20%C3%81udio%205.1%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Shang Chi and the Legend of the Ten Rings (2021 FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-MZABI.Dual.Audio-DalmacioJR.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Shang-Chi And The Legend Of The Ten Rings (2021 FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080p.BluRay.DTS.x264-VETO.DUAL-Cory.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Skylines (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Skylines.2020.1080p.BluRay.x264-PiGNUS.DUAL-3LT0N.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Snake Eyes G I Joe Origins (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Snake.Eyes.G.I.Joe.Origins.2021.1080p.AMZN.WEB-DL.DDP5.1.H264-CMRG.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Sonic The Hedgehog - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Sonic%20The%20Hedgehog%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Space Jam A New Legacy (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Space.Jam.A.New.Legacy.2021.1080p.REMUX.BluRay.AVC.DTS-HD.MA.DUAL-ASM.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Spin (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Spin.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-Telly.Dual-SHAKA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Super-Inteligência - (2020) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Super-Intelig%C3%AAncia%20-%202020%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Sweet Girl (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Sweet.Girl.2021.1080p.NF.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-AGLET.Dual.Audio-DalmacioJR.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]The Deep House (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/The.Deep.House.2021.1080p.WEB-DL.DD5.1.H264-SLOT.DUAL-RK.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]The Harder They Fall (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/The.Harder.They.Fall.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]The Night House (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/The.Night.House.2021.1080p.BluRay.DDP5.1.x264-iFT.DUAL-Cory.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Tom & Jerry - O Filme - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Tom%20&%20Jerry%20-%20O%20Filme%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Tom and Jerry (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Tom.and.Jerry.2021.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-NTb.DUAL-BRT.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Tsunami Zumbi - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Tsunami%20Zumbi%20-%202021%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - Parte II (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Um%20Lugar%20Silencioso%20-%20Parte%20II%20(2021)%201080p%20AC3.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Príncipe em Nova York 2 - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Um%20Pr%C3%ADncipe%20em%20Nova%20York%202%20-%202021%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Fim De Semana Prolongado (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Um.Fim.De.Semana.Prolongado.2021.1080p.HMAX.WEB-DL.DD2.0.x264-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Match Surpresa (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Um.Match.Surpresa.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Under Wraps - Uma Múmia no Halloween - (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Under%20Wraps%20-%20Uma%20M%C3%BAmia%20no%20Halloween%20-%202021%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vacation Friends (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Vacation.Friends.2021.1080p.DSNP.WEB-DL.DDP5.1.H.264-TEPES.DUAL.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Yara (2021) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202020/Yara.2021.1080p.NF.WEB-DL.DDP5.1.x264-PiA.mkv
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Os Impostores[/B][/COLOR]</title>
+<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/02.%20Os%20Impostores.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]O Grande Roubo[/B][/COLOR]</title>
+<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/03.%20O%20Grande%20Roubo.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Inimigos Cordiais[/B][/COLOR]</title>
+<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/04.%20Inimigos%20Cordiais.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Mercado Negro[/B][/COLOR]</title>
+<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/05.%20Mercado%20Negro.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]A Grande Onda de Crimes[/B][/COLOR]</title>
+<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/06.%20A%20Grande%20Onda%20de%20Crimes.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Grande Falsário[/B][/COLOR]</title>
+<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/07.%20O%20Grande%20Fals%C3%A1rio.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Missão Fatal[/B][/COLOR]</title>
+<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/08.%20Miss%C3%A3o%20Fatal.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Sentença De Morte[/B][/COLOR]</title>
+<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/09.%20Senten%C3%A7a%20De%20Morte.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]O Grande Golpe Dublado[/B][/COLOR]</title>
+<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/1.%20O%20Grande%20Golpe%20Dublado.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]A Bomba Relógio[/B][/COLOR]</title>
+<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/10.%20A%20Bomba%20Rel%C3%B3gio.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
