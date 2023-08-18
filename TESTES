@@ -1,87 +1,93 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]DANIEL BOONE[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]TEMP 01 (1990) 10 EPs - HD DUB[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/aqjPjIrGl3gVM2BVj5q7SGV9pfV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/m7PRmak5cwslkGYpqzpULSxAHTs.jpg</fanart>
-</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]NOMEDASERIE[/B][/COLOR]
+LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Os Impostores[/B][/COLOR]</title>
-<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/02.%20Os%20Impostores.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]O Grande Roubo[/B][/COLOR]</title>
-<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/03.%20O%20Grande%20Roubo.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Inimigos Cordiais[/B][/COLOR]</title>
-<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/04.%20Inimigos%20Cordiais.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Mercado Negro[/B][/COLOR]</title>
-<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/05.%20Mercado%20Negro.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]A Grande Onda de Crimes[/B][/COLOR]</title>
-<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/06.%20A%20Grande%20Onda%20de%20Crimes.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Grande Falsário[/B][/COLOR]</title>
-<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/07.%20O%20Grande%20Fals%C3%A1rio.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Missão Fatal[/B][/COLOR]</title>
-<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/08.%20Miss%C3%A3o%20Fatal.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Sentença De Morte[/B][/COLOR]</title>
-<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/09.%20Senten%C3%A7a%20De%20Morte.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]O Grande Golpe Dublado[/B][/COLOR]</title>
-<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/1.%20O%20Grande%20Golpe%20Dublado.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]A Bomba Relógio[/B][/COLOR]</title>
-<link>https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Os%20Guerrilheiros%20(1967%20-%201968)%20Dublado%20(Alguns%20epis%C3%B3dios)/10.%20A%20Bomba%20Rel%C3%B3gio.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fgShnIZMvAJh51GOJkG3mmlrae1.jpg</thumbnail><fanart><FUNDO></fanart></item>
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E01[COLOR yellow] -> [COLOR white]Ken-Tuck-E[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x01%20-%20Ken-Tuck-E.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E02[COLOR yellow]%20->%20[COLOR white]Tekawitha%20McLeod[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x02%20-%20Tekawitha%20McLeod.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E03[COLOR yellow]%20->%20[COLOR white]My%20Brother's%20Keeper[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x03%20-%20My%20Brother's%20Keeper.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E04[COLOR yellow]%20->%20[COLOR white]The%20Family%20Fluellen[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x04%20-%20The%20Family%20Fluellen.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E05[COLOR yellow]%20->%20[COLOR white]The%20Choosing[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x05%20-%20The%20Choosing.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E06[COLOR yellow]%20->%20[COLOR white]Lac%20Duquesne[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x06%20-%20Lac%20Duquesne.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E07[COLOR yellow]%20->%20[COLOR white]The%20Sound%20of%20Wings[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x07%20-%20The%20Sound%20of%20Wings.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E08[COLOR yellow]%20->%20[COLOR white]A%20Short%20Walk%20to%20Salem[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x08%20-%20A%20Short%20Walk%20to%20Salem.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E09[COLOR yellow]%20->%20[COLOR white]The%20Sisters%20O'Hannrahan[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x09%20-%20The%20Sisters%20O'Hannrahan.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E10[COLOR yellow]%20->%20[COLOR white]Pompey[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x10%20-%20Pompey.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E11[COLOR yellow]%20->%20[COLOR white]Mountain%20of%20the%20Dead[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x11%20-%20Mountain%20of%20the%20Dead.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E12[COLOR yellow]%20->%20[COLOR white]Not%20in%20Our%20Stars[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x12%20-%20Not%20in%20Our%20Stars.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E13[COLOR yellow]%20->%20[COLOR white]The%20Hostages[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x13%20-%20The%20Hostages.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E14[COLOR yellow]%20->%20[COLOR white]The%20Returning[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x14%20-%20The%20Returning.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E15[COLOR yellow]%20->%20[COLOR white]The%20Prophet[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x15%20-%20The%20Prophet.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E16[COLOR yellow]%20->%20[COLOR white]The%20First%20Stone[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x16%20-%20The%20First%20Stone.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E17[COLOR yellow]%20->%20[COLOR white]A%20Place%20of%20%20Spirits[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x17%20-%20A%20Place%20of%201000%20Spirits.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E18[COLOR yellow]%20->%20[COLOR white]The%20Sound%20of%20Fear[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x18%20-%20The%20Sound%20of%20Fear.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E19[COLOR yellow]%20->%20[COLOR white]The%20Price%20of%20Friendship[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x19%20-%20The%20Price%20of%20Friendship.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E20[COLOR yellow]%20->%20[COLOR white]The%20Quietists[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x20%20-%20The%20Quietists.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E21[COLOR yellow]%20->%20[COLOR white]The%20Devil's%20Four[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x21%20-%20The%20Devil's%20Four.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E22[COLOR yellow]%20->%20[COLOR white]The%20Reunion[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x22%20-%20The%20Reunion.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E23[COLOR yellow]%20->%20[COLOR white]The%20Ben%20Franklin%20Encounter[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x23%20-%20The%20Ben%20Franklin%20Encounter.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E24[COLOR yellow]%20->%20[COLOR white]Four-Leaf%20Clover[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x24%20-%20Four-Leaf%20Clover.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E25[COLOR yellow]%20->%20[COLOR white]Cain's%20Birthday%20(Parte%201)[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x25%20-%20Cain's%20Birthday%20-%20Part%201.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E26[COLOR yellow]%20->%20[COLOR white]Cain's%20Birthday%20(Parte%202)[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x26%20-%20Cain's%20Birthday%20-%20Part%202.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E27[COLOR yellow]%20->%20[COLOR white]Daughter%20of%20the%20Devil[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x27%20-%20Daughter%20of%20the%20Devil.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E28[COLOR yellow]%20->%20[COLOR white]Doll%20of%20Sorrow%20[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x28%20-%20Doll%20of%20Sorrow.mkv
+#EXTINF:-1%20tvg-logo="CAPA" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange]LS-T01E29[COLOR yellow]%20->%20[COLOR white]The%20Courtship%20of%20Jericho%20Jones[/B][/COLOR]
+https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x29%20-%20The%20Courtship%20of%20Jericho%20Jones.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
