@@ -1,522 +1,164 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]DANIEL BOONE[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E01[COLOR yellow] -> [COLOR white]Império da Perda[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E01%20-%20Imp%C3%A9rio%20da%20Perda.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E02[COLOR yellow] -> [COLOR white]A tartaruga e a lebre[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E02%20-%20A%20tartaruga%20e%20a%20lebre.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E03[COLOR yellow] -> [COLOR white]O vale do fogo[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E03%20-%20O%20vale%20do%20fogo.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E04[COLOR yellow] -> [COLOR white]Meu nome é Rawl[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E04%20-%20Meu%20nome%20%C3%A9%20Rawl.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E05[COLOR yellow] -> [COLOR white]A caverna e o homem velho[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E05%20-%20A%20caverna%20e%20o%20homem%20velho.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E06[COLOR yellow] -> [COLOR white]A viagem[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E06%20-%20A%20viagem.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E07[COLOR yellow] -> [COLOR white]A historia de Aaron Burr[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E07%20-%20A%20historia%20de%20Aaron%20Burr.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E08[COLOR yellow] -> [COLOR white]Lagrima de Ouro[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E08%20-%20Lagrima%20de%20Ouro.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E09[COLOR yellow] -> [COLOR white]A arvore da paz[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E09%20-%20A%20arvore%20da%20paz.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E10[COLOR yellow] -> [COLOR white]Celebração do dia de gracas[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E10%20-%20Celebra%C3%A7%C3%A3o%20do%20dia%20de%20gracas.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E11[COLOR yellow] -> [COLOR white]Uma forca para mingo[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E11%20-%20Uma%20forca%20para%20mingo.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E12[COLOR yellow] -> [COLOR white]Primeiro namorado[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E12%20-%20Primeiro%20namorado.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E13[COLOR yellow] -> [COLOR white]Jornada Arriscada[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E13%20-%20Jornada%20Arriscada.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E14[COLOR yellow] -> [COLOR white]Historia de natal[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E14%20-%20Historia%20de%20natal.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E15[COLOR yellow] -> [COLOR white]O Caso do massacre de tamarack[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E15%20-%20O%20Caso%20do%20massacre%20de%20tamarack.avi
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E16[COLOR yellow] -> [COLOR white]Gabriel Lajan[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E16%20-%20Gabriel%20Lajan.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E17[COLOR yellow] -> [COLOR white]Território Seminole[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E17%20-%20Territ%C3%B3rio%20Seminole.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E18[COLOR yellow] -> [COLOR white]O Desertor[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E18%20-%20O%20Desertor.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E19[COLOR yellow] -> [COLOR white]Crise de fogo[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E19%20-%20Crise%20de%20fogo.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E20[COLOR yellow] -> [COLOR white]A Arma[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E20%20-%20A%20Arma.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E21[COLOR yellow] -> [COLOR white]Os Prisioneiros[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E21%20-%20Os%20Prisioneiros.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E22[COLOR yellow] -> [COLOR white]O Quinto Homem[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E22%20-%20O%20Quinto%20Homem.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E23[COLOR yellow] -> [COLOR white]A Estrada[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E23%20-%20A%20Estrada.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E24[COLOR yellow] -> [COLOR white]A Busca[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E24%20-%20A%20Busca.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E25[COLOR yellow] -> [COLOR white]Cinquenta Rifles[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E25%20-%20Cinquenta%20Rifles.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E26[COLOR yellow] -> [COLOR white]Emboscada[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E26%20-%20Emboscada.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E27[COLOR yellow] -> [COLOR white]Acusado[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E27%20-%20Acusado.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E28[COLOR yellow] -> [COLOR white]A Cibola[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E28%20-%20A%20Cibola.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E29[COLOR yellow] -> [COLOR white]Caravana Para Cumberland[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E29%20-%20Caravana%20Para%20Cumberland.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T02E30[COLOR yellow] -> [COLOR white]Meu amigo Urso[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E30%20-%20Meu%20amigo%20Urso.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E01[COLOR yellow] -> [COLOR white]A caçada[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E01%20-%20A%20ca%C3%A7ada.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E02[COLOR yellow] -> [COLOR white]O Levante[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E02%20-%20O%20Levante.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E03[COLOR yellow] -> [COLOR white]Uma Dívida de honra[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E03%20-%20Uma%20D%C3%ADvida%20de%20honra.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E04[COLOR yellow] -> [COLOR white]A Estrada[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E04%20-%20A%20Estrada.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E05[COLOR yellow] -> [COLOR white]A emboscada[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E05%20-%20A%20emboscada.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E06[COLOR yellow] -> [COLOR white]A corrida[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E06%20-%20A%20corrida.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E07[COLOR yellow] -> [COLOR white]O casamenteiro[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E07%20-%20O%20casamenteiro.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E08[COLOR yellow] -> [COLOR white]Onatha[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E08%20-%20Onatha.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E09[COLOR yellow] -> [COLOR white]Corrida contra o tempo[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E09%20-%20Corrida%20contra%20o%20tempo.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E10[COLOR yellow] -> [COLOR white]A Arma Encantada[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E10%20-%20A%20Arma%20Encantada.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E11[COLOR yellow] -> [COLOR white]O Mestiço[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E11%20-%20O%20Mesti%C3%A7o.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E12[COLOR yellow] -> [COLOR white]A Colônia Perdida[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E12%20-%20A%20Col%C3%B4nia%20Perdida.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E13[COLOR yellow] -> [COLOR white]A Passagem Do Rio[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E13%20-%20A%20Passagem%20Do%20Rio.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E14[COLOR yellow] -> [COLOR white]O Resgate do Príncipe[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E14%20-%20O%20Resgate%20do%20Pr%C3%ADncipe.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E15[COLOR yellow] -> [COLOR white]O Símbolo[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E15%20-%20O%20S%C3%ADmbolo.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E16[COLOR yellow] -> [COLOR white]O canhão de williamsburg (parte 1)[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E16%20-%20O%20canh%C3%A3o%20de%20williamsburg%20parte%201.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E17[COLOR yellow] -> [COLOR white]O canhão de williamsburg (parte 2)[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E17%20-%20O%20canh%C3%A3o%20de%20williamsburg%20parte%202.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E18[COLOR yellow] -> [COLOR white]O Homem Lobo[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E18%20-%20O%20Homem%20Lobo.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E19[COLOR yellow] -> [COLOR white]A  História  De  Jaspers Ledbedded[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E19%20-%20A%20%20Hist%C3%B3ria%20%20De%20%20Jaspers%20Ledbedded.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E20[COLOR yellow] -> [COLOR white]Quando me tornei um homem[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E20%20-%20Quando%20me%20tornei%20um%20homem.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E21[COLOR yellow] -> [COLOR white]O longo caminho para casa[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E21%20-%20O%20longo%20caminho%20para%20casa.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E22[COLOR yellow] -> [COLOR white]Familia unida[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E22%20-%20Familia%20unida.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E23[COLOR yellow] -> [COLOR white]Jones[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E23%20-%20Jones.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E24[COLOR yellow] -> [COLOR white]O colar[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E24%20-%20O%20colar.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E25[COLOR yellow] -> [COLOR white]Ponto Oeste[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E25%20-%20Ponto%20Oeste.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T03E26[COLOR yellow] -> [COLOR white]Amarga Missão[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E26%20-%20Amarga%20Miss%C3%A3o.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T04E01[COLOR yellow] -> [COLOR white]A Odisséia[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E02%20-%20A%20Odiss%C3%A9ia.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T04E02[COLOR yellow] -> [COLOR white]O Renegado[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E03%20-%20O%20Renegado.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T04E03[COLOR yellow] -> [COLOR white]A herança[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E07%20-%20A%20heran%C3%A7a.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T04E04[COLOR yellow] -> [COLOR white]O Cavalo Espanhol[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E11%20-%20O%20Cavalo%20Espanhol.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T04E05[COLOR yellow] -> [COLOR white]O codigo secreto[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E13%20-%20O%20codigo%20secreto.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T04E06[COLOR yellow] -> [COLOR white]Bem vindo heroi[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E21%20-%20Bem%20vindo%20heroi.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E01[COLOR yellow] -> [COLOR white]Seja grato pela inconstância das mulheres[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E01%20-%20Seja%20grato%20pela%20inconst%C3%A2ncia%20das%20mulheres.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E02[COLOR yellow] -> [COLOR white]O melro[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E02%20-%20O%20melro.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E03[COLOR yellow] -> [COLOR white]O dândi[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E03%20-%20O%20d%C3%A2ndi.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E04[COLOR yellow] -> [COLOR white]A praga que atingiu a Ford's Run[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E05%20-%20A%20praga%20que%20atingiu%20a%20Ford's%20Run.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E05[COLOR yellow] -> [COLOR white]A Isca[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E06%20-%20A%20Isca.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E06[COLOR yellow] -> [COLOR white]Grande, preto e lá fora[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E07%20-%20Grande,%20preto%20e%20l%C3%A1%20fora.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E07[COLOR yellow] -> [COLOR white]Bandeira de Trégua[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E09%20-%20Bandeira%20de%20Tr%C3%A9gua.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E08[COLOR yellow] -> [COLOR white]A Volta do Caniço [/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E11%20-%20A%20Volta%20do%20Cani%C3%A7o%20.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E09[COLOR yellow] -> [COLOR white]Minnow para um tubarão[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E12%20-%20Minnow%20para%20um%20tubar%C3%A3o.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E10[COLOR yellow] -> [COLOR white]Matar um Gigante[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E13%20-%20Matar%20um%20Gigante.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E11[COLOR yellow] -> [COLOR white]Três Pontos e Dez[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E16%20-%20Tr%C3%AAs%20Pontos%20e%20Dez.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E12[COLOR yellow] -> [COLOR white]Jonah[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E17%20-%20Jonah.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E13[COLOR yellow] -> [COLOR white]A Ponte[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E18%20-%20A%20Ponte.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E14[COLOR yellow] -> [COLOR white]Um Toque de Caridade[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E19%20-%20Um%20Toque%20de%20Caridade.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E15[COLOR yellow] -> [COLOR white]Por falta de um herói[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E20%20-%20Por%20falta%20de%20um%20her%C3%B3i.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E16[COLOR yellow] -> [COLOR white]Um Toque de Caridade[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E21%20-%20Um%20Toque%20de%20Caridade.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E17[COLOR yellow] -> [COLOR white]Os aliados[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E22%20-%20Os%20aliados.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E18[COLOR yellow] -> [COLOR white]Os aliados[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E24%20-%20Os%20aliados.mp4
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]P9-T05E19[COLOR yellow] -> [COLOR white]Pelo Amor de Molly[/B][/COLOR]
+https://new.ls.lsnew.workers.dev/8:/Antigas%20(Cl%C3%A1ssicos)%20/Daniel%20Boone%20(1964%20-%201970)%20Dublado%20e%20Espanhol/2%C2%BA%20Tp%2030%20Epis%C3%B3dios%20Dublado%20-%20Daniel%20Boone/Daniel.Boone.S02E27%20-%20Pelo%20Amor%20de%20Molly.mp4
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]Daniel Boone[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - SD LEG[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Ken-Tuck-E[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x01%20-%20Ken-Tuck-E.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Tekawitha McLeod[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x02%20-%20Tekawitha%20McLeod.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]My Brother's Keeper[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x03%20-%20My%20Brother's%20Keeper.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]The Family Fluellen[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x04%20-%20The%20Family%20Fluellen.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]The Choosing[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x05%20-%20The%20Choosing.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Lac Duquesne[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x06%20-%20Lac%20Duquesne.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]The Sound of Wings[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x07%20-%20The%20Sound%20of%20Wings.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]A Short Walk to Salem[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x08%20-%20A%20Short%20Walk%20to%20Salem.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]The Sisters O'Hannrahan[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x09%20-%20The%20Sisters%20O'Hannrahan.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Pompey[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x10%20-%20Pompey.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Mountain of the Dead[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x11%20-%20Mountain%20of%20the%20Dead.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Not in Our Stars[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x12%20-%20Not%20in%20Our%20Stars.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]The Hostages[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x13%20-%20The%20Hostages.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]The Returning[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x14%20-%20The%20Returning.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]The Prophet[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x15%20-%20The%20Prophet.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]The First Stone[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x16%20-%20The%20First%20Stone.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]A Place of  Spirits[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x17%20-%20A%20Place%20of%201000%20Spirits.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]The Sound of Fear[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x18%20-%20The%20Sound%20of%20Fear.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]The Price of Friendship[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x19%20-%20The%20Price%20of%20Friendship.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]The Quietists[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x20%20-%20The%20Quietists.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]The Devil's Four[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x21%20-%20The%20Devil's%20Four.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]The Reunion[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x22%20-%20The%20Reunion.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]The Ben Franklin Encounter[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x23%20-%20The%20Ben%20Franklin%20Encounter.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Four-Leaf Clover[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x24%20-%20Four-Leaf%20Clover.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Cain's Birthday (Parte 1)[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x25%20-%20Cain's%20Birthday%20-%20Part%201.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]Cain's Birthday (Parte 2)[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x26%20-%20Cain's%20Birthday%20-%20Part%202.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E27[COLOR yellow] -> [COLOR white]Daughter of the Devil[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x27%20-%20Daughter%20of%20the%20Devil.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E28[COLOR yellow] -> [COLOR white]Doll of Sorrow [/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x28%20-%20Doll%20of%20Sorrow.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/seEhgRBJ63u53aJccP8HVrfkNGz.jpg" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]LS-T01E29[COLOR yellow] -> [COLOR white]The Courtship of Jericho Jones[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%201x29%20-%20The%20Courtship%20of%20Jericho%20Jones.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 01[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]Daniel Boone[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - SD LEG[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Empire of the Lost[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x01%20-%20Empire%20of%20the%20Lost.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]The Tortoise and the Hare[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x02%20-%20The%20Tortoise%20and%20the%20Hare.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]The Mound Builders[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x03%20-%20The%20Mound%20Builders.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]The Mound Builders DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x03%20-%20The%20Mound%20Builders%20(Dublado).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]My Name Is Rawls[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x04%20-%20My%20Name%20Is%20Rawls.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]The Old Man and the Cave[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x05%20-%20The%20Old%20Man%20and%20the%20Cave.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]The Trek[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x06%20-%20The%20Trek.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]The Aaron Burr Story[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x07%20-%20The%20Aaron%20Burr%20Story.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Cry of Gold[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x08%20-%20Cry%20of%20Gold.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]The Peace Tree [/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x09%20-%20The%20Peace%20Tree.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]The Thanksgiving Story[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x10%20-%20The%20Thanksgiving%20Story.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]A Rope for Mingo[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x11%20-%20A%20Rope%20for%20Mingo.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]The First Beau [/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x12%20-%20The%20First%20Beau.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]The Perilous Journey[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x13%20-%20The%20Perilous%20Journey.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]The Christmas Story[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x14%20-%20The%20Christmas%20Story.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]The Tamarack Massacre Affair[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x15%20-%20The%20Tamarack%20Massacre%20Affair.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]The Tamarack Massacre Affair DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x15%20-%20The%20Tamarack%20Massacre%20Affair%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Gabriel[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x16%20-%20Gabriel.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]Seminole Territory[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x17%20-%20Seminole%20Territory.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]The Deserter[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x18%20-%20The%20Deserter.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white]Crisis by Fire [/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x19%20-%20Crisis%20by%20Fire.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]The Gun[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x20%20-%20The%20Gun.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]The Prisoners[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x21%20-%20The%20Prisoners.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E22[COLOR yellow] -> [COLOR white]The Fifth Man[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x22%20-%20The%20Fifth%20Man.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E23[COLOR yellow] -> [COLOR white]The Gun-Barrel Highway[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x23%20-%20The%20Gun-Barrel%20Highway.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E24[COLOR yellow] -> [COLOR white]The Search[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x24%20-%20The%20Search.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E25[COLOR yellow] -> [COLOR white]Fifty Rifles[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x25%20-%20Fifty%20Rifles.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E26[COLOR yellow] -> [COLOR white]The Trap[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x26%20-%20The%20Trap.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E26[COLOR yellow] -> [COLOR white]The Trap DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x26%20-%20The%20Trap%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E37[COLOR yellow] -> [COLOR white]The Accused[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x27%20-%20The%20Accused.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E28[COLOR yellow] -> [COLOR white]Cibola[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x28%20-%20Cibola.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E29[COLOR yellow] -> [COLOR white]The High Cumberland (Parte 1)[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x29%20-%20The%20High%20Cumberland%20-%20Part%201.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5CC4mAwsVujPeAWyVyZLV3qYjfy.jpg" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]LS-T02E30[COLOR yellow] -> [COLOR white]The High Cumberland (Parte 2)[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%202x30%20-%20The%20High%20Cumberland%20-%20Part%202.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 02[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]Daniel Boone[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]TEMPORADA 03 - SD LEG[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Dan'l Boone Shot a B'ar[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x01%20-%20Dan'l%20Boone%20Shot%20a%20B'ar.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]The Allegiances[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x02%20-%20The%20Allegiances.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]The Allegiances DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x02%20-%20The%20Allegiances%20(Dublado).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Goliath[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x03%20-%20Goliath.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Grizzly[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x04%20-%20Grizzly.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]First in War, First in Peace[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x05%20-%20First%20in%20War,%20First%20in%20Peace.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Run a Crooked Mile[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x06%20-%20Run%20a%20Crooked%20Mile.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]The Matchmaker [/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x07%20-%20The%20Matchmaker.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Onatha[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x08%20-%20Onatha.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Onatha DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x08%20-%20Onatha%20(Dublado).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]The Loser's Race[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x09%20-%20The%20Loser's%20Race.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]The Enchanted Gun[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x10%20-%20The%20Enchanted%20Gun.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Requiem for Craw Green[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x11%20-%20Requiem%20for%20Craw%20Green.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Requiem for Craw Green DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x11%20-%20Requiem%20for%20Craw%20Green%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]The Lost Colony[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x12%20-%20The%20Lost%20Colony.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]The Lost Colony DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x12%20-%20The%20Lost%20Colony%20(Dublado).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]River Passage[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x13%20-%20River%20Passage.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]River Passage DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x13%20-%20River%20Passage%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]When a King Is a Pawn[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x14%20-%20When%20a%20King%20Is%20a%20Pawn.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E24[COLOR yellow] -> [COLOR white]When a King Is a Pawn DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x14%20-%20When%20a%20King%20Is%20a%20Pawn%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]The Symbol[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x15%20-%20The%20Symbol.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]The Williamsburg Cannon (Parte 1)[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x16%20-%20The%20Williamsburg%20Cannon%20(Part%201).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR white]The Williamsburg Cannon (Parte 2)[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x17%20-%20The%20Williamsburg%20Cannon%20(Part%202).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white] e The Williamsburg Cannon (Parts 1 - 2) DUBs[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x16%20e%203x17%20-%20The%20Williamsburg%20Cannon%20(Parts%201-2)%20-%20Dublados.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]The Wolf Man[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x18%20-%20The%20Wolf%20Man.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E19[COLOR yellow] -> [COLOR white]The Jasper Ledbedder Story[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x19%20-%20The%20Jasper%20Ledbedder%20Story.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR white]When I Became a Man...[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x20%20-%20When%20I%20Became%20a%20Man....mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR white]When I Became a Man... DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x20%20-%20When%20I%20Became%20a%20Man...%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E21[COLOR yellow] -> [COLOR white]The Long Way Home[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x21%20-%20The%20Long%20Way%20Home.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E22[COLOR yellow] -> [COLOR white]The Young Ones [/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x22%20-%20The%20Young%20Ones.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E23[COLOR yellow] -> [COLOR white]Delo Jones[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x23%20-%20Delo%20Jones.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E23[COLOR yellow] -> [COLOR white]Delo Jones DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x23%20-%20Delo%20Jones%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E24[COLOR yellow] -> [COLOR white]The Necklace[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x24%20-%20The%20Necklace.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E24[COLOR yellow] -> [COLOR white]The Necklace DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x24%20-%20The%20Necklace%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E25[COLOR yellow] -> [COLOR white]Fort West Point[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x25%20-%20Fort%20West%20Point.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E26[COLOR yellow] -> [COLOR white]Bitter Mission [/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x26%20-%20Bitter%20Mission.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E27[COLOR yellow] -> [COLOR white]Take the Southbound Stage[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x27%20-%20Take%20the%20Southbound%20Stage.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fkO7T3S77U8sECuc6rRlfgoU9xf.jpg" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]LS-T03E28[COLOR yellow] -> [COLOR white]The Fallow Land[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%203x28%20-%20The%20Fallow%20Land.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 03[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]Daniel Boone[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]TEMPORADA 04 - SD LEG[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]The Ballad of Sidewinder and the Cherokee[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x01%20-%20The%20Ballad%20of%20Sidewinder%20and%20the%20Cherokee.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]The Ordeal of Israel Boone[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x02%20-%20The%20Ordeal%20of%20Israel%20Boone.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]The Ordeal of Israel Boone DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x02%20-%20The%20Ordeal%20of%20Israel%20Boone%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]The Renegade[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x03%20-%20The%20Renegade.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Tanner[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x04%20-%20Tanner.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]Beaumarchais[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x05%20-%20Beaumarchais.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]The King's Shilling[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x06%20-%20The%20King's%20Shilling.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]The Inheritance[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x07%20-%20The%20Inheritance.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]The Traitor[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x08%20-%20The%20Traitor.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]The Value of a King[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x09%20-%20The%20Value%20of%20a%20King.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]The Desperate Raid[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x10%20-%20The%20Desperate%20Raid.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]The Spanish Horse[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x11%20-%20The%20Spanish%20Horse.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Chief Mingo[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x12%20-%20Chief%20Mingo.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]The Secret Code[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x13%20-%20The%20Secret%20Code.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]The Secret Code DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x13%20-%20The%20Secret%20Code%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]A Matter of Blood[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x14%20-%20A%20Matter%20of%20Blood.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E15[COLOR yellow] -> [COLOR white]The Scrimshaw Ivory Chart[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x15%20-%20The%20Scrimshaw%20Ivory%20Chart.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E16[COLOR yellow] -> [COLOR white]The Imposter[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x16%20-%20The%20Imposter.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E17[COLOR yellow] -> [COLOR white]The Witnesses[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x17%20-%20The%20Witnesses.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E218[COLOR yellow] -> [COLOR white]The Flaming Rocks[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x18%20-%20The%20Flaming%20Rocks.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E19[COLOR yellow] -> [COLOR white]Then Who Will They Hang from...[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x19%20-%20Then%20Who%20Will%20They%20Hang%20from....mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E20[COLOR yellow] -> [COLOR white]The Spanish Fort[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x20%20-%20The%20Spanish%20Fort.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E21[COLOR yellow] -> [COLOR white]Hero's Welcome [/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x21%20-%20Hero's%20Welcome.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E22[COLOR yellow] -> [COLOR white]Orlando, the Prophet[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x22%20-%20Orlando,%20the%20Prophet.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E23[COLOR yellow] -> [COLOR white]The Far Side of Fury[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x23%20-%20The%20Far%20Side%20of%20Fury.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E24[COLOR yellow] -> [COLOR white]Nightmare[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x24%20-%20Nightmare.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E25[COLOR yellow] -> [COLOR white]Thirty Pieces of Silver[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x25%20-%20Thirty%20Pieces%20of%20Silver.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8rQ76Lm5GJtqvbz9GKqcPvFCs2i.jpg" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]LS-T04E26[COLOR yellow] -> [COLOR white]Faith's Way[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%204x26%20-%20Faith's%20Way.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 04[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]Daniel Boone[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]TEMPORADA 05 - SD LEG[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E01[COLOR yellow] -> [COLOR white]Be Thankful for the Fickleness of Women[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x01%20-%20Be%20Thankful%20for%20the%20Fickleness%20of%20Women.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E02[COLOR yellow] -> [COLOR white]The Blackbirder[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x02%20-%20The%20Blackbirder.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E03[COLOR yellow] -> [COLOR white]The Dandy[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x03%20-%20The%20Dandy.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E04[COLOR yellow] -> [COLOR white]The Fleeing Nuns[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x04%20-%20The%20Fleeing%20Nuns.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E05[COLOR yellow] -> [COLOR white]The Plague That Came to Ford's Run[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x05%20-%20The%20Plague%20That%20Came%20to%20Ford's%20Run.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E06[COLOR yellow] -> [COLOR white]The Bait[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x06%20-%20The%20Bait.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E06[COLOR yellow] -> [COLOR white]The Bait DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x06%20-%20The%20Bait%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E07[COLOR yellow] -> [COLOR white]Big, Black and Out There[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x07%20-%20Big,%20Black%20and%20Out%20There.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E08[COLOR yellow] -> [COLOR white]Flag of Truce[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x08%20-%20Flag%20of%20Truce.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E08[COLOR yellow] -> [COLOR white]Flag of Truce DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x08%20-%20Flag%20of%20Truce%20(Dublado).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E09[COLOR yellow] -> [COLOR white]The Valley of the Sun[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x09%20-%20The%20Valley%20of%20the%20Sun.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E10[COLOR yellow] -> [COLOR white]The Patriot[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x10%20-%20The%20Patriot.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E11[COLOR yellow] -> [COLOR white]The Return of Sidewinder[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x11%20-%20The%20Return%20of%20Sidewinder.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E11[COLOR yellow] -> [COLOR white]The Return of Sidewinder DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x11%20-%20The%20Return%20of%20Sidewinder%20(Dublado).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E12[COLOR yellow] -> [COLOR white]Minnow for a Shark[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x12%20-%20Minnow%20for%20a%20Shark.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E13[COLOR yellow] -> [COLOR white]To Slay a Giant[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x13%20-%20To%20Slay%20a%20Giant.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E14[COLOR yellow] -> [COLOR white]A Tall Tale of Prater Beaseley[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x14%20-%20A%20Tall%20Tale%20of%20Prater%20Beaseley.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E15[COLOR yellow] -> [COLOR white]Copperhead Izzy[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x15%20-%20Copperhead%20Izzy.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E15[COLOR yellow] -> [COLOR white]Copperhead Izzy DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x15%20-%20Copperhead%20Izzy%20(Dublado).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E16[COLOR yellow] -> [COLOR white]Three Score and Ten[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x16%20-%20Three%20Score%20and%20Ten.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E16[COLOR yellow] -> [COLOR white]Three Score and Ten DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x16%20-%20Three%20Score%20and%20Ten%20(Dublado).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E17[COLOR yellow] -> [COLOR white]Jonah[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x17%20-%20Jonah.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E18[COLOR yellow] -> [COLOR white]Bickford's Bridge[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x18%20-%20Bickford's%20Bridge.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E19[COLOR yellow] -> [COLOR white]A Touch of Charity[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x19%20-%20A%20Touch%20of%20Charity.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E20[COLOR yellow] -> [COLOR white]For Want of a Hero[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x20%20-%20For%20Want%20of%20a%20Hero.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E21[COLOR yellow] -> [COLOR white]Love and Equity[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x21%20-%20Love%20and%20Equity.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E22[COLOR yellow] -> [COLOR white]The Allies[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x22%20-%20The%20Allies.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E23[COLOR yellow] -> [COLOR white]A Man Before His Time[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x23%20-%20A%20Man%20Before%20His%20Time.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E24[COLOR yellow] -> [COLOR white]For a Few Rifles[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x24%20-%20For%20a%20Few%20Rifles.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E34[COLOR yellow] -> [COLOR white]For a Few Rifles DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x24%20-%20For%20a%20Few%20Rifles%20(Dublado).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E25[COLOR yellow] -> [COLOR white]Sweet Molly Malone[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x25%20-%20Sweet%20Molly%20Malone.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/t5QFfY6i7rP7JlighMXfnMgxCek.jpg" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]LS-T05E26[COLOR yellow] -> [COLOR white]A Pinch of Salt[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%205x26%20-%20A%20Pinch%20of%20Salt.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 05[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]Daniel Boone[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]TEMPORADA 06 - SD LEG[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E01[COLOR yellow] -> [COLOR white]A Very Small Rifle[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x01%20-%20A%20Very%20Small%20Rifle.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E01[COLOR yellow] -> [COLOR white]A Very Small Rifle DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x01%20-%20A%20Very%20Small%20Rifle%20(Dublado).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E02[COLOR yellow] -> [COLOR white]The Road to Freedom[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x02%20-%20The%20Road%20to%20Freedom.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E02[COLOR yellow] -> [COLOR white]The Road to Freedom DUB[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x02%20-%20The%20Road%20to%20Freedom%20(Dublado).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E03[COLOR yellow] -> [COLOR white]Benvenuto... Who[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x03%20-%20Benvenuto...%20Who.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E04[COLOR yellow] -> [COLOR white]The Man[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x04%20-%20The%20Man.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E05[COLOR yellow] -> [COLOR white]The Printing Press[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x05%20-%20The%20Printing%20Press.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E06[COLOR yellow] -> [COLOR white]The Traitor[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x06%20-%20The%20Traitor.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E07[COLOR yellow] -> [COLOR white]The Grand Alliance[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x07%20-%20The%20Grand%20Alliance.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E08[COLOR yellow] -> [COLOR white]Target Boone[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x08%20-%20Target%20Boone.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E09[COLOR yellow] -> [COLOR white]A Bearskin for Jamie Blue[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x09%20-%20A%20Bearskin%20for%20Jamie%20Blue.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E10[COLOR yellow] -> [COLOR white]The Cache[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x10%20-%20The%20Cache.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E11[COLOR yellow] -> [COLOR white]The Terrible Tarbots[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x11%20-%20The%20Terrible%20Tarbots.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E12[COLOR yellow] -> [COLOR white]Hannah Comes Home[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x12%20-%20Hannah%20Comes%20Home.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E13[COLOR yellow] -> [COLOR white]An Angel Cried [/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x13%20-%20An%20Angel%20Cried.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E14[COLOR yellow] -> [COLOR white]Perilous Passage[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x14%20-%20Perilous%20Passage.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E15[COLOR yellow] -> [COLOR white]The Sunshine Patriots[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x15%20-%20The%20Sunshine%20Patriots.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E16[COLOR yellow] -> [COLOR white]Mama Cooper[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x16%20-%20Mama%20Cooper.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E17[COLOR yellow] -> [COLOR white]Before the Tall Man[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x17%20-%20Before%20the%20Tall%20Man.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E18[COLOR yellow] -> [COLOR white]Run for the Money[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x18%20-%20Run%20for%20the%20Money.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E19[COLOR yellow] -> [COLOR white]A Matter of Vengeance[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x19%20-%20A%20Matter%20of%20Vengeance.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E20[COLOR yellow] -> [COLOR white]The Landlords[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x20%20-%20The%20Landlords.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E21[COLOR yellow] -> [COLOR white]Readin, Ritin, and Revolt[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x21%20-%20Readin,%20Ritin,%20and%20Revolt.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E22[COLOR yellow] -> [COLOR white]Noblesse Oblige[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x22%20-%20Noblesse%20Oblige.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E23[COLOR yellow] -> [COLOR white]The Homecoming [/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x23%20-%20The%20Homecoming.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E24[COLOR yellow] -> [COLOR white]Bringing Up Josh[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x24%20-%20Bringing%20Up%20Josh.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E25[COLOR yellow] -> [COLOR white]How to Become a Goddess[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x25%20-%20How%20to%20Become%20a%20Goddess.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/23ZXPFSvzFVupFK3BbLAdeGda9G.jpg" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]LS-T06E26[COLOR yellow] -> [COLOR white]Israel and Love[/B][/COLOR]
-https://ia903406.us.archive.org/3/items/doutorestranhu/Daniel%20Boone%20(1964-1970)%20-%20Epis%C3%B3dio%206x26%20-%20Israel%20and%20Love.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 06[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
