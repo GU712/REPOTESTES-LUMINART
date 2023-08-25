@@ -1,9 +1,194 @@
-#EXTM3U x-tvg-url="http://asd1.me:80/xmltv.php?username=diego.imolesi&password=diego6069"
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-id="Besouro Azul (2023)" tvg-name="Besouro Azul (2023)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gA6sEygZlszxZZZTR5jD9rfleZO.jpg" group-title="FILME",Besouro Azul (2023)
-plugin://plugin.video.elementum/play?uri=39a11be4d3ccba746bcdd8a86cf10fdbfb5dce1a
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2821.png" group-title="GLOBOS",GB SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange]USE O PLAYER[/COLOR] [COLOR red]INPUTSTREAM[/COLOR] [COLOR orange]OU[/COLOR] [COLOR blue]PROXY 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asd1.me:80/diego.imolesi/diego6069/10048335
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDb" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2821.png" group-title="GLOBOS",GB SP FHDb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange]USE O PLAYER[/COLOR] [COLOR red]INPUTSTREAM[/COLOR] [COLOR orange]OU[/COLOR] [COLOR blue]PROXY 2[/COLOR]&maxbitrate=0&buffer=215645&url=http://asd1.me:80/diego.imolesi/diego6069/10047306
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2821.png" group-title="GLOBOS",GB SP FHD*
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]As Aventuras de Rin Tin Tin[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - 25 EPS[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Encontro com Rin Tin Tin[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Rin Tin Tin e o Antigo Marinheiro[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Rin Tin Tin e os Irmãos de Sangue[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E04.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Rin Tin Tin e a Barra de Ouro[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E05.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Rin Tin Tin e a Areia Movediça[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E06.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Rusty Banca o Cupido[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Rin Tin Tin e O Bebe na Floresta[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E08.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]O Ninho de Águias[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E09.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Rusty Deixa o Exército[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E10.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]A Herança de Ohara[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E12.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Rin Tin Tin e o Barbeiro de Sevilha[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E13.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Rin Tin Tin e a Noiva Ingrata[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E15.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Rin Tin Tin e a Caixa Mágica[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E16.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]A Cidade Fantasma[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E18.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Rin Tin Tin na Floresta Flamejante[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E19.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]A Recompensa[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E20.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Adeus ao Forte Apache[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E21.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]O Solitário da Mina[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E22.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]O Desaparecimento de Rin Tin Tin[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E23.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]O Rio Turbulento[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E25.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E29[COLOR yellow] -> [COLOR white]Rin Tin Tin e o Gato Assasino[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E29.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E31[COLOR yellow] -> [COLOR white]O Genial Cabo Rusty[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E31.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E32[COLOR yellow] -> [COLOR white]Rin Tin Tin e o Chefe Apache[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E32.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E33[COLOR yellow] -> [COLOR white]Rin Tin Tin e a Lei[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E33.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qhRM67Oa0RnKF5mAYXM0SWPS2Py.jpg" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]LS-T01E34[COLOR yellow] -> [COLOR white]O Desprezado do Forte[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T01/LS-T01E34.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 01 (1954)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]As Aventuras de Rin Tin Tin[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 02 - 23 EPS[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]O Ouro do Escocês[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Rin Tin Tin e o Sinal de Alarme[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Higgins Monta Novamente[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]A Noiva Ingrata[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E04.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Rusty Vai a Cidade[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E05.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]A Testemunha[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E06.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]A Última Chance[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]História de Natal[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E08.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]O Herdeiro Perdido[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E10.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]O Romance de Rusty[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E11.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Rin Tin Tin Conhece Shakespeare [/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E12.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Rin Tin Tin e o Soldado de Chumbo[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E14.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Rin Tin Tin Conhece a Mãe de Ohara[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E15.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]O Terceiro Cavaleiro[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E16.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]O Fazedor de Chuva[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E18.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white]Rin Tin Tin e o Potro Selvagem[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E19.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]Hommer é o Maior[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E20.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E23[COLOR yellow] -> [COLOR white]Rin Tin Tin Encontra um Osso[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E23.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E27[COLOR yellow] -> [COLOR white]Rusty Voluntário[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E27.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E29[COLOR yellow] -> [COLOR white]Rin Tin Tin e o Pobre Menino Rico[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E29.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E30[COLOR yellow] -> [COLOR white]O Búfalo Branco[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E30.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E32[COLOR yellow] -> [COLOR white]Rin Tin Tin eo Presidente[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E32.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2jpiBlrDab0QwlGn2GQU7I2eAsC.jpg" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]LS-T02E33[COLOR yellow] -> [COLOR white]O Cavalo de Ferro[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T02/LS-T02E33.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 02 (1955)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]As Aventuras de Rin Tin Tin[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 03 - 09 EPS[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Vamos em Frente[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T03/LS-T03E01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]O Cachorrinho Perdido[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T03/LS-T03E02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Citação Presidencial[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T03/LS-T03E04.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]O Último Duelo[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T03/LS-T03E06.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Rin Tin Tin e a Bruxa da Floresta[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T03/LS-T03E07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]A Volta do Chefe[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T03/LS-T03E08.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Gerônimo[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T03/LS-T03E10.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Lobo Branco[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T03/LS-T03E11.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/khMtkdXc4WplELbFwicDS1pc09L.jpg" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]O Retorno de Rin Tin Tin[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Rin.Tin.Tin/T03/LS-T03E16.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]TEMP 03 (1956)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
