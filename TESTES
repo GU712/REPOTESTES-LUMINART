@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTM3U
 #EXTINF:-1 tvg-name="3 PALAVRINHAS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR white][B]24HS INFANTIL[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]3 PALAVRINHAS[/B][/COLOR]
 http://main.xplus2-main.xyz:2095/live/xplus-2-CeCsltqWHq/9YlpQMAqhC/670.m3u8
 #EXTINF:-1 tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR white][B]24HS INFANTIL[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]A CASA DO MICKEY MOUSE[/B][/COLOR]
@@ -1057,88 +1053,79 @@ http://main.xplus2-main.xyz:2095/live/xplus-2-CeCsltqWHq/9YlpQMAqhC/1025.m3u8
 http://main.xplus2-main.xyz:2095/live/xplus-2-CeCsltqWHq/9YlpQMAqhC/1023.m3u8
 #EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="http://185.53.90.49:41001/logos/zoomoo.png" group-title="[COLOR white][B]INFANTIS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]ZOOMOO 4K[/B][/COLOR]
 http://main.xplus2-main.xyz:2095/live/xplus-2-CeCsltqWHq/9YlpQMAqhC/370.m3u8
-#EXTINF:-1 tvg-name="AXN 4K" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="CINE & SERIES",AXN 4K[/B][/COLOR]
+#EXTINF:-1 tvg-name="AXN 4K" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="[COLOR white][B]FILMES e SERIES[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]AXN 4K[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7686.m3u8
-#EXTINF:-1 tvg-name="BOOMERANG UHD" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png" group-title="KIDS 24/7",BOOMERANG UHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="BOOMERANG UHD" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png" group-title="[COLOR white][B]TV KIDS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]BOOMERANG UHD[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7701.m3u8
-#EXTINF:-1 tvg-name="CARTOON NETWORK 4K" tvg-logo="http://toptv2.com:25461/logos/cartoon-network-.png" group-title="KIDS 24/7",CARTOON NETWORK 4K[/B][/COLOR]
+#EXTINF:-1 tvg-name="CARTOON NETWORK 4K" tvg-logo="http://toptv2.com:25461/logos/cartoon-network-.png" group-title="[COLOR white][B]TV KIDS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]CARTOON NETWORK 4K[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7699.m3u8
-#EXTINF:-1 tvg-name="TVCINE HOLLYWOOD HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="TV CINEMA",TVCINE HOLLYWOOD HD LEG[/B][/COLOR]
+#EXTINF:-1 tvg-name="TVCINE HOLLYWOOD HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="[COLOR white][B]TV CINEMA[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]TVCINE HOLLYWOOD HD LEG[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7707.m3u8
-#EXTINF:-1 tvg-name="TVCINE MUNDO HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="TV CINEMA",TVCINE MUNDO HD LEG[/B][/COLOR]
+#EXTINF:-1 tvg-name="TVCINE MUNDO HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="[COLOR white][B]TV CINEMA[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]TVCINE MUNDO HD LEG[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7717.m3u8
-#EXTINF:-1 tvg-name="CINEMAX 4K" tvg-logo="http://toptv2.com:25461/logos/cinemax.png" group-title="CINE & SERIES",CINEMAX 4K[/B][/COLOR]
+#EXTINF:-1 tvg-name="CINEMAX 4K" tvg-logo="http://toptv2.com:25461/logos/cinemax.png" group-title="[COLOR white][B]FILMES e SERIES[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]CINEMAX 4K[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7688.m3u8
-#EXTINF:-1 tvg-name="TELECINE ACTION 4K" tvg-logo="http://toptv2.com:25461/logos/Telecine_Action_4K.png" group-title="CINE & SERIES",TELECINE ACTION 4K[/B][/COLOR]
+#EXTINF:-1 tvg-name="TELECINE ACTION 4K" tvg-logo="http://toptv2.com:25461/logos/Telecine_Action_4K.png" group-title="[COLOR white][B]FILMES e SERIES[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]TELECINE ACTION 4K[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7687.m3u8
-#EXTINF:-1 tvg-name="TVCINE ACTION HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="TV CINEMA",TVCINE ACTION HD LEG[/B][/COLOR]
+#EXTINF:-1 tvg-name="TVCINE ACTION HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="[COLOR white][B]TV CINEMA[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]TVCINE ACTION HD LEG[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7716.m3u8
-#EXTINF:-1 tvg-name="TVCINE EDITION HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="TV CINEMA",TVCINE EDITION HD LEG[/B][/COLOR]
+#EXTINF:-1 tvg-name="TVCINE EDITION HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="[COLOR white][B]TV CINEMA[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]TVCINE EDITION HD LEG[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7714.m3u8
-#EXTINF:-1 tvg-name="TVCINE EMOTON HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="TV CINEMA",TVCINE EMOTON HD LEG[/B][/COLOR]
+#EXTINF:-1 tvg-name="TVCINE EMOTON HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="[COLOR white][B]TV CINEMA[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]TVCINE EMOTON HD LEG[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7715.m3u8
-#EXTINF:-1 tvg-name="TVCINE TOP HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="TV CINEMA",TVCINE TOP HD LEG[/B][/COLOR]
+#EXTINF:-1 tvg-name="TVCINE TOP HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="[COLOR white][B]TV CINEMA[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]TVCINE TOP HD LEG[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/7713.m3u8
-#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 3 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 3 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 3 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Cavaleiros do Zodiaco 3 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18409.m3u8
-#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 2 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Cavaleiros do Zodiaco 2 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18410.m3u8
-#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 1 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Cavaleiros do Zodiaco 1 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18411.m3u8
-#EXTINF:-1 tvg-name="Cascão A Turma da Monica 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cascão A Turma da Monica 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Cascão A Turma da Monica 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Cascão A Turma da Monica 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18412.m3u8
-#EXTINF:-1 tvg-name="Caillou 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Caillou 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Caillou 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Caillou 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18413.m3u8
-#EXTINF:-1 tvg-name="Booba 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Booba 2 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Booba 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Booba 2 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18414.m3u8
-#EXTINF:-1 tvg-name="Booba 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Booba 1 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Booba 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Booba 1 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18415.m3u8
-#EXTINF:-1 tvg-name="Bob Zoom 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bob Zoom 2 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Bob Zoom 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Bob Zoom 2 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18416.m3u8
-#EXTINF:-1 tvg-name="Bob Zoom 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bob Zoom 1 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Bob Zoom 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Bob Zoom 1 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18417.m3u8
-#EXTINF:-1 tvg-name="Bob o Trem 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bob o Trem 2 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Bob o Trem 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Bob o Trem 2 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18418.m3u8
-#EXTINF:-1 tvg-name="Bob o Trem 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bob o Trem 1 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Bob o Trem 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Bob o Trem 1 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18419.m3u8
-#EXTINF:-1 tvg-name="Bob Esponja 01 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bob Esponja 01 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Bob Esponja 01 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Bob Esponja 01 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18420.m3u8
-#EXTINF:-1 tvg-name="Bita e os Animais 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bita e os Animais 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Bita e os Animais 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Bita e os Animais 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18421.m3u8
-#EXTINF:-1 tvg-name="BEN 10 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",BEN 10 2 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="BEN 10 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]BEN 10 2 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18422.m3u8
-#EXTINF:-1 tvg-name="BEN 10 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",BEN 10 1 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="BEN 10 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]BEN 10 1 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18423.m3u8
-#EXTINF:-1 tvg-name="As Meninas Superpoderosas 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",As Meninas Superpoderosas 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="As Meninas Superpoderosas 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]As Meninas Superpoderosas 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18424.m3u8
-#EXTINF:-1 tvg-name="As Aventuras do Batman 02 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",As Aventuras do Batman 02 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="As Aventuras do Batman 02 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]As Aventuras do Batman 02 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/18425.m3u8
-#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 4 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 4 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 4 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Cavaleiros do Zodiaco 4 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/26995.m3u8
-#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 5 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 5 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 5 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Cavaleiros do Zodiaco 5 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/26996.m3u8
-#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 6 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 6 24/7[/B][/COLOR]
+#EXTINF:-1 tvg-name="Cavaleiros do Zodiaco 6 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="[COLOR white][B]CANAIS 24 HORAS[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Cavaleiros do Zodiaco 6 24/7[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/26997.m3u8
-#EXTINF:-1 tvg-name="CINE SKY 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 1 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="CINE SKY 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="[COLOR white][B]CINE SKY[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]CINE SKY 1 HD[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/103737.m3u8
-#EXTINF:-1 tvg-name="CINE SKY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 2 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="CINE SKY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="[COLOR white][B]CINE SKY[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]CINE SKY 2 HD[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/103738.m3u8
-#EXTINF:-1 tvg-name="CINE SKY 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 3 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="CINE SKY 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="[COLOR white][B]CINE SKY[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]CINE SKY 3 HD[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/103739.m3u8
-#EXTINF:-1 tvg-name="CINE SKY 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 4 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="CINE SKY 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="[COLOR white][B]CINE SKY[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]CINE SKY 4 HD[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/103740.m3u8
-#EXTINF:-1 tvg-name="CINE SKY 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 5 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="CINE SKY 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="[COLOR white][B]CINE SKY[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]CINE SKY 5 HD[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/103741.m3u8
-#EXTINF:-1 tvg-name="DC COMICS 1 HD" tvg-logo="https://www.dc.com/sites/default/files/imce/2022/01-JAN/Unknown-1_61f9f45d096966.36317687.png" group-title="CINE & SERIES",DC COMICS 1 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="DC COMICS 1 HD" tvg-logo="https://www.dc.com/sites/default/files/imce/2022/01-JAN/Unknown-1_61f9f45d096966.36317687.png" group-title="[COLOR white][B]FILMES e SERIES[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]DC COMICS 1 HD[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/103751.m3u8
-#EXTINF:-1 tvg-name="DC COMICS 2 HD" tvg-logo="https://www.dc.com/sites/default/files/imce/2022/01-JAN/Unknown-1_61f9f45d096966.36317687.png" group-title="CINE & SERIES",DC COMICS 2 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="DC COMICS 2 HD" tvg-logo="https://www.dc.com/sites/default/files/imce/2022/01-JAN/Unknown-1_61f9f45d096966.36317687.png" group-title="[COLOR white][B]FILMES e SERIES[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]DC COMICS 2 HD[/B][/COLOR]
 http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/103752.m3u8
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
