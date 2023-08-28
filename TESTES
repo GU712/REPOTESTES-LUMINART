@@ -1,102 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] 4K[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/l756tPV14Gg2PRDlqCcdJAdwsHl.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Na Onda do Iê-Iê-Iê - 1966[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/01-LS-Na.Onda.do.Ie-Ie-Ie.1965.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/e5lRd7TOfN9tHZI5a9FkJxmOIr4.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Adorável Trapalhão - 1967[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/02-LS-Adoravel.Trapalhao.1966.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ghUvFCnbGmFdBz2antoB4eg2jTj.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Dois Na Lona - 1968[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/03-LS-Dois.Na.Lona.1967.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q0wSO2SGuYiWAt8989mLpgqzQ0k.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Bonga o Vagabundo - 1969[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/04-LS-Bonga.O.Vagabundo.1969.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mQ38hsUjpHSBrsC7MUa9TjaaKgr.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Ali Babá e os Quarenta Ladrões - 1972[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/05-LS-Ali.Baba.e.os.Quarenta.Ladroes.1972.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Aladim e a Lâmpada Maravilhosa - 1974[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/06-LS-Aladim.e.a.Lampada.Maravilhosa.1973.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kPH0ZO12dNVn05mhW8eW33qOK0a.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Robin Hood o Trapalhão da Floresta - 1974[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/07-LS-Robin.Hood.O.Trapalhao.da.Floresta.1973
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/azrBKuXCdKAIfg7P60SS3RhnEXB.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Trapalhão na Ilha do Tesouro - 1974[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/08-LS-O.Trapalhao.Na.Ilha.do.Tesouro.1974.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/puzvdzz6M1ASEkZ1LQEnHZhLHZz.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Simbad o Marujo Trapalhão - 1975[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/09-LS-Simbad.o.Marujo.Trapalhao.1975.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w9OqnqJ6WsMYSqV194O3LkdYzSe.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Trapalhão no Planalto dos Macacos - 1976[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/10-LS-O.Trapalhao.no.Planalto.dos.Macacos.1976.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dcGPEgJp95zk00XiWYUAFy7F4ro.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Trapalhão nas Minas do Rei Salomão - 1977[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/11-LS-Os.Trapalhoes.nas.Minas.do.Rei.Salomao.1977.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vm7CB3yZ5Zt2NvCuNbfQvbEwAsI.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões na Guerra dos Planetas - 1978[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/12-LS-Os.Trapalhoes.na.Guerra.dos.Planetas.1978.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ylawPhzjXKUtCd7RqjJOj3hi0OM.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Cinderelo Trapalhão - 1979[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/13-LS-Cinderelo.Trapalhao.1979.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uawG2ASZPyBHujOuljEd0BqZaF1.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Rei e os Trapalhões - 1979[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/14-LS-O.Rei.e.Os.Trapalhoes.1979.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nzi3t6CzLqHlJw9mUucH2Nq4bQx.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Três Mosqueteiros Trapalhões - 1980[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/15-LS-Os.Tres.Mosqueteiros.Trapalhoes.1980.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xAP2ZzCdiOdrynIwPR702gMK668.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Incrível Monstro Trapalhão - 1981[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/16-LS-O.Incrivel.Monstro.Trapalhao.1980.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/c29OwDKa385qN4w7vUOgUkwUkQJ.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Mundo Mágico dos Trapalhões - 1981[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/17-LS-O.Mundo.Magico.Dos.Trapalhoes.1981.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fWYBeNsJUPtxtnXHT1ViLI3LeKe.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Saltimbancos Trapalhões - 1981[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/18-LS-Os.Saltimbancos.Trapalhoes.1981.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sSIaLy7vbvmIRUx6J7IVXTZB9fo.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Vagabundos Trapalhões - 1982[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/19-LS-Os.Vagabundos.Trapalhoes.1982.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/krFAA4kpf3SPIqU5k4CEG8R4eQO.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões na Serra Pelada - 1982[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/ESPC/Os.Trapalhoes/FLMS/20-LS-Os.Trapalhoes.Na.Serra.Pelada.1982.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Globo Sudeste[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Globo Nordeste[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Globo Sul[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Globo Centro-Oeste[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Globo Norte[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Record[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] ESPN[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Premiere[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] SporTV[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Pay-per-view[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Sport Word[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] NBA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] HBO[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Telecine[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Cine SKY[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Legendados[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Variedades[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Documentários[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Discovery[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Infantil[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] Religiosos[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] 24h Youtube[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] 24h Desenho[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] 24h[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] 24h Marvel[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] 24h Musicas[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B]S1-A[COLOR yellow] ->[COLOR white] 24h DC Comics[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B].[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
