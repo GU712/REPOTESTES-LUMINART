@@ -1,47 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mtTOJ6rcBDVOiOUTLjxJGvloqOZ.jpg" group-title="FILMES 10 +! | 2023",A Pequena Sereia (2023) LEG  
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TNGTIAPD37RGBICHLS66S3ZQFZARZB5C&dn=The.Little.Mermaid.2023.1080p.WEB.h264-ETHEL%5BTGx%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5KZwFWPY7a0bZFRXgA8t8fY6bcL.jpg" group-title="FILMES 10 +! | 2023",Transformers: O Despertar das Feras  (2023)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B516BACC1F00734D0C6BF58940B494C7EF2C0E00&dn=Transformers.O.Despertar.das.Feras.2023.WEB-DL.1080p.DUAL.%5BTDFHD1%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vjEZrx9vSP40NKXhNxAGxvHxL9y.jpg" group-title="FILMES 10 +! | 2023",The Flash (2023)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0678B1CABF3D76923C68EC7BDAA117285718456D&dn=The.Flash.2023.WEB-DL.1080p.Dual.%5BTDFHD1%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qayga07ICNDswm0cMJ8P3VwklFZ.jpg" group-title="FILMES 10 +! | 2023",Resident Evil: Death Island (2023)  LEG
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7a66ce1df984d6c33503aa17d507b5a9278a36d&dn=Resident%20Evil%20-%20L%27isola%20della%20morte%20(2023)%201080p%20H265%20HDR%20iTA%20EnG%20AC3%205.1%20Sub%20iTA%20EnG...&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oEsrXuXh31EiZlhhbqjBvY0GK7S.jpg" group-title="FILMES 10 +! | 2023",Fear the Night (2023) LEG
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9fb2548cf0067936c421301d8cf72e03f00f549&dn=Fear.the.Night.2023.720p.AMZN.WEBRip.800MB.x264-GalaxyRG&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uLYdX64xJVZEFRQJZQU4A2ueMyB.jpg" group-title="FILMES 10 +! | 2023",Clonaram Tyrone! (2023)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F81D514920F686C26647425EC7F118ECF99765B&dn=Clonaram.Tyrone.2023.WEB-DL.1080p.DUAL.%5BTDFHD1%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5KvmhPA5ZCtpEoYeaMFdIc64ukF.jpg" group-title="FILMES 10 +! | 2023",Sede Assassina (2023) 
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D77B8C7854CAD54467D87B4B7088668C162615C4&dn=Sede.Assassina.2023.1080p.BluRay.DUAL.%5BTDFHD1%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/olT4pIcEwP3160jXETWP1zawaCe.jpg" group-title="FILMES 10 +! | 2023",Os (Quase) Ídolos da Bahía Colorada (2023)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC372B9902411AC79CAA3790EDFB88682E8041C0&dn=Os.Quase.Idolos.da.Bahia.Colorada.2023.1080p.FULL.WEB-DL.DUA.%5BTDFHD1%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7qXL4ShmMzgQ8IuBkjkTHu88iiT.jpg" group-title="FILMES 10 +! | 2023",Mistério em Alto Mar (2023)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01142C174E0DC7E23F03B797280A636B7B6D17A7&dn=Misterio.em.Alto.Mar.2023.1080p.WEB-DL.DUAL.%5BTDFHD1%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cdYFiGE3ClOCd4eocV2VQnVRbxj.jpg" group-title="FILMES 10 +! | 2023",A Venezuela em Solo Brasileiro (2023)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TVG7AXLO2XOMMDG7TPMYF5PWRXXY7JKN&dn=A%20Venezuela%20em%20Solo%20Brasileiro%202023%20WEB-DL%201080p%20x264%20NACIONAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]Operação Lioness[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]Soldados Para Sacrifício[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68d86c945df88dadffb51cae814d654f9a6fe807
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]A Surra[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68d86c945df88dadffb51cae814d654f9a6fe807
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]Contusão em Forma de Punho[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b728d5c66b1e1f97d131694647ef40db29a8d64e
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E04[COLOR yellow] -> [COLOR white]A Escolha do Fracasso[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:584ee43347cb32ec35183939eace26eb2e83670f
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E05[COLOR yellow] -> [COLOR white]A Verdade é a Mentira Mais Astuta[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07812c66cf6981eade728077d6dcaed23efee8b4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E06[COLOR yellow] -> [COLOR white]A Mentira é a Verdade[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:946635d5a62df3f2a38e3fdbd4dc20c46fc0cd26
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
