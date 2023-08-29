@@ -11,7 +11,7 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - fHD DUB[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -27,10 +27,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:584ee43347cb32ec351
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07812c66cf6981eade728077d6dcaed23efee8b4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E06[COLOR yellow] -> [COLOR white]A Mentira é a Verdade[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:946635d5a62df3f2a38e3fdbd4dc20c46fc0cd26
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E07[COLOR yellow] -> [COLOR white]Desejo Que a Luta Acabe[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINK[/B]>
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E08[COLOR yellow] -> [COLOR white]Gone Is the Illusion of Order[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINK[/B]>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
