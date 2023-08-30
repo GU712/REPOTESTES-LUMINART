@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR black].[/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] HBO[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] HBO[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Globo[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Globo[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] SporTV[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] SporTV[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Sky Play[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Sky Play[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] TeleCine[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] TeleCine[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Infantil[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Infantil[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Variedades[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Variedades[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Documentários[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Documentários[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
