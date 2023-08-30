@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/PSBV0fN.png",A&E (H265)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1136.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/PSBV0fN.png",A&E FHD
