@@ -685,7 +685,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 group-title="[COLOR black][B].[/B][/COLOR]" tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]"tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" ,[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]" tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]" tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
