@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]" tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png",[COLOR black].[/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR] tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR black].[/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR] tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR] tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
 
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/PSBV0fN.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A&E (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1136.m3u8
