@@ -3,11 +3,47 @@
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] HBO[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Globo[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] SporTV[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Sky Play[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] TeleCine[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantil[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Variedades[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Documentários[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]" tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/PSBV0fN.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A&E (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1136.m3u8
@@ -35,7 +71,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1154.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://3.bp.blogspot.com/-IKw48vRj0ng/XxL4tVLxx-I/AAAAAAAAGrk/3PBqZhVTiR0vVDocG7B7vfrUtxbdcRV-QCK4BGAYYCw/s1600/Animal%2BPlanet.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Animal Planet (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1155.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://3.bp.blogspot.com/-IKw48vRj0ng/XxL4tVLxx-I/AAAAAAAAGrk/3PBqZhVTiR0vVDocG7B7vfrUtxbdcRV-QCK4BGAYYCw/s1600/Animal%2BPlanet.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Animal Planet 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://3.bp.blogspot.com/-IKw48vRj0ng/XxL4tVLxx-I/AAAAAAAAGrk/3PBqZhVTiR0vVDocG7B7vfrUtxbdcRV-QCK4BGAYYCw/s1600/Animal%2BPlanet.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Animal Planet 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1156.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Documentários[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ANIMAL PLANET FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1157.m3u8
@@ -51,7 +87,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1162.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]AXN (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1164.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]AXN 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]AXN 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1165.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]AXN FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1166.m3u8
@@ -61,7 +97,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1168.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]AXN SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1170.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Band 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Band 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1177.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Band Bahia[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1178.m3u8
@@ -79,13 +115,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1183.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND MINAS HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1184.m3u8
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/XbsLeWW.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Band News (H265)[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]" tvg-logo="https://i.imgur.com/XbsLeWW.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Band News (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1185.m3u8
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/XbsLeWW.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND NEWS FHD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]" tvg-logo="https://i.imgur.com/XbsLeWW.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND NEWS FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1186.m3u8
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/XbsLeWW.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND NEWS HD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]" tvg-logo="https://i.imgur.com/XbsLeWW.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND NEWS HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1187.m3u8
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/XbsLeWW.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND NEWS SD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]" tvg-logo="https://i.imgur.com/XbsLeWW.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND NEWS SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1188.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Band RJ[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1189.m3u8
@@ -99,11 +135,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1193.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND SP HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1194.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ymD1Kpy.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND SPORTS FHD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/ymD1Kpy.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND SPORTS FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1195.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ymD1Kpy.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND SPORTS HD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/ymD1Kpy.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND SPORTS HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1196.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ymD1Kpy.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND SPORTS SD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/ymD1Kpy.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BAND SPORTS SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1197.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/ymD1Kpy.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]BandSports (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1198.m3u8
@@ -139,45 +175,45 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1396.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 2 (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1397.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/jEIYIFR.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 2 FHD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/jEIYIFR.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 2 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1398.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/jEIYIFR.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 2 HD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/jEIYIFR.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1399.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/jEIYIFR.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 2 SD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/jEIYIFR.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 2 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1400.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/joLAfqH.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 3 (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1401.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/joLAfqH.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 3 FHD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/joLAfqH.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 3 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1402.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/joLAfqH.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 3 HD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/joLAfqH.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 3 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1403.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/joLAfqH.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 3 SD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/joLAfqH.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 3 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1404.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/3OiOlDZ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4 (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1405.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/w0k0QqA.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/w0k0QqA.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1406.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/3OiOlDZ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4 FHD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/3OiOlDZ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1407.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/3OiOlDZ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4 HD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/3OiOlDZ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1408.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/3OiOlDZ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4 SD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/3OiOlDZ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1409.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1410.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN Extra (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1411.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN EXTRA FHD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN EXTRA FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1412.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN EXTRA HD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN EXTRA HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1413.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN EXTRA SD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN EXTRA SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1414.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/w0k0QqA.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN FHD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/w0k0QqA.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1415.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/w0k0QqA.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN HD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/w0k0QqA.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1416.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/w0k0QqA.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN SD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/w0k0QqA.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESPN SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1417.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]" tvg-logo="https://i.imgur.com/FWulsmb.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]ESTÁDIO TNT SPORTS 1[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1418.m3u8
@@ -207,7 +243,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1434.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Variedades[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]FOOD NETWORK HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1435.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]HBO 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]HBO 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1588.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/alOqjXS.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]HBO Familly (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1589.m3u8
@@ -321,13 +357,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1648.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Globo[/B][/COLOR]" tvg-logo="https://i.imgur.com/tKp9QWD.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Inter TV Grande Minas SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1651.m3u8
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/E2cY37D.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]JP NEWS 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]" tvg-logo="https://i.imgur.com/E2cY37D.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]JP NEWS 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2171.m3u8
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/E2cY37D.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]JP NEWS FHD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]" tvg-logo="https://i.imgur.com/E2cY37D.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]JP NEWS FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2172.m3u8
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/E2cY37D.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]JP NEWS HD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]" tvg-logo="https://i.imgur.com/E2cY37D.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]JP NEWS HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1656.m3u8
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/E2cY37D.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]JP NEWS SD[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Noticias[/B][/COLOR]" tvg-logo="https://i.imgur.com/E2cY37D.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]JP NEWS SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1657.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Variedades[/B][/COLOR]" tvg-logo="https://i.imgur.com/pBmnb5T.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]KPOP TV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1659.m3u8
@@ -365,7 +401,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1837.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]" tvg-logo="https://4.bp.blogspot.com/-pxizaydz0KU/XuaBRdLGHbI/AAAAAAAAGTQ/ffLhCGhhPKgTtVrzNX731VcYlpgvo4bmQCK4BGAYYCw/s1600/REDE%2BTV.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]REDE TV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1838.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://4.bp.blogspot.com/-pxizaydz0KU/XuaBRdLGHbI/AAAAAAAAGTQ/ffLhCGhhPKgTtVrzNX731VcYlpgvo4bmQCK4BGAYYCw/s1600/REDE%2BTV.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Rede TV! 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://4.bp.blogspot.com/-pxizaydz0KU/XuaBRdLGHbI/AAAAAAAAGTQ/ffLhCGhhPKgTtVrzNX731VcYlpgvo4bmQCK4BGAYYCw/s1600/REDE%2BTV.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Rede TV! 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1839.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]" tvg-logo="https://4.bp.blogspot.com/-pxizaydz0KU/XuaBRdLGHbI/AAAAAAAAGTQ/ffLhCGhhPKgTtVrzNX731VcYlpgvo4bmQCK4BGAYYCw/s1600/REDE%2BTV.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]RedeTV SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1840.m3u8
@@ -385,7 +421,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1851.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Variedades[/B][/COLOR]" tvg-logo="https://i.imgur.com/pBmnb5T.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Santuário de Fátima FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1862.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]SBT 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]SBT 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1864.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]SBT AM HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1865.m3u8
@@ -483,7 +519,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1920.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/56Rc96W.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]SporTv 4 (H.265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1921.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/a1cWlz2.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]SporTV 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/a1cWlz2.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]SporTV 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1925.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] SporTV[/B][/COLOR]" tvg-logo="https://i.imgur.com/gULDKB3.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]SPORTV FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1926.m3u8
@@ -493,7 +529,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1929.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/cEmW9yV.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Star Channel (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1930.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/cEmW9yV.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Star Channel 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/cEmW9yV.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Star Channel 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1931.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]" tvg-logo="https://i.imgur.com/cEmW9yV.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]STAR CHANNEL FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1932.m3u8
@@ -555,7 +591,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1963.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/a1MplP5.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Telecine Action (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1964.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/a1MplP5.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TeleCine Action 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/a1MplP5.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TeleCine Action 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1965.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] TeleCine[/B][/COLOR]" tvg-logo="https://i.imgur.com/a1MplP5.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TELECINE ACTION FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1966.m3u8
@@ -593,7 +629,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1982.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/NxQKbyQ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Telecine Pipoca (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1983.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/NxQKbyQ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Telecine Pipoca 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/NxQKbyQ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Telecine Pipoca 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1984.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] TeleCine[/B][/COLOR]" tvg-logo="https://i.imgur.com/NxQKbyQ.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TELECINE PIPOCA FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1985.m3u8
@@ -605,7 +641,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1988.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/FpddICg.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Telecine Premium (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1989.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/FpddICg.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Telecine Premium 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/FpddICg.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Telecine Premium 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1990.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] TeleCine[/B][/COLOR]" tvg-logo="https://i.imgur.com/FpddICg.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TELECINE PREMIUM FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1991.m3u8
@@ -635,7 +671,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2005.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/ChcqhL3.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TNT (H265)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2006.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/ChcqhL3.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TNT 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://i.imgur.com/ChcqhL3.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TNT 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2007.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TNT FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2008.m3u8
@@ -643,7 +679,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2009.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TNT SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2010.m3u8
-#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K -UFHD[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TNT Series 4K[/B][/COLOR]
+#EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] 4K - UFHD[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TNT Series 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2011.m3u8
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]" tvg-logo="https://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TNT SERIES FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2012.m3u8
