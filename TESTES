@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]" tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png",[COLOR black].[/COLOR]
+LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 group-title="[COLOR orange][B]S-ALT-2[COLOR yellow] ->[COLOR white] H.265[/B][/COLOR]" tvg-logo="https://i.imgur.com/PSBV0fN.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A&E (H265)[/B][/COLOR]
@@ -681,3 +682,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/M1BlgLK.png",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]TV Justica[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-2[/B][/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2052.m3u8
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 group-title="[COLOR black][B].[/B][/COLOR]" tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]"tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" ,[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]" tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
