@@ -1,718 +1,716 @@
-#EXTM3U 
-
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/PSBV0fN.png",A&E (H265)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1136.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/PSBV0fN.png",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1137.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1137.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/PSBV0fN.png",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1138.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1138.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/PSBV0fN.png",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1139.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1139.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/KNLvkGz.jpg",AL - Difusora AM 960
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1142.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1142.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/dfoALxP.jpg",AL - Gazeta AM 1260
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1143.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1143.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/xS9Ya5v.png",AMAZON PRIME JOGO 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1147.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1147.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/xS9Ya5v.png",AMAZON PRIME JOGO 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1148.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1148.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/xS9Ya5v.png",AMAZON PRIME JOGO 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1149.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1149.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/xS9Ya5v.png",AMAZON PRIME JOGO 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1150.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1150.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png",AMC (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1151.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1151.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1152.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1152.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1153.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1153.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1154.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1154.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://3.bp.blogspot.com/-IKw48vRj0ng/XxL4tVLxx-I/AAAAAAAAGrk/3PBqZhVTiR0vVDocG7B7vfrUtxbdcRV-QCK4BGAYYCw/s1600/Animal%2BPlanet.png",Animal Planet (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1155.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1155.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://3.bp.blogspot.com/-IKw48vRj0ng/XxL4tVLxx-I/AAAAAAAAGrk/3PBqZhVTiR0vVDocG7B7vfrUtxbdcRV-QCK4BGAYYCw/s1600/Animal%2BPlanet.png",Animal Planet 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1156.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1156.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png",ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1157.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1157.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1158.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1158.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1159.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1159.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/1iyqRDD.png",ARTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1160.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1160.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/1iyqRDD.png",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1161.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1161.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/1iyqRDD.png",ARTE 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1162.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1162.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",AXN (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1164.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1164.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",AXN 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1165.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1165.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1166.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1166.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",AXN FHD ( LEGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1167.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1167.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1168.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1168.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1170.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1170.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/Hn2dcHs.png",BA - Band FM 99.1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1171.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1171.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/p91i8jA.png",BA - Feliz FM 92.3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1173.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1173.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",Band 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1177.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1177.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",Band Bahia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1178.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1178.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",BAND CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1179.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1179.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1180.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1180.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",BAND CURITIBA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1181.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1181.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",BAND GOIANIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1182.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1182.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",BAND MACEIO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2175.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2175.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",BAND MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1183.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1183.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",BAND MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1184.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1184.m3u8
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/XbsLeWW.png",Band News (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1185.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1185.m3u8
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/XbsLeWW.png",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1186.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1186.m3u8
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/XbsLeWW.png",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1187.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1187.m3u8
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/XbsLeWW.png",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1188.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1188.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",Band RJ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1189.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1189.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",Band RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1190.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1190.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",Band SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1191.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1191.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",BAND SP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1192.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1192.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",BAND SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1193.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1193.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png",BAND SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1194.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1194.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ymD1Kpy.png",BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1195.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1195.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ymD1Kpy.png",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1196.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1196.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ymD1Kpy.png",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1197.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1197.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/ymD1Kpy.png",BandSports (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1198.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1198.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://lh3.googleusercontent.com/-yVYicJSoe8w/X20sIRtB1lI/AAAAAAAAHFg/fbQpRXyXErkxj1s65WKdKUm6oPzM63BpgCLcBGAsYHQ/BIS.png",BIS (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1213.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1213.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://lh3.googleusercontent.com/-yVYicJSoe8w/X20sIRtB1lI/AAAAAAAAHFg/fbQpRXyXErkxj1s65WKdKUm6oPzM63BpgCLcBGAsYHQ/BIS.png",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1214.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1214.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://lh3.googleusercontent.com/-yVYicJSoe8w/X20sIRtB1lI/AAAAAAAAHFg/fbQpRXyXErkxj1s65WKdKUm6oPzM63BpgCLcBGAsYHQ/BIS.png",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1215.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1215.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://lh3.googleusercontent.com/-yVYicJSoe8w/X20sIRtB1lI/AAAAAAAAHFg/fbQpRXyXErkxj1s65WKdKUm6oPzM63BpgCLcBGAsYHQ/BIS.png",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1216.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1216.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/pBmnb5T.png",Boas Novas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1220.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1220.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/ipKEWYK.png",CAMP. CARIOCA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1223.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1223.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/ipKEWYK.png",CAMP. CARIOCA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1224.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1224.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://4.bp.blogspot.com/-b8D2NrA1s2c/XuaMBfQ2_DI/AAAAAAAAGTo/0RWS41wGtLUS_PQON9oJkv55C7h5SEHtwCK4BGAYYCw/s1600/TV%2BBRASIL.png",Canal Brasil (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1235.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1235.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://4.bp.blogspot.com/-b8D2NrA1s2c/XuaMBfQ2_DI/AAAAAAAAGTo/0RWS41wGtLUS_PQON9oJkv55C7h5SEHtwCK4BGAYYCw/s1600/TV%2BBRASIL.png",CANAL BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1236.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1236.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/1DnqGWV.png",Eleven Sports 18
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1386.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1386.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/1DnqGWV.png",ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1390.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1390.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/1DnqGWV.png",ELEVEN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1393.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1393.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/1DnqGWV.png",ELEVEN SPORTS 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1394.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1394.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/1DnqGWV.png",ELEVEN SPORTS 9
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1395.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1395.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png",ESPN (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1396.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1396.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png",ESPN 2 (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1397.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1397.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/jEIYIFR.png",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1398.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1398.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/jEIYIFR.png",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1399.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1399.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/jEIYIFR.png",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1400.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1400.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/joLAfqH.png",ESPN 3 (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1401.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1401.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/joLAfqH.png",ESPN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1402.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1402.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/joLAfqH.png",ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1403.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1403.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/joLAfqH.png",ESPN 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1404.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1404.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/3OiOlDZ.png",ESPN 4 (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1405.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1405.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://i.imgur.com/w0k0QqA.png",ESPN 4 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1406.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1406.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/3OiOlDZ.png",ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1407.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1407.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/3OiOlDZ.png",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1408.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1408.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/3OiOlDZ.png",ESPN 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1409.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1409.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png",ESPN 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1410.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1410.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",ESPN Extra (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1411.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1411.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",ESPN EXTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1412.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1412.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1413.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1413.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png",ESPN EXTRA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1414.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1414.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/w0k0QqA.png",ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1415.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1415.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/w0k0QqA.png",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1416.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1416.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/w0k0QqA.png",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1417.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1417.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/FWulsmb.png",ESTÁDIO TNT SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1418.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1418.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/FWulsmb.png",ESTÁDIO TNT SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1419.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1419.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/FWulsmb.png",ESTÁDIO TNT SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1420.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1420.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/FWulsmb.png",ESTÁDIO TNT SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1421.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1421.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/FWulsmb.png",ESTÁDIO TNT SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1422.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1422.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/FWulsmb.png",ESTÁDIO TNT SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1423.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1423.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/EWClMGp.png",FILM & ART FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1428.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1428.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/EWClMGp.png",FILM & ART HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1429.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1429.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://2.bp.blogspot.com/-WkDVS4pbZUI/XmBBcYkuGyI/AAAAAAAACMY/vQW_GWMw5sMLFhcqeHvGXlge8RqdwVMHwCK4BGAYYCw/s400/FISH%2BTV.png",Fish TV (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1430.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1430.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://2.bp.blogspot.com/-WkDVS4pbZUI/XmBBcYkuGyI/AAAAAAAACMY/vQW_GWMw5sMLFhcqeHvGXlge8RqdwVMHwCK4BGAYYCw/s400/FISH%2BTV.png",FISH TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1431.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1431.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://2.bp.blogspot.com/-WkDVS4pbZUI/XmBBcYkuGyI/AAAAAAAACMY/vQW_GWMw5sMLFhcqeHvGXlge8RqdwVMHwCK4BGAYYCw/s400/FISH%2BTV.png",FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1432.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1432.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://2.bp.blogspot.com/-WkDVS4pbZUI/XmBBcYkuGyI/AAAAAAAACMY/vQW_GWMw5sMLFhcqeHvGXlge8RqdwVMHwCK4BGAYYCw/s400/FISH%2BTV.png",FISH TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1433.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1433.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png",FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1434.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1434.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1435.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1435.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1588.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1588.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/alOqjXS.png",HBO Familly (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1589.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1589.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/alOqjXS.png",HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1590.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1590.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/alOqjXS.png",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1591.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1591.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/alOqjXS.png",HBO FAMILY SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1592.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1592.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1593.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1593.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1594.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1594.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1595.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1595.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO HD ( LENGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1596.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1596.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1597.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1597.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1598.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1598.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1599.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1599.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1600.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1600.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1601.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1601.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1602.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1602.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1603.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1603.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1604.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1604.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1605.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1605.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1606.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1606.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/ohFIcQ8.png",HBO PLUS (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1607.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1607.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/ohFIcQ8.png",HBO PLUS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1608.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1608.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png",HBO PLUS FHD  ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1609.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1609.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/ohFIcQ8.png",HBO PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1610.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1610.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png",HBO PLUS HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1611.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1611.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/ohFIcQ8.png",HBO PLUS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1612.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1612.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1613.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1613.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1614.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1614.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1615.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1615.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1616.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1616.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1617.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1617.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1618.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1618.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1619.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1619.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/vuLKMg0.png",HBO Signature (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1620.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1620.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/vuLKMg0.png",HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1621.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1621.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/vuLKMg0.png",HBO SIGNATURE FHD ( LEGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1622.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1622.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/vuLKMg0.png",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1623.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1623.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/vuLKMg0.png",HBO SIGNATURE HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1624.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1624.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/vuLKMg0.png",HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1625.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1625.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png",HBO XTREME (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1626.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1626.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png",HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1627.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1627.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/pptVcOH.png",HBO XTREME FHD ( LEGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1628.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1628.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/pptVcOH.png",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1629.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1629.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/pptVcOH.png",HBO XTREME HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1630.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1630.m3u8
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png",HBO Xtreme SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1631.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1631.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://i.imgur.com/Qzols33.png",HGTV  SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1633.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1633.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/Qzols33.png",HGTV (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1634.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1634.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://i.imgur.com/Qzols33.png",HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1635.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1635.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://i.imgur.com/Qzols33.png",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1636.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1636.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png",History (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1638.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1638.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png",HISTORY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1639.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1639.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png",HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1640.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1640.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png",HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1641.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1641.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png",ID - INVESTIGAÇÃO DISCOVERY (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1645.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1645.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png",ID - INVESTIGAÇÃO DISCOVERY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1646.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1646.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png",ID - INVESTIGAÇÃO DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1647.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1647.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png",ID - INVESTIGAÇÃO DISCOVERY SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1648.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1648.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",Inter TV Grande Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1651.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1651.m3u8
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/E2cY37D.png",JP NEWS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2171.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2171.m3u8
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/E2cY37D.png",JP NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2172.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2172.m3u8
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/E2cY37D.png",JP NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1656.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1656.m3u8
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/E2cY37D.png",JP NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1657.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1657.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/pBmnb5T.png",KPOP TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1659.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1659.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png",Lifetime (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1661.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1661.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1663.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1663.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-cURvB4vtUWc/XuZtQg1ss_I/AAAAAAAAGSU/gFlk4yhYtfQS3BSWD-qJ1bwF5KJ3o-3PgCLcBGAsYHQ/s1600/record.png",RECORD SC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1822.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1822.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-cURvB4vtUWc/XuZtQg1ss_I/AAAAAAAAGSU/gFlk4yhYtfQS3BSWD-qJ1bwF5KJ3o-3PgCLcBGAsYHQ/s1600/record.png",RECORD SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1823.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1823.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-cURvB4vtUWc/XuZtQg1ss_I/AAAAAAAAGSU/gFlk4yhYtfQS3BSWD-qJ1bwF5KJ3o-3PgCLcBGAsYHQ/s1600/record.png",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1824.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1824.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-cURvB4vtUWc/XuZtQg1ss_I/AAAAAAAAGSU/gFlk4yhYtfQS3BSWD-qJ1bwF5KJ3o-3PgCLcBGAsYHQ/s1600/record.png",RECORD SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1825.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1825.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-cURvB4vtUWc/XuZtQg1ss_I/AAAAAAAAGSU/gFlk4yhYtfQS3BSWD-qJ1bwF5KJ3o-3PgCLcBGAsYHQ/s1600/record.png",RECORD UBERLÂNDIA MG
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1827.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1827.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/pBmnb5T.png",Redbull TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1828.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1828.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/tKp9QWD.png",REDE AMAZONICA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1829.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1829.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/tKp9QWD.png",REDE AMAZONICA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1830.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1830.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/7gWHEsX.png",Rede Brasil TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1832.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1832.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/pBmnb5T.png",Rede Familia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1833.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1833.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/pBmnb5T.png",Rede Genesis FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1834.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1834.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/pBmnb5T.png",Rede Genesis SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1835.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1835.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/7gWHEsX.png",REDE MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1836.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1836.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://4.bp.blogspot.com/-pxizaydz0KU/XuaBRdLGHbI/AAAAAAAAGTQ/ffLhCGhhPKgTtVrzNX731VcYlpgvo4bmQCK4BGAYYCw/s1600/REDE%2BTV.png",REDE TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1837.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1837.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://4.bp.blogspot.com/-pxizaydz0KU/XuaBRdLGHbI/AAAAAAAAGTQ/ffLhCGhhPKgTtVrzNX731VcYlpgvo4bmQCK4BGAYYCw/s1600/REDE%2BTV.png",REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1838.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1838.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://4.bp.blogspot.com/-pxizaydz0KU/XuaBRdLGHbI/AAAAAAAAGTQ/ffLhCGhhPKgTtVrzNX731VcYlpgvo4bmQCK4BGAYYCw/s1600/REDE%2BTV.png",Rede TV! 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1839.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1839.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://4.bp.blogspot.com/-pxizaydz0KU/XuaBRdLGHbI/AAAAAAAAGTQ/ffLhCGhhPKgTtVrzNX731VcYlpgvo4bmQCK4BGAYYCw/s1600/REDE%2BTV.png",RedeTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1840.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1840.m3u8
 #EXTINF:-1 group-title="Canais | Variedade",Retro Music
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1841.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1841.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://pbs.twimg.com/profile_images/1593065506/LOGO_RIT.png",RIT TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1842.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1842.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://www.beatplay.com.br/wp-content/uploads/2020/07/logo-2019-beat.png",RJ - BeatPlay FM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1843.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1843.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/JB_FM_logo.png",RJ - JB FM 99.9
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1844.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1844.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logonova.png",RJ - Tupi FM 96.5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1845.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1845.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",RPC CASCAVEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1847.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1847.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",RPC CASCAVEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1848.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1848.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",RPC CURITIBA FHD (GLOBO)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1849.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1849.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",RPC CURITIBA HD (GLOBO)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1850.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1850.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",RPC CURITIBA SD (GLOBO)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1851.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1851.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/5C09ns2.png",RS - 104 FM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1852.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1852.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_92_FM_%28Porto_Alegre%29.png",RS - 92. FM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1853.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1853.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/fGNvKsw.jpg",RS - Alegria FM 92.9
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1854.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1854.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/4jgmmDU.png",RS - Atlântida FM 94.3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1855.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1855.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/D1a20JF.jpg",RS - Gaúcha FM 93.7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1856.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1856.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://img.radios.com.br/radio/xl/radio13174_1481549973.png",RS - Guaíba FM 101.3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1857.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1857.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/lxqiMIh.jpg",RS - Itapema FM 102.3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1858.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1858.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/r5v8n4E.png",RS - JovenPan FM 97.5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1859.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1859.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/pBmnb5T.png",Santuário de Fátima FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1862.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1862.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1864.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1864.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT AM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1865.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1865.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT BA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1866.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1866.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT BSB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1867.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1867.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT GO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1868.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1868.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT JANGADEIRO CE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1869.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1869.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT MT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1870.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1870.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT PARANA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1871.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1871.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT PARANA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1872.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1872.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT PARANA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1873.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1873.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT PI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1874.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1874.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1875.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1875.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1876.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1876.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT RS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1877.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1877.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT SD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1878.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1878.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1879.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1879.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1880.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1880.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT SP HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1881.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1881.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png",SBT SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1882.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1882.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/pBmnb5T.png",SescTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1884.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1884.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/pBmnb5T.png",Shoptime SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1886.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1886.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1887.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1887.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1888.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1888.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1889.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1889.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1890.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1890.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1891.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1891.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1892.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1892.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1893.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1893.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1894.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1894.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 09
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1895.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1895.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1896.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1896.m3u8
 #EXTINF:-1 group-title="Canais | Sky Play" tvg-logo="https://i.imgur.com/UTP8aCG.png",SKY PLAY 11
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1897.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1897.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/30eQIBh.png",SONY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1898.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1898.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/30eQIBh.png",SONY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1899.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1899.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/30eQIBh.png",SONY SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1900.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1900.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/pkDiXsh.jpg",SP - Antena 1 FM 94.7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1902.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1902.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/0n1bOIe.png",SP - Mix FM 106.3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1904.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1904.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/e80f8f53dd91ff9884892eec1a70932d.png",SP - Top FM 100.5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1906.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1906.m3u8
 #EXTINF:-1 group-title="Rádios | Ao Vivo" tvg-logo="https://i.imgur.com/c5i9PVF.png",SP - Tropical FM 107.9
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1907.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1907.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/iV0iBKf.png",Space (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1908.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1908.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/iV0iBKf.png",SPACE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1909.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1909.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/iV0iBKf.png",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1910.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1910.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/iV0iBKf.png",SPACE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1911.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1911.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/a1cWlz2.png",SporTV (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1912.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1912.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/jFFsxXu.png",SporTV 2 (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1913.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1913.m3u8
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://i.imgur.com/uQnMRtt.png",SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1914.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1914.m3u8
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://i.imgur.com/uQnMRtt.png",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1915.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1915.m3u8
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://i.imgur.com/uQnMRtt.png",SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1916.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1916.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/1NXqwY2.png",SporTV 3 (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1917.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1917.m3u8
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://i.imgur.com/0sTcFeE.png",SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1918.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1918.m3u8
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://i.imgur.com/0sTcFeE.png",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1919.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1919.m3u8
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://i.imgur.com/0sTcFeE.png",SPORTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1920.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1920.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/56Rc96W.png",SporTv 4 (H.265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1921.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1921.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://i.imgur.com/a1cWlz2.png",SporTV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1925.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1925.m3u8
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://i.imgur.com/gULDKB3.png",SPORTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1926.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1926.m3u8
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://i.imgur.com/gULDKB3.png",SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1927.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1927.m3u8
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://i.imgur.com/gULDKB3.png",SPORTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1929.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1929.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/cEmW9yV.png",Star Channel (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1930.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1930.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://i.imgur.com/cEmW9yV.png",Star Channel 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1931.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1931.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/cEmW9yV.png",STAR CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1932.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1932.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/cEmW9yV.png",STAR CHANNEL FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1933.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1933.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/cEmW9yV.png",STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1934.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1934.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/cEmW9yV.png",STAR CHANNEL HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1935.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1935.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/cEmW9yV.png",STAR CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1936.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1936.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/k3cqCKV.png",STAR LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1937.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1937.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/k3cqCKV.png",STAR LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1938.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1938.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/k3cqCKV.png",STAR LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1939.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1939.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR+ 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1940.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1940.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR+ 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1941.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1941.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR+ 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1942.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1942.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR+ 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1943.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1943.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR+ 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1944.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1944.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR+ 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1945.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1945.m3u8
 #EXTINF:-1 group-title="Canais | Esportes Extras" tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR+ 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1946.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1946.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/Ei2aciR.png",Studio Universal (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1947.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1947.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/Ei2aciR.png",STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1948.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1948.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/Ei2aciR.png",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1949.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1949.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/Ei2aciR.png",STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1950.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1950.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://3.bp.blogspot.com/-CAwu7h3cEc0/XmROFq0-ocI/AAAAAAAACUE/6tED7wYBdPkiOXzyQltpESr9WMVOCV1UwCK4BGAYYCw/s400/SFY.png",SYFY (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1953.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1953.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://3.bp.blogspot.com/-CAwu7h3cEc0/XmROFq0-ocI/AAAAAAAACUE/6tED7wYBdPkiOXzyQltpESr9WMVOCV1UwCK4BGAYYCw/s400/SFY.png",SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1954.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1954.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://3.bp.blogspot.com/-CAwu7h3cEc0/XmROFq0-ocI/AAAAAAAACUE/6tED7wYBdPkiOXzyQltpESr9WMVOCV1UwCK4BGAYYCw/s400/SFY.png",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1955.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1955.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://3.bp.blogspot.com/-CAwu7h3cEc0/XmROFq0-ocI/AAAAAAAACUE/6tED7wYBdPkiOXzyQltpESr9WMVOCV1UwCK4BGAYYCw/s400/SFY.png",SYFY SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1956.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1956.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/pBmnb5T.png",Taormina TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1957.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1957.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/nhRNiMm.png",TBS (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1959.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1959.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/nhRNiMm.png",TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1960.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1960.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/nhRNiMm.png",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1961.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1961.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://1.bp.blogspot.com/-ejxsKor1rMM/Xs6r7OACh6I/AAAAAAAAF-Y/xpIIigM60HcE0CsVPuQ_lAvCFZjCN9exgCLcBGAsYHQ/s1600/TCM.png",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1962.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1962.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://1.bp.blogspot.com/-ejxsKor1rMM/Xs6r7OACh6I/AAAAAAAAF-Y/xpIIigM60HcE0CsVPuQ_lAvCFZjCN9exgCLcBGAsYHQ/s1600/TCM.png",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1963.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1963.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/a1MplP5.png",Telecine Action (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1964.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1964.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://i.imgur.com/a1MplP5.png",TeleCine Action 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1965.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1965.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/a1MplP5.png",TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1966.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1966.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/a1MplP5.png",TELECINE ACTION FHD  ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1967.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1967.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/a1MplP5.png",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1968.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1968.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/a1MplP5.png",TELECINE ACTION HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1969.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1969.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/a1MplP5.png",TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1970.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1970.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/YbyynJv.png",Telecine Cult (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1971.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1971.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/YbyynJv.png",TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1972.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1972.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/YbyynJv.png",TELECINE CULT FHD ( LEGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1973.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1973.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/YbyynJv.png",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1974.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1974.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/YbyynJv.png",TELECINE CULT HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1975.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1975.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/YbyynJv.png",TELECINE CULT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1976.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1976.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/49nh1wL.png",Telecine Fun (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1977.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1977.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/49nh1wL.png",TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1978.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1978.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/49nh1wL.png",TELECINE FUN FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1979.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1979.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/49nh1wL.png",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1980.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1980.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/49nh1wL.png",TELECINE FUN HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1981.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1981.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/49nh1wL.png",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1982.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1982.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/NxQKbyQ.png",Telecine Pipoca (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1983.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1983.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://i.imgur.com/NxQKbyQ.png",Telecine Pipoca 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1984.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1984.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/NxQKbyQ.png",TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1985.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1985.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/NxQKbyQ.png",TELECINE PIPOCA FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1986.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1986.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/NxQKbyQ.png",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1987.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1987.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/NxQKbyQ.png",TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1988.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1988.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/FpddICg.png",Telecine Premium (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1989.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1989.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://i.imgur.com/FpddICg.png",Telecine Premium 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1990.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1990.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/FpddICg.png",TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1991.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1991.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/FpddICg.png",TELECINE PREMIUM FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1992.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1992.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/FpddICg.png",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1993.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1993.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/FpddICg.png",TELECINE PREMIUM HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1994.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1994.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/FpddICg.png",TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1995.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1995.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/MvEwir3.png",Telecine Touch (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1996.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1996.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/MvEwir3.png",TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1997.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1997.m3u8
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/MvEwir3.png",TELECINE TOUCH FHD ( LEGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1998.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1998.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/MvEwir3.png",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/1999.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/1999.m3u8
 #EXTINF:-1 group-title="Canais | TeleCine" tvg-logo="https://i.imgur.com/MvEwir3.png",TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2000.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2000.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/5onKR9w.png",TERRA VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2001.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2001.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://2.bp.blogspot.com/-kIUVI9_YPPE/XmP60ycdyPI/AAAAAAAACPY/r6d1IMJFvDQsE-Il4Cic1BnuJN47QvI0ACK4BGAYYCw/s400/TLC.png",TLC (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2004.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2004.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://1.bp.blogspot.com/-ejxsKor1rMM/Xs6r7OACh6I/AAAAAAAAF-Y/xpIIigM60HcE0CsVPuQ_lAvCFZjCN9exgCLcBGAsYHQ/s1600/TCM.png",TMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2005.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2005.m3u8
 #EXTINF:-1 group-title="Canais | H.265" tvg-logo="https://i.imgur.com/ChcqhL3.png",TNT (H265)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2006.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2006.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://i.imgur.com/ChcqhL3.png",TNT 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2007.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2007.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2008.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2008.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2009.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2009.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2010.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2010.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png",TNT Series 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2011.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2011.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png",TNT SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2012.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2012.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png",TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2013.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2013.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png",TNT SERIES SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2014.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2014.m3u8
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="https://1.bp.blogspot.com/-X81PcYk1Bh4/Xk70kb6xZLI/AAAAAAAACHU/qwKEZ7lIBq0D1CVFISjLunD5_BSKoui1gCLcBGAsYHQ/s1600/tooncast.png",TOONCAST FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2015.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2015.m3u8
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="https://1.bp.blogspot.com/-X81PcYk1Bh4/Xk70kb6xZLI/AAAAAAAACHU/qwKEZ7lIBq0D1CVFISjLunD5_BSKoui1gCLcBGAsYHQ/s1600/tooncast.png",TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2016.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2016.m3u8
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="https://1.bp.blogspot.com/-X81PcYk1Bh4/Xk70kb6xZLI/AAAAAAAACHU/qwKEZ7lIBq0D1CVFISjLunD5_BSKoui1gCLcBGAsYHQ/s1600/tooncast.png",TOONCAST SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2017.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2017.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/pBmnb5T.png",Top TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2018.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2018.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/pqQfCXb.png",TRAVEL BOX BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2019.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2019.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/tKp9QWD.png",TV CABUGI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2035.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2035.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/pBmnb5T.png",TV Carioca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2164.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2164.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/WOhkgBc.png",Tv Escola
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2040.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2040.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",TV GAZETA ALAGOAS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2041.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2041.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",TV GAZETA ALAGOAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2042.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2042.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",TV Gazeta FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2043.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2043.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://4.bp.blogspot.com/-02UGvCVbggU/XuaRaj-VeVI/AAAAAAAAGUM/7Fjv0FqRVKU5ayqXoD88a66CeM6hKdVlACK4BGAYYCw/s1600/GASETA.png",TV GAZETA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2044.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2044.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",TV Gazeta Sul SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2046.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2046.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2019/04/app-icon-tvgideoes.png",TV GIDEOES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2047.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2047.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/tKp9QWD.png",TV Globo Gazeta FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2048.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2048.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/tKp9QWD.png",TV INTEGRAÇÃO DIVINÓPOLIS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2050.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2050.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/tKp9QWD.png",TV INTEGRAÇÃO DIVINÓPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2051.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2051.m3u8
 #EXTINF:-1 group-title="Canais | Variedade" tvg-logo="https://i.imgur.com/M1BlgLK.png",TV Justica
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/490564/922012/2052.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://pbrz.xyz:80/live/08902818/93893522/2052.m3u8
