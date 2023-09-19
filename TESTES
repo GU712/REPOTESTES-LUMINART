@@ -1242,283 +1242,221 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332434.m3u8|User-Agent=MXPlayer
 #EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News SD" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Record News SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4570.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="731568" tvg-name="BandNews FHD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3558
-#EXTINF: -1 tvg-id="378038" tvg-name="BandNews FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/118366
-#EXTINF: -1 tvg-id="946579" tvg-name="BandNews HD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3559
-#EXTINF: -1 tvg-id="960431" tvg-name="BandNews HD [Alter]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332435
-#EXTINF: -1 tvg-id="555027" tvg-name="BandNews SD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4563
-#EXTINF: -1 tvg-id="184409" tvg-name="CNN Brasil FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3868
-#EXTINF: -1 tvg-id="925453" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71030
-#EXTINF: -1 tvg-id="637709" tvg-name="CNN Brasil HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/8060
-#EXTINF: -1 tvg-id="171322" tvg-name="CNN Brasil HD [Alter]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332437
-#EXTINF: -1 tvg-id="635537" tvg-name="CNN Brasil SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/28864
-#EXTINF: -1 tvg-id="791435" tvg-name="CNN Espanhol HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Espanhol HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/113967
-#EXTINF: -1 tvg-id="855635" tvg-name="CNN Internacional FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Internacional FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/113969
-#EXTINF: -1 tvg-id="745452" tvg-name="CNN Internacional HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Internacional HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/113970
-#EXTINF: -1 tvg-id="143158" tvg-name="CNN Internacional SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Internacional SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/113971
-#EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", BandSports FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4030.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", BandSports FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71023.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports HD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports HD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", BandSports HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3572.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports HD [Alter]" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports HD [Alter]" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", BandSports HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332425.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", BandSports SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4504.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes", Combate FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Combate FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3669.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate FHD [H265]" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes", Combate FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate FHD [H265]" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Combate FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71031.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes", Combate HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Combate HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3670.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate HD [Alter]" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes", Combate HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate HD [Alter]" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Combate HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332426.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes", Combate SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Combate SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4506.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Fight Box HD" tvg-logo="https://liebeurl.me/logos/ufcfigthpass.png" group-title="Canais | Esportes", Fight Box HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Fight Box HD" tvg-logo="https://liebeurl.me/logos/ufcfigthpass.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Fight Box HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261978.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Fight Network HD" tvg-logo="https://play-lh.googleusercontent.com/TsD8H2ZdCDP8qqWzZr8zin-_cNwZpzzL4Qza-oXJBcQTtoJPvA6Xpb_29ahVjUfh9DhQ" group-title="Canais | Esportes", Fight Network HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Fight Network HD" tvg-logo="https://play-lh.googleusercontent.com/TsD8H2ZdCDP8qqWzZr8zin-_cNwZpzzL4Qza-oXJBcQTtoJPvA6Xpb_29ahVjUfh9DhQ" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Fight Network HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261963.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 FHD" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes", Fox Sports 2 FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 FHD" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Fox Sports 2 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3692.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 FHD [H265]" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes", Fox Sports 2 FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 FHD [H265]" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Fox Sports 2 FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71050.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 HD" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes", Fox Sports 2 HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 HD" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Fox Sports 2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3693.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 HD [Alter]" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes", Fox Sports 2 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 HD [Alter]" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Fox Sports 2 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332427.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 SD" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes", Fox Sports 2 SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 SD" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Esportes[/B][/COLOR]", Fox Sports 2 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4508.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="717245" tvg-name="BandSports FHD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4030
-#EXTINF: -1 tvg-id="688444" tvg-name="BandSports FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71023
-#EXTINF: -1 tvg-id="691399" tvg-name="BandSports HD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3572
-#EXTINF: -1 tvg-id="427993" tvg-name="BandSports HD [Alter]" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332425
-#EXTINF: -1 tvg-id="549993" tvg-name="BandSports SD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4504
-#EXTINF: -1 tvg-id="630135" tvg-name="Combate FHD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes", Combate FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3669
-#EXTINF: -1 tvg-id="988667" tvg-name="Combate FHD [H265]" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes", Combate FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71031
-#EXTINF: -1 tvg-id="997774" tvg-name="Combate HD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes", Combate HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3670
-#EXTINF: -1 tvg-id="715970" tvg-name="Combate HD [Alter]" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes", Combate HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332426
-#EXTINF: -1 tvg-id="973949" tvg-name="Combate SD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes", Combate SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4506
-#EXTINF: -1 tvg-id="306224" tvg-name="Fight Box HD" tvg-logo="https://liebeurl.me/logos/ufcfigthpass.png" group-title="Canais | Esportes", Fight Box HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/261978
-#EXTINF: -1 tvg-id="250620" tvg-name="Fight Network HD" tvg-logo="https://play-lh.googleusercontent.com/TsD8H2ZdCDP8qqWzZr8zin-_cNwZpzzL4Qza-oXJBcQTtoJPvA6Xpb_29ahVjUfh9DhQ" group-title="Canais | Esportes", Fight Network HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/261963
-#EXTINF: -1 tvg-id="158416" tvg-name="Fox Sports 2 FHD" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes", Fox Sports 2 FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3692
-#EXTINF: -1 tvg-id="138313" tvg-name="Fox Sports 2 FHD [H265]" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes", Fox Sports 2 FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71050
-#EXTINF: -1 tvg-id="986040" tvg-name="Fox Sports 2 HD" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes", Fox Sports 2 HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3693
-#EXTINF: -1 tvg-id="911559" tvg-name="Fox Sports 2 HD [Alter]" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes", Fox Sports 2 HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332427
-#EXTINF: -1 tvg-id="834279" tvg-name="Fox Sports 2 SD" tvg-logo="https://liebeurl.me/logos/foxsports2.png" group-title="Canais | Esportes", Fox Sports 2 SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4508
-#EXTINF: -1 tvg-name="Barretos 2023" group-title=" Canais | PPV", Barretos 2023[/B][/COLOR]
+#EXTINF: -1 tvg-name="Barretos 2023" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Barretos 2023[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/351326.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Brasileirao Serie C 1 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title=" Canais | PPV", Brasileirao Serie C 1 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Brasileirao Serie C 1 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Brasileirao Serie C 1 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261394.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Brasileirao Serie C 2 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title=" Canais | PPV", Brasileirao Serie C 2 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Brasileirao Serie C 2 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Brasileirao Serie C 2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261395.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Brasileirao Serie C 3 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title=" Canais | PPV", Brasileirao Serie C 3 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Brasileirao Serie C 3 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Brasileirao Serie C 3 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261396.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Brasileirao Serie C 4 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title=" Canais | PPV", Brasileirao Serie C 4 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Brasileirao Serie C 4 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Brasileirao Serie C 4 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261928.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="a.e.br" tvg-name="Brasileirao Serie D 1 HD" group-title=" Canais | PPV", Brasileirao Serie D 1 HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="a.e.br" tvg-name="Brasileirao Serie D 1 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Brasileirao Serie D 1 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261929.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="CazéTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPhaoeCptIa3QvxwIzNr_ZbZhtEDEPCL6fc3xZ8vjKjaHhNGmIRysI7E-ajDLe-heiXb4&usqp=CAU" group-title=" Canais | PPV", CazéTV HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="CazéTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPhaoeCptIa3QvxwIzNr_ZbZhtEDEPCL6fc3xZ8vjKjaHhNGmIRysI7E-ajDLe-heiXb4&usqp=CAU" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", CazéTV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/348420.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="DAZN 1 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title=" Canais | PPV", DAZN 1 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="DAZN 1 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", DAZN 1 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/13946.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="DAZN 1 HD [Alter]" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title=" Canais | PPV", DAZN 1 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="DAZN 1 HD [Alter]" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", DAZN 1 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332988.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="DAZN 2 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title=" Canais | PPV", DAZN 2 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="DAZN 2 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", DAZN 2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48617.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="DAZN 2 HD [Alter]" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title=" Canais | PPV", DAZN 2 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="DAZN 2 HD [Alter]" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", DAZN 2 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332989.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="DAZN 3 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title=" Canais | PPV", DAZN 3 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="DAZN 3 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", DAZN 3 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/28877.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="DAZN 3 HD [Alter]" tvg-logo="http://lxls.mx:80/images/70174c0a783eae8342f989252f0c82e8.png" group-title=" Canais | PPV", DAZN 3 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="DAZN 3 HD [Alter]" tvg-logo="http://lxls.mx:80/images/70174c0a783eae8342f989252f0c82e8.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", DAZN 3 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332990.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="DAZN 4 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title=" Canais | PPV", DAZN 4 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="DAZN 4 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", DAZN 4 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/8072.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="DAZN 4 HD [Alter]" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title=" Canais | PPV", DAZN 4 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="DAZN 4 HD [Alter]" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", DAZN 4 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332991.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Eleven Network HD" tvg-logo="https://liebeurl.me/logos/elevenn.png" group-title=" Canais | PPV", Eleven Network HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Eleven Network HD" tvg-logo="https://liebeurl.me/logos/elevenn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Eleven Network HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/113951.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Eleven Sports Channel HD 01" group-title=" Canais | PPV", Eleven Sports Channel HD 01[/B][/COLOR]
+#EXTINF: -1 tvg-name="Eleven Sports Channel HD 01" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Eleven Sports Channel HD 01[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/65470.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Eleven Sports Channel HD 02" group-title=" Canais | PPV", Eleven Sports Channel HD 02[/B][/COLOR]
+#EXTINF: -1 tvg-name="Eleven Sports Channel HD 02" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Eleven Sports Channel HD 02[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/65472.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Eleven Sports Channel HD 03" group-title=" Canais | PPV", Eleven Sports Channel HD 03[/B][/COLOR]
+#EXTINF: -1 tvg-name="Eleven Sports Channel HD 03" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Eleven Sports Channel HD 03[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/65473.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Eleven Sports Channel HD 04" group-title=" Canais | PPV", Eleven Sports Channel HD 04[/B][/COLOR]
+#EXTINF: -1 tvg-name="Eleven Sports Channel HD 04" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Eleven Sports Channel HD 04[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/65474.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Eleven Sports Channel HD 05" group-title=" Canais | PPV", Eleven Sports Channel HD 05[/B][/COLOR]
+#EXTINF: -1 tvg-name="Eleven Sports Channel HD 05" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Eleven Sports Channel HD 05[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/65475.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Eleven Sports Channel HD 06" group-title=" Canais | PPV", Eleven Sports Channel HD 06[/B][/COLOR]
+#EXTINF: -1 tvg-name="Eleven Sports Channel HD 06" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Eleven Sports Channel HD 06[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/65476.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Estádio TNT Sports 1 HD" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title=" Canais | PPV", Estádio TNT Sports 1 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Estádio TNT Sports 1 HD" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Estádio TNT Sports 1 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49370.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Estádio TNT Sports 1 HD [Alter]" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title=" Canais | PPV", Estádio TNT Sports 1 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="Estádio TNT Sports 1 HD [Alter]" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Estádio TNT Sports 1 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332992.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Estádio TNT Sports 2 HD" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title=" Canais | PPV", Estádio TNT Sports 2 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Estádio TNT Sports 2 HD" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Estádio TNT Sports 2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49371.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Estádio TNT Sports 2 HD [Alter]" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title=" Canais | PPV", Estádio TNT Sports 2 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="Estádio TNT Sports 2 HD [Alter]" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Estádio TNT Sports 2 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332993.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Estádio TNT Sports 3 HD" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title=" Canais | PPV", Estádio TNT Sports 3 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Estádio TNT Sports 3 HD" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Estádio TNT Sports 3 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49372.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Estádio TNT Sports 3 HD [Alter]" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title=" Canais | PPV", Estádio TNT Sports 3 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="Estádio TNT Sports 3 HD [Alter]" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Estádio TNT Sports 3 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332994.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Estádio TNT Sports 4 HD" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title=" Canais | PPV", Estádio TNT Sports 4 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Estádio TNT Sports 4 HD" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Estádio TNT Sports 4 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49373.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Estádio TNT Sports 4 HD [Alter]" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title=" Canais | PPV", Estádio TNT Sports 4 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="Estádio TNT Sports 4 HD [Alter]" tvg-logo="http://lxls.mx:80/images/5fa0d8dae7c60f1d346b6f6602b7b9b5.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Estádio TNT Sports 4 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332995.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="FlaTV FHD" tvg-logo="http://iv.pe/QlP" group-title=" Canais | PPV", FlaTV FHD[/B][/COLOR]
+#EXTINF: -1 tvg-name="FlaTV FHD" tvg-logo="http://iv.pe/QlP" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", FlaTV FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/10342.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="FlaTV HD" tvg-logo="http://iv.pe/QlP" group-title=" Canais | PPV", FlaTV HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="FlaTV HD" tvg-logo="http://iv.pe/QlP" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", FlaTV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49516.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Formula 1 TV HD" group-title=" Canais | PPV", Formula 1 TV HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Formula 1 TV HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Formula 1 TV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/56783.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="golf.br" tvg-name="Golf Channel FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title=" Canais | PPV", Golf Channel FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="golf.br" tvg-name="Golf Channel FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Golf Channel FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/62821.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="golf.br" tvg-name="Golf Channel HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title=" Canais | PPV", Golf Channel HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="golf.br" tvg-name="Golf Channel HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Golf Channel HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/62822.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Liga Futsal 01 HD" group-title=" Canais | PPV", Liga Futsal 01 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Liga Futsal 01 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Liga Futsal 01 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/64645.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Liga Futsal 02 HD" group-title=" Canais | PPV", Liga Futsal 02 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Liga Futsal 02 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Liga Futsal 02 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/64643.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Liga Futsal 03 HD" group-title=" Canais | PPV", Liga Futsal 03 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Liga Futsal 03 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Liga Futsal 03 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/64646.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Liga Futsal 04 HD" group-title=" Canais | PPV", Liga Futsal 04 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Liga Futsal 04 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Liga Futsal 04 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/64644.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Live Casimiro Brasileirao HD" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_K3azk2QGqJh-C3YDMEr4OMclnUB_b2V_jpQQQ=s900-c-k-c0x00ffffff-no-rj" group-title=" Canais | PPV", Live Casimiro Brasileirao HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Live Casimiro Brasileirao HD" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_K3azk2QGqJh-C3YDMEr4OMclnUB_b2V_jpQQQ=s900-c-k-c0x00ffffff-no-rj" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Live Casimiro Brasileirao HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/283673.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Lutas Exclusivas HD [Alter]" group-title=" Canais | PPV", Lutas Exclusivas HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="Lutas Exclusivas HD [Alter]" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Lutas Exclusivas HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/342348.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="MLS soccer HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title=" Canais | PPV", MLS soccer HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="MLS soccer HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", MLS soccer HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/348419.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="MyCujoo TV 1 HD" group-title=" Canais | PPV", MyCujoo TV 1 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="MyCujoo TV 1 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", MyCujoo TV 1 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/56787.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="MyCujoo TV 2 HD" group-title=" Canais | PPV", MyCujoo TV 2 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="MyCujoo TV 2 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", MyCujoo TV 2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/56788.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="MyCujoo TV 3 HD" group-title=" Canais | PPV", MyCujoo TV 3 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="MyCujoo TV 3 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", MyCujoo TV 3 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/56789.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="NFL Network HD" tvg-logo="https://play-lh.googleusercontent.com/N6PXcrSQE-t3K7LlcLGDhGd7jq61TY9GPZXPbgvWULyyUwgz8O4rGVSVs1vW3JMaNHFT" group-title=" Canais | PPV", NFL Network HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="NFL Network HD" tvg-logo="https://play-lh.googleusercontent.com/N6PXcrSQE-t3K7LlcLGDhGd7jq61TY9GPZXPbgvWULyyUwgz8O4rGVSVs1vW3JMaNHFT" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", NFL Network HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/113952.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="OneFootball HD 01" group-title=" Canais | PPV", OneFootball HD 01[/B][/COLOR]
+#EXTINF: -1 tvg-name="OneFootball HD 01" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", OneFootball HD 01[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/341946.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="OneFootball HD 02" group-title=" Canais | PPV", OneFootball HD 02[/B][/COLOR]
+#EXTINF: -1 tvg-name="OneFootball HD 02" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", OneFootball HD 02[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/341949.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="OneFootball HD 03" group-title=" Canais | PPV", OneFootball HD 03[/B][/COLOR]
+#EXTINF: -1 tvg-name="OneFootball HD 03" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", OneFootball HD 03[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/341948.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="OneFootball HD 04" group-title=" Canais | PPV", OneFootball HD 04[/B][/COLOR]
+#EXTINF: -1 tvg-name="OneFootball HD 04" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", OneFootball HD 04[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/341947.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Prime Video 01 HD" group-title=" Canais | PPV", Prime Video 01 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Prime Video 01 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Prime Video 01 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/238201.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Prime Video 01 HD [Alter]" group-title=" Canais | PPV", Prime Video 01 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="Prime Video 01 HD [Alter]" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Prime Video 01 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/258017.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Prime Video 02 HD" group-title=" Canais | PPV", Prime Video 02 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Prime Video 02 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Prime Video 02 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/238202.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Prime Video 02 HD [Alter]" group-title=" Canais | PPV", Prime Video 02 HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="Prime Video 02 HD [Alter]" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Prime Video 02 HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/258018.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Prime Video 03 HD" group-title=" Canais | PPV", Prime Video 03 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Prime Video 03 HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Prime Video 03 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/343047.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Sportitalia HD" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title=" Canais | PPV", Sportitalia HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Sportitalia HD" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", Sportitalia HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261938.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TV Coxa HD" group-title=" Canais | PPV", TV Coxa HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TV Coxa HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", TV Coxa HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/63365.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TV Furacao HD" group-title=" Canais | PPV", TV Furacao HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TV Furacao HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", TV Furacao HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/63366.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TVNSports 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1271523852141711360/-2_7sgN4.jpg" group-title=" Canais | PPV", TVNSports 1 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TVNSports 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1271523852141711360/-2_7sgN4.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", TVNSports 1 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/64189.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TVNSports 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1271523852141711360/-2_7sgN4.jpg" group-title=" Canais | PPV", TVNSports 2 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TVNSports 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1271523852141711360/-2_7sgN4.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", TVNSports 2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/64190.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TVNSports 3 HD" tvg-logo="https://pbs.twimg.com/profile_images/1271523852141711360/-2_7sgN4.jpg" group-title=" Canais | PPV", TVNSports 3 HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TVNSports 3 HD" tvg-logo="https://pbs.twimg.com/profile_images/1271523852141711360/-2_7sgN4.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", TVNSports 3 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/64191.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="UFC Fight Pass HD" tvg-logo="http://lxls.mx:80/images/b78d96831e74d87e4c09aef4be7a7439.jpg" group-title=" Canais | PPV", UFC Fight Pass HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="UFC Fight Pass HD" tvg-logo="http://lxls.mx:80/images/b78d96831e74d87e4c09aef4be7a7439.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", UFC Fight Pass HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/331783.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="UFC Fight Pass HD [Alter]" tvg-logo="http://lxls.mx:80/images/984c5758d9c08485dda17d7554ae891c.jpg" group-title=" Canais | PPV", UFC Fight Pass HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-name="UFC Fight Pass HD [Alter]" tvg-logo="http://lxls.mx:80/images/984c5758d9c08485dda17d7554ae891c.jpg" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Pay Per View[/B][/COLOR]", UFC Fight Pass HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/113949.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="boa.vontade.br" tvg-name="Boa Vontade SD" group-title="Canais | Religiosos", Boa Vontade SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="boa.vontade.br" tvg-name="Boa Vontade SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Boa Vontade SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48618.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cancao.nova.br" tvg-name="Canção Nova FHD" group-title="Canais | Religiosos", Canção Nova FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cancao.nova.br" tvg-name="Canção Nova FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Canção Nova FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48620.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cancao.nova.br" tvg-name="Canção Nova HD" group-title="Canais | Religiosos", Canção Nova HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cancao.nova.br" tvg-name="Canção Nova HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Canção Nova HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48621.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cancao.nova.br" tvg-name="Canção Nova SD" group-title="Canais | Religiosos", Canção Nova SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cancao.nova.br" tvg-name="Canção Nova SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Canção Nova SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49586.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Gospel Cartoon HD" group-title="Canais | Religiosos", Gospel Cartoon HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Gospel Cartoon HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Gospel Cartoon HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261934.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="a.e.br" tvg-name="Gospel Movie TV HD" group-title="Canais | Religiosos", Gospel Movie TV HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="a.e.br" tvg-name="Gospel Movie TV HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Gospel Movie TV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261933.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rede.genesis.br" tvg-name="Rede Genesis HD" group-title="Canais | Religiosos", Rede Genesis HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rede.genesis.br" tvg-name="Rede Genesis HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Rede Genesis HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48627.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rede.gospel.br" tvg-name="Rede Gospel HD" tvg-logo="http://lxls.mx:80/images/2114387ac3c41cce99b2ec0dae63fdd3.png" group-title="Canais | Religiosos", Rede Gospel HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rede.gospel.br" tvg-name="Rede Gospel HD" tvg-logo="http://lxls.mx:80/images/2114387ac3c41cce99b2ec0dae63fdd3.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Rede Gospel HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261932.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rede.super.br" tvg-name="Rede Super FHD" group-title="Canais | Religiosos", Rede Super FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rede.super.br" tvg-name="Rede Super FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Rede Super FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48628.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rede.super.br" tvg-name="Rede Super HD" group-title="Canais | Religiosos", Rede Super HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rede.super.br" tvg-name="Rede Super HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Rede Super HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48629.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rede.seculo.21.br" tvg-name="Rede Século 21 FHD" group-title="Canais | Religiosos", Rede Século 21 FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rede.seculo.21.br" tvg-name="Rede Século 21 FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Rede Século 21 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48630.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Rede Vida HD" group-title="Canais | Religiosos", Rede Vida HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Rede Vida HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Rede Vida HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/343046.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rede.vida.br" tvg-name="Rede Vida SD" tvg-logo="http://lxls.mx:80/images/ae081082e12d6f0631dea5e748033ab1.png" group-title="Canais | Religiosos", Rede Vida SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rede.vida.br" tvg-name="Rede Vida SD" tvg-logo="http://lxls.mx:80/images/ae081082e12d6f0631dea5e748033ab1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Rede Vida SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49368.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rit.br" tvg-name="RIT TV FHD" group-title="Canais | Religiosos", RIT TV FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rit.br" tvg-name="RIT TV FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", RIT TV FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48634.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rit.br" tvg-name="RIT TV HD" group-title="Canais | Religiosos", RIT TV HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rit.br" tvg-name="RIT TV HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", RIT TV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49522.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida FHD" group-title="Canais | Religiosos", TV Aparecida FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", TV Aparecida FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48637.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TV Aparecida HD" group-title="Canais | Religiosos", TV Aparecida HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TV Aparecida HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", TV Aparecida HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/343048.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TV Evangelizar HD" group-title="Canais | Religiosos", TV Evangelizar HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TV Evangelizar HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", TV Evangelizar HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/343051.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TV Evangelizar SD" group-title="Canais | Religiosos", TV Evangelizar SD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TV Evangelizar SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", TV Evangelizar SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48638.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TV Gideoes HD" group-title="Canais | Religiosos", TV Gideoes HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TV Gideoes HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", TV Gideoes HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48639.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.novo.tempo.br" tvg-name="TV Novo Tempo FHD" group-title="Canais | Religiosos", TV Novo Tempo FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.novo.tempo.br" tvg-name="TV Novo Tempo FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", TV Novo Tempo FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48641.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.novo.tempo.br" tvg-name="TV Novo Tempo HD" group-title="Canais | Religiosos", TV Novo Tempo HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.novo.tempo.br" tvg-name="TV Novo Tempo HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", TV Novo Tempo HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48642.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TV Pai Eterno HD" group-title="Canais | Religiosos", TV Pai Eterno HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TV Pai Eterno HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", TV Pai Eterno HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48644.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TV Pai Eterno SD" group-title="Canais | Religiosos", TV Pai Eterno SD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TV Pai Eterno SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", TV Pai Eterno SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48643.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="728555" tvg-name="Boa Vontade SD" group-title="Canais | Religiosos", Boa Vontade SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="728555" tvg-name="Boa Vontade SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Boa Vontade SD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/48618
-#EXTINF: -1 tvg-id="504773" tvg-name="Canção Nova FHD" group-title="Canais | Religiosos", Canção Nova FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="504773" tvg-name="Canção Nova FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Canção Nova FHD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/48620
-#EXTINF: -1 tvg-id="325273" tvg-name="Canção Nova HD" group-title="Canais | Religiosos", Canção Nova HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="325273" tvg-name="Canção Nova HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Canção Nova HD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/48621
-#EXTINF: -1 tvg-id="341443" tvg-name="Canção Nova SD" group-title="Canais | Religiosos", Canção Nova SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="341443" tvg-name="Canção Nova SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Gospel[/B][/COLOR]", Canção Nova SD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/49586
 #EXTINF: -1 tvg-name="Campeonato Baiano 01 HD" group-title="Canais | Campeonatos Estaduais", Campeonato Baiano 01 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/224981.m3u8|User-Agent=MXPlayer
