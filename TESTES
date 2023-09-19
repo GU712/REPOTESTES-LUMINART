@@ -894,545 +894,381 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332399.m3u8|User-Agent=MXPlayer
 #EXTINF: -1 tvg-id="trutv.br" tvg-name="TruTV SD" tvg-logo="https://www.liebeurl.me/logos/trutv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", TruTV SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/40628.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="285471" tvg-name="Animal Planet FHD" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Animal Planet FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3600
-#EXTINF: -1 tvg-id="129284" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Animal Planet FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71020
-#EXTINF: -1 tvg-id="221013" tvg-name="Animal Planet HD" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Animal Planet HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3601
-#EXTINF: -1 tvg-id="653268" tvg-name="Animal Planet HD [Alter]" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Animal Planet HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332386
-#EXTINF: -1 tvg-id="162370" tvg-name="Animal Planet SD" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Animal Planet SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4451
-#EXTINF: -1 tvg-id="690739" tvg-name="Arte 1 FHD" tvg-logo="https://liebeurl.me/logos/arte1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Arte 1 FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/49270
-#EXTINF: -1 tvg-id="332107" tvg-name="Arte 1 FHD [H265]" tvg-logo="https://liebeurl.me/logos/arte1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Arte 1 FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/118361
-#EXTINF: -1 tvg-id="135826" tvg-name="Arte 1 HD" tvg-logo="https://liebeurl.me/logos/arte1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Arte 1 HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4453
-#EXTINF: -1 tvg-id="588339" tvg-name="Arte 1 HD [Alter]" tvg-logo="https://liebeurl.me/logos/arte1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Arte 1 HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332389
-#EXTINF: -1 tvg-id="813844" tvg-name="Arte 1 SD" tvg-logo="https://liebeurl.me/logos/arte1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Arte 1 SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/49271
-#EXTINF: -1 tvg-id="112883" tvg-name="Discovery Channel FHD" tvg-logo="https://liebeurl.me/logos/discoverychannel.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Channel FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4459
-#EXTINF: -1 tvg-id="500203" tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://liebeurl.me/logos/discoverychannel.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Channel FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71033
-#EXTINF: -1 tvg-id="772731" tvg-name="Discovery Channel HD" tvg-logo="https://liebeurl.me/logos/discoverychannel.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Channel HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4461
-#EXTINF: -1 tvg-id="388711" tvg-name="Discovery Channel HD [Alter]" tvg-logo="https://liebeurl.me/logos/discoverychannel.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Channel HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332390
-#EXTINF: -1 tvg-id="681103" tvg-name="Discovery Channel SD" tvg-logo="https://liebeurl.me/logos/discoverychannel.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Channel SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4462
-#EXTINF: -1 tvg-id="315650" tvg-name="Discovery H&H FHD" tvg-logo="https://liebeurl.me/logos/heh.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery H&H FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4463
-#EXTINF: -1 tvg-id="353888" tvg-name="Discovery H&H FHD [H265]" tvg-logo="https://liebeurl.me/logos/heh.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery H&H FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71034
-#EXTINF: -1 tvg-id="789494" tvg-name="Discovery H&H HD" tvg-logo="https://liebeurl.me/logos/heh.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery H&H HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4465
-#EXTINF: -1 tvg-id="127521" tvg-name="Discovery H&H HD [Alter]" tvg-logo="https://liebeurl.me/logos/heh.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery H&H HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332391
-#EXTINF: -1 tvg-id="213484" tvg-name="Discovery H&H SD" tvg-logo="https://liebeurl.me/logos/heh.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery H&H SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4466
-#EXTINF: -1 tvg-id="146976" tvg-name="Discovery Science FHD" tvg-logo="https://liebeurl.me/logos/discoveryscience.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Science FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4467
-#EXTINF: -1 tvg-id="334408" tvg-name="Discovery Science FHD [H265]" tvg-logo="https://liebeurl.me/logos/discoveryscience.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Science FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71036
-#EXTINF: -1 tvg-id="740587" tvg-name="Discovery Science HD" tvg-logo="https://liebeurl.me/logos/discoveryscience.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Science HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4469
-#EXTINF: -1 tvg-id="784830" tvg-name="Discovery Science HD [Alter]" tvg-logo="https://liebeurl.me/logos/discoveryscience.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Science HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332392
-#EXTINF: -1 tvg-id="657883" tvg-name="Discovery Science SD" tvg-logo="https://liebeurl.me/logos/discoveryscience.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Science SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4470
-#EXTINF: -1 tvg-id="637748" tvg-name="Discovery Theater FHD" tvg-logo="https://liebeurl.me/logos/discoverytheater.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Theater FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4471
-#EXTINF: -1 tvg-id="886254" tvg-name="Discovery Theater FHD [H265]" tvg-logo="https://liebeurl.me/logos/discoverytheater.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Theater FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71037
-#EXTINF: -1 tvg-id="771454" tvg-name="Discovery Theater HD" tvg-logo="https://liebeurl.me/logos/discoverytheater.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Theater HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4473
-#EXTINF: -1 tvg-id="311947" tvg-name="Discovery Theater HD [Alter]" tvg-logo="https://liebeurl.me/logos/discoverytheater.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Theater HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332393
-#EXTINF: -1 tvg-id="853460" tvg-name="Discovery Theater SD" tvg-logo="https://liebeurl.me/logos/discoverytheater.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery Theater SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4474
-#EXTINF: -1 tvg-id="763923" tvg-name="Discovery TLC FHD" tvg-logo="https://liebeurl.me/logos/tlc.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery TLC FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4182
-#EXTINF: -1 tvg-id="430816" tvg-name="Discovery TLC FHD [H265]" tvg-logo="https://liebeurl.me/logos/tlc.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery TLC FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71038
-#EXTINF: -1 tvg-id="665198" tvg-name="Discovery TLC HD" tvg-logo="https://liebeurl.me/logos/tlc.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery TLC HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4184
-#EXTINF: -1 tvg-id="928931" tvg-name="Discovery TLC HD [Alter]" tvg-logo="https://liebeurl.me/logos/tlc.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery TLC HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332388
-#EXTINF: -1 tvg-id="393595" tvg-name="Discovery TLC SD" tvg-logo="https://liebeurl.me/logos/tlc.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery TLC SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/25439
-#EXTINF: -1 tvg-id="773375" tvg-name="Discovery World FHD" tvg-logo="https://liebeurl.me/logos/discoveryworld.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery World FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4475
-#EXTINF: -1 tvg-id="510771" tvg-name="Discovery World FHD [H265]" tvg-logo="https://liebeurl.me/logos/discoveryworld.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery World FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71040
-#EXTINF: -1 tvg-id="839732" tvg-name="Discovery World HD" tvg-logo="https://liebeurl.me/logos/discoveryworld.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery World HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4477
-#EXTINF: -1 tvg-id="618537" tvg-name="Discovery World HD [Alter]" tvg-logo="https://liebeurl.me/logos/discoveryworld.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery World HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332394
-#EXTINF: -1 tvg-id="737350" tvg-name="Discovery World SD" tvg-logo="https://liebeurl.me/logos/discoveryworld.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Filmes e Séries[/B][/COLOR]", Discovery World SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4478
-#EXTINF: -1 tvg-id="baby.br" tvg-name="BabyTV SD" tvg-logo="https://www.liebeurl.me/logos/babytv.png" group-title="Canais | Infantis", BabyTV SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="baby.br" tvg-name="BabyTV SD" tvg-logo="https://www.liebeurl.me/logos/babytv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", BabyTV SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/25370.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis", Cartoon Network FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Cartoon Network FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3860.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis", Cartoon Network FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Cartoon Network FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71028.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis", Cartoon Network HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Cartoon Network HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3861.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD [Alter]" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis", Cartoon Network HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD [Alter]" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Cartoon Network HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332432.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network SD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis", Cartoon Network SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network SD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Cartoon Network SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4536.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis", Cartoonito FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Cartoonito FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3862.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD [H265]" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis", Cartoonito FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD [H265]" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Cartoonito FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71025.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis", Cartoonito HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Cartoonito HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3863.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD [Alter]" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis", Cartoonito HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD [Alter]" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Cartoonito HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332433.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis", Cartoonito SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Cartoonito SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4534.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis", Discovery Kids FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Discovery Kids FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3852.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis", Discovery Kids FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Discovery Kids FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71035.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis", Discovery Kids HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Discovery Kids HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3853.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD [Alter]" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis", Discovery Kids HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD [Alter]" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Discovery Kids HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332430.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids SD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis", Discovery Kids SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids SD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Discovery Kids SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4538.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="discovery.br" tvg-name="Disney Channel FHD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis", Disney Channel FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="discovery.br" tvg-name="Disney Channel FHD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Disney Channel FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3854.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="disney.br" tvg-name="Disney Channel FHD [H265]" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis", Disney Channel FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="disney.br" tvg-name="Disney Channel FHD [H265]" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Disney Channel FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71041.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis", Disney Channel HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Disney Channel HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3855.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="disney.br" tvg-name="Disney Channel HD [Alter]" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis", Disney Channel HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="disney.br" tvg-name="Disney Channel HD [Alter]" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Disney Channel HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332431.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="disney.br" tvg-name="Disney Channel SD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis", Disney Channel SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="disney.br" tvg-name="Disney Channel SD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Disney Channel SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4540.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="Canais | Infantis", Gloob FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Gloob FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3849.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="gloob.br" tvg-name="Gloob FHD [H265]" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="Canais | Infantis", Gloob FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="gloob.br" tvg-name="Gloob FHD [H265]" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Gloob FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71059.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="Canais | Infantis", Gloob HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Gloob HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3850.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="gloob.br" tvg-name="Gloob SD" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="Canais | Infantis", Gloob SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="gloob.br" tvg-name="Gloob SD" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Gloob SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4546.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis", Gloobinho FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Gloobinho FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/13218.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis", Gloobinho FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Gloobinho FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/118358.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis", Gloobinho HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Gloobinho HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3851.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="gloobinho.br" tvg-name="Gloobinho SD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis", Gloobinho SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="gloobinho.br" tvg-name="Gloobinho SD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Gloobinho SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4548.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="Canais | Infantis", Nick Jr FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Nick Jr FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3845.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD [H265]" tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis", Nick Jr FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD [H265]" tvg-logo="http://a5.vc/qYZ" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Nick Jr FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71081.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="Canais | Infantis", Nick Jr HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Nick Jr HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3846.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD [Alter]" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="Canais | Infantis", Nick Jr HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD [Alter]" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Nick Jr HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332428.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="Nick Jr SD" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="Canais | Infantis", Nick Jr SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="Nick Jr SD" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Nick Jr SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4554.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis", Nickelodeon FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Nickelodeon FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3847.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="nick.br" tvg-name="Nickelodeon FHD [H265]" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis", Nickelodeon FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="nick.br" tvg-name="Nickelodeon FHD [H265]" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Nickelodeon FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71082.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis", Nickelodeon HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Nickelodeon HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3848.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="nick.br" tvg-name="Nickelodeon HD [Alter]" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis", Nickelodeon HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="nick.br" tvg-name="Nickelodeon HD [Alter]" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Nickelodeon HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332429.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="nick.br" tvg-name="Nickelodeon SD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis", Nickelodeon SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="nick.br" tvg-name="Nickelodeon SD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Nickelodeon SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4555.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="aande.br" tvg-name="PlayKids FHD" tvg-logo="http://lxls.mx:80/images/72baaffa17b50565977b963811f65817.png" group-title="Canais | Infantis", PlayKids FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="aande.br" tvg-name="PlayKids FHD" tvg-logo="http://lxls.mx:80/images/72baaffa17b50565977b963811f65817.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", PlayKids FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4556.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="PlayKids HD" tvg-logo="http://lxls.mx:80/images/72baaffa17b50565977b963811f65817.png" group-title="Canais | Infantis", PlayKids HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="PlayKids HD" tvg-logo="http://lxls.mx:80/images/72baaffa17b50565977b963811f65817.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", PlayKids HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3841.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="aande.br" tvg-name="PlayKids SD" tvg-logo="http://lxls.mx:80/images/72baaffa17b50565977b963811f65817.png" group-title="Canais | Infantis", PlayKids SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="aande.br" tvg-name="PlayKids SD" tvg-logo="http://lxls.mx:80/images/72baaffa17b50565977b963811f65817.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", PlayKids SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/40642.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tooncast.br" tvg-name="Tooncast FHD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="Canais | Infantis", Tooncast FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tooncast.br" tvg-name="Tooncast FHD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Tooncast FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/5993.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="Canais | Infantis", Tooncast HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Tooncast HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/8049.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="Canais | Infantis", Tooncast SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", Tooncast SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3840.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="a.e.br" tvg-name="TV Globinho HD" group-title="Canais | Infantis", TV Globinho HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="a.e.br" tvg-name="TV Globinho HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", TV Globinho HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261930.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="Canais | Infantis", TV Ra Tim Bum FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", TV Ra Tim Bum FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/118359.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum FHD [H265]" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="Canais | Infantis", TV Ra Tim Bum FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum FHD [H265]" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", TV Ra Tim Bum FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/118360.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="Canais | Infantis", TV Ra Tim Bum HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", TV Ra Tim Bum HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4560.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="Canais | Infantis", TV Ra Tim Bum SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", TV Ra Tim Bum SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4561.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="zoomoo.br" tvg-name="ZooMoo HD" tvg-logo="https://liebeurl.me/logos/zoomoo.png" group-title="Canais | Infantis", ZooMoo HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="zoomoo.br" tvg-name="ZooMoo HD" tvg-logo="https://liebeurl.me/logos/zoomoo.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", ZooMoo HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/5995.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="zoomoo.br" tvg-name="ZooMoo SD" tvg-logo="https://liebeurl.me/logos/zoomoo.png" group-title="Canais | Infantis", ZooMoo SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="zoomoo.br" tvg-name="ZooMoo SD" tvg-logo="https://liebeurl.me/logos/zoomoo.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Infantis[/B][/COLOR]", ZooMoo SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3839.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="216583" tvg-name="BabyTV SD" tvg-logo="https://www.liebeurl.me/logos/babytv.png" group-title="Canais | Infantis", BabyTV SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/25370
-#EXTINF: -1 tvg-id="103913" tvg-name="Cartoon Network FHD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis", Cartoon Network FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3860
-#EXTINF: -1 tvg-id="663974" tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis", Cartoon Network FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71028
-#EXTINF: -1 tvg-id="278445" tvg-name="Cartoon Network HD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis", Cartoon Network HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3861
-#EXTINF: -1 tvg-id="429437" tvg-name="Cartoon Network HD [Alter]" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis", Cartoon Network HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332432
-#EXTINF: -1 tvg-id="198648" tvg-name="Cartoon Network SD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis", Cartoon Network SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4536
-#EXTINF: -1 tvg-id="266164" tvg-name="Cartoonito FHD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis", Cartoonito FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3862
-#EXTINF: -1 tvg-id="301896" tvg-name="Cartoonito FHD [H265]" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis", Cartoonito FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71025
-#EXTINF: -1 tvg-id="999683" tvg-name="Cartoonito HD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis", Cartoonito HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3863
-#EXTINF: -1 tvg-id="490660" tvg-name="Cartoonito HD [Alter]" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis", Cartoonito HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332433
-#EXTINF: -1 tvg-id="203992" tvg-name="Cartoonito SD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis", Cartoonito SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4534
-#EXTINF: -1 tvg-id="629649" tvg-name="Discovery Kids FHD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis", Discovery Kids FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3852
-#EXTINF: -1 tvg-id="643572" tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis", Discovery Kids FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71035
-#EXTINF: -1 tvg-id="263931" tvg-name="Discovery Kids HD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis", Discovery Kids HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3853
-#EXTINF: -1 tvg-id="790943" tvg-name="Discovery Kids HD [Alter]" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis", Discovery Kids HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332430
-#EXTINF: -1 tvg-id="262459" tvg-name="Discovery Kids SD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis", Discovery Kids SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4538
-#EXTINF: -1 tvg-id="446028" tvg-name="Disney Channel FHD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis", Disney Channel FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3854
-#EXTINF: -1 tvg-id="683719" tvg-name="Disney Channel FHD [H265]" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis", Disney Channel FHD [H265][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/71041
-#EXTINF: -1 tvg-id="435762" tvg-name="Disney Channel HD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis", Disney Channel HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/3855
-#EXTINF: -1 tvg-id="254471" tvg-name="Disney Channel HD [Alter]" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis", Disney Channel HD [Alter][/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/332431
-#EXTINF: -1 tvg-id="825781" tvg-name="Disney Channel SD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis", Disney Channel SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/4540
-#EXTINF: -1 tvg-id="band.bahia.br" tvg-name="Band Bahia HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Bahia HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.bahia.br" tvg-name="Band Bahia HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band Bahia HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/119051.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.brasilia.br" tvg-name="Band Brasília HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Brasília HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.brasilia.br" tvg-name="Band Brasília HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band Brasília HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/119046.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.campinas.br" tvg-name="Band Campinas FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Campinas FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.campinas.br" tvg-name="Band Campinas FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band Campinas FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49594.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.campinas.br" tvg-name="Band Campinas HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Campinas HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.campinas.br" tvg-name="Band Campinas HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band Campinas HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48941.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Band Ceará HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Ceará HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Band Ceará HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band Ceará HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/331044.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.minas.br" tvg-name="Band Minas FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Minas FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.minas.br" tvg-name="Band Minas FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band Minas FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/262581.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.minas.br" tvg-name="Band Minas HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Minas HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.minas.br" tvg-name="Band Minas HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band Minas HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/119045.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.rj.br" tvg-name="Band RJ FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band RJ FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.rj.br" tvg-name="Band RJ FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band RJ FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/119042.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.rj.br" tvg-name="Band RJ HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band RJ HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.rj.br" tvg-name="Band RJ HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band RJ HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/119043.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.rio.grande.do.sul.br" tvg-name="Band RS HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band RS HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.rio.grande.do.sul.br" tvg-name="Band RS HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band RS HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/119047.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Band Sergipe HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Sergipe HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Band Sergipe HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band Sergipe HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/262382.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.sao.paulo.br" tvg-name="Band SP FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band SP FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.sao.paulo.br" tvg-name="Band SP FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band SP FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/62827.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.sao.paulo.br" tvg-name="Band SP HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band SP HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.sao.paulo.br" tvg-name="Band SP HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band SP HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48945.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="band.sao.paulo.br" tvg-name="Band SP SD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band SP SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="band.sao.paulo.br" tvg-name="Band SP SD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band SP SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/118500.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Band Tatuapé HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Tatuapé HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Band Tatuapé HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band Tatuapé HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/331043.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.taroba.londrina.br" tvg-name="Band TV Tarobá Cascavel HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band TV Tarobá Cascavel HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.taroba.londrina.br" tvg-name="Band TV Tarobá Cascavel HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Band TV Tarobá Cascavel HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/262390.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi SD" group-title="Canais | Abertos", Canal do Boi SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Canal do Boi SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48961.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="canal.rural.br" tvg-name="Canal Rural HD" tvg-logo="http://lxls.mx:80/images/6d03d7ca9f00a58a2327ae6d6c939051.png" group-title="Canais | Abertos", Canal Rural HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="canal.rural.br" tvg-name="Canal Rural HD" tvg-logo="http://lxls.mx:80/images/6d03d7ca9f00a58a2327ae6d6c939051.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Canal Rural HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261937.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Canal Rural SD" group-title="Canais | Abertos", Canal Rural SD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Canal Rural SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Canal Rural SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/343054.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="eptv.central.br" tvg-name="Central / Top TV HD" group-title="Canais | Abertos", Central / Top TV HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="eptv.central.br" tvg-name="Central / Top TV HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Central / Top TV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49274.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="futura.br" tvg-name="Futura SD" group-title="Canais | Abertos", Futura SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="futura.br" tvg-name="Futura SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Futura SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49598.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="loading.br" tvg-name="Loading TV SD" group-title="Canais | Abertos", Loading TV SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="loading.br" tvg-name="Loading TV SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Loading TV SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49608.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="polishop.br" tvg-name="Polishop FHD" group-title="Canais | Abertos", Polishop FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="polishop.br" tvg-name="Polishop FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Polishop FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48971.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="polishop.br" tvg-name="Polishop SD" group-title="Canais | Abertos", Polishop SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="polishop.br" tvg-name="Polishop SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Polishop SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49599.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rede.brasil.br" tvg-name="RBT Rede Brasil TV HD" group-title="Canais | Abertos", RBT Rede Brasil TV HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rede.brasil.br" tvg-name="RBT Rede Brasil TV HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", RBT Rede Brasil TV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48972.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.bahia.br" tvg-name="Record BA HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record BA HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.bahia.br" tvg-name="Record BA HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record BA HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48958.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.brasilia.br" tvg-name="Record Brasilia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record Brasilia HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.brasilia.br" tvg-name="Record Brasilia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record Brasilia HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48907.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.brasilia.br" tvg-name="Record Brasilia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record Brasilia HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.brasilia.br" tvg-name="Record Brasilia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record Brasilia HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/136244.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Record ES HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record ES HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Record ES HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record ES HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48960.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.goias.br" tvg-name="Record GO HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record GO HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.goias.br" tvg-name="Record GO HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record GO HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/118505.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.itapoan.br" tvg-name="Record Itapoan - Bahia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record Itapoan - Bahia HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.itapoan.br" tvg-name="Record Itapoan - Bahia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record Itapoan - Bahia HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48922.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Record Maranhão HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record Maranhão HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Record Maranhão HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record Maranhão HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261943.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.minas.br" tvg-name="Record Minas FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record Minas FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.minas.br" tvg-name="Record Minas FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record Minas FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/262332.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.minas.br" tvg-name="Record Minas HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record Minas HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.minas.br" tvg-name="Record Minas HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record Minas HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/119061.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Record Parana HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record Parana HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Record Parana HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record Parana HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48920.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Record RJ FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record RJ FHD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Record RJ FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record RJ FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/343043.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.rio.br" tvg-name="Record RJ HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record RJ HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.rio.br" tvg-name="Record RJ HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record RJ HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48915.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.rio.br" tvg-name="Record RJ SD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record RJ SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.rio.br" tvg-name="Record RJ SD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record RJ SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/119060.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Record RS HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record RS HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Record RS HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record RS HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48908.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Record S.J do Rio Preto HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record S.J do Rio Preto HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Record S.J do Rio Preto HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record S.J do Rio Preto HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/262383.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Record Sergipe - TV Atalaia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record Sergipe - TV Atalaia HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Record Sergipe - TV Atalaia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record Sergipe - TV Atalaia HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/262384.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record SP FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record SP FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/118502.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record SP HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record SP HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48911.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP SD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record SP SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP SD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record SP SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/118503.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.belem.br" tvg-name="Record TV Belém HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record TV Belém HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.belem.br" tvg-name="Record TV Belém HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record TV Belém HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48959.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.cabralia.br" tvg-name="Record TV Cabralia HD Bahia" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record TV Cabralia HD Bahia[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.cabralia.br" tvg-name="Record TV Cabralia HD Bahia" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record TV Cabralia HD Bahia[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48916.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.minas.br" tvg-name="Record TV Minas HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record TV Minas HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.minas.br" tvg-name="Record TV Minas HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record TV Minas HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48914.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.paranaiba.br" tvg-name="Record TV Paranaíba HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record TV Paranaíba HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.paranaiba.br" tvg-name="Record TV Paranaíba HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record TV Paranaíba HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/262388.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Record TV Santa Catarina HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record TV Santa Catarina HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Record TV Santa Catarina HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record TV Santa Catarina HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48919.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.campinas.br" tvg-name="Record TV Thathi Campinas FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Canais | Abertos", Record TV Thathi Campinas FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.campinas.br" tvg-name="Record TV Thathi Campinas FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record TV Thathi Campinas FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49593.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.campinas.br" tvg-name="Record TV Thathi Campinas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Canais | Abertos", Record TV Thathi Campinas HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.campinas.br" tvg-name="Record TV Thathi Campinas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record TV Thathi Campinas HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49577.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.vitoria.br" tvg-name="Record TV Vitória ES HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos", Record TV Vitória ES HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.vitoria.br" tvg-name="Record TV Vitória ES HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Record TV Vitória ES HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261941.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rede.21.br" tvg-name="Rede 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/200px-Rede_21_logo.svg.png" group-title="Canais | Abertos", Rede 21 HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rede.21.br" tvg-name="Rede 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/200px-Rede_21_logo.svg.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Rede 21 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261936.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="rede.minas.br" tvg-name="Rede Minas FHD" group-title="Canais | Abertos", Rede Minas FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="rede.minas.br" tvg-name="Rede Minas FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Rede Minas FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49529.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="redetv.br" tvg-name="Rede TV FHD" group-title="Canais | Abertos", Rede TV FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="redetv.br" tvg-name="Rede TV FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Rede TV FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48631.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="redetv.br" tvg-name="Rede TV HD" group-title="Canais | Abertos", Rede TV HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="redetv.br" tvg-name="Rede TV HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Rede TV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48632.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="redetv.br" tvg-name="Rede TV SD" group-title="Canais | Abertos", Rede TV SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="redetv.br" tvg-name="Rede TV SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Rede TV SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48633.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.brasilia.br" tvg-name="SBT Brasília HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT Brasília HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.brasilia.br" tvg-name="SBT Brasília HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT Brasília HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/119054.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="SBT MA HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT MA HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="SBT MA HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT MA HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48952.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="SBT Maranhão HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT Maranhão HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="SBT Maranhão HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT Maranhão HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261942.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="SBT Parana HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT Parana HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="SBT Parana HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT Parana HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/262391.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.piaui.br" tvg-name="SBT Piauí FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT Piauí FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.piaui.br" tvg-name="SBT Piauí FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT Piauí FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48954.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.piaui.br" tvg-name="SBT Piauí HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT Piauí HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.piaui.br" tvg-name="SBT Piauí HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT Piauí HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261949.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="SBT PR HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT PR HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="SBT PR HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT PR HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48955.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT RJ FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT RJ FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48937.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT RJ HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT RJ HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/119052.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT RS HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT RS HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48926.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/118499.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT SP FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT SP FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48956.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT SP HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT SP HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/350106.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD [Alter]" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT SP HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD [Alter]" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT SP HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48928.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP SD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT SP SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP SD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT SP SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48957.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.alterosa.br" tvg-name="SBT TV Alterosa HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT TV Alterosa HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.alterosa.br" tvg-name="SBT TV Alterosa HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT TV Alterosa HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/272080.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="SBT TV Aperipê HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT TV Aperipê HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="SBT TV Aperipê HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT TV Aperipê HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/262386.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="SBT VTV Campinas FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT VTV Campinas FHD[/B][/COLOR]
+#EXTINF: -1 tvg-name="SBT VTV Campinas FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT VTV Campinas FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49592.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="SBT VTV Campinas HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos", SBT VTV Campinas HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="SBT VTV Campinas HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", SBT VTV Campinas HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49591.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Shoptime HD" group-title="Canais | Abertos", Shoptime HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Shoptime HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Shoptime HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49143.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="terra.viva.br" tvg-name="Terra Viva FHD" group-title="Canais | Abertos", Terra Viva FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="terra.viva.br" tvg-name="Terra Viva FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Terra Viva FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/62608.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="terra.viva.br" tvg-name="Terra Viva HD" group-title="Canais | Abertos", Terra Viva HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="terra.viva.br" tvg-name="Terra Viva HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Terra Viva HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48974.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Terra Viva SD" group-title="Canais | Abertos", Terra Viva SD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Terra Viva SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", Terra Viva SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/343053.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.aratu.br" tvg-name="TV Aratu HD" group-title="Canais | Abertos", TV Aratu HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.aratu.br" tvg-name="TV Aratu HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Aratu HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/262387.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.brasil.br" tvg-name="TV Brasil HD" group-title="Canais | Abertos", TV Brasil HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.brasil.br" tvg-name="TV Brasil HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Brasil HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48975.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.camara.br" tvg-name="TV Camara SD" group-title="Canais | Abertos", TV Camara SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.camara.br" tvg-name="TV Camara SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Camara SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48964.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV Cultura FHD" group-title="Canais | Abertos", TV Cultura FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV Cultura FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Cultura FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49587.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV Cultura HD" group-title="Canais | Abertos", TV Cultura HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV Cultura HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Cultura HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48981.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV Cultura SD" group-title="Canais | Abertos", TV Cultura SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV Cultura SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Cultura SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48962.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.escola.br" tvg-name="TV Escola SD" group-title="Canais | Abertos", TV Escola SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.escola.br" tvg-name="TV Escola SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Escola SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48966.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.justica.br" tvg-name="TV Justica SD" group-title="Canais | Abertos", TV Justica SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.justica.br" tvg-name="TV Justica SD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Justica SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48963.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.pampa.br" tvg-name="TV Pampa RS HD" group-title="Canais | Abertos", TV Pampa RS HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.pampa.br" tvg-name="TV Pampa RS HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Pampa RS HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48976.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="TV Plenitude HD" tvg-logo="http://lxls.mx:80/images/4d2f65995aeb5b74538094fbf3eb1d9e.png" group-title="Canais | Abertos", TV Plenitude HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="TV Plenitude HD" tvg-logo="http://lxls.mx:80/images/4d2f65995aeb5b74538094fbf3eb1d9e.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Plenitude HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261935.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.senado.br" tvg-name="TV Senado SD" tvg-logo="http://lxls.mx:80/images/58bc5201444a7a7dc2f084c94ac631c4.png" group-title="Canais | Abertos", TV Senado SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.senado.br" tvg-name="TV Senado SD" tvg-logo="http://lxls.mx:80/images/58bc5201444a7a7dc2f084c94ac631c4.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Senado SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49606.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tv.serra.dourada.br" tvg-name="TV Serra Dourada HD " tvg-logo="http://lxls.mx:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais | Abertos", TV Serra Dourada HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tv.serra.dourada.br" tvg-name="TV Serra Dourada HD " tvg-logo="http://lxls.mx:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TV Serra Dourada HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/261926.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tve.bahia.br" tvg-name="TVE Bahia HD" group-title="Canais | Abertos", TVE Bahia HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tve.bahia.br" tvg-name="TVE Bahia HD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TVE Bahia HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49377.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="tve.br" tvg-name="TVE RS FHD" group-title="Canais | Abertos", TVE RS FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="tve.br" tvg-name="TVE RS FHD" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Abertos[/B][/COLOR]", TVE RS FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/48980.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="983592" tvg-name="Band Bahia HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Bahia HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/119051
-#EXTINF: -1 tvg-id="576981" tvg-name="Band Brasília HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Brasília HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/119046
-#EXTINF: -1 tvg-id="549161" tvg-name="Band Campinas FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Campinas FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/49594
-#EXTINF: -1 tvg-id="594582" tvg-name="Band Campinas HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Campinas HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/48941
-#EXTINF: -1 tvg-id="741493" tvg-name="Band Ceará HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Ceará HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/331044
-#EXTINF: -1 tvg-id="830924" tvg-name="Band Minas FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Minas FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/262581
-#EXTINF: -1 tvg-id="823390" tvg-name="Band Minas HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Minas HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/119045
-#EXTINF: -1 tvg-id="378175" tvg-name="Band RJ FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band RJ FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/119042
-#EXTINF: -1 tvg-id="943795" tvg-name="Band RJ HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band RJ HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/119043
-#EXTINF: -1 tvg-id="324048" tvg-name="Band RS HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band RS HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/119047
-#EXTINF: -1 tvg-id="880728" tvg-name="Band Sergipe HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Sergipe HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/262382
-#EXTINF: -1 tvg-id="665822" tvg-name="Band SP FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band SP FHD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/62827
-#EXTINF: -1 tvg-id="713291" tvg-name="Band SP HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band SP HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/48945
-#EXTINF: -1 tvg-id="629656" tvg-name="Band SP SD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band SP SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/118500
-#EXTINF: -1 tvg-id="545936" tvg-name="Band Tatuapé HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band Tatuapé HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/331043
-#EXTINF: -1 tvg-id="111328" tvg-name="Band TV Tarobá Cascavel HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos", Band TV Tarobá Cascavel HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/262390
-#EXTINF: -1 tvg-id="544998" tvg-name="Canal do Boi SD" group-title="Canais | Abertos", Canal do Boi SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/48961
-#EXTINF: -1 tvg-id="260673" tvg-name="Canal Rural HD" tvg-logo="http://lxls.mx:80/images/6d03d7ca9f00a58a2327ae6d6c939051.png" group-title="Canais | Abertos", Canal Rural HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/261937
-#EXTINF: -1 tvg-id="525085" tvg-name="Canal Rural SD" group-title="Canais | Abertos", Canal Rural SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/343054
-#EXTINF: -1 tvg-id="583337" tvg-name="Central / Top TV HD" group-title="Canais | Abertos", Central / Top TV HD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/49274
-#EXTINF: -1 tvg-id="743188" tvg-name="Futura SD" group-title="Canais | Abertos", Futura SD[/B][/COLOR]
-http://162.251.62.114:80/Pa5963/4317pablo/49598
-#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BandNews FHD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias", BandNews FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BandNews FHD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3558.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BandNews FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias", BandNews FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BandNews FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/118366.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BandNews HD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias", BandNews HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BandNews HD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3559.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BandNews HD [Alter]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias", BandNews HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BandNews HD [Alter]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332435.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BandNews SD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias", BandNews SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="bandnews.br" tvg-name="BandNews SD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4563.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Brasil FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3868.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Brasil FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71030.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Brasil HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/8060.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil HD [Alter]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Brasil HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil HD [Alter]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332437.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Brasil SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/28864.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cnn.espanhol.br" tvg-name="CNN Espanhol HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Espanhol HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cnn.espanhol.br" tvg-name="CNN Espanhol HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Espanhol HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/113967.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cnn.international.br" tvg-name="CNN Internacional FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Internacional FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cnn.international.br" tvg-name="CNN Internacional FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Internacional FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/113969.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cnn.international.br" tvg-name="CNN Internacional HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Internacional HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cnn.international.br" tvg-name="CNN Internacional HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Internacional HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/113970.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="cnn.international.br" tvg-name="CNN Internacional SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Internacional SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="cnn.international.br" tvg-name="CNN Internacional SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Internacional SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/113971.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="globo.news.br" tvg-name="Globo News FHD" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="Canais | Notícias", Globo News FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="globo.news.br" tvg-name="Globo News FHD" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Globo News FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3778.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="globo.news.br" tvg-name="Globo News FHD [H265]" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="Canais | Notícias", Globo News FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="globo.news.br" tvg-name="Globo News FHD [H265]" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Globo News FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/71055.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="globo.news.br" tvg-name="Globo News HD" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="Canais | Notícias", Globo News HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="globo.news.br" tvg-name="Globo News HD" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Globo News HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3779.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="globo.news.br" tvg-name="Globo News HD [Alter]" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="Canais | Notícias", Globo News HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="globo.news.br" tvg-name="Globo News HD [Alter]" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Globo News HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332436.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="globo.news.br" tvg-name="Globo News SD" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="Canais | Notícias", Globo News SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="globo.news.br" tvg-name="Globo News SD" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Globo News SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4568.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Jovem Pan News FHD" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="Canais | Notícias", Jovem Pan News FHD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Jovem Pan News FHD" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Jovem Pan News FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/49279.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Jovem Pan News FHD [H265]" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="Canais | Notícias", Jovem Pan News FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-name="Jovem Pan News FHD [H265]" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Jovem Pan News FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/121215.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Jovem Pan News HD" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="Canais | Notícias", Jovem Pan News HD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Jovem Pan News HD" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Jovem Pan News HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/121216.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="Jovem Pan News SD" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="Canais | Notícias", Jovem Pan News SD[/B][/COLOR]
+#EXTINF: -1 tvg-name="Jovem Pan News SD" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Jovem Pan News SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/121217.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News FHD" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias", Record News FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News FHD" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Record News FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/62826.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News FHD [H265]" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias", Record News FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News FHD [H265]" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Record News FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/118367.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News HD" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias", Record News HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News HD" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Record News HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/3514.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News HD [Alter]" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias", Record News HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News HD [Alter]" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Record News HD [Alter][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/332434.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News SD" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias", Record News SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="record.news.br" tvg-name="Record News SD" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", Record News SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4570.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-id="731568" tvg-name="BandNews FHD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias", BandNews FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="731568" tvg-name="BandNews FHD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews FHD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/3558
-#EXTINF: -1 tvg-id="378038" tvg-name="BandNews FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias", BandNews FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="378038" tvg-name="BandNews FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews FHD [H265][/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/118366
-#EXTINF: -1 tvg-id="946579" tvg-name="BandNews HD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias", BandNews HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="946579" tvg-name="BandNews HD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews HD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/3559
-#EXTINF: -1 tvg-id="960431" tvg-name="BandNews HD [Alter]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias", BandNews HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="960431" tvg-name="BandNews HD [Alter]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews HD [Alter][/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/332435
-#EXTINF: -1 tvg-id="555027" tvg-name="BandNews SD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias", BandNews SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="555027" tvg-name="BandNews SD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", BandNews SD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/4563
-#EXTINF: -1 tvg-id="184409" tvg-name="CNN Brasil FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Brasil FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="184409" tvg-name="CNN Brasil FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil FHD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/3868
-#EXTINF: -1 tvg-id="925453" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Brasil FHD [H265][/B][/COLOR]
+#EXTINF: -1 tvg-id="925453" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil FHD [H265][/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/71030
-#EXTINF: -1 tvg-id="637709" tvg-name="CNN Brasil HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Brasil HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="637709" tvg-name="CNN Brasil HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil HD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/8060
-#EXTINF: -1 tvg-id="171322" tvg-name="CNN Brasil HD [Alter]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Brasil HD [Alter][/B][/COLOR]
+#EXTINF: -1 tvg-id="171322" tvg-name="CNN Brasil HD [Alter]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil HD [Alter][/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/332437
-#EXTINF: -1 tvg-id="635537" tvg-name="CNN Brasil SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Brasil SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="635537" tvg-name="CNN Brasil SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Brasil SD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/28864
-#EXTINF: -1 tvg-id="791435" tvg-name="CNN Espanhol HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Espanhol HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="791435" tvg-name="CNN Espanhol HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Espanhol HD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/113967
-#EXTINF: -1 tvg-id="855635" tvg-name="CNN Internacional FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Internacional FHD[/B][/COLOR]
+#EXTINF: -1 tvg-id="855635" tvg-name="CNN Internacional FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Internacional FHD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/113969
-#EXTINF: -1 tvg-id="745452" tvg-name="CNN Internacional HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Internacional HD[/B][/COLOR]
+#EXTINF: -1 tvg-id="745452" tvg-name="CNN Internacional HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Internacional HD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/113970
-#EXTINF: -1 tvg-id="143158" tvg-name="CNN Internacional SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias", CNN Internacional SD[/B][/COLOR]
+#EXTINF: -1 tvg-id="143158" tvg-name="CNN Internacional SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] Notícias[/B][/COLOR]", CNN Internacional SD[/B][/COLOR]
 http://162.251.62.114:80/Pa5963/4317pablo/113971
 #EXTINF: -1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes", BandSports FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/4030.m3u8|User-Agent=MXPlayer
