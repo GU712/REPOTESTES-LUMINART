@@ -3,4 +3,4 @@
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S4A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/333078.m3u8|User-Agent=MXPlayer
 #EXTINF: -1 tvg-name="A Feiticeira 24hs" group-title="[COLOR orange][B]S-ALT-4[COLOR yellow] -> [COLOR white]Canais 24 Horas[/B][/COLOR]",[COLOR orange][B]S-ALT-4[COLOR yellow] -> [COLOR white]A Feiticeira 24hs[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S4A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://162.251.62.114:80/live/Pa5963/4317pablo/333086.m3u8|User-Agent=MXPlayer
-#EXTINF: -1 tvg-name="A GATA COMEU 24HRS" group-title="[COLOR orange][B]S-ALT-4[COLOR yellow] -> [COLOR white]Canais 24 Horas[/B][/COLOR]",[COLOR orange][B]S-ALT-4[COLOR yellow] -> [COLOR white]A GATA COMEU 24HRS[/B][/COLOR]
+
