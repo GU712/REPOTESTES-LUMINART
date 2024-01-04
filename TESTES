@@ -1,9 +1,3 @@
-#EXTM3U
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]ACDC Live At River Plate (1995)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/ACDC.Live.At.River.Plate.2011.1080p.BluRay.DTS.x264-HDMaNiAcS.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Adele Live At The Royal Albert Hall (1995)[/B][/COLOR]
@@ -13,41 +7,41 @@ https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Adele.Live.At.The.Royal.A
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Adriana Calcanhotto Olhos de Onda (2014)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Adriana.Calcanhotto.Olhos.de.Onda.2014.1080p.WEB-DL.AC3.x264-RK.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Alter Bridge  Live from Amsterdam  (2010)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Alter Bridge  Live from Amsterdam  2010  Blu-ray 720p AVC DTS 5.1 ELR.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Alter%20Bridge%20%20Live%20from%20Amsterdam%20%202010%20%20Blu-ray%20720p%20AVC%20DTS%205.1%20ELR.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Anitta - Na Praia Ao Vivo (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Anitta - Na Praia Ao Vivo [01-09-2018] 1080i.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Anitta%20-%20Na%20Praia%20Ao%20Vivo%20[01-09-2018]%201080i.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Ayreon Universe (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Ayreon Universe.2018.1080p.x265.DTS-HDMA.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Ayreon%20Universe.2018.1080p.x265.DTS-HDMA.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]BackStreet Boys In A World Like This Japan Tour (2013)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/BackStreet.Boys.In.A.World.Like.This.Japan.Tour.2013.BluRay.1080p.AC3.x264-CHD.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Bee Gees one for all tour live in australia 1989 (2018)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/bee.gees.one.for.all.tour.live.in.australia.1989.2018.1080p.mbluray.x264-mblurayfans.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Beyoncé - Live from Coachella-Full(2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Beyonc%C3%A9 - Live from Coachella-Full set-14.04.2018.1080p.H264.WebRip.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Beyonc%C3%A9%20-%20Live%20from%20Coachella-Full%20set-14.04.2018.1080p.H264.WebRip.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Black Sabbath Live Gathered In Their Masses[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Black Sabbath Live Gathered In Their Masses.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Black%20Sabbath%20Live%20Gathered%20In%20Their%20Masses.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Bon Jovi - Live from London (1995)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Bon Jovi - Live from London (1995).mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Bon%20Jovi%20-%20Live%20from%20London%20(1995).mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Bruno Mars 24K Magic Live At The Apollo (2017)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Bruno.Mars.24K.Magic.Live.At.The.Apollo.2017.1080p.CBS.WEB-DL.AAC2.0.x264-monkee.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Capital Inicial - Rock in Rio (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Capital Inicial - Rock in Rio (2017).mp4
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Capital%20Inicial%20-%20Rock%20in%20Rio%20(2017).mp4
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]CHBJR Acustico MTV[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/CHBJR Acustico MTV.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/CHBJR%20Acustico%20MTV.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Coldplay Live In São Paulo (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Coldplay.Live.In.S%C3%A3o Paulo.2018.WEB.720p.H264-DEAD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Coldplay.Live.In.S%C3%A3o%20Paulo.2018.WEB.720p.H264-DEAD.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Concert for George[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Concert.for.George.Blu-ray.720p.DTS.LPCM.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Zeze de Camargo & Luciano (2002)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/C%C3%B3pia de Zeze.de.Camargo.&.Luciano.2002.avi
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/C%C3%B3pia%20de%20Zeze.de.Camargo.&.Luciano.2002.avi
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]David Garrett - Rock Symphonies[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/David Garrett - Rock Symphonies.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/David%20Garrett%20-%20Rock%20Symphonies.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]David Gilmour Live At Pompeii (2017)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/David.Gilmour.Live.At.Pompeii.2017.Bluray.1080p.x264.AC3.5.1-DrEstranho.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Deep Purple From The Setting Sun[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Deep Purple From The Setting Sun (in Wacken).BDRip.1080p.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Deep%20Purple%20From%20The%20Setting%20Sun%20(in%20Wacken).BDRip.1080p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]DJ Bobo Mystorial Live 25th Anniversary Tour (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/DJ Bobo.Mystorial Live.25th Anniversary Tour.2017.BluRay.REMUX.1080p.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/DJ%20Bobo.Mystorial%20Live.25th%20Anniversary%20Tour.2017.BluRay.REMUX.1080p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]doorswight[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/doorswight.1080p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Eminem New York Live (2005)[/B][/COLOR]
@@ -59,9 +53,9 @@ https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/evanescence1080p.sample.m
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Festival de Verao -Marilia Mendonca  (2017)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Festival.de.Verao.2017.D2.Marilia.Mendonca.720p.HDTV.X264-RK.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Flight 666 DVD I FILME[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Flight 666 DVD I FILME.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Flight%20666%20DVD%20I%20FILME.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Flight 666 DVD II CONCERT[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Flight 666 DVD II CONCERT.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Flight%20666%20DVD%20II%20CONCERT.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Hans Zimmer Livein Prague (2017)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Hans.Zimmer.Livein.Prague.2017.1080p.NF.DDP5.1.WEB-DL.x264-MED.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]alcatrazz live japan 1984[/B][/COLOR]
@@ -69,7 +63,7 @@ https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/hdmi-alcatrazzlivejapan.1
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]the rolling stones the vault no security[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/hdmusic-therollingstonesthevaultnosecurity-1080p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Joe Bonamassa Live From New York Beacon Theatre[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Joe Bonamassa Live From New York Beacon Theatre Mkv 1080p Dts Hd.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Joe%20Bonamassa%20Live%20From%20New%20York%20Beacon%20Theatre%20Mkv%201080p%20Dts%20Hd.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]KID ABELHA - 30 ANOS[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/KID.ABELHA.-.30.ANOS.RMX.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Lacuna Coil The 119 Show Live In London (2018)[/B][/COLOR]
@@ -85,27 +79,27 @@ https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Lollapalooza.2018.Red.Hot
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Megadeth - Countdown To Extinction- Live ((2013))[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Megadeth.-.Countdown.To.Extinction-.Live.2013.1920x1080.BDRip.x264.AC3.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Metallica - Live in Nimes[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Metallica - Live in Nimes [BDRip-1080p-Dts-Chapters].mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Metallica%20-%20Live%20in%20Nimes%20[BDRip-1080p-Dts-Chapters].mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Mr Big Live From Milan (2018)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Mr.Big.Live.From.Milan.2018.BDRip.1080p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Multishow ao Vivo SKANK no Mineirão[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Multishow.ao.Vivo.SKANK.no.Mineirão.RMX.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Multishow.ao.Vivo.SKANK.no.Mineir%C3%A3o.RMX.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Namie Amuro Last Live Performance[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Namie Amuro [Last Live Performance].mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Namie%20Amuro%20[Last%20Live%20Performance].mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Nirvana MTV Unplugged in New York[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Nirvana MTV Unplugged in New York.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Nirvana%20MTV%20Unplugged%20in%20New%20York.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Norah Jones Live At Ronnie Scotts (2018)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Norah.Jones.Live.At.Ronnie.Scotts.2018.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Paul McCartney And Wings Rockshow (2013)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Paul.McCartney.And.Wings.Rockshow.2013.1080p.Bluray.DTS.H264-MxYzPtLk.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Pearl Jam  - Lollapalooza (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Pearl Jam  - Lollapalooza 2018.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Pearl%20Jam%20%20-%20Lollapalooza%202018.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Pink Floyd - Pulse, Live at Earls Court (1995)Disc 01[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Pink Floyd - Pulse, Live at Earls Court[1995]Disc 01.Dvd9Rip.720p.Hevc.h265.Eng.AC3-6[DD 5.1]640k-M8.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Pink%20Floyd%20-%20Pulse,%20Live%20at%20Earls%20Court[1995]Disc%2001.Dvd9Rip.720p.Hevc.h265.Eng.AC3-6[DD%205.1]640k-M8.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Pink Floyd - Pulse, Live at Earls Court (1995)Disc 02[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Pink Floyd - Pulse, Live at Earls Court[1995]Disc 02.Dvd9Rip.720p.Hevc.h265.Eng.AC3-6[DD 5.1]640k-M8.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Pink%20Floyd%20-%20Pulse,%20Live%20at%20Earls%20Court[1995]Disc%2002.Dvd9Rip.720p.Hevc.h265.Eng.AC3-6[DD%205.1]640k-M8.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Procol Harum  Live at the Union Chapel (1995)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Procol Harum  Live at the Union Chapel 2011 720p Blu-ray DTS 5 1 x264 eMC.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Procol%20Harum%20%20Live%20at%20the%20Union%20Chapel%202011%20720p%20Blu-ray%20DTS%205%201%20x264%20eMC.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Queen Hungarian Rhapsody Live In Budapest[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Queen.Hungarian.Rhapsody.Live.In.Budapest.BluRay.Remux.1080p.x264-DalmacioJR.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Queen Rock Montreal & Live Aid (2007)[/B][/COLOR]
@@ -115,9 +109,9 @@ https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Queen.Rock.Montreal.1981.
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Queen Rock Montreal And Live Aid[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Queen.Rock.Montreal.And.Live.Aid.BluRay.Remux.1080p.x264-DalmacioJR.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Rammstein In Amerika Live From Madison Square Garden (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Rammstein In Amerika Live From Madison Square Garden 2015.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Rammstein%20In%20Amerika%20Live%20From%20Madison%20Square%20Garden%202015.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Red Hot - Live at Slane[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Red Hot - Live at Slane.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Red%20Hot%20-%20Live%20at%20Slane.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Rock in Rio Maroon 5  (2017)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Rock.in.Rio.2017.D2.Maroon.5.1080i.HDTV-ZMG.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Rock in Rio Guns N Roses (2017) [/B][/COLOR]
@@ -131,44 +125,35 @@ https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Roger.Waters.The.Wall.201
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Roupa Nova - 30 Anos[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Roupa.Nova.-.30.Anos.RMX.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Rush - Clockwork Angels Tour (2013)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Rush - Clockwork Angels Tour (2013).mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Rush%20-%20Clockwork%20Angels%20Tour%20(2013).mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Rush - R40 Live (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Rush - R40 Live.2015.720p by CleitonMelo.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Rush%20-%20R40%20Live.2015.720p%20by%20CleitonMelo.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Rush In Rio (2003)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Rush In Rio (2003).mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Rush%20In%20Rio%20(2003).mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Sertanejo Prime - O Melhor do Sertanejo (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Sertanejo Prime - O Melhor do Sertanejo (2018).mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Sertanejo%20Prime%20-%20O%20Melhor%20do%20Sertanejo%20(2018).mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Sheryl Crow Live At The Capitol Theater (2018)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Sheryl.Crow.Live.At.The.Capitol.Theater.2018.BDRip.720p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Show de Magica Padre Quevedo[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Show.de.Magica.Padre.Quevedo.DVDRip.XviD-Zoras Up By -moNGe_.avi
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Show.de.Magica.Padre.Quevedo.DVDRip.XviD-Zoras%20Up%20By%20-moNGe_.avi
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Slipknot - Day Of The Gusano Live in Mexico (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Slipknot - Day Of The Gusano Live in Mexico (2017)(1080p).mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Slipknot%20-%20Day%20Of%20The%20Gusano%20Live%20in%20Mexico%20(2017)(1080p).mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Symphony Live In Vienna[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Symphony Live In Vienna.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Symphony%20Live%20In%20Vienna.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Taylor Swift Reputation Stadium Tour (2018)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Taylor.Swift.Reputation.Stadium.Tour.2018.720p.NF.WEB-DL.DD5.1.x264-Tars.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]The Killers Live From Royal Albert Hall[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/The Killers Live From Royal Albert Hall 1080p DTS x264.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/The%20Killers%20Live%20From%20Royal%20Albert%20Hall%201080p%20DTS%20x264.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]The Who - Tommy, Live At The Royal Albert Hall[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/The Who - Tommy, Live At The Royal Albert Hall_m0309.mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/The%20Who%20-%20Tommy,%20Live%20At%20The%20Royal%20Albert%20Hall_m0309.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]the rolling stones from the vault the marquee club live in (1971 2015)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/the.rolling.stones.from.the.vault.the.marquee.club.live.in.1971.2015.1080p.mbluray.x264-dev0.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Titãs - Rock in Rio (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Tit%C3%A3s - Rock in Rio (2017).mp4
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Tit%C3%A3s%20-%20Rock%20in%20Rio%20(2017).mp4
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Sertanejo Universitário (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/VA - Sertanejo Universit%C3%A1rio (2018).mkv
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/VA%20-%20Sertanejo%20Universit%C3%A1rio%20(2018).mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Zé Ramalho - Ao Vivo (2005) mp4[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Z%C3%A9 Ramalho - Ao Vivo (2005).mp4
+https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Z%C3%A9%20Ramalho%20-%20Ao%20Vivo%20(2005).mp4
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Zeze de Camargo & Luciano (2002)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/Z-GERAL/SHOWS/Zeze.de.Camargo.&.Luciano.2002.avi
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
