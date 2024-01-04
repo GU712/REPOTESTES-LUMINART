@@ -1,460 +1,85 @@
-#EXTM3U
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]101 Dálmatas (1961)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/101%20D%C3%A1lmatas%20-%201961%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Bela Adormecida (1959)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Bela%20Adormecida%20-%201959%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Bela e a Fera (1991)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Bela%20e%20a%20Fera%20-%201991%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Casa Monstro (2006)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Casa%20Monstro%20-%202006%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Dama e o Vagabundo (1955)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Dama%20e%20o%20Vagabundo%20-%201955%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Era do Gelo (A Grande Caçada Aos Ovos de Páscoa (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Era%20do%20Gelo%20-%20A%20Grande%20Ca%C3%A7ada%20Aos%20Ovos%20de%20P%C3%A1scoa%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Era do Gelo 1 (2002)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Era%20do%20Gelo%201%20-%202002%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Era do Gelo 2 (2006)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Era%20do%20Gelo%202%20-%202006%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Era do Gelo 3 (2009)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Era%20do%20Gelo%203%20-%202009%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Era do Gelo 4 (A Deriva Continental (2012)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Era%20do%20Gelo%204%20-%20A%20Deriva%20Continental%20-%202012%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Era do Gelo 5 (O Big Bang (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Era%20do%20Gelo%205%20-%20O%20Big%20Bang%20-%202016%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Família Addams 2: Pé na Estrada (2021)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Fam%C3%ADlia%20Addams%202:%20P%C3%A9%20na%20Estrada%20-%20The.Addams.Family.2.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-CMRG.DUAL-JK.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Fuga das Galinhas (2000)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Fuga%20das%20Galinhas%20-%202000%20-1080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Magia Do Natal (1947)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Magia%20Do%20Natal%20-%201947%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Magia Do Natal (1992 (480p.mkv)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Magia%20Do%20Natal%20-%201992%20-%20480p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Maior Aventura do Ursinho Pooh (1997)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Maior%20Aventura%20do%20Ursinho%20Pooh%20-%201997%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Noiva Cadáver (2005)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Noiva%20Cad%C3%A1ver%20-%202005%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Nova Onda do Imperador (2002)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Nova%20Onda%20do%20Imperador%20-%202002%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Pequena Sereia (1989)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Pequena%20Sereia%20-%201989%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Pequena Sereia II (O Retorno Para o Mar (2000)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Pequena%20Sereia%20II%20-%20O%20Retorno%20Para%20o%20Mar%20-%202000%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Pequena Sereia III (A História de Ariel (2008)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Pequena%20Sereia%20III%20-%20A%20Hist%C3%B3ria%20de%20Ariel%20-%202008%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Princesa e o Sapo (2009)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Princesa%20e%20o%20Sapo%20-%202009%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Princesa Encantada O Reino da Música (2019)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A%20Princesa%20Encantada%20-%20O%20Reino%20da%20M%C3%BAsica%20-%202019%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A.Era Do Gelo As Aventuras De Buck (2022)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A.Era.Do.Gelo.As.Aventuras.De.Buck.1080p.DSNP.WEB-DL.DDP5.1.H.264-EVO.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A.Era Do Gelo As Aventuras De Buck (2022)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/A.Era.Do.Gelo.As.Aventuras.De.Buck.2022.2160p.WEB-DL.DDP5.1.Atmos.HDR.HEVC-TEPES.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Aladdin (1992)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Aladdin%20-%201992%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Aladdin E Os Quarenta Ladrões 2 (1997)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Aladdin%20E%20Os%20Quarenta%20Ladr%C3%B5es%202%20-%201997%20-%20460p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Aladdin, O Retorno de Jafar (1994)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Aladdin,%20O%20Retorno%20de%20Jafar%20-%201994%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Alice no País das Maravilhas (1951)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Alice%20no%20Pa%C3%ADs%20das%20Maravilhas%20-%201951%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Alô, Amigos (1942)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Al%C3%B4,%20Amigos%20-%201942%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Altered Carbon (Nova Capa (2020)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Altered%20Carbon%20-%20Nova%20Capa%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Alucinante Madagascar (1080p (2013)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Alucinante%20Madagascar%20-%201080p%20-%202013.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]As Aventuras de Robinson Crusoé (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/As%20Aventuras%20de%20Robinson%20Cruso%C3%A9%20-%202017%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]As Aventuras de Tintim (2012)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/As%20Aventuras%20de%20Tintim%20-%202012%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]As Aventuras do Avião Vermelho (2014)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/As%20Aventuras%20do%20Avi%C3%A3o%20Vermelho%20-%202014%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]As Aventuras do Capitão Cueca (O Filme (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/As%20Aventuras%20do%20Capit%C3%A3o%20Cueca%20-%20O%20Filme%20-%202017%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Asterix e a Grande Luta (1989)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Asterix%20e%20a%20Grande%20Luta%20-%201989%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Asterix e a Surpresa de César (1985)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Asterix%20e%20a%20Surpresa%20de%20C%C3%A9sar%20-%201985%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Asterix e Cleópatra (1963)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Asterix%20e%20Cle%C3%B3patra%20-%201963%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Asterix e o Dominio dos Deuses (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Asterix%20e%20o%20Dominio%20dos%20Deuses%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Asterix Entre Os Bretões (1986)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Asterix%20Entre%20Os%20Bret%C3%B5es%20-%201986%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Asterix, o Gaulês (1967)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Asterix,%20o%20Gaul%C3%AAs%20-%201967%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Atlantis 2 (O Retorno de Milo (2003)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Atlantis%202%20-%20O%20Retorno%20de%20Milo%20-%202003%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Bambi (1942)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Bambi%20-%201942%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Bee Movie (2007)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Bee%20Movie%20-%202007%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Bolt (Super Cão (2008)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Bolt%20-%20Super%20C%C3%A3o%20-%202008%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Branca de Neves e os Sete Anões (1937)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Branca%20de%20Neves%20e%20os%20Sete%20An%C3%B5es%20-%201937%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Carros (2006)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Carros%20-%202006%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Carros 2 (2011)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Carros%202%20-%202011%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Carros 3 (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Carros%203%20-%202017%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Cegonhas A História que não te Contaram (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Cegonhas%20A%20Hist%C3%B3ria%20que%20n%C3%A3o%20te%20Contaram%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Cinderella (1950)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Cinderella%20-%201950%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Como é Bom se Divertir (1947)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Como%20%C3%A9%20Bom%20se%20Divertir%20-%201947%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Como o Grinch Roubou o Natal! (1966)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Como%20o%20Grinch%20Roubou%20o%20Natal!%20-%201966%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Consertadores de Brinquedos (1949)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Consertadores%20de%20Brinquedos%20-%201949%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Crianças Lobo (2012)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Crian%C3%A7as%20Lobo%20-%202012%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Detona Ralph (2012)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Detona%20Ralph%20-%202012%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Divertida Mente (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Divertida%20Mente%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Dois Irmãos (Uma Jornada Fantástica (2020)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Dois%20Irm%C3%A3os%20-%20Uma%20Jornada%20Fant%C3%A1stica%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Dois Irmãos (Uma Jornada Fantástica (2020)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Dois%20Irm%C3%A3os%20-%20Uma%20Jornada%20Fant%C3%A1stica%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]DuckTales (O Filme (O Tesouro da Lâmpada Perdida (1990)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/DuckTales%20-%20O%20Filme%20-%20O%20Tesouro%20da%20L%C3%A2mpada%20Perdida%20-%201990%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]DuckTales (O Tesouro do Sol Dourado (1987)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/DuckTales%20-%20O%20Tesouro%20do%20Sol%20Dourado%20-%201987%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]DuckTales, O FIlme (O Tesouro da Lâmpada Perdida (1990)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/DuckTales,%20O%20FIlme%20-%20O%20Tesouro%20da%20L%C3%A2mpada%20Perdida%20-%201990%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Dumbo (1941)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Dumbo%20-%201941%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Encanto (2021)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Encanto.2021.1080p.iT.WEB-DL.DDP7.1.H.264-EVO.DUAL-Cory.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Enrolados (2010)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Enrolados%20-%202010%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Fantasia (1940)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Fantasia%20-%201940%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Fantasia 2000 (1999)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Fantasia%202000%20-%201999%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Fe-Fi-Fo-Fred no Reino da Fantasia (1965)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Fe-Fi-Fo-Fred%20no%20Reino%20da%20Fantasia%20-%201965%20-%20480p-VHS.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Feliz Natal Madagascar (2009)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Feliz%20Natal%20Madagascar%20-%202009%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Festa da Salsicha (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Festa%20da%20Salsicha%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Fievel (Um Conto Americano (1986)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Fievel%20-%20Um%20Conto%20Americano%20-%201986%20-%201040p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Fievel II (Fievel Vai Para o Oeste (1991)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Fievel%20II%20-%20Fievel%20Vai%20Para%20o%20Oeste%20-%201991%20-%201040p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Fievel III (O Tesouro de Nova York (1998)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Fievel%20III%20-%20O%20Tesouro%20de%20Nova%20York%20-%201998%20-%20480p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Fievel IV (O Mistério do Monstro da Noite (1999)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Fievel%20IV%20-%20O%20Mist%C3%A9rio%20do%20Monstro%20da%20Noite%20-%201999%20-%20480p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]FormiguinhaZ (1998)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/FormiguinhaZ%20-%201998%20-%20720p-HDTV.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Gato de Botas (2011)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Gato%20de%20Botas%20-%202011%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Hércules (1997)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/H%C3%A9rcules%20-%201997%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Heróis da Galáxia (Ratchet & Clank (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Her%C3%B3is%20da%20Gal%C3%A1xia%20-%20Ratchet%20&%20Clank%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Hotel Transilvânia (2012)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Hotel%20Transilv%C3%A2nia%20-%202012%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Hotel Transilvânia 2 (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Hotel%20Transilv%C3%A2nia%202%20-%202015%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Hotel Transilvania Transformonstrao 2022)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Hotel.Transilvania.Transformonstrao.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Hotel Transilvania Transformonstrao 2022)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Hotel.Transilvania.Transformonstrao.2022.HDR.2160p.WEB-DL.DDP5.1.Atmos.H265-NAISU.DUAL-RK.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Johnny Bravo Vai Para Bollywood 2011)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Johnny.Bravo.Vai.Para.Bollywood.2011.1080p.Upscale.DD2.0.H.264-tex-willer.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Johnny Bravo Vai Para Bollywood 2011)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Johnny.Bravo.Vai.Para.Bollywood.2011.2160p.Upscale.DD2.0.H.264-tex-willer.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Kung Fu Panda 1 (2008)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Kung%20Fu%20Panda%201%20-%202008%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Kung Fu Panda 2 (2011)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Kung%20Fu%20Panda%202%20-%202011%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Kung Fu Panda 3 (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Kung%20Fu%20Panda%203%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]LEGO (Liga da Justiça Fuga em Massa em Gotham City (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/LEGO%20-%20Liga%20da%20Justi%C3%A7a%20Fuga%20em%20Massa%20em%20Gotham%20City%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]LEGO (Uma Aventura LEGO (2014)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/LEGO%20-%20Uma%20Aventura%20LEGO%20-%202014%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]LEGO Batman (O Filme (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/LEGO%20Batman%20-%20O%20Filme%20-%202017%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]LEGO Batman (O Filme (Super-Heróis DC Unidos (2013)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/LEGO%20Batman%20-%20O%20Filme%20-%20Super-Her%C3%B3is%20DC%20Unidos%20-%202013%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]LEGO DC Comics Super Heróis, Aquaman (A Fúria de Atlântida (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/LEGO%20DC%20Comics%20Super%20Her%C3%B3is,%20Aquaman%20-%20A%20F%C3%BAria%20de%20Atl%C3%A2ntida%20-%202018%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]LEGO Jurassic World (A Fuga do Indominus Rex (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/LEGO%20Jurassic%20World%20-%20A%20Fuga%20do%20Indominus%20Rex%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]LEGO Liga da Justiça (Combate Cosmico (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/LEGO%20Liga%20da%20Justi%C3%A7a%20-%20Combate%20Cosmico%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]LEGO Star Wars (A Ameaça Padawan (2011)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/LEGO%20Star%20Wars%20-%20A%20Amea%C3%A7a%20Padawan%20-%202011%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]LEGO Super Heróis (Liga da Justiça Vs  Liga Bizarra (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/LEGO%20Super%20Her%C3%B3is%20-%20Liga%20da%20Justi%C3%A7a%20Vs.%20Liga%20Bizarra%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]LEGO Super-Heróis DC (O Flash (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/LEGO%20Super-Her%C3%B3is%20DC%20-%20O%20Flash%20-%202018%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Leitão, O Filme (2003)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Leit%C3%A3o,%20O%20Filme%20-%202003%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Leroy & Stitch (2006)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Leroy%20&%20Stitch%20-%202006%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Lilo & Stitch (2002)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Lilo%20&%20Stitch%20-%202002%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Lilo & Stitch 2 (Stitch Deu Defeito (2005)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Lilo%20&%20Stitch%202%20-%20Stitch%20Deu%20Defeito%20-%202005%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Link Perdido (2019)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Link%20Perdido%20-%202019%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Looney Tunes e o Espírito de Natal (2006)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Looney%20Tunes%20e%20o%20Esp%C3%ADrito%20de%20Natal%20-%202006%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Madagascar (2005)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Madagascar%20-%202005%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Madagascar 2 (A Grande Escapada (2008)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Madagascar%202%20-%20A%20Grande%20Escapada%20-%202008%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Madagascar 3 (Os Procurados (2012)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Madagascar%203%20-%20Os%20Procurados%20-%202012%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Maria e a Flor da Bruxa (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Maria%20e%20a%20Flor%20da%20Bruxa%20-%202017%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mary & Max (Uma Amizade Diferente (2009)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Mary%20&%20Max%20-%20Uma%20Amizade%20Diferente%20-%202009%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Megamente (2010)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Megamente%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Meu Malvado Favorito 1 (2010)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Meu%20Malvado%20Favorito%201%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Meu Malvado Favorito 2 (2013)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Meu%20Malvado%20Favorito%202%20-%202013%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Meu Malvado Favorito 3 (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Meu%20Malvado%20Favorito%203%20-%202017%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mickey, Donald e Pateta (Os Três Mosqueteiros (2004)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Mickey,%20Donald%20e%20Pateta%20-%20Os%20Tr%C3%AAs%20Mosqueteiros%20-%202004%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Minions (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Minions%20-%202015%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mogli, O Menino Lobo (1967)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Mogli,%20O%20Menino%20Lobo%20-%201967%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Monsters vs  Aliens (2009)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Monsters%20vs.%20Aliens%20-%202009%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Monstros S A (2001)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Monstros%20S.A%20-%202001%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mortal Kombat Legends (A Vingança de Scorpion (2020)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Mortal%20Kombat%20Legends%20-%20A%20Vingan%C3%A7a%20de%20Scorpion%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mulan (1998)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Mulan%20-%201998%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mulan 2 (A Lenda Continua (2005 )[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Mulan%202%20-%20A%20Lenda%20Continua%20-%202005.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Nem que a Vaca Tussa (2004)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Nem%20que%20a%20Vaca%20Tussa%20-%202004%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Bicho Vai Pegar 1 (2006)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Bicho%20Vai%20Pegar%201%20-%202006%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Bicho Vai Pegar 2 (2008)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Bicho%20Vai%20Pegar%202%20-%202008%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Bicho Vai Pegar 3 (2010)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Bicho%20Vai%20Pegar%203%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Bicho Vai Pegar 4 (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Bicho%20Vai%20Pegar%204%20-%202015%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Bom Dinossauro (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Bom%20Dinossauro%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Caminho Para El Dorado (2000)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Caminho%20Para%20El%20Dorado%20-%202000%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Começo do Manda-Chuva (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Come%C3%A7o%20do%20Manda-Chuva%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Conto de Natal do Mickey (1983)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Conto%20de%20Natal%20do%20Mickey%20-%201983%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Corcunda de Notre Dame (1996)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Corcunda%20de%20Notre%20Dame%20-%201996%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack  (1993)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Estranho%20Mundo%20de%20Jack%20%20-%201993%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Expresso Polar (2004)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Expresso%20Polar%20-%202004%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Fantástico Sr  Raposo (2009)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Fant%C3%A1stico%20Sr.%20Raposo%20-%202009%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Fantástico Sr  Raposo (2009)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Fant%C3%A1stico%20Sr.%20Raposo%20(Criterion)%20-%202009%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Grinch (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Grinch%20-%202018%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Poderoso Chefinho (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Poderoso%20Chefinho%20-%202017%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Príncipe do Egito (1998)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Pr%C3%ADncipe%20do%20Egito%20-%201998%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Príncipe e o Mendigo (1990)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Pr%C3%ADncipe%20e%20o%20Mendigo%20-%201990%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Rei Leão (1994)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Rei%20Le%C3%A3o%20-%201994%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Rei Leão II (O Reino de Simba (1998)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Rei%20Le%C3%A3o%20II%20-%20O%20Reino%20de%20Simba%20-%201998%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Rei Leão III (Hakuna Matata (2004)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Rei%20Le%C3%A3o%20III%20(1%C2%BD)%20-%20Hakuna%20Matata%20-%202004%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Ursinho Pooh (2011)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O%20Ursinho%20Pooh%20-%202011%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]O Poderoso Chefinho 2 De Volta aos Negocios (2021)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/O.Poderoso.Chefinho.2.De.Volta.aos.Negocios.2021.1080p.BluRay.x264-iFT.DUAL-RK.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Oito Noites de Loucura de Adam Sandler (2002)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Oito%20Noites%20de%20Loucura%20de%20Adam%20Sandler%20-%202002%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Os Incríveis (2004)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Os%20Incr%C3%ADveis%20-%202004%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Os Incríveis 2 (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Os%20Incr%C3%ADveis%202%20-%202018%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Os Jetsons O Filme (1990 )[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Os%20Jetsons%20O%20Filme%20-%201990%20-%20HDTV%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Os Jovens Titãs em Ação! Nos Cinemas (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%20Nos%20Cinemas%20-%202018%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Os Pinguins de Madagascar (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Os%20Pinguins%20de%20Madagascar%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Os Sem Floresta (2006)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Os%20Sem%20Floresta%20-%202006%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Os Smurfs e a Flauta Mágica (1985)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Os%20Smurfs%20e%20a%20Flauta%20M%C3%A1gica%20-%201985%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Os Smurfs e a Vila Perdida (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Os%20Smurfs%20e%20a%20Vila%20Perdida%20-%202017%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Os Três Mosqueteiros (2004)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Os%20Tr%C3%AAs%20Mosqueteiros%20-%202004%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Os Vilões da Disney (2001)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Os%20Vil%C3%B5es%20da%20Disney%20-%202001%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Osmose Jones (2001)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Osmose%20Jones%20-%202001%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Pagemaster (O Mestre da Mágia (1994)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Pagemaster%20-%20O%20Mestre%20da%20M%C3%A1gia%20-%201994%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Peter Pan (1953)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Peter%20Pan%20-%201953%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Peter Pan De Volta a Terra do Nunca (2002)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Peter%20Pan%20De%20Volta%20a%20Terra%20do%20Nunca%20-%202002%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Pinocchio (1940)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Pinocchio%20-%201940%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Piratas Pirados! (2012)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Piratas%20Pirados!%20-%202012%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Planeta 51 (2009)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Planeta%2051%20-%202009%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Planeta do Tesouro (2002)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Planeta%20do%20Tesouro%20-%202002%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Pocahontas (1995)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Pocahontas%20-%201995%20-%201080p.mkv
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Roberto Carlos e o Diamante Cor-de-Rosa (1968) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/6AVT-CL/Roberto.Carlos/LS-1968.R.C.e.O.Diamante.Cor.de.Rosa.SD.DUB.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2dhG29AN9WzqxPU7bNtTl5veNpI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j187KE8wdHMvi6ErvdHEsmMsnal.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Diamante Cor-de-Rosa
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Roberto Carlos, Erasmo Carlos e Wanderléia estão no Japão, quando esta última resolve comprar uma estatueta antiga. Imediatamente ela e seus companheiros começam a ser perseguidos por Pierre, um homem misterioso que lidera uma quadrilha de lutadores orientais. 
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Pokémon (2020)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Pok%C3%A9mon%20-%20Mewtwo%20Contra-Ataca%20-%20Evolu%C3%A7%C3%A3o%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Procurando Dory (2016)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Procurando%20Dory%20-%202016%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Procurando Nemo (2003)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Procurando%20Nemo%20-%202003%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Rango (Versão Estendida) (2011)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Rango%20(Vers%C3%A3o%20Estendida)%20-%202011%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Ratatouille (2007)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Ratatouille%20-%202007%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Robôs (2005)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Rob%C3%B4s%20-%202005%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Saara (2017)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Saara%20-%202017%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby! O Filme (2020)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby!%20O%20Filme%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby! O Filme (2020)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby!%20O%20Filme%20-%202020%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! & Batman (Os Bravos e Destemidos (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20&%20Batman%20-%20Os%20Bravos%20e%20Destemidos%20-%202018%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! A Loucura do Monstro da Lua (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20A%20Loucura%20do%20Monstro%20da%20Lua%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! Acampamento Assustador (2010)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20Acampamento%20Assustador%20-%202010%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! E a Lenda do Fantasmossauro (2011)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20E%20a%20Lenda%20do%20Fantasmossauro%20-%202011%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! e Kiss (O Mistério do Rock and Roll (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20e%20Kiss%20-%20O%20Mist%C3%A9rio%20do%20Rock%20and%20Roll%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! Jogos Assombrados (2012)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20Jogos%20Assombrados%20-%202012%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! Medo Do Palco (2013)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20Medo%20Do%20Palco%20-%202013%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! Mistério na Lutamania (2014)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20Mist%C3%A9rio%20na%20Lutamania%20-%202014%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! Música de Vampiro (2012)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20M%C3%BAsica%20de%20Vampiro%20-%202012%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! Natal Assombrado (2012)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20Natal%20Assombrado%20-%202012%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Scooby-Doo! Piratas à Bordo (2006)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Scooby-Doo!%20Piratas%20%C3%A0%20Bordo%20-%202006%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Shaun, O Carneiro (O Filme (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Shaun,%20O%20Carneiro%20-%20O%20Filme%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Shrek (Para Sempre (2010)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Shrek%20-%20Para%20Sempre%20-%202010%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Shrek 1 (2001)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Shrek%201%20-%202001%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Shrek 1 (2001)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Shrek%201%20-%202001%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Shrek 2 (2004)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Shrek%202%20-%202004%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Shrek 2 (2004)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Shrek%202%20-%202004%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Shrek 3 (2007)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Shrek%203%20-%202007%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Shrek 3 Terceiro (2007)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Shrek%203%20Terceiro%20-%202007%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Shrek 4 Para Sempre (2010)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Shrek%204%20Para%20Sempre%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Stitch! (O Filme (2003)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Stitch!%20-%20O%20Filme%20-%202003%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tá Chovendo Hambúrguer 1 (2009)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/T%C3%A1%20Chovendo%20Hamb%C3%BArguer%201%20-%202009%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tá Chovendo Hambúrguer 2 (2014)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/T%C3%A1%20Chovendo%20Hamb%C3%BArguer%202%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tarzan (1999)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Tarzan%20-%201999%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tarzan & Jane (2002)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Tarzan%20&%20Jane%20-%202002%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tarzan II (2005)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Tarzan%20II%20-%202005%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tempo de Melodia (1948)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Tempo%20de%20Melodia%20-%201948%20-%20480p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tigrão, O Filme (2000)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Tigr%C3%A3o,%20O%20Filme%20-%202000%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Todos os Cães Merecem o Céu (1989)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Todos%20os%20C%C3%A3es%20Merecem%20o%20C%C3%A9u%20-%201989%20-%20480p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tom & Jerry Rumo a Marte (2005)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Tom%20&%20Jerry%20Rumo%20a%20Marte%20-%202005%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tom e Jerry Aventura com Jonny Quest (2015)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Tom%20e%20Jerry%20Aventura%20com%20Jonny%20Quest%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tom e Jerry Em Busca do Tesouro (2006)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Tom%20e%20Jerry%20Em%20Busca%20do%20Tesouro%20-%202006%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Toy Story (1995)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Toy%20Story%20-%201995%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Toy Story 1 (1995)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Toy%20Story%201%20-%201995%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Toy Story 2 (1999)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Toy%20Story%202%20-%201999%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Toy Story 2 (1999)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Toy%20Story%202%20-%201999%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Toy Story 3 (2010)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Toy%20Story%203%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Toy Story 3 (2010)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Toy%20Story%203%20-%202010%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Toy Story 4 (2019)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Toy%20Story%204%20-%202019%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Toy Story 4 (2019)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Toy%20Story%204%20-%202019%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Universidade Monstros (2013)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Universidade%20Monstros%20-%202013%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Up (Altas Aventuras (2009)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Up%20-%20Altas%20Aventuras%20-%202009%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Ursinho Pooh (A Páscoa de Guru (2004)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Ursinho%20Pooh%20-%20A%20P%C3%A1scoa%20de%20Guru%20-%202004%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Vida de Inseto (1998)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Vida%20de%20Inseto%20-%201998%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Você já foi à Bahia (1944)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Voc%C3%AA%20j%C3%A1%20foi%20%C3%A0%20Bahia%20-%201944%20-%20DVDRip.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Wallace & Gromit (A Batalha dos Vegetais (2005)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Wallace%20&%20Gromit%20-%20A%20Batalha%20dos%20Vegetais%20-%202005%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Wallace & Gromit (Uma Questão de Miolo e Morte (2008)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Wallace%20&%20Gromit%20-%20Uma%20Quest%C3%A3o%20de%20Miolo%20e%20Morte%20-%202008%20-%20480p.avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Wall-E (2008)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/Wall-E%20-%202008%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]WiFi Ralph (Quebrando a Internet (2018)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/3:/FilmesJGS/Filmes%20de%20Anima%C3%A7%C3%A3o/WiFi%20Ralph%20-%20Quebrando%20a%20Internet%20-%202018%20-%201080p%20-%20HEVC%20-%20265.mkv
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Roberto Carlos em Ritmo de Aventura (1968) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/6AVT-CL/Roberto.Carlos/LS-1968.R.C.em.Ritmo.de.Aventura.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pn7LCyRzVhIEoy1RZ4KWfEnxp2J.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g3Gj86dufcEDGECNnm9VXFBHrWA.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Ritmo de Aventura 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ídolo da música jovem brasileira, é perseguido por um bando que pretende utilizá-lo para a produção em massa de canções, com a ajuda de um cérebro eletrônico.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Roberto Carlos a 300 Km por Hora (1971) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/6AVT-CL/Roberto.Carlos/LS-1972.R.C.a.300.Km.Por.Hora.HD.DUB.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2Bzf43vUVtXBhClZrjLRK1JaPNU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a37JFvPc7WiTkOBy640SnK3Cooh.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]300 Km por Hora
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1971
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mecânico de carros de corridas, ambicionando tornar-se piloto, substitui um corredor traumatizado em acidente.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
