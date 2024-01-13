@@ -1,8 +1,279 @@
 #EXTM3U
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]5000 Cobertas (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/5000%20Cobertas%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]65 - Ameaça Pré-Histórica (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/65%20-%20Amea%C3%A7a%20Pr%C3%A9-Hist%C3%B3rica%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Arte da Sobrevivência (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Arte%20da%20Sobreviv%C3%AAncia%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Bailarina (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Bailarina%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Chamada (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Chamada%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Cratera (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Cratera%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Descoberta Perfeita (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Descoberta%20Perfeita%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Era de Ouro (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Era%20de%20Ouro%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Extorsão (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Extors%C3%A3o%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Good Person (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Good%20Person%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Incrível História de Henry Sugar (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Incr%C3%ADvel%20Hist%C3%B3ria%20de%20Henry%20Sugar%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Justiceira (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Justiceira%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Lista da Vingança (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Lista%20da%20Vingan%C3%A7a%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Mãe (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20M%C3%A3e%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Mãe do Ano (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20M%C3%A3e%20do%20Ano%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Máquina do Crime (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20M%C3%A1quina%20do%20Crime%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Morte do Demônio - A Ascensão (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Morte%20do%20Dem%C3%B4nio%20-%20A%20Ascens%C3%A3o%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Noite das Vampiras (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Noite%20das%20Vampiras%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Pequena Dixie (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Pequena%20Dixie%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Profecia do Mal (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Profecia%20do%20Mal%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Roleta da Morte (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20Roleta%20da%20Morte%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Última Festa (2023).tmp[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20%C3%9Altima%20Festa%20(2023).mkv.tmp
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]A Última Fonte (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/A%20%C3%9Altima%20Fonte%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Acertando o Tom (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Acertando%20o%20Tom%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]After - Para Sempre (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/After%20-%20Para%20Sempre%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Agente Infiltrado (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Agente%20Infiltrado%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Agente Stone (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Agente%20Stone%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Ah, Belinda (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Ah,%20Belinda%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Air - A História Por Trás do Logo (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Air%20-%20A%20Hist%C3%B3ria%20Por%20Tr%C3%A1s%20do%20Logo%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Alguém Que Eu Costumava Conhecer (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Algu%C3%A9m%20Que%20Eu%20Costumava%20Conhecer%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Amor ao Primeiro Beijo (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Amor%20ao%20Primeiro%20Beijo%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Amor em Foco (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Amor%20em%20Foco%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Amor Esquecido (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Amor%20Esquecido%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Amor(es) Verdadeiro(s) (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Amor(es)%20Verdadeiro(s)%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Amor, Sexo e 30 Velinhas (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Amor,%20Sexo%20e%2030%20Velinhas%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Amor² para Sempre (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Amor%C2%B2%20para%20Sempre%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Angela (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Angela%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Anna Nicole Smith - Vocês Não Me Conhecem (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Anna%20Nicole%20Smith%20-%20Voc%C3%AAs%20N%C3%A3o%20Me%20Conhecem%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]As Escolhas do Amor (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/As%20Escolhas%20do%20Amor%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]As Semanas Mágicas (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/As%20Semanas%20M%C3%A1gicas%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Assassin Club (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Assassin%20Club%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Asterix e Obelix no Reino do Meio (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Asterix%20e%20Obelix%20no%20Reino%20do%20Meio%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]At Midnight (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/At%20Midnight%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Awareness - A Realidade é Uma Ilusão (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Awareness%20-%20A%20Realidade%20%C3%A9%20Uma%20Ilus%C3%A3o%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Barbie (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Barbie%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Barraco de Família (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Barraco%20de%20Fam%C3%ADlia%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Batem à Porta (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Batem%20%C3%A0%20Porta%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Beau Tem Medo (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Beau%20Tem%20Medo%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Belas e Recatadas (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Belas%20e%20Recatadas%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Belo Desastre (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Belo%20Desastre%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Besouro Azul (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Besouro%20Azul%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Bird Box Barcelona (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Bird%20Box%20Barcelona%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Blondi (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Blondi%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Caçador de Tormentas (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Ca%C3%A7ador%20de%20Tormentas%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Camaleões (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Camale%C3%B5es%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Campeões (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Campe%C3%B5es%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Carga Máxima (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Carga%20M%C3%A1xima%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Casamento em Família (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Casamento%20em%20Fam%C3%ADlia%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Chevalier (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Chevalier%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Círculo de Espiões (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/C%C3%ADrculo%20de%20Espi%C3%B5es%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Clonaram Tyrone! (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Clonaram%20Tyrone!%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Colheita Sombria (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Colheita%20Sombria%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Coração de Neon (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Cora%C3%A7%C3%A3o%20de%20Neon%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Corrida Para o Topo (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Corrida%20Para%20o%20Topo%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Creed III (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Creed%20III%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]De Tirar o Fôlego (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/De%20Tirar%20o%20F%C3%B4lego%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Desaparecida (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Desaparecida%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Desapega! (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Desapega!%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Desejo Proibido (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Desejo%20Proibido%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Destinos à Deriva (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Destinos%20%C3%A0%20Deriva%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Detetive Knight - Independência (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Detetive%20Knight%20-%20Independ%C3%AAncia%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Devil's Peak (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Devil's%20Peak%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Diamantes do Caos (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Diamantes%20do%20Caos%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Discurso Oculto (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Discurso%20Oculto%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Do Jeito Que Elas Querem - O Próximo Capítulo (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Do%20Jeito%20Que%20Elas%20Querem%20-%20O%20Pr%C3%B3ximo%20Cap%C3%ADtulo%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Do Not Disturb (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Do%20Not%20Disturb%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Drácula - A Última Viagem do Deméter (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Dr%C3%A1cula%20-%20A%20%C3%9Altima%20Viagem%20do%20Dem%C3%A9ter%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Dungeons & Dragons - Honra Entre Rebeldes (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Dungeons%20&%20Dragons%20-%20Honra%20Entre%20Rebeldes%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Duro de Atuar (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Duro%20de%20Atuar%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Ehrengard - A Ninfa do Lago (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Ehrengard%20-%20A%20Ninfa%20do%20Lago%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Em Algum Lugar do Queens (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Em%20Algum%20Lugar%20do%20Queens%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Em Outros Tempos (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Em%20Outros%20Tempos%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Em Seus Sonhos (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Em%20Seus%20Sonhos%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Em Uma Ilha Bem Distante (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Em%20Uma%20Ilha%20Bem%20Distante%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Em uma Terra Muito Distante… Havia um Crime (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Em%20uma%20Terra%20Muito%20Distante%E2%80%A6%20%20Havia%20um%20Crime%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Encurralados (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Encurralados%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Era uma Vez uma Estrela (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Era%20uma%20Vez%20uma%20Estrela%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Esquema de Risco - Operação Fortune (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Esquema%20de%20Risco%20-%20Opera%C3%A7%C3%A3o%20Fortune%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Esta Noite, Você Dorme Comigo (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Esta%20Noite,%20Voc%C3%AA%20Dorme%20Comigo%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Estações do Amor (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Esta%C3%A7%C3%B5es%20do%20Amor%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Excluidos (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Excluidos%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Explorando o Desconhecido - Robôs Assassinos (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Explorando%20o%20Desconhecido%20-%20Rob%C3%B4s%20Assassinos%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Fanfic (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Fanfic%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Fantasma e CIA (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Fantasma%20e%20CIA%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Fé nas Alturas (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/F%C3%A9%20nas%20Alturas%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Feitiçaria (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Feiti%C3%A7aria%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Felicidade para Principiantes (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Felicidade%20para%20Principiantes%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Filha do Prisioneiro (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Filha%20do%20Prisioneiro%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Flora e Filho - Música em Família (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Flora%20e%20Filho%20-%20M%C3%BAsica%20em%20Fam%C3%ADlia%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Freestyle (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Freestyle%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Frio nos Ossos (2023).mp4[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Frio%20nos%20Ossos%20(2023).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Ghosted - Sem Resposta (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Ghosted%20-%20Sem%20Resposta%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Gran Turismo - De Jogador a Corredor (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Gran%20Turismo%20-%20De%20Jogador%20a%20Corredor%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Guardiões da Galáxia - Vol. 3 (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20-%20Vol.%203%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Guia de Viagem para o Amor (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Guia%20de%20Viagem%20para%20o%20Amor%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Homem-Formiga e a Vespa - Quantumania (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Homem-Formiga%20e%20a%20Vespa%20-%20Quantumania%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Homens Brancos Não Sabem Enterrar (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Homens%20Brancos%20N%C3%A3o%20Sabem%20Enterrar%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Hormônios à Flor da Pele (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Horm%C3%B4nios%20%C3%A0%20Flor%20da%20Pele%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Ice Cold O Caso Jessica Wongso (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Ice%20Cold%20O%20Caso%20Jessica%20Wongso%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Indiana Jones e A Relíquia do Destino (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Indiana%20Jones%20e%20A%20Rel%C3%ADquia%20do%20Destino%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Inquietação (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Inquieta%C3%A7%C3%A3o%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]iNumber Number - O Ouro de Joanesburgo (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/iNumber%20Number%20-%20O%20Ouro%20de%20Joanesburgo%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Irmãos Por Escolha (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Irm%C3%A3os%20Por%20Escolha%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Isabella - O Caso Nardoni (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Isabella%20-%20O%20Caso%20Nardoni%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Já Era Hora (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/J%C3%A1%20Era%20Hora%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Já Estou Te Vendo (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/J%C3%A1%20Estou%20Te%20Vendo%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Jagun Jagun - O Guerreiro (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Jagun%20Jagun%20-%20O%20Guerreiro%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Jogando a Linha (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Jogando%20a%20Linha%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Jogo Justo (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Jogo%20Justo%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]John Wick 4 - Baba Yaga (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/John%20Wick%204%20-%20Baba%20Yaga%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Kill Boksoon (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Kill%20Boksoon%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]La Situación (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/La%20Situaci%C3%B3n%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Legião dos Super-Heróis (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Legi%C3%A3o%20dos%20Super-Her%C3%B3is%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Loucas em Apuros (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Loucas%20em%20Apuros%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Luther - O Cair da Noite (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Luther%20-%20O%20Cair%20da%20Noite%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mafia Mamma - De Repente Criminosa (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Mafia%20Mamma%20-%20De%20Repente%20Criminosa%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mansão Mal-Assombrada (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Mans%C3%A3o%20Mal-Assombrada%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mate-me se Puder (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Mate-me%20se%20Puder%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Matheus Ceará - Até Que Meu Show Te Separe (2023).mp4[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Matheus%20Cear%C3%A1%20-%20At%C3%A9%20Que%20Meu%20Show%20Te%20Separe%20(2023).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mato Seco em Chamas (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Mato%20Seco%20em%20Chamas%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Meu Amigo Lutcha (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Meu%20Amigo%20Lutcha%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Meu Pai é um Perigo (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Meu%20Pai%20%C3%A9%20um%20Perigo%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Meus Sogros Tão pro Crime (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Meus%20Sogros%20T%C3%A3o%20pro%20Crime%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Mil e Um (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Mil%20e%20Um%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Minha Culpa (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Minha%20Culpa%20(2023).mkv
 
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Missão Clandestina (2023)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Miss%C3%A3o%20Clandestina%20(2023).mkv
@@ -130,3 +401,98 @@ https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Resgate%202%20(2023).mkv
 https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Resgate%20em%20Medel%C3%ADn%20(2023).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Resident Evil - Ilha da Morte (2023)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Resident%20Evil%20-%20Ilha%20da%20Morte%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Retratos Fantasmas (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Retratos%20Fantasmas%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]River Wild (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/River%20Wild%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Roubo pelos Ares (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Roubo%20pelos%20Ares%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Royalteen - Princesa Margrethe (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Royalteen%20-%20Princesa%20Margrethe%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Sangue e Ouro (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Sangue%20e%20Ouro%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Sede Assassina (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Sede%20Assassina%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Sede Sem Fim (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Sede%20Sem%20Fim%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Seja Você Mesma (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Seja%20Voc%C3%AA%20Mesma%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Sem Rastro (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Sem%20Rastro%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Sharper - Uma Vida de Trapaças (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Sharper%20-%20Uma%20Vida%20de%20Trapa%C3%A7as%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Shazam! Fúria dos Deuses (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Shazam!%20F%C3%BAria%20dos%20Deuses%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Sinal Divino (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Sinal%20Divino%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Sisu - Uma História de Determinação (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Sisu%20-%20Uma%20Hist%C3%B3ria%20de%20Determina%C3%A7%C3%A3o%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Sombras de um Crime (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Sombras%20de%20um%20Crime%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Sr. Carrinho e os Cavaleiros Templários (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Sr.%20Carrinho%20e%20os%20Cavaleiros%20Templ%C3%A1rios%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Substitutos (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Substitutos%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Suspeito X (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Suspeito%20X%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tangos, Tequilas e Algumas Mentiras (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Tangos,%20Tequilas%20e%20Algumas%20Mentiras%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Teen Wolf - O Filme (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Teen%20Wolf%20-%20O%20Filme%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tetris (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Tetris%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]The Flash (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/The%20Flash%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]The List (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/The%20List%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]The Loud House - Uma Verdadeira Família Assombrada (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/The%20Loud%20House%20-%20Uma%20Verdadeira%20Fam%C3%ADlia%20Assombrada%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tin & Tina (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Tin%20&%20Tina%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tinnitus (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Tinnitus%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Transformers - O Despertar das Feras (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Transformers%20-%20O%20Despertar%20das%20Feras%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tudo de Novo, Mais Uma Vez (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Tudo%20de%20Novo,%20Mais%20Uma%20Vez%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Tudo pela Noiva (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Tudo%20pela%20Noiva%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Um Amor para Duas (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Um%20Amor%20para%20Duas%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Um Ano Inesquecível - Inverno (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Um%20Ano%20Inesquec%C3%ADvel%20-%20Inverno%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Um Ano Inesquecível - Outono (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Um%20Ano%20Inesquec%C3%ADvel%20-%20Outono%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Um Clímax Entre Nós (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Um%20Cl%C3%ADmax%20Entre%20N%C3%B3s%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Um Dia das Mães Nada Tradicional (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Um%20Dia%20das%20M%C3%A3es%20Nada%20Tradicional%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Um Dia e Meio (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Um%20Dia%20e%20Meio%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Um Guarda-Florestal (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Um%20Guarda-Florestal%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Um Motivo para Lutar (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Um%20Motivo%20para%20Lutar%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Um Pacto de Amizade (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Um%20Pacto%20de%20Amizade%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Uma Aula de Harmonia (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Uma%20Aula%20de%20Harmonia%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Uma Linda Vida (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Uma%20Linda%20Vida%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Velozes & Furiosos 10 (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Velozes%20&%20Furiosos%2010%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Vício Perfeito (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/V%C3%ADcio%20Perfeito%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Viva o México! (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Viva%20o%20M%C3%A9xico!%20(2023).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Zoey 102 - O Casamento (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/3:/Filmes/2023/Zoey%20102%20-%20O%20Casamento%20(2023).mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
