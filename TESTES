@@ -3,77 +3,77 @@
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB Mosaico FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB Mosaico FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254775
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB Mosaico HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB Mosaico HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254774
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB Mosaico SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB Mosaico SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254773
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 1 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 1 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254772
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 1 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 1 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254771
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 1 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 1 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254770
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 2 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 2 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254769
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 2 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254768
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 2 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 2 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254767
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 3 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 3 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254766
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 3 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 3 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254765
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 3 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 3 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254764
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 4 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 4 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254763
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 4 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 4 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254762
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 4 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 4 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254761
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 5 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 5 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254760
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 5 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 5 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254759
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 5 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 5 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254758
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 6 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 6 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254757
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 6 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 6 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254756
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 6 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 6 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254755
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 7 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 7 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254754
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 7 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 7 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254753
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 7 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 7 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254752
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 8 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 8 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254751
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 8 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 8 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254750
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 8 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 8 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254749
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 9 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 9 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254748
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 9 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 9 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254747
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 9 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 9 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254746
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 10 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 10 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254745
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 10 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 10 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254744
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 10 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 10 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254743
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 11 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 11 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254742
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 11 HD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 11 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254741
-#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 11 SD[/B][/COLOR]
+#EXTINF:-1 tvg-name="bbb" tvg-logo="CAPA" group-title="[COLOR orange][B]S-NUM-2[COLOR yellow] ->[COLOR white] BBB[/B][/COLOR]",[COLOR orange][B]S-NUM-2 [COLOR yellow]-> [COLOR white]BBB CAM 11 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-NUM-2[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/011979690031/pouy778n/254740
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
