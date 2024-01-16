@@ -18,16 +18,16 @@ LINKDOFILME
 LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Floresta Petrificada (1936)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A/A.Floresta.Petrificada.(1936).FHD.mkv
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/k2vFDTrrExrRsbwfWm07padvQwT.jpg" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Floresta Petrificada (1936)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Floresta.Petrificada.(1936).FHD.mkv
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Mumia (1932)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A/A.Mumia.(1932.FHD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Mumia.(1932.FHD.mkv
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Noiva de Frankenstein (1935)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A/A.Noiva.de.Frankenstein.(1935).FHD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Noiva.de.Frankenstein.(1935).FHD.mkv
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Pequena Rebelde (1935)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A/A.Pequena.Rebelde.(1935).HD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Pequena.Rebelde.(1935).HD.mkv
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Anjos do Inferno (1930)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A/Anjos.do.Inferno.(1930).mp4
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Anjos.do.Inferno.(1930).mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA D			
@@ -39,9 +39,9 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA D[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Dracula (1931)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/D/Dracula.(1931).FHD.DUAL.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Dracula.(1931).FHD.DUAL.mkv
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA D[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Dracula (1931)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/D/Dracula.(1931).FHD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Dracula.(1931).FHD.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA F			
@@ -53,7 +53,7 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA F[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Frankenstein (1931)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/F/Frankenstein.(1931).FHD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Frankenstein.(1931).FHD.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA K
@@ -65,7 +65,7 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA K[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]King Kong (1933)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/K/King.Kong.(1933).FHD.DUB.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/King.Kong.(1933).FHD.DUB.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA L			
@@ -77,9 +77,9 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA L[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Lenine em Outubro (1937)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/L/Lenine.em.Outubro.(1937).FHD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Lenine.em.Outubro.(1937).FHD.mkv
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA L[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Luzes da Cidade (1931)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/L/Luzes.da.Cidade.(1931.FHD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Luzes.da.Cidade.(1931.FHD.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA O			
@@ -91,7 +91,7 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA O[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]O Magico de Oz (1939)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/O/O.Magico.de.Oz.(1939).FHD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/O.Magico.de.Oz.(1939).FHD.mkv
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA S				
 
@@ -102,7 +102,7 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA S[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Scarface A Vergonha de uma Nasao (1932)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/S/Scarface.A.Vergonha.de.uma.Nasao.(1932).FHD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Scarface.A.Vergonha.de.uma.Nasao.(1932).FHD.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA T				
@@ -114,7 +114,7 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]LETRA T[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Tempos Modernos (1936)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/T/Tempos.Modernos.(1936).FHD.mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Tempos.Modernos.(1936).FHD.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
