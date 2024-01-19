@@ -1,6 +1,6 @@
 #EXTM3U
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]2SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMJtBwy/FLM-ICON-DEC-60-NOST.png" ,[COLOR orange][B]FILMES ANOS 60[/B][/COLOR]
@@ -20,15 +20,14 @@ https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Maquina.do.Tempo.(1960).
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Meia Noite Levarei Sua Alma (1964)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Meia.Noite.Levarei.Sua.Alma.(1964).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Pantera Cor-de-rosa (1963)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Pantera.Cor-de-rosa.(1963).mkv
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Pantera.Cor.de.rosa.(1963).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Queda do Império Romano (1964) MP4[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Queda.do.Imperio.Romano.(1964).MP4
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Revolta dos Sete Homens (1969)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Revolta.dos.Sete.Homens.(1969).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ultima Diligência (1966)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Ultima.Diligencia.(1966).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Volta dos Sete Magníficos (1966)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Volta.dos.Sete.Magnificos.(1966).mp4
+
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Alvarez Kelly (1966)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/Alvarez.Kelly.(1966).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Aventuras do Capitão Blood (1950)[/B][/COLOR]
