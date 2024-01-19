@@ -3,44 +3,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]FILMES ANOS 30[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMJtBwy/FLM-ICON-DEC-60-NOST.png" ,[COLOR orange][B]FILMES ANOS 60[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/k2vFDTrrExrRsbwfWm07padvQwT.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Floresta Petrificada (1936)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Floresta.Petrificada.(1936).FHD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Hv6mHolpMNJOiGZcknA5cYTt6S.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Mumia (1932)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Mumia.(1932.FHD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/459XH176R35BwUhdjvAT7oBfoJL.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Noiva de Frankenstein (1935)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Noiva.de.Frankenstein.(1935).FHD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1FL4vTyvaqWZEl3qxIQDGXi1PR5.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Pequena Rebelde (1935)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Pequena.Rebelde.(1935).HD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vt6zF55B9WLzYENs6cuXy8J5o1X.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Anjos do Inferno (1930)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Anjos.do.Inferno.(1930).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Dracula (1931)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Dracula.(1931).FHD.DUAL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Dracula (1931)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Dracula.(1931).FHD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8KToIYxmPXO1F0Pexu4jRHezBME.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Frankenstein (1931)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Frankenstein.(1931).FHD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/m8SgWcXX1XCGDmURqBpAgWZqHne.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]King Kong (1933)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/King.Kong.(1933).FHD.DUB.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1AVnDjpu42ECPyvfFeFSPVrzoOj.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Lenin em Outubro (1937)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Lenine.em.Outubro.(1937).FHD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q3vMcFPcLL0jClcAYG5iFEwL3eE.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Luzes da Cidade (1931)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Luzes.da.Cidade.(1931.FHD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7sYIjWRzqClPK6hiqpOJOnaGUcO.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]O Magico de Oz (1939)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/O.Magico.de.Oz.(1939).FHD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8auY5JIiqgarYPH2QYHJ9bh2agL.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Scarface A Vergonha de uma Nasao (1932)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Scarface.A.Vergonha.de.uma.Nasao.(1932).FHD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sJoaoYiBgAEUWa7RfihTrMMIurD.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Tempos Modernos (1936)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Tempos.Modernos.(1936).FHD.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ilha Misteriosa (1961)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Ilha.Misteriosa.(1961).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ilha Misteriosa (1961)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Ilha.Misteriosa.(1961).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Maior História de Todos os Tempos (1965)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Maior.Historia.de.Todos.os.Tempos.(1965).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Maldição da Múmia (1964)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Maldizao.da.Mumia.(1964).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Máquina do Tempo (1960)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Maquina.do.Tempo.(1960).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Meia Noite Levarei Sua Alma (1964)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Meia.Noite.Levarei.Sua.Alma.(1964).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Pantera Cor-de-rosa (1963)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Pantera.Cor-de-rosa.(1963).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Queda do Império Romano (1964) MP4[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Queda.do.Imperio.Romano.(1964).MP4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Revolta dos Sete Homens (1969)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Revolta.dos.Sete.Homens.(1969).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ultima Diligência (1966)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Ultima.Diligencia.(1966).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Volta dos Sete Magníficos (1966)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Volta.dos.Sete.Magnificos.(1966).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Alvarez Kelly (1966)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/Alvarez.Kelly.(1966).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Aventuras do Capitão Blood (1950)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/As.Aventuras.do.Capitao.Blood.(1950).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Aventuras do Capitão Simbad (1963)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/As.Aventuras.do.Capitao.Simbad.(1963).mkv
