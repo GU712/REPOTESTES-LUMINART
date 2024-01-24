@@ -1,30 +1,43 @@
 #EXTM3U
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]2SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MMJtBwy/FLM-ICON-DEC-60-NOST.png" ,[COLOR orange][B]FILMES ANOS 60[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ilha Misteriosa (1961)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Ilha.Misteriosa.(1961).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ilha Misteriosa (1961)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Ilha.Misteriosa.(1961).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Maior História de Todos os Tempos (1965)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Maior.Historia.de.Todos.os.Tempos.(1965).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Maldição da Múmia (1964)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Maldizao.da.Mumia.(1964).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Máquina do Tempo (1960)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Maquina.do.Tempo.(1960).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Meia Noite Levarei Sua Alma (1964)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Meia.Noite.Levarei.Sua.Alma.(1964).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Pantera Cor-de-rosa (1963)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Pantera.Cor.de.rosa.(1963).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Queda do Império Romano (1964) MP4[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Queda.do.Imperio.Romano.(1964).MP4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Revolta dos Sete Homens (1969)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Revolta.dos.Sete.Homens.(1969).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ultima Diligência (1966)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1960/A.Ultima.Diligencia.(1966).mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcJ3ewbS6iJTXQR5UegxsE1tyP1.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E01
+http://vdk10.life:80/series/092742981/561375237/269422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sESm50IJoutpTJZGLwdHsJNe7bY.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E02
+http://vdk10.life:80/series/092742981/561375237/269423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37Ptnm4SEj4VbM3tWL3AJNVnK6X.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E03
+http://vdk10.life:80/series/092742981/561375237/269424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ayB4wimCO98J8XjyZfScaE2IiD.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E04
+http://vdk10.life:80/series/092742981/561375237/269425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBQpCWiaDnOtkEP5UBxn26XJhKE.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E05
+http://vdk10.life:80/series/092742981/561375237/269426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MuOo2neDMDyASZ8e2jvE7VPNkf.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E06
+http://vdk10.life:80/series/092742981/561375237/269427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsukbRbkumgBmF9Vpyxv80QEgAe.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E07
+http://vdk10.life:80/series/092742981/561375237/269428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ab0rILdorUnqUZt8y2LQ6ZqvNV.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E08
+http://vdk10.life:80/series/092742981/561375237/269429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hV9vgHnxj42lGIyGuEoYbBiGwJ7.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E09
+http://vdk10.life:80/series/092742981/561375237/269430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CpCf2vfANf04sjQLTtgE5wuSx6.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E10
+http://vdk10.life:80/series/092742981/561375237/269431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkPDZbr2eFOX9l91Y6QydXFjcGc.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E11
+http://vdk10.life:80/series/092742981/561375237/269432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmMahbHi0Etj2x0OFxamtJNU8iJ.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E12
+http://vdk10.life:80/series/092742981/561375237/269433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pJYn3xlu8ncIIF233C2nCteqF2.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E13
+http://vdk10.life:80/series/092742981/561375237/269434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFa4uDWbAwmLIWCFjXW8Wr5rYvp.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E14
+http://vdk10.life:80/series/092742981/561375237/269435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6xhTjpUCXuiwAuQVqvU2dvK9MZ.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E15
+http://vdk10.life:80/series/092742981/561375237/269436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIupS3wJ3P5GHgzPF32mJ4l1Aka.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E16
+http://vdk10.life:80/series/092742981/561375237/269437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRegzWdwHONegZuYaQUWCPKh9Am.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E17
+http://vdk10.life:80/series/092742981/561375237/269438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCLAHlUEPJiMZPreWdNhgzH48aK.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E18
+http://vdk10.life:80/series/092742981/561375237/269439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZr0mwmlTaa8TYmJGL4QZpMG5bo.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E19
+http://vdk10.life:80/series/092742981/561375237/269440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oOW1czhJNZpBlW3nPklrb9eTQ2.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E20
+http://vdk10.life:80/series/092742981/561375237/269441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Whisperer S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLGprsXP6YTL1Pt0t7p8J8tV5S.jpg" group-title="Serie ∤ Sci-Fi & Fantasy",Ghost Whisperer S01 E21
+http://vdk10.life:80/series/092742981/561375237/269442.mp4
