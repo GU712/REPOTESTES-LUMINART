@@ -1,279 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142975.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142976.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142977.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142978.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142979.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142980.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T01E07[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142981.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T01E08[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142982.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T02E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142983.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T02E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142984.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T02E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142985.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T02E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142986.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T02E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142987.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T02E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142988.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T03E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142989.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T03E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142990.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T03E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142991.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T03E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142992.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T03E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142993.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T03E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142994.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T03E07[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142995.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T03E08[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142996.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T03E09[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142997.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T03E10[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142998.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/142999.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143000.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143001.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143002.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143003.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143004.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E07[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143005.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E08[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143006.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E09[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143007.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E10[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143008.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T04E11[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143009.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T05E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143010.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T05E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143011.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T05E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143012.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T05E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143013.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T05E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143014.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T05E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143015.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T05E07[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143016.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T05E08[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143017.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T05E09[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143018.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143019.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143020.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143021.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143022.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143023.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143024.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E07[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143025.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E08[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143026.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E09[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143027.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E10[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143028.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E11[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143029.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T06E12[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143030.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143031.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143032.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143033.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143034.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143035.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143036.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E07[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143037.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E08[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143038.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E09[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143039.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E10[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143040.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T07E11[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143041.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T08E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143042.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T08E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143043.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T08E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143044.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T08E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143045.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T08E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143046.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T08E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143047.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143048.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143049.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143050.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143051.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143052.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143053.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E07[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143054.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E08[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143055.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E09[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143056.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E10[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143057.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E11[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143058.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E12[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143059.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E13[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143060.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E14[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143061.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T09E15[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143062.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143063.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143064.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143065.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143066.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143067.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143068.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E07[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143069.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E08[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143070.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E09[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143071.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E10[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143072.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E11[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143073.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E12[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143074.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E13[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143075.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E14[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143076.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E15[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143077.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E16[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143078.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E17[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143079.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E18[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143080.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E19[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143081.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E20[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143082.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T10E21[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143083.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143084.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143085.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143086.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143087.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143088.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E06[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143089.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E07[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143090.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E08[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143091.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E09[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143092.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E10[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143093.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E11[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143094.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E12[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143095.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E13[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143096.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E14[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143097.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E15[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143098.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E16[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143099.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E17[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143100.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E18[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143101.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E19[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143102.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E20[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143103.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E21[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143104.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E22[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143105.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E23[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143106.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E24[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143107.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T11E25[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143108.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T12E01[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143109.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T12E02[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143110.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T12E03[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143111.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T12E04[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
-http://acsa.ws:80/series/Rodrigo2222/MBf47n/143112.mp4
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]NOMEDASERIE (DATA)[/B][/COLOR]",[COLOR orange][B]S2-T12E05[COLOR yellow] -> [COLOR white]Largados e Pelados[/B][/COLOR]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]Charles Bronson[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nU7rb6N8SnAQzU2dYvcg6nuLdX1.jpg" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar (1974)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1974.Desejo.de.Matar.HD.DUB.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1JDPsiZ8NY9ArPfCQzmzDDLL1NC.jpg" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 2 (1982)(1974)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1982.Desejo.de.Matar.HD.DUB.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/grsGbmHYRNwPQrG6Z31fQEhp5Ex.jpg" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 3 (1985)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1985.Desejo.de.Matar.HD.DUB.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8lJqEhCJuB9JeTfcTZFnsf7fGGO.jpg" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 4: Operação Crackdown (1987)(1974)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1987.Desejo.de.Matar.Operasao.Crackdown.HD.DUB.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6GiPeCi1X6DxlWiMHfgpmiPPje2.jpg" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 5: A Face da Morte (1994)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1994.Desejo.de.Matar.A.Face.da.Morte.HD.DUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iqjvMBxIPW3bCMH9IsqAbYRSRQY.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Adeus Amigo (1968)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Adeus.Amigo.(1968).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z0zPjtCw4O6OK3KMJHp6yFQY9Th.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Algum Atrás da Porta (1971)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Alguem.Atras.da.Porta.(1971).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qmkYA7ZDKHx96Tiek0OjbfwWujG.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Assassinato Nos Estados Unidos (1987)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Assassinato.Nos.Estados.Unidos.(1987).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pI8PJMrvwBvG5t7kAhoinz9Kdld.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Assassino A Prezo Fixo (1972)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Assassino.A.Prezo.Fixo.(1972).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mruXCMJqSqbLmMfktCsUSHWSIZl.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cabo Blanco (1980)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Cabo.Blanco.(1980).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/feBfLnk64IqQZa6mZGQ8poYfyzv.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cidade Violenta (1970)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Cidade.Violenta.(1970).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b4hYlFcBgQZT2fvf6smtwUU3gP.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desafiando o Assassino ((1974)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Desafiando.o.Assassino.(1974).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mlB0KWl8pnBlVyInwwY465jERJ8.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fuga Audaciosa (1975)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Fuga.Audaciosa.(1975).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dm8bw82F5zXbRuV2UWiXdfQNXEH.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jogo Sujo (1973)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Jogo.Sujo.(1973).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pXEmO22jPTwEOaxc0SOk8PLJWw0.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Kinjite Desejos Proibidos (1989)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Kinjite.Desejos.Proibidos.(1989).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fuIaTHhsG71hwaYP2iBqBATNUjo.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mensageiro da Morte (1988)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Mensageiro.da.Morte.(1988).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8YcrGtDMtVJnsuQuKDVx8F1xDcU.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Vingador (1986)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/O.Vingador.(1986).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s94EE6jtwL4YL7IjmI6ax2lFJB1.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Visitantes na Noite (1970)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Visitantes.na.Noite.(1970).mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rgl1RNffxQi8WHZIZNe8DjbacXM.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de FICÇÃO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Robur o Conquistador do Mundo (1961)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Robur.o.Conquistador.do.Mundo.(1961).mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iTh8thzuxiM5FwCaxsSTpaix27L.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fugindo do Inferno (1963)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Fugindo.do.Inferno.(1963).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rM8EaV8NhevxfwbmYcmCnIZCkYP.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Doze Condenados (1967)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Os.Doze.Condenados.(1967).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bhL1XVqofHcMDq4SP8yUVsD9Tur.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Uma Batalha no Inferno (1965)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Uma.Batalha.no.Inferno.(1965).mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wONp8M3deISBKtIEaZgjrJzcvDN.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Valdez, O Mestiço (1973)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Valdez.O.Mestiso.1973.FHD.DUAL+LEG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zFBNrHCvSo5cZMORmqLuytOKLDJ.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chumbo Quente (1977)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Chumbo.Quente.(1977).avi
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RymloPYcEPx30T1vTrz2cXaVnh.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Era Uma Vez No Oeste (1968)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/5WST-CL/Leone.Sergio/LS-1969.Era.uma.Vez.no.Oeste.FHD.DUAL+LEG-LS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4fboi8czjql3H5wKDq3P8Ifuxgi.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Grande Assalto (1976)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/O.Grande.Assalto.(1976).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9EoKCNlqul1CpvDVbf56jrKo28v.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Grande Búfalo Branco (1977)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/O.Grande.Bufalo.Branco.(1977).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Agf3JOg5KGc3wj75HuT7Y96gzf.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Trem do Inferno (1975)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/O.Trem.do.Inferno.(1975).mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j9nVLvOv2Sz3KekD7elwGZII8F9.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Perseguição Mortal (1981)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Perseguisao.Mortal.1981.HD.dub.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bJqLypH8SrvfXMUvliN3kLWKgu.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Renegado Impiedoso (1972)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:COL.ESP/Charles.Bronson/Renegado.Impiedoso.(1972).mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hDQyx0N8J5OJMJYpJLIX0SkKwT4.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sol Vermelho (1971)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Sol.Vermelho.1971.FHD.DUAL+LEG.mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
