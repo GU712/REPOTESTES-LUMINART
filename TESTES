@@ -33,7 +33,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/feOyulW7mG9rQr48bTycvp5pPLs.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sangue de Barbaros (1956)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Sangue.de.Barbaros.(1956).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/le3B0Bg4bCTDfQyAwah7Mt2e93H.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Depois do Vendaval (1952)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/le3B0Bg4bCTDfQyAwah7Mt2e93H.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Depois do Vendaval (1952)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Depois.do.Vendaval.The.Quiet.Man.(1952).mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -42,28 +42,6 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/60fGnX0IEnYQV0a6Ql6dqF9tuRc.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hatari! (1962)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Hatari.(1962).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c4Vnv80Epbl74so5ngAKbR8dhMX.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Heróis do Inferno (1968)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Herois.do.Inferno.(1968).mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -139,6 +117,28 @@ LINKDOFILME
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/60fGnX0IEnYQV0a6Ql6dqF9tuRc.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hatari! (1962)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Hatari.(1962).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c4Vnv80Epbl74so5ngAKbR8dhMX.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Heróis do Inferno (1968)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Herois.do.Inferno.(1968).mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
@@ -147,3 +147,5 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
