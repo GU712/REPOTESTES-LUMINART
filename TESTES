@@ -7,7 +7,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -49,7 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -59,6 +59,8 @@ https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Back.to.Battan.(1945
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Horizonte.de.glorias.(1951).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z6KzSOPRZfmLY3SDgPb1dNVstJv.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mares Violentos (1955)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Mares.Violentos.(1955).mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7R1taqXDOLhwetCvoGFp4ihICzs.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mais Longo dos Dias (1962)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-O.Mais.Longo.dos.Dias.1962.FHD.DUAL+LEG.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
@@ -73,16 +75,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hkcKA1d0YPUM2Wr8MXtrYIUjXTq.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Conquista do Oeste (1962)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Conquista.do.Oeste.1962.HD.DUAL+LEG.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uAkuvmKmr3qxiEqzqk0Th0RCxf.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Coração de Aço (1934)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/A.Lei.do.Gatilho.(1934).avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6dvaohBsayEsba8Cy42w6NnPwE7.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Álamo (1960)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Alamo.(1960).avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/icBkw2losJ8OIWuC67zEOT8s1m2.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Caminhos Ásperos (1953)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Caminhos.Asperos.Hondo.(1953).avi
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hzxcSilaWXwOm6RXbHT1Mm56o4W.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cahill, o Xerife do Oeste (1973)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLMS/5WST-FM/LS-Cahill.Xerife.do.Oeste.1973.FHD.DUB.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uIi4WXZ4pPjsyWEWpoTXEIpd3QS.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chacais do Oeste (1973)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Chacais.do.Oeste.1973.FHD.DUB+LEG.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o5HwSBjcAX9As6qUpDDMhXle5Pu.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]El Dorado (1966)[/B][/COLOR]
@@ -93,20 +99,30 @@ https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Furia.no.Alaska.(196
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Jake.Grandao.(1971).mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/izLoWztICLx9zmwQCbTjf6JnMgu.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jamais Foram Vencidos (1969)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Jamais.Foram.Vencidos.1969.FHD.DUAL+LEG.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sDIuinq3XV3OtnEqTC9NzUb7czL.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Marcha de Heróis (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Marcha.de.Herois.1959.HD.DUAL+LEG.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sDIuinq3XV3OtnEqTC9NzUb7czL.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys (1972)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUB.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sDIuinq3XV3OtnEqTC9NzUb7czL.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys (1972)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUAL.LEGFIX.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5yIHwCroj35oQXfppNKCKaEZcLL.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Homem Que Matou Facinora (1962)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/O Último Pistoleiro - 1976 - 1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRC4VF4u6NpdiSq5zA0Atrb8hl3.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Último Pistoleiro (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/O.Ceu.Mandou.Alguem.(1948).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uO85eZfqIYIcbkfKlfyDUCeNvK7.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Ceu Mandou Alguem (1948)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/O.Homem.Que.Matou.Facinora.(1962).avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zbE1IDcN91G6RxWDBkAqiPE4U1M.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Onde Começa o Inferno(1959)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Onde.Começa.o.Inferno.Rio.Bravo.(1959).mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/55bX8AYfaEfvkaRYEJqVuG1cSLz.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Comancheros (1961)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Comancheros.1961.FHD.DUAL+LEG.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3cavy1BLDBRoPpsgpLgyW2rFJzq.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Filhos de Katie Elder (1965)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/5WST-FM/LS-Os.Filhos.de.Katie.Elder.1965.FHD.DUAL+LEG-LS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zbE1IDcN91G6RxWDBkAqiPE4U1M.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Onde Começa o Inferno(1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Onde.Começa.o.Inferno.Rio.Bravo.(1959).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bMg4BMP60VLqdlcXAOc8jNl6s19.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Quando um Homem e Homem (1963)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Quando.um.Homem.e.Homem(1963).mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7FELCCgD1L7xpW0b0jsNyCzvNmp.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Rastros de Ódio (1956)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Rastros.de.Odio.1956.HD.DUAL+LEG.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zYoK2RkBCmyhIV6UUb6EZLqxmZq.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Rio Bravo (1950)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Rio.Bravo.1950.HD.DUB.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
@@ -121,7 +137,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -147,5 +163,6 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
