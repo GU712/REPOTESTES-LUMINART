@@ -4,154 +4,138 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]Charles Bronson[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nU7rb6N8SnAQzU2dYvcg6nuLdX1.jpg" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar (1974)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1974.Desejo.de.Matar.HD.DUB.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1JDPsiZ8NY9ArPfCQzmzDDLL1NC.jpg" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 2 (1982)(1974)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1982.Desejo.de.Matar.HD.DUB.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/grsGbmHYRNwPQrG6Z31fQEhp5Ex.jpg" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 3 (1985)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1985.Desejo.de.Matar.HD.DUB.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8lJqEhCJuB9JeTfcTZFnsf7fGGO.jpg" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 4: Operação Crackdown (1987)(1974)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1987.Desejo.de.Matar.Operasao.Crackdown.HD.DUB.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6GiPeCi1X6DxlWiMHfgpmiPPje2.jpg" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 5: A Face da Morte (1994)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1994.Desejo.de.Matar.A.Face.da.Morte.HD.DUB.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iKO9geRUjsY3kIgCGl2kl5OEK3x.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]McQ - Um detetive acima da lei (1974)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/McQ.Um.detetive.acima.da.lei.(1974).mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
 LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Coleção Desejo de Matar[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]Charles Bronson[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iqjvMBxIPW3bCMH9IsqAbYRSRQY.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Adeus Amigo (1968)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Adeus.Amigo.(1968).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z0zPjtCw4O6OK3KMJHp6yFQY9Th.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Algum Atrás da Porta (1971)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Alguem.Atras.da.Porta.(1971).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qmkYA7ZDKHx96Tiek0OjbfwWujG.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Assassinato Nos Estados Unidos (1987)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Assassinato.Nos.Estados.Unidos.(1987).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pI8PJMrvwBvG5t7kAhoinz9Kdld.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Assassino A Prezo Fixo (1972)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Assassino.A.Prezo.Fixo.(1972).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mruXCMJqSqbLmMfktCsUSHWSIZl.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cabo Blanco (1980)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Cabo.Blanco.(1980).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/feBfLnk64IqQZa6mZGQ8poYfyzv.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cidade Violenta (1970)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Cidade.Violenta.(1970).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b4hYlFcBgQZT2fvf6smtwUU3gP.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desafiando o Assassino (1974)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Desafiando.o.Assassino.(1974).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mlB0KWl8pnBlVyInwwY465jERJ8.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fuga Audaciosa (1975)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Fuga.Audaciosa.(1975).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dm8bw82F5zXbRuV2UWiXdfQNXEH.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jogo Sujo (1973)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Jogo.Sujo.(1973).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pXEmO22jPTwEOaxc0SOk8PLJWw0.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Kinjite Desejos Proibidos (1989)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Kinjite.Desejos.Proibidos.(1989).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fuIaTHhsG71hwaYP2iBqBATNUjo.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mensageiro da Morte (1988)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Mensageiro.da.Morte.(1988).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8YcrGtDMtVJnsuQuKDVx8F1xDcU.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Vingador (1986)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Vingador.(1986).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s94EE6jtwL4YL7IjmI6ax2lFJB1.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Visitantes na Noite (1970)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Visitantes.na.Noite.(1970).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/feOyulW7mG9rQr48bTycvp5pPLs.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sangue de Barbaros (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Sangue.de.Barbaros.(1956).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/le3B0Bg4bCTDfQyAwah7Mt2e93H.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Depois do Vendaval (1952)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Depois.do.Vendaval.The.Quiet.Man.(1952).mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
 LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de FICÇÃO[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de FICÇÃO[/B][/COLOR]",[COLOR orange][B]Charles Bronson[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rgl1RNffxQi8WHZIZNe8DjbacXM.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de FICÇÃO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Robur o Conquistador do Mundo (1961)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Robur.o.Conquistador.do.Mundo.(1961).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/60fGnX0IEnYQV0a6Ql6dqF9tuRc.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hatari! (1962)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Hatari.(1962).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c4Vnv80Epbl74so5ngAKbR8dhMX.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Heróis do Inferno (1968)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Herois.do.Inferno.(1968).mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de FICÇÃO[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
 LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de FICÇÃO[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de FICÇÃO[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]Charles Bronson[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iTh8thzuxiM5FwCaxsSTpaix27L.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fugindo do Inferno (1963)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Fugindo.do.Inferno.(1963).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rM8EaV8NhevxfwbmYcmCnIZCkYP.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Doze Condenados (1967)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Os.Doze.Condenados.(1967).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bhL1XVqofHcMDq4SP8yUVsD9Tur.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Uma Batalha no Inferno (1965)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Uma.Batalha.no.Inferno.(1965).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/onBZylVodM2ObCqox49alecVTI9.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Espírito Indomável (1945)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Back.to.Battan.(1945).mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/iCIoWmBPN9rkJH1z9sccozEmfIa.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Horizonte de glorias (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Horizonte.de.glorias.(1951).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z6KzSOPRZfmLY3SDgPb1dNVstJv.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mares Violentos (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Mares.Violentos.(1955).mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
 LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]Charles Bronson[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSvn4Ny/COL-BRONSON-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wONp8M3deISBKtIEaZgjrJzcvDN.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Valdez, O Mestiço (1973)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Valdez.O.Mestiso.1973.FHD.DUAL+LEG.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zFBNrHCvSo5cZMORmqLuytOKLDJ.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chumbo Quente (1977)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Chumbo.Quente.(1977).avi
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RymloPYcEPx30T1vTrz2cXaVnh.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Era Uma Vez No Oeste (1968)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/5WST-CL/Leone.Sergio/LS-1969.Era.uma.Vez.no.Oeste.FHD.DUAL+LEG-LS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4fboi8czjql3H5wKDq3P8Ifuxgi.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Grande Assalto (1976)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Grande.Assalto.(1976).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9EoKCNlqul1CpvDVbf56jrKo28v.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Grande Búfalo Branco (1977)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Grande.Bufalo.Branco.(1977).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Agf3JOg5KGc3wj75HuT7Y96gzf.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Trem do Inferno (1975)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Trem.do.Inferno.(1975).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j9nVLvOv2Sz3KekD7elwGZII8F9.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Perseguição Mortal (1981)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Perseguisao.Mortal.1981.HD.dub.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bJqLypH8SrvfXMUvliN3kLWKgu.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Renegado Impiedoso (1972)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Renegado.Impiedoso.(1972).mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hDQyx0N8J5OJMJYpJLIX0SkKwT4.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sol Vermelho (1971)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Sol.Vermelho.1971.FHD.DUAL+LEG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uAkuvmKmr3qxiEqzqk0Th0RCxf.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Coração de Aço (1934)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/A.Lei.do.Gatilho.(1934).avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6dvaohBsayEsba8Cy42w6NnPwE7.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Álamo (1960)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Alamo.(1960).avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/icBkw2losJ8OIWuC67zEOT8s1m2.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Caminhos Ásperos (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Caminhos.Asperos.Hondo.(1953).avi
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uIi4WXZ4pPjsyWEWpoTXEIpd3QS.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chacais do Oeste (1973)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Chacais.do.Oeste.1973.FHD.DUB+LEG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o5HwSBjcAX9As6qUpDDMhXle5Pu.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]El Dorado (1966)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/El.Dorado.(1966).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1H0ckvzGlDiEfXL5OrbcOT5E7eR.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Furia no Alaska (1960)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Furia.no.Alaska.(1960).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l83PumAHw0jytreT7vdQ1kyBytq.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jake Grandão (1971)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Jake.Grandao.(1971).mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/izLoWztICLx9zmwQCbTjf6JnMgu.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jamais Foram Vencidos (1969)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Jamais.Foram.Vencidos.1969.FHD.DUAL+LEG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5yIHwCroj35oQXfppNKCKaEZcLL.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Homem Que Matou Facinora (1962)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/O Último Pistoleiro - 1976 - 1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRC4VF4u6NpdiSq5zA0Atrb8hl3.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Último Pistoleiro (1976)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/O.Ceu.Mandou.Alguem.(1948).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uO85eZfqIYIcbkfKlfyDUCeNvK7.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Ceu Mandou Alguem (1948)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/O.Homem.Que.Matou.Facinora.(1962).avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zbE1IDcN91G6RxWDBkAqiPE4U1M.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Onde Começa o Inferno(1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Onde.Começa.o.Inferno.Rio.Bravo.(1959).mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/55bX8AYfaEfvkaRYEJqVuG1cSLz.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Comancheros (1961)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Comancheros.1961.FHD.DUAL+LEG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bMg4BMP60VLqdlcXAOc8jNl6s19.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Quando um Homem e Homem (1963)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Quando.um.Homem.e.Homem(1963).mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7FELCCgD1L7xpW0b0jsNyCzvNmp.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Rastros de Ódio (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Rastros.de.Odio.1956.HD.DUAL+LEG.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
 LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -163,4 +147,3 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
