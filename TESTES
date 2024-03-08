@@ -1,84 +1,33 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]TEMP 01 (1994) 09 EPs - FHD DUAL[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/tGb8wv98oO71ttoyp0n9jAwLrrb.jpg</thumbnail>
-<fanart>https://i0.wp.com/cultfaction.com/wp-content/uploads/2019/06/conan-and-the-young-warriors.jpg</fanart>
-</item>
+#EXTM3U
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR orange][B]S-DR3[COLOR yellow] -> [COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR orange][B]S-DR3[COLOR yellow] -> [COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]TEMP 01 - FHD DUAL+LEG[/B][/COLOR]
+LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Arena[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Conan,%20o%20B%C3%A1rbaro%20[Conan%20the%20Adventurer]%20-%201992%20-%201080p/67.%20Arena_3840x2160_ahq-12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tGb8wv98oO71ttoyp0n9jAwLrrb.jpg</thumbnail><fanart>https://i0.wp.com/cultfaction.com/wp-content/uploads/2019/06/conan-and-the-young-warriors.jpg</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]O Pássaro dos Sonhos[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Conan,%20o%20B%C3%A1rbaro%20[Conan%20the%20Adventurer]%20-%201992%20-%201080p/68.%20O%20P%C3%A1ssaro%20dos%20Sonhos_3840x2160_ahq-12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tGb8wv98oO71ttoyp0n9jAwLrrb.jpg</thumbnail><fanart>https://i0.wp.com/cultfaction.com/wp-content/uploads/2019/06/conan-and-the-young-warriors.jpg</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Circo de Cardoulos[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Conan,%20o%20B%C3%A1rbaro%20[Conan%20the%20Adventurer]%20-%201992%20-%201080p/69.%20O%20Circo%20de%20Cardoulos_3840x2160_ahq-12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tGb8wv98oO71ttoyp0n9jAwLrrb.jpg</thumbnail><fanart>https://i0.wp.com/cultfaction.com/wp-content/uploads/2019/06/conan-and-the-young-warriors.jpg</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]A Ilha dos Perdidos[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Conan,%20o%20B%C3%A1rbaro%20[Conan%20the%20Adventurer]%20-%201992%20-%201080p/70.%20A%20Ilha%20dos%20Perdidos_3840x2160_ahq-12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tGb8wv98oO71ttoyp0n9jAwLrrb.jpg</thumbnail><fanart>https://i0.wp.com/cultfaction.com/wp-content/uploads/2019/06/conan-and-the-young-warriors.jpg</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Pacto[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Conan,%20o%20B%C3%A1rbaro%20[Conan%20the%20Adventurer]%20-%201992%20-%201080p/71.%20Pacto_3840x2160_ahq-12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tGb8wv98oO71ttoyp0n9jAwLrrb.jpg</thumbnail><fanart>https://i0.wp.com/cultfaction.com/wp-content/uploads/2019/06/conan-and-the-young-warriors.jpg</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Lobo no Rebanho[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Conan,%20o%20B%C3%A1rbaro%20[Conan%20the%20Adventurer]%20-%201992%20-%201080p/72.%20Lobo%20no%20Rebanho_thm2_apo8_ahq12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tGb8wv98oO71ttoyp0n9jAwLrrb.jpg</thumbnail><fanart>https://i0.wp.com/cultfaction.com/wp-content/uploads/2019/06/conan-and-the-young-warriors.jpg</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Uma vez ladrão[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Conan,%20o%20B%C3%A1rbaro%20[Conan%20the%20Adventurer]%20-%201992%20-%201080p/73.%20Uma%20vez%20ladr%C3%A3o_thm2_ahq12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tGb8wv98oO71ttoyp0n9jAwLrrb.jpg</thumbnail><fanart>https://i0.wp.com/cultfaction.com/wp-content/uploads/2019/06/conan-and-the-young-warriors.jpg</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Irmãos de Espada[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Conan,%20o%20B%C3%A1rbaro%20[Conan%20the%20Adventurer]%20-%201992%20-%201080p/74.%20Irm%C3%A3os%20de%20Espada_thm2_ahq12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tGb8wv98oO71ttoyp0n9jAwLrrb.jpg</thumbnail><fanart>https://i0.wp.com/cultfaction.com/wp-content/uploads/2019/06/conan-and-the-young-warriors.jpg</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]A Noite da Serpente[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Conan,%20o%20B%C3%A1rbaro%20[Conan%20the%20Adventurer]%20-%201992%20-%201080p/78.%20A%20Noite%20da%20Serpente_thm2_ahq12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tGb8wv98oO71ttoyp0n9jAwLrrb.jpg</thumbnail><fanart>https://i0.wp.com/cultfaction.com/wp-content/uploads/2019/06/conan-and-the-young-warriors.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]S1-T01E01[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Volta%20ao%20Mundo%20em%2080%20Dias%20(2021)/S01/A.Volta.ao.Mundo.em.80.Dias.S01E01.Episodio.1.1080p.GLBO.WEB-DL.AAC2.0.x264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]S1-T01E02[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Volta%20ao%20Mundo%20em%2080%20Dias%20(2021)/S01/A.Volta.ao.Mundo.em.80.Dias.S01E02.Episodio.2.1080p.GLBO.WEB-DL.AAC2.0.x264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]S1-T01E03[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Volta%20ao%20Mundo%20em%2080%20Dias%20(2021)/S01/A.Volta.ao.Mundo.em.80.Dias.S01E03.Episodio.3.1080p.GLBO.WEB-DL.AAC2.0.x264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]S1-T01E04[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Volta%20ao%20Mundo%20em%2080%20Dias%20(2021)/S01/A.Volta.ao.Mundo.em.80.Dias.S01E04.Episodio.4.1080p.GLBO.WEB-DL.AAC2.0.x264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]S1-T01E05[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Volta%20ao%20Mundo%20em%2080%20Dias%20(2021)/S01/A.Volta.ao.Mundo.em.80.Dias.S01E05.Episodio.5.1080p.GLBO.WEB-DL.AAC2.0.x264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]S1-T01E06[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Volta%20ao%20Mundo%20em%2080%20Dias%20(2021)/S01/A.Volta.ao.Mundo.em.80.Dias.S01E06.Episodio.6.1080p.GLBO.WEB-DL.AAC2.0.x264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]S1-T01E07[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Volta%20ao%20Mundo%20em%2080%20Dias%20(2021)/S01/A.Volta.ao.Mundo.em.80.Dias.S01E07.Episodio.7.1080p.GLBO.WEB-DL.AAC2.0.x264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]S1-T01E08[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Volta%20ao%20Mundo%20em%2080%20Dias%20(2021)/S01/A.Volta.ao.Mundo.em.80.Dias.S01E08.Episodio.8.1080p.GLBO.WEB-DL.AAC2.0.x264.DUAL-alfaHD.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]S-DR3[COLOR yellow] -> [COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]S-DR3[COLOR yellow] -> [COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]S-DR3[COLOR yellow] -> [COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
