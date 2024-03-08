@@ -1,8 +1,8 @@
 #EXTM3U
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR orange][B]S-DR3[COLOR yellow] -> [COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR orange][B]S-DR3[COLOR yellow] -> [COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR orange][B]S-DR3[COLOR yellow] -> [COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]TEMP 01 - FHD DUAL+LEG[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR orange][B]S-DR3[COLOR yellow] -> [COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]TEMP 01 - FHD DUAL+LEG[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -22,6 +22,7 @@ https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Vo
 https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Volta%20ao%20Mundo%20em%2080%20Dias%20(2021)/S01/A.Volta.ao.Mundo.em.80.Dias.S01E07.Episodio.7.1080p.GLBO.WEB-DL.AAC2.0.x264.DUAL-alfaHD.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg" group-title="[COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR orange][B]S1-T01E08[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/A%20Volta%20ao%20Mundo%20em%2080%20Dias%20(2021)/S01/A.Volta.ao.Mundo.em.80.Dias.S01E08.Episodio.8.1080p.GLBO.WEB-DL.AAC2.0.x264.DUAL-alfaHD.mkv
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]S-DR3[COLOR yellow] -> [COLOR white][B]A Volta ao Mundo em 80 Dias (2021)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
