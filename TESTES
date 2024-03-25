@@ -1,69 +1,676 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tropa de Elite (2007) - HD DUAL[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/2:/FLMS/9CRDR-CL/Tropa.de.Elite/LS-2007.Tropa.de.Elite.1.HD.DUAL.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/cVd5jWij8YERFxL88D1R9XVxwzy.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Tropa de Elite
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2007
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nascimento, capitão da Tropa de Elite do Rio de Janeiro, é designado para chefiar uma das equipes que tem como missão "apaziguar" o Morro do Turano por um motivo que ele considera insensato.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]007 Sem Tempo para Morrer (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/007.Sem.Tempo.para.Morrer.2021.REPACK2.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H264-DUAL-NOTIMETOCRY.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]10 Coisas que Deveriamos Fazer Antes de nos Separar (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/10.Coisas.que.Deveriamos.Fazer.Antes.de.nos.Separar.2020.1080p.BluRay.x264-BdC.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]13 Exorcismos (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/13.Exorcismos.2022.1080p.PLAY.WEB-DL.DDP5.1.x264.DUAL-JHOM.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]2067 (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/2067.2020.1080p.BluRay.x264-MiMiC.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]36 Horas de Guerra (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/36.Horas.de.Guerra.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]45 do Segundo Tempo (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/45.do.Segundo.Tempo.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]5-toubun no Hanayome Movie (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/5-toubun.no.Hanayome.Movie.2022.1080p.BluRay.DTS-HDMA5.1.x265-FF.DUAL-Anitsu.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]7 Prisioneiros (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/7.Prisioneiros.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Família Addams 2  Pé na Estrada (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A%20Fam%C3%ADlia%20Addams%202%20%20P%C3%A9%20na%20Estrada%20-%20The.Addams.Family.2.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-CMRG.DUAL-JK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Mansão (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A%20Mans%C3%A3o%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Menina Que Matou os Pais (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A%20Menina%20Que%20Matou%20os%20Pais%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Missy Errada (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A%20Missy%20Errada%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Oitava Noite (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A%20Oitava%20Noite%20(2021)%201080p%20EAC3.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Arte da Sobrevivencia (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Arte.da.Sobrevivencia.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Baba O Chamado das Sombras (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Baba.O.Chamado.das.Sombras.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Bravura de Molly (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Bravura.de.Molly.2021.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Cacada (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Cacada.2020.1080p.BluRay.x264-WUTANG.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Cinderella Story Starstruck (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Cinderella.Story.Starstruck.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.DUAL-G4RiS.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Farsa (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Farsa.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Garota dos Seus Sonhos (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Garota.dos.Seus.Sonhos.2021.1080p.Bluray.5.1.X264-EVO.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Geracao do Mal (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Geracao.do.Mal.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Lenda de Candyman (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Lenda.de.Candyman.2021.1080p.BluRay.x264-BLOW.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Lenda de Lanterns Lane (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Lenda.de.Lanterns.Lane.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Lenda do Cavaleiro Negro (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Lenda.do.Cavaleiro.Negro.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Luta de Uma Vida (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Luta.de.Uma.Vida.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Maldicao (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Maldicao.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Maldicao Despertar dos Mortos (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Maldicao.Despertar.dos.Mortos.2021.1080p.GPLAY.WEB-DL.DD5.1.x264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Man Called Otto (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Man.Called.Otto.2022.REPACK.1080p.MA.WEB-DL.DDP5.1.Atmos.H.264-FLUX.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Pena Maxima (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Pena.Maxima.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Primeira Comunhao (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Primeira.Comunhao.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Princesa e a Plebeia As Vilas Tambem Amam (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Princesa.e.a.Plebeia.As.Vilas.Tambem.Amam.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Rainha dos Likes (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Rainha.dos.Likes.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-K1.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Sorte Grande (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Sorte.Grande.2022.1080p.BluRay.DDP5.1.x264-KNiVES.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Subida (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Subida.2020.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Ultima Carta de Amor (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Ultima.Carta.de.Amor.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Ultima Chamada (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Ultima.Chamada.2020.1080p.BluRay.DD+5.1.x264-iFT.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Última Coisa que Mary Viu (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.%C3%9Altima.Coisa.que.Mary.Viu.2021.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Vida do Livreiro A J Fikry (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Vida.do.Livreiro.A.J.Fikry.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-JHOM.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Voz da Resistencia (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/A.Voz.da.Resistencia.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]After Depois do Desencontro (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/After.Depois.do.Desencontro.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.DUAL.THYRSO10.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]After Depois do Desencontro (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/After.Depois.do.Desencontro.2021.1080p.BluRay.x264-FGT.DUAL-WolfCrazy%20(1).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Aldeia Maldita (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Aldeia.Maldita.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-JHOM.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Alem da Escuridao (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Alem.da.Escuridao.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Alerta de Spoiler (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Alerta.de.Spoiler.2022.1080p.BluRay.DDP5.1.x264-PiGNUS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Alerta Vermelho (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Alerta.Vermelho.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Altered Carbon - Nova Capa (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Altered%20Carbon%20-%20Nova%20Capa%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Amado (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Amado.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]America - The Motion Picture (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/America%20-%20The%20Motion%20Picture%20-%202021%20-%201080p%20-%20NF.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Amigas De Sorte (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Amigas.De.Sorte.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Amina (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Amina.2021.1080p.NF.WEB-DL.DDP5.1.x264-WolfCrazy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Amizade de Férias (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Amizade%20de%20F%C3%A9rias%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Amizade Radical (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Amizade%20Radical%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Amizade Colorida (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Amizade.Colorida.2021.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Amor em Grande Estilo (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Amor.em.Grande.Estilo.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Amor Inesperado (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Amor.Inesperado.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Amor Nao Tem Idade (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Amor.Nao.Tem.Idade.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Amor Sexo e Pandemia (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Amor.Sexo.e.Pandemia.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Ao Seu Lado (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Ao.Seu.Lado.2022.1080p.BluRay.DDP5.1.x264-SCARE.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Apex (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Apex.2021.1080p.WEBRip.DD5.1.x264-NOGRP.DUAL-JK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Aquele Que Habita Em Mim (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Aquele.Que.Habita.Em.Mim.2022.1080p.Bluray.DDP5.1.x264-PIGNUS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]As Verdades (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/As.Verdades.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]As Verdades (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/As.Verdades.2022.1080p.GLBO.WEB-DL.AAC2.0.H.264-Professor_X.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Assalto Aéreo (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Assalto.A%C3%A9reo.2020.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Assalto Aereo (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Assalto.Aereo.2020.1080p.BluRay.x264-WoAT.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Aventura em Legacy Peak (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Aventura.em.Legacy.Peak.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Avos (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Avos.2020.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Aya e a Bruxa (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Aya.e.a.Bruxa.2020.1080p.NF.WEB-DL.DDP5.1.x264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Bad Boys Para Sempre (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Bad%20Boys%20Para%20Sempre%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Batismo de Sangue (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Batismo.de.Sangue.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Black Friday (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Black.Friday.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Boa Sorte Leo Grande (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Boa.Sorte.Leo.Grande.2022.1080p.BluRay.x264-EVO.DUAL-BRAZZER.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Boss Level (2020 BluRay)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Boss.Level.2020.BluRay.1080p.DTS.x264-PRoDJi.DUAL-JK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Caça Invisível (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Ca%C3%A7a%20Invis%C3%ADvel%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Caminho para a Liberdade (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Caminho.para.a.Liberdade.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Caminhos da Memória (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Caminhos%20da%20Mem%C3%B3ria%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Carvao (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Carvao.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Chamada Explosiva (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Chamada.Explosiva.2021.1080p.NF.WEB-DL.DDP5.1.x264-WolfCrazy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Chernobyl O Filme (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Chernobyl.O.Filme.2021.1080p.BluRay.x264-ELEKTRI4KA.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Chico Para Sempre (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Chico.Para.Sempre.2022.1080p.DSNP.WEB-DL.DDP5.1.H.264-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Cidade de Gelo (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Cidade%20de%20Gelo%20-%202021%20-%20Dual%20%C3%81udio%205.1%20-%201080p%20-%20NF.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Cinderela (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Cinderela.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Clube dos Anjos Caidos Assassinatos Misteriosos (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Clube.dos.Anjos.Caidos.Assassinatos.Misteriosos.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Clube dos Anjos Caidos Herois e Viloes (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Clube.dos.Anjos.Caidos.Herois.e.Viloes.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Como Agradar Uma Mulher (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Como%20Agradar%20Uma%20Mulher.2022.BluRay.1080p.x264-KNiVES.Dual.Tontom.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Conspiracao Implacavel (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Conspiracao.Implacavel.2021.1080p.TC.WEB-DL.AAC2.0.H.264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Coquetel Explosivo (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Coquetel.Explosivo.2021.1080p.BluRay.x264-EXTREME.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Corvo Branco (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Corvo.Branco.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Criaturas do Senhor (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Criaturas.do.Senhor.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Cube (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Cube.2021.1080p.HMAX.WEB-DL.DD5.1.x265-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Dampyr (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Dampyr.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264.pt-BR.ENG-LCD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Dano Colateral (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Dano%20Colateral%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Desejos Passageiros (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Desejos.Passageiros.2020.1080p.Bluray.DD5.1.x264-NTb.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Desvio de Conduta (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Desvio.de.Conduta.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Diabolik (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Diabolik.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Dias de Desejo (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Dias.de.Desejo.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Dois Irmãos - Uma Jornada Fantástica (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Dois%20Irm%C3%A3os%20-%20Uma%20Jornada%20Fant%C3%A1stica%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Dois Irmãos - Uma Jornada Fantástica (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Dois%20Irm%C3%A3os%20-%20Uma%20Jornada%20Fant%C3%A1stica%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Dois Mais Dois (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Dois.Mais.Dois.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Domingo de Pascoa (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Domingo.de.Pascoa.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Dracula Ele Ainda Esta Vivo (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Dracula.Ele.Ainda.Esta.Vivo.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Drifting Home (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Drifting%20Home.2022.BluRay.1080p.DDP5.1.x264-VARYG.Trial.Tontom.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Duna (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Duna.2021.1080p.HMAX.10bit.WEBRip.DDP5.1.x265.HEVC-PSA.Dual.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Duna (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Duna.2021.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-FLUX.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Dupla Explosiva 2 - E a Primeira-Dama do Crime (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Dupla%20Explosiva%202%20-%20E%20a%20Primeira-Dama%20do%20Crime%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Eduardo e Monica (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Eduardo.e.Monica.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Em Guerra com o Vovô (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Em%20Guerra%20com%20o%20Vov%C3%B4%20-%202020%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Encanto (2021))[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Encanto.2021.1080p.iT.WEB-DL.DDP7.1.H.264-EVO.DUAL-Cory.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Entrando no Clima do Natal (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Entrando.no.Clima.do.Natal.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Entre Tiros e Beijos (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Entre.Tiros.e.Beijos.2021.1080p.BluRay.x264-PiGNUS.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Eradication (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Eradication.2022.1080p.BluRay.DDP5.1.MPEG2-SAViOURHD.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Esticando a Festa (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Esticando%20a%20Festa%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Eterno 831 (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Eterno.831.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Eternos (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Eternos.2021.1080p.DSNP.WEB-DL.DDP5.1.Atmos.IMAX.H.264-TEPES.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Eu Acredito em Contos de Fadas (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Eu.Acredito.em.Contos.de.Fadas.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Every Breath You Take (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Every.Breath.You.Take.2021.1080p.BluRay.x264-VETO.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]F9 The Fast Saga (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/F9.The.Fast.Saga.2021.1080p.BluRay.x264-RUSTED.DUAL-G4RiS4ever.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Fatima (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Fatima.2020.1080p.BluRay.DD+5.1.x264-c0kE.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Fatima (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Fatima.2020.720p.BluRay.DD.5.1.x264-c0kE.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Fieis (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Fieis.2022.1080p.NF.WEB-DL.DDP5.1.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Fighting Chance (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Fighting.Chance.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264.pt-BR.ENG-GUEIRA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Finch (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Finch.2021.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Flummels Extintos (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Flummels.Extintos.2021.1080p.NF.WEB-DL.DDP5.1.x264-WolfCrazy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Fogareu (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Fogareu.2022.1080p.HMAX.WEB-DL.DD5.1.x264-Bart.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Forca Bruta (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Forca.Bruta.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Forca de Pai para Filha (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Forca.de.Pai.para.Filha.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Free Guy Assumindo o Controle (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Free.Guy.Assumindo.o.Controle.2021.1080p.BluRay.x264-Ulysse.DUAL-GoT.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Frente à Frente (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Frente.%C3%A0.Frente.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Friends - A Reunião (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Friends%20-%20A%20Reuni%C3%A3o%20(2021)%201080p%20AC3.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]G I  Joe Origens - Snake Eyes (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/G.I.%20Joe%20Origens%20-%20Snake%20Eyes%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Garota da Moto (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Garota.da.Moto.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Gigi and Nate (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Gigi.and.Nate.2022.1080p.BluRay.DDP.5.1.x264-PiGNUS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Gods Country (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Gods.Country.2022.1080p.Bluray.DDP5.1.x264-PIGNUS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Gospel (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Gospel.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Guiado pelo Luar (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Guiado.pelo.Luar.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Hipnose (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Hipnose.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Home Sweet Home Alone REPACK (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Home.Sweet.Home.Alone.REPACK.2021.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Honk for Jesus Save Your Soul (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Honk.for.Jesus.Save.Your.Soul.2022.BluRay.1080p.DD5.1.x264-LEGi0N.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]I Met a Girl (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/I.Met.a.Girl.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Ilhados (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Ilhados%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Inferno Sangrento (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Inferno.Sangrento.2021.1080p.BluRay.DDP5.1.x264-UNVEiL.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Infiltrado (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Infiltrado%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Iniciação (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Inicia%C3%A7%C3%A3o%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Injustice (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Injustice.2021.1080p.BluRay.DTS.x264-MTeam.DUAL-PD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Invocação do Mal 3 - A Ordem do Demônio (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Invoca%C3%A7%C3%A3o%20do%20Mal%203%20-%20A%20Ordem%20do%20Dem%C3%B4nio%20(2021)%201080p%20AC3.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]JACK A Caixa Maldita 2 O Despertar (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/JACK.A.Caixa.Maldita.2.O.Despertar.2022.1080p.Bluray.DDP5.1.x264-EVO.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Jogo do Amor (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Jogo.do.Amor.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Jogo Perigoso Vitimas do Legado (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Jogo.Perigoso.Vitimas.do.Legado.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Jogos Psicológicos (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Jogos.Psicol%C3%B3gicos.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Judas e o Messias Negro (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Judas%20e%20o%20Messias%20Negro%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Judas e o Messias Negro (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Judas%20e%20o%20Messias%20Negro%20(2021)%201080p%20AC3.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Jumanji Próxima Fase (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Jumanji%20Pr%C3%B3xima%20Fase%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Khutulun A Princesa Guerreira (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Khutulun.A.Princesa.Guerreira.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]King Tweety (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/King.Tweety.2022.1080p.HMAX.WEB-DL.DD5.1.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]L O C A (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/L.O.C.A.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Legião de Super-Heróis (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Legi%C3%A3o.de.Super-Her%C3%B3is.2022.1080p.BluRay.x264-PiGNUS.DUAL-BRAZZER.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Lindo de Morrer (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Lindo%20de%20Morrer%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Loucuras de Verão (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Loucuras%20de%20Ver%C3%A3o%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Madres - Mães de Ninguém (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Madres%20-%20M%C3%A3es%20de%20Ningu%C3%A9m%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Malignant (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Malignant.2021.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Mambo Dreams (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Mambo.Dreams.2021.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Man of God (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Man.of.God.2021.1080p.BluRay.DDP5.1.x264-FGT.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Margaux (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Margaux.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Medida Provisoria (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Medida.Provisoria.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Meu Irmão, Minha Irmã (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Meu%20Irm%C3%A3o,%20Minha%20Irm%C3%A3%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Meu Vizinho Adolf (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Meu.Vizinho.Adolf.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-JHOM.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Misterio em Alto Mar (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Misterio.em.Alto.Mar.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]MONA LISA E A LUA DE SANGUE (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/MONA.LISA.E.A.LUA.DE.SANGUE.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Monster Hunter (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Monster%20Hunter%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Mortal Kombat (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Mortal%20Kombat%20-%202021%20-%201080p%20-%20HEVC%20-%20265%20-%20AMZN.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Mortal Kombat (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Mortal%20Kombat%20(2021)%201080p%20EAC3.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Mortal Kombat Legends - A Vingança de Scorpion (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Mortal%20Kombat%20Legends%20-%20A%20Vingan%C3%A7a%20de%20Scorpion%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Moving On (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Moving.On.2022.1080p.BluRay.DD5.1.x264-HiP.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]MTV Video Music Awards (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/MTV.Video.Music.Awards.2022.2022.1080p.PMNP.WEB-DL.AAC2.0.x264-jeanlucas92.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Mulan (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Mulan%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Murder at Yellowstone City (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Murder.at.Yellowstone.City.2022.1080p.Bluray.DDP.5.1.x264-EVO.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Na Mira do Perigo (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Na%20Mira%20do%20Perigo%20-%202021%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Nada E Impossivel (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Nada.E.Impossivel.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Narvik (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Narvik.2022.1080p.NF.WEB-DL.DDP5.1.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Nas Garras do Terror (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Nas.Garras.do.Terror.2021.1080p.PLAY.DDP5.1.x264.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Natal em 8 Bits (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Natal.em.8.Bits.2021.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Natal Entre Amigos (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Natal.Entre.Amigos.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Negra Como a Noite (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Negra%20Como%20a%20Noite%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Nem um Passo em Falso (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Nem%20um%20Passo%20em%20Falso%20(2021)%201080p%20AC3.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Nikki e Nora Gemeas em Acao (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Nikki.e.Nora.Gemeas.em.Acao.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Ninho Do Mal (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Ninho.Do.Mal.2022.1080p.Bluray.DDP5.1.x264-ORBS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]No Gogo do Paulinho (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/No%20Gogo%20do%20Paulinho%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Nocebo (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Nocebo.2022.1080p.BluRay.DDP5.1.x264-GS88.pt-BR.ENG-tijuco.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Noitários de Arrepiar (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Noit%C3%A1rios%20de%20Arrepiar%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Noite Infeliz (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Noite.Infeliz.2022.1080p.REPACK.Bluray.5.1.Atmos.x264-Pignus.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Noites Alienigenas (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Noites.Alienigenas.2022.1080p.NF.WEB-DL.DDP5.1.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Caso de Richard Jewell (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O%20Caso%20de%20Richard%20Jewell%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Céu da Meia-Noite (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O%20C%C3%A9u%20da%20Meia-Noite%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Esquadrão Suicida (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O%20Esquadr%C3%A3o%20Suicida%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Halloween do Hubie (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O%20Halloween%20do%20Hubie%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Homem nas Trevas 2 (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O%20Homem%20nas%20Trevas%202.2021.BRRip.1080p.H264.AC3.Dual.Tontom.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Menino Que Matou Meus Pais (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O%20Menino%20Que%20Matou%20Meus%20Pais%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Mensageiro do Último Dia (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O%20Mensageiro%20do%20%C3%9Altimo%20Dia%20-%202020%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Príncipe Esquecido (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O%20Pr%C3%ADncipe%20Esquecido%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Acidente (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Acidente.2022.1080p.WEB-DL.AAC2.0.x264-KUCHU.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Amante De Julia (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Amante.De.Julia.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Ano Em Que Comecei a Vibrar Por Mim (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Ano.Em.Que.Comecei.a.Vibrar.Por.Mim.2022.1080p.NF.WEB-DL.DDP5.1.x264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Candidato Independente (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Candidato.Independente.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Enfermeiro Da Noite (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Enfermeiro.Da.Noite.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Esquadrao Suicida (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Esquadrao.Suicida.2021.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Garoto Perdido (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Garoto.Perdido.2020.1080p.GPLAY.WEB-DL.2.0.x264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Grande Mauricinho (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Grande.Mauricinho.2022.1080p.AMZN.WEB-DL.DDP5.1.H264.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Jardim Secreto (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Jardim.Secreto.2020.1080p.HMAX.WEB-DL.DD5.1.x264.DUAL-Cory.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Jardim Secreto De Mariana (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Jardim.Secreto.De.Mariana.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Lado Simples da Vida (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Lado.Simples.da.Vida.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Leonardo Perdido (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Leonardo.Perdido.2021.1080p.BluRay.DDP5.1.x264.FGT.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Matador Missao Resgate (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Matador.Missao.Resgate.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Mestre Das Sombras (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Mestre.Das.Sombras.2022.1080p.BluRay.DDP5.1.x264-WDC.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Milagre de Tyson (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Milagre.de.Tyson.2022.PLAY.WEB-DL.DDP5.1.x264.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Misterio de Ozarks (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Misterio.de.Ozarks.2021.1080p.PLAY.WEB-DL.DDP5.1.x264-DUAL-JHON.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Nascimento Do Mal (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Nascimento.Do.Mal.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Novelo (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Novelo.2021.1080p.HMAX.WEB-DL.DD5.1.x264-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Pai Da Rita (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Pai.Da.Rita.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Palestrante (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Palestrante.2022.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Perdoado (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Perdoado.2021.1080p.BluRay.x264-PiGNUS.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Poderoso Chefinho 2 De Volta aos Negocios (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Poderoso.Chefinho.2.De.Volta.aos.Negocios.2021.1080p.BluRay.x264-iFT.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Pretendente (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Pretendente.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]O Ultimo Navio Negreiro (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/O.Ultimo.Navio.Negreiro.2022.1080p.NF.WEB-DL.DDP5.1.x264.Dual-FileHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Of an Age (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Of.an.Age.2022.1080p.BluRay.DDP5.1.x264-HypStu.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Oferenda Ao Demonio (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Oferenda.Ao.Demonio.2022.1080p.BluRay.x264.DDP.5.1-FGT.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Old Man (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Old.Man.2022.1080p.BluRay.DDP5.1.x264-PiGNUS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Operacao Portugal (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Operacao.Portugal.2021.1080p.PLAY.WEB-DL.DDP5.1.x264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Os Pequenos Vestígios (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Os%20Pequenos%20Vest%C3%ADgios%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Os Pequenos Vestígios (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Os%20Pequenos%20Vest%C3%ADgios%20(2021)%201080p%20EAC3.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Os Muitos Santos de Newark (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Os.Muitos.Santos.de.Newark.2021.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Os Pequenos Vestígios (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Os.Pequenos.Vest%C3%ADgios.2021.1080p.HMAX.WEB-DL.DDP5.1.Atmos.H.264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Paciente 316 (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Paciente.316.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Panico Americano (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Panico.Americano.2022.1080p.Bluray.DDP.5.1.x264-EVO.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Panico em Casa (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Panico.em.Casa.2021.1080p.iT.WEB-DL.DD5.1.H.264.DUAL-PD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Papai E Pop (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Papai.E.Pop.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Pássaros de Liberdade (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/P%C3%A1ssaros%20de%20Liberdade%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]PAW Patrol The Movie (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/PAW.Patrol.The.Movie.2021.1080p.BluRay.x264.DTS-MT.DUAL.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Pearl (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Pearl.2022.1080p.Bluray.DDP5.1.x264-PIGNUS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Perdidos na Escuridao (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Perdidos.na.Escuridao.2020.1080p.TC.WEB-DL.AAC2.0.H.264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Perdidos Na Noite (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Perdidos.Na.Noite.2022.1080p.GLBO.WEB-DL.AAC2.0.H.264-Professor_X.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Perseguicao em Malta (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Perseguicao.em.Malta.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Pilotos de Guerra (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Pilotos.de.Guerra.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Pixie (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Pixie%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Plano A (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Plano.A.2021.BluRay.1080p.x264.DTS-HD.MA5.1-HDChina.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Pluft O Fantasminha (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Pluft.O.Fantasminha.2022.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Pokémon - Mewtwo Contra-Ataca - Evolução (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Pok%C3%A9mon%20-%20Mewtwo%20Contra-Ataca%20-%20Evolu%C3%A7%C3%A3o%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Poker Face (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Poker.Face.2022.1080p.BluRay.DDP.5.1.x264-VETO.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Polar Bear (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Polar.Bear.2022.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-MZABI.DUAL-K1.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Prisao 77 (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Prisao.77.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Pronto Falei (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Pronto.Falei.2022.PLAY.WEB-DL.DDP.5.1.x264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Quando O Coracao Bate Mais Forte 2 (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Quando.O.Coracao.Bate.Mais.Forte.2.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Quanto Vale (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Quanto%20Vale%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Querida Zoe (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Querida.Zoe.2022.1080p.BluRay.DDP.5.1.x264-OFT.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]R I P D 2 Rise of the Damned (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/R.I.P.D.2.Rise.of.the.Damned.2022.1080p.BluRay.DDP5.1.x264-MT.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Railway Heroes (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Railway.Heroes.2021.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Rastos de Sangue (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Rastos.de.Sangue.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Remember (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Remember.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Roe V Wade (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Roe.V.Wade.2021.1080p.BluRay.x264-FREEMAN.DUAL-JP.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Rogai por Nós (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Rogai%20por%20N%C3%B3s%20(2021)%201080p%20AC3.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Rogai por Nós (The Unholy) (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Rogai%20por%20N%C3%B3s%20(The%20Unholy)%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Rua dos Pecados (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Rua.dos.Pecados.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sadako  Ressurreição (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Sadako%20%20Ressurrei%C3%A7%C3%A3o%20[The%20Perilous%20Internet%20Ring]%20[2020]%201080p.GPLAY.WEB-DL.DDP5.1.x264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sam and Kate (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Sam.and.Kate.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-JHOM.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Scooby! O Filme (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Scooby!%20O%20Filme%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Scooby! O Filme (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Scooby!%20O%20Filme%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sem Retorno (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Sem%20Retorno%20-%202020%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sem Saida (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Sem%20Saida%20-%202021%20-%20Dual%20%C3%81udio%205.1%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Serial Kelly (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Serial.Kelly.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Serial Kelly (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Serial.Kelly.2022.1080p.GLBO.WEB-DL.AAC2.0.H.264-Professor_X.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Shang Chi and the Legend of the Ten Rings (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-MZABI.Dual.Audio-DalmacioJR.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sick (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Sick.2022.1080p.PCOK.WEB-DL.DDP5.1.H.264-TRUFFLE.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sisu (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Sisu.2022.1080p.BluRay.DDP5.1.x264-PiGNUS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Snake Eyes G I Joe Origins (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Snake.Eyes.G.I.Joe.Origins.2021.1080p.AMZN.WEB-DL.DDP5.1.H264-CMRG.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sombras De Um Crime (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Sombras.De.Um.Crime.2022.1080p.BluRay.DDP5.1.x264-FGT.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Somewhere in Queens (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Somewhere.in.Queens.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sonic The Hedgehog (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Sonic%20The%20Hedgehog%20-%202020%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Space Jam A New Legacy (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Space.Jam.A.New.Legacy.2021.1080p.REMUX.BluRay.AVC.DTS-HD.MA.DUAL-ASM.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Spin (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Spin.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-Telly.Dual-SHAKA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Stars at Noon (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Stars.at.Noon.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-SMURF.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Super-Inteligência (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Super-Intelig%C3%AAncia%20-%202020%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sweet Girl (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Sweet.Girl.2021.1080p.NF.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-AGLET.Dual.Audio-DalmacioJR.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Talk to Me (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Talk.to.Me.2022.1080p.BluRay.DD+7.1.x264-HiDt.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Tempestade Mortal (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Tempestade.Mortal.2021.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Tensao em Montana (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Tensao.em.Montana.2022.1080p.BluRay.x264-WoAT.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Territorio Hostil (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Territorio%20Hostil.2022.BluRay.1080p.x264-PFa.Dual.Tontom.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Black Spider (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Black.Spider.2022.1080p.BluRay.DDP5.1.x264-SbR.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Conference (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Conference.2022.1080p.BluRay.DDP5.1.x264-HDChina.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Cursed (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Cursed.2021.1080p.BluRay.x264-PiGNUS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Deep House (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Deep.House.2021.1080p.WEB-DL.DD5.1.H264-SLOT.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Hanging Sun (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Hanging.Sun.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Harder They Fall (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Harder.They.Fall.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Lair (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Lair.2022.1080p.BluRay.DDP5.1.x264-MT.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Last Son (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Last.Son.2021.1080p.BluRay.DDP5.1.x264-PiGNUS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Lost Leonardo (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Lost.Leonardo.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Night (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Night.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]The Walk (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/The.Walk.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264.pt-BR.ENG-GUEIRA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]They and them (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/They.and.them.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Tom & Jerry - O Filme  (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Tom%20&%20Jerry%20-%20O%20Filme%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Tom and Jerry (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Tom.and.Jerry.2021.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-NTb.DUAL-BRT.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Torneio de Natal De Volta ao Lar (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Torneio.de.Natal.De.Volta.ao.Lar.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Toying With The Holidays (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Toying.With.The.Holidays.2021.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Trancada (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Trancada.2022.BluRay.1080p.x264-EA.Dual.Tontom.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Transmissoes Sinistras (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Transmissoes.Sinistras.2021.1080p.BluRay.x264-HANDJOB.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Tres Mulheres Uma Esperanca (2023)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Tres.Mulheres.Uma.Esperanca.2023.1080p.PLAY.WEB-DL.x264.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Triangulo De Natal (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Triangulo.De.Natal.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Tsunami Zumbi  (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Tsunami%20Zumbi%20-%202021%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Tudo pela Noiva (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Tudo.pela.Noiva.2022.1080p.NF.WEB-DL.DDP5.1.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Tudo Sob Descontrole (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Tudo.Sob.Descontrole.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - Parte II (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Um%20Lugar%20Silencioso%20-%20Parte%20II%20(2021)%201080p%20AC3.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Um Príncipe em Nova York 2  (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Um%20Pr%C3%ADncipe%20em%20Nova%20York%202%20-%202021%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Um Chamado de Esperanca (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Um.Chamado.de.Esperanca.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Um Efeito Otico (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Um.Efeito.Otico.2022.1080p.HMAX.WEB-DL.DD5.1.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Um Filho (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Um.Filho.2022.1080p.Bluray.DDP5.1.x264-PIGNUS.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Um Fim De Semana Prolongado (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Um.Fim.De.Semana.Prolongado.2021.1080p.HMAX.WEB-DL.DD2.0.x264-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Um Match Surpresa (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Um.Match.Surpresa.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Uma Bela Manha (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Uma.Bela.Manha.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Uma Paixao Inesperada (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Uma.Paixao.Inesperada.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Under Wraps - Uma Múmia no Halloween  (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Under%20Wraps%20-%20Uma%20M%C3%BAmia%20no%20Halloween%20-%202021%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]V para Vinganca (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/V.para.Vinganca.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-Asy.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Vacation Friends (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Vacation.Friends.2021.1080p.DSNP.WEB-DL.DDP5.1.H.264-TEPES.DUAL.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Verao Fantasma (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Verao.Fantasma.2022.1080p.WEB-DL.AAC2.0.H.264.pt-BR-vanillas.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Vidas em Jogo (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Vidas.em.Jogo.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Vinganca Solitaria (2020)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Vinganca.Solitaria.2020.1080p.BluRay.DD5.1.x264-HANDJOB.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Viver (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Viver.2022.1080p.HMAX.WEB-DL.DD2.0.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Volta Ao Mundo em 80 Dias (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Volta.Ao.Mundo.em.80.Dias.2022.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]When You Finish Saving the World (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/When.You.Finish.Saving.the.World.2022.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Wifelike (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Wifelike.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Wolf (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Wolf.2021.1080p.PLAY.WEB-DL.DDP5.1.x264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Yara (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Yara.2021.1080p.NF.WEB-DL.DDP5.1.x264-PiA.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Zoe e Tempestade (2022)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/Zoe.e.Tempestade.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]ZOYA - A Guerreira (2021)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Filmes/2020%20-%202022/ZOYA.-.A.Guerreira.2021.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white][/B][/COLOR]
 
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Inimigo Agora é Outro (2010) - HD DUAL[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/2:/FLMS/9CRDR-CL/Tropa.de.Elite/LS-2010.Tropa.de.Elite.2.HD.DUAL.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8G7F938AHqBBLc5yJXPUJhSJzN5.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kossSlZHf1REOhDkhRvrz9UgAnf.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]O Inimigo Agora é Outro
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2010
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mais maduro, estratégico e solitário, o agora Coronel Nascimento faz o bope crescer e coloca o tráfico de drogas de joelho. Isto apenas para descobrir que na segurança pública do Rio de Janeiro nada é o que parece.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
