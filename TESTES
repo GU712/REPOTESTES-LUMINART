@@ -20,7 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://image.tmdb.org/t/p/original/jSLFzWe9s9XLJECg8qX0yCuURh9.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Trinity é o Meu Nome
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1970
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Trinity é um andarilho e pistoleiro que acaba chegando à cidade na qual Bambino ,seu irmão e ladrão, está disfarçado atuando como xerife local.
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Trinity e Seus Companheiros (1975) - FHD DUB[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/5WST-CL/Trinity/new/LS-1975.Trinity.e.seus.Companheiros.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wVo9IIAmIPWztrmR2C25X31QHAk.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/original/fOr8HfnCsrGGlXWED3c2lLp7X9s.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fQV8opKlmIz29BLgTN4sSKOPTi6.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Trinity e Seus Companheiros
@@ -58,3 +58,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]<NOMEDOFILME> (DATA) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/5WST-CL/Trinity/new/LS-1972.Trinity.Os.Sete.Magnificos.FHD.DUAL+LEG.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
