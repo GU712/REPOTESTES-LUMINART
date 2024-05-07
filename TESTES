@@ -1,96 +1,130 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]6SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Miss Mãe[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.01.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FILMES DECADA 00			
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]O Plano de Família[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.02.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMT9Pgn/FLM-ICON-DEC-30-NOST.png" group-title="[COLOR orange][B]FILMES ANOS 30[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Plano Familiar 2[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.03.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA A				
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]A Esposa do Major[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.04.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6sgDrWZ/ALFA-ICON-LETRA-A-NOST.png" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6sgDrWZ/ALFA-ICON-LETRA-A-NOST.png" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Missão Mallory[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.05.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/k2vFDTrrExrRsbwfWm07padvQwT.jpg" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Floresta Petrificada (1936)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Floresta.Petrificada.(1936).FHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Hv6mHolpMNJOiGZcknA5cYTt6S.jpg" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Mumia (1932)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Mumia.(1932.FHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/459XH176R35BwUhdjvAT7oBfoJL.jpg" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Noiva de Frankenstein (1935)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Noiva.de.Frankenstein.(1935).FHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1FL4vTyvaqWZEl3qxIQDGXi1PR5.jpg" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]A Pequena Rebelde (1935)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/A.Pequena.Rebelde.(1935).HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vt6zF55B9WLzYENs6cuXy8J5o1X.jpg" group-title="[COLOR white][B]LETRA A[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Anjos do Inferno (1930)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Anjos.do.Inferno.(1930).mp4
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Julie a Vampira[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.06.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA D			
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Amante de Cavalos[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.07.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtQ3XwN/ALFA-ICON-LETRA-D-NOST.png" group-title="[COLOR white][B]LETRA D[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtQ3XwN/ALFA-ICON-LETRA-D-NOST.png" group-title="[COLOR white][B]LETRA D[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Alarme Bebê[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.08.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg" group-title="[COLOR white][B]LETRA D[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Dracula (1931)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Dracula.(1931).FHD.DUAL.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg" group-title="[COLOR white][B]LETRA D[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Dracula (1931)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Dracula.(1931).FHD.mkv
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Ela Roubou-lhe o Coração[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.09.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA F			
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Bumerange[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.10.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5G4BzFB/ALFA-ICON-LETRA-F-NOST.png" group-title="[COLOR white][B]LETRA F[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5G4BzFB/ALFA-ICON-LETRA-F-NOST.png" group-title="[COLOR white][B]LETRA F[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]O Pássaro do Capitão[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.11.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8KToIYxmPXO1F0Pexu4jRHezBME.jpg" group-title="[COLOR white][B]LETRA F[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Frankenstein (1931)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Frankenstein.(1931).FHD.mkv
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]A Demissão de Doc[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.12.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA K
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Focando[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.13.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKKt7fw/ALFA-ICON-LETRA-K-NOST.png" group-title="[COLOR white][B]LETRA K[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKKt7fw/ALFA-ICON-LETRA-K-NOST.png" group-title="[COLOR white][B]LETRA K[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Daqui até a Maternidade[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.14.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/m8SgWcXX1XCGDmURqBpAgWZqHne.jpg" group-title="[COLOR white][B]LETRA K[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]King Kong (1933)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/King.Kong.(1933).FHD.DUB.mkv
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Primeira Viagem,Última viagem[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.15.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA L			
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]A Noiva de Gopher[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.16.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tn09XC/ALFA-ICON-LETRA-L-NOST.png" group-title="[COLOR white][B]LETRA L[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tn09XC/ALFA-ICON-LETRA-L-NOST.png" group-title="[COLOR white][B]LETRA L[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Perde Uma,Ganha Uma[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.17.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1AVnDjpu42ECPyvfFeFSPVrzoOj.jpg" group-title="[COLOR white][B]LETRA L[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Lenin em Outubro (1937)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Lenine.em.Outubro.(1937).FHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q3vMcFPcLL0jClcAYG5iFEwL3eE.jpg" group-title="[COLOR white][B]LETRA L[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Luzes da Cidade (1931)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Luzes.da.Cidade.(1931.FHD.mkv
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Hidrofóbico[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.18.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA O			
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Regresso da Ana[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.19.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJfB8tM/ALFA-ICON-LETRA-O-NOST.png" group-title="[COLOR white][B]LETRA O[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJfB8tM/ALFA-ICON-LETRA-O-NOST.png" group-title="[COLOR white][B]LETRA O[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Silêncio! Minha Esposa Esta a Ouvir[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.20.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7sYIjWRzqClPK6hiqpOJOnaGUcO.jpg" group-title="[COLOR white][B]LETRA O[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]O Magico de Oz (1939)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/O.Magico.de.Oz.(1939).FHD.mkv
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA S				
 
-<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]As Roupas Fazem a Rapariga[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.21.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vB9CZdw/ALFA-ICON-LETRA-S-NOST.png" group-title="[COLOR white][B]LETRA S[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vB9CZdw/ALFA-ICON-LETRA-S-NOST.png" group-title="[COLOR white][B]LETRA S[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]O Barco do Amor[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.22.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8auY5JIiqgarYPH2QYHJ9bh2agL.jpg" group-title="[COLOR white][B]LETRA S[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Scarface A Vergonha de uma Nasao (1932)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Scarface.A.Vergonha.de.uma.Nasao.(1932).FHD.mkv
 
-<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Este negócio de amor[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.23.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA T				
 
-<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Aberturas da Princesa do Pacífico[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T04/EP.24.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9nVHv3/ALFA-ICON-LETRA-T-NOST.png" group-title="[COLOR white][B]LETRA T[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9nVHv3/ALFA-ICON-LETRA-T-NOST.png" group-title="[COLOR white][B]LETRA T[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sJoaoYiBgAEUWa7RfihTrMMIurD.jpg" group-title="[COLOR white][B]LETRA T[/B][/COLOR]",[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Tempos Modernos (1936)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1930/Tempos.Modernos.(1936).FHD.mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] NÃO ACHOU O QUE PROCURAVA ? [/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] SOLICITE AO SUPORTE NO WHATS. [/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
