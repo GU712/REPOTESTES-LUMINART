@@ -1,17 +1,3 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Quarteto Fantástico (1967) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D01C1-DSH-Q.Fantastico.1967-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/o2jhtGqOR3UAWg4wIBu21Ub4ecP.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jMUPejkcMQdm3bygnm8q5uWJV6q.jpg</fanart>
-<info>[COLOR white]Assista aqui o desenho: 
-[B]Quarteto Fantástico
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 20 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A primeira série animada baseada na série de quadrinhos Quarteto Fantástico da Marvel.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+#EXTINF:-1 tvg-logo="logo" group-title="[COLOR white][B]Curso ABA[/B][/COLOR]",[COLOR orange][B]S1-T01E01[COLOR yellow] -> [COLOR white]aula 01[/B][/COLOR]
+https://b-vz-24ed4237-a7a.tv.pandavideo.com.br/27c073dc-3e60-4442-8330-5a4e2f94207f/720p/video.m3u8
