@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CURSOS[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]MODULO - 01[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]O que é ABA?[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E01.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Dimensões da ABA[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E02.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Tríplice contingência[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E03.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Reforço, Punição e Extinção[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E04.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Tipos de reforço e seleção de preferências[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E05.mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
