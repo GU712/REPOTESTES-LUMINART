@@ -6,7 +6,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]MOD.01 - INTRODUSAO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]MOD.01 - INTRODUÇÃO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -14,16 +14,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E01.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Dimensões da ABA[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E01.mkv
+https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E02.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Tríplice contingência[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E01.mkv
+https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E03.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Reforço, Punição e Extinção[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E01.mkv
+https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E04.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Tipos de reforço e seleção de preferências[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E01.mkv
+https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E05.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
