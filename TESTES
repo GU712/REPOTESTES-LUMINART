@@ -1,43 +1,106 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CURSOS[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]MODULO - 01[/B][/COLOR]
-LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 05 (1979) 24 EPs - HD LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]O que é ABA?[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E01.mkv
+<item><title>[COLOR orange][B]LS-T05E01[COLOR yellow] -> [COLOR white]Miss Mãe[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.01.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Dimensões da ABA[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E02.mkv
+<item><title>[COLOR orange][B]LS-T05E02[COLOR yellow] -> [COLOR white]O Plano de Família[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.02.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Tríplice contingência[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E03.mkv
+<item><title>[COLOR orange][B]LS-T05E03[COLOR yellow] -> [COLOR white]O Plano Familiar 2[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.03.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Reforço, Punição e Extinção[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E04.mkv
+<item><title>[COLOR orange][B]LS-T05E04[COLOR yellow] -> [COLOR white]A Esposa do Major[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.04.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bW5g6cj/ABA.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Tipos de reforço e seleção de preferências[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CRS/ABA/T01/LS-T01E05.mkv
+<item><title>[COLOR orange][B]LS-T05E05[COLOR yellow] -> [COLOR white]Missão Mallory[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.05.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Curso ABA - MOD.01[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T05E06[COLOR yellow] -> [COLOR white]Julie a Vampira[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.06.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
+<item><title>[COLOR orange][B]LS-T05E07[COLOR yellow] -> [COLOR white]Amante de Cavalos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.07.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E08[COLOR yellow] -> [COLOR white]Alarme Bebê[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.08.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E09[COLOR yellow] -> [COLOR white]Ela Roubou-lhe o Coração[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.09.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E10[COLOR yellow] -> [COLOR white]Bumerange[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.10.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E11[COLOR yellow] -> [COLOR white]O Pássaro do Capitão[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.11.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E12[COLOR yellow] -> [COLOR white]A Demissão de Doc[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.12.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E13[COLOR yellow] -> [COLOR white]Focando[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.13.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E14[COLOR yellow] -> [COLOR white]Daqui até a Maternidade[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.14.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E15[COLOR yellow] -> [COLOR white]Primeira Viagem,Última viagem[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.15.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E16[COLOR yellow] -> [COLOR white]A Noiva de Gopher[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.16.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E17[COLOR yellow] -> [COLOR white]Perde Uma,Ganha Uma[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.17.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E18[COLOR yellow] -> [COLOR white]Hidrofóbico[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.18.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E19[COLOR yellow] -> [COLOR white]Regresso da Ana[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.19.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E20[COLOR yellow] -> [COLOR white]Silêncio! Minha Esposa Esta a Ouvir[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.20.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E21[COLOR yellow] -> [COLOR white]As Roupas Fazem a Rapariga[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.21.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E22[COLOR yellow] -> [COLOR white]O Paraíso de Sally[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.22.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E23[COLOR yellow] -> [COLOR white]Dois para Julie[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.23.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E24[COLOR yellow] -> [COLOR white]O Meu Velho Bando[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/O.Barco.do.Amor/T05/EP.24.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8al17NBZLGvtUYlfQpevHyGjGgE.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart></item>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
