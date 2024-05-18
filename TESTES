@@ -1,23 +1,46 @@
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>	
+<title>[COLOR orange][B]COLEÇÃO[COLOR yellow] -> [COLOR orange]DESEJO DE MATAR[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MnZRnbp/COL-DES-DE-MATAR-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/PZvHLtm/COL-DES-DE-MATAR-FAN-ALL.png</fanart>
+<info>Os filmes mais atuais do SCOOBY.
+[COLOR orange][B]5 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1974 a 1994[/B][/COLOR]
+[COLOR orange][B]A Coleção que destacou o Ator.[/B][/COLOR]</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar (1974)[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1974.Desejo.de.Matar.HD.DUB.mp4</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/nU7rb6N8SnAQzU2dYvcg6nuLdX1.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 2 (1982)(1974)[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1982.Desejo.de.Matar.HD.DUB.mp4</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/1JDPsiZ8NY9ArPfCQzmzDDLL1NC.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 3 (1985)[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1985.Desejo.de.Matar.HD.DUB.mp4</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/grsGbmHYRNwPQrG6Z31fQEhp5Ex.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 4: Operação Crackdown (1987)(1974)[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1987.Desejo.de.Matar.Operasao.Crackdown.HD.DUB.mp4</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/8lJqEhCJuB9JeTfcTZFnsf7fGGO.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 5: A Face da Morte (1994)[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1994.Desejo.de.Matar.A.Face.da.Morte.HD.DUB.mp4</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/6GiPeCi1X6DxlWiMHfgpmiPPje2.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+
+
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]10 Minutos Para Morrer (1983)[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/10.Minutos.Para.Morrer(1983).mkv</link>
@@ -194,3 +217,5 @@
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Montanhas Ardentes (1952)[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Montanhas.Ardentes.(1952).mkv</link>
 <thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+	</itemList>
+</playlist>
