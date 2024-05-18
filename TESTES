@@ -1,255 +1,132 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]COLEÇÃO[COLOR yellow] -> [COLOR orange]DESEJO DE MATAR[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MnZRnbp/COL-DES-DE-MATAR-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/PZvHLtm/COL-DES-DE-MATAR-FAN-ALL.png</fanart>
-<info>Coleção Desejo de Matar
-[COLOR orange][B]5 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 1974 a 1994[/B][/COLOR]
-[COLOR orange][B]A Coleção que destacou o Ator.[/B][/COLOR]</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar (1974)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1974.Desejo.de.Matar.HD.DUB.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/nU7rb6N8SnAQzU2dYvcg6nuLdX1.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 2 (1982)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1982.Desejo.de.Matar.HD.DUB.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1JDPsiZ8NY9ArPfCQzmzDDLL1NC.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 3 (1985)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1985.Desejo.de.Matar.HD.DUB.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/grsGbmHYRNwPQrG6Z31fQEhp5Ex.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 4: Operação Crackdown (1987)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1987.Desejo.de.Matar.Operasao.Crackdown.HD.DUB.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8lJqEhCJuB9JeTfcTZFnsf7fGGO.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 5: A Face da Morte (1994)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/Desejo.de.Matar/LS-1994.Desejo.de.Matar.A.Face.da.Morte.HD.DUB.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6GiPeCi1X6DxlWiMHfgpmiPPje2.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>	
-<title>[COLOR orange][B]COLEÇÃO[COLOR yellow] -> [COLOR orange]FILMES DE AÇÃO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/mcgs9fB/COL-BRONSON-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/42kbtZM/COL-BRONSON-FAN-ALL.png</fanart>
-<info>Coleção de Filmes de Ação
-[COLOR orange][B]20 FILMES[/B][/COLOR]
-</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar (1974) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/4:/Filmes/1970%20-%201979/Desejo%20de%20Matar%20-%201974%20-%201080p.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nU7rb6N8SnAQzU2dYvcg6nuLdX1.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/K7d9ml8U5osq4vwnNu841KXpC.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Desejo de Matar
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1974
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Paul Kersey, um homem pacífico que tem sua vida destroçada quando três marginais invadem seu apartamento, estupram sua filha, e matam sua mulher.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]10 Minutos Para Morrer (1983)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/10.Minutos.Para.Morrer(1983).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/eGe89iiiOC57V5tuyOZQgtOtOMK.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Adeus Amigo (1968)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Adeus.Amigo.(1968).mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iqjvMBxIPW3bCMH9IsqAbYRSRQY.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Alguém Atrás da Porta (1971)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Alguem.Atras.da.Porta.(1971).mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/z0zPjtCw4O6OK3KMJHp6yFQY9Th.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Assassinato Nos Estados Unidos (1987)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Assassinato.Nos.Estados.Unidos.(1987).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/qmkYA7ZDKHx96Tiek0OjbfwWujG.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Assassino A Prezo Fixo (1972)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/1ACA-FM/LS-Assassino.A.Prezo.Fixo.1972.FHD.DUB.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/pI8PJMrvwBvG5t7kAhoinz9Kdld.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cabo Blanco (1980)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Cabo.Blanco.(1980).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mruXCMJqSqbLmMfktCsUSHWSIZl.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cidade Violenta (1970)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Cidade.Violenta.(1970).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/feBfLnk64IqQZa6mZGQ8poYfyzv.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desafiando o Assassino (1974)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Desafiando.o.Assassino.(1974).mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/b4hYlFcBgQZT2fvf6smtwUU3gP.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desafiando o Assassino (1974) - SD[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Desafiando.O.Assassino.SD.(1974).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/b4hYlFcBgQZT2fvf6smtwUU3gP.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fuga Audaciosa (1975)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Fuga.Audaciosa.(1975).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mlB0KWl8pnBlVyInwwY465jERJ8.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jogo Sujo (1973)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Jogo.Sujo.(1973).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dm8bw82F5zXbRuV2UWiXdfQNXEH.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Justiça Selvagem (1984)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Justisa.Selvagem.(1984).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nvEnh4bD9ACVrTesqE1nfQe4Yjc.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Kinjite Desejos Proibidos (1989)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Kinjite.Desejos.Proibidos.(1989).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/pXEmO22jPTwEOaxc0SOk8PLJWw0.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Lutador de Rua (1975)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Lutador.de.Rua.(1975).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/fuIaTHhsG71hwaYP2iBqBATNUjo.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mensageiro da Morte (1988)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Mensageiro.da.Morte.(1988).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dHjCr2rGsWMCF0Bv4A5STzARa5j.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Passageiro da Chuva (1970)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Passageiro.da.Chuva.(1970).mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3SzOtXux8DBBlKKAQwBJLAPeRBa.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Telefone (1977)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/LS-FLM/LS-O.Telefone.1977.FHD.DUAL+LEG-LS.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dHjCr2rGsWMCF0Bv4A5STzARa5j.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Vingador (1986)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Vingador.(1986).mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8YcrGtDMtVJnsuQuKDVx8F1xDcU.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Segredos da Cosa Nostra (1972)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/LS-CosaNostra.1972.FHD.DUAL+LEG-LS.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6c5Nz4FX2VNdiDsj8iip0aNGW6I.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Visitantes na Noite (1970)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Visitantes.na.Noite.(1970).mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/s94EE6jtwL4YL7IjmI6ax2lFJB1.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>	
-<title>[COLOR orange][B]COLEÇÃO[COLOR yellow] -> [COLOR orange]FILMES DE FICÇÃO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/mcgs9fB/COL-BRONSON-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/42kbtZM/COL-BRONSON-FAN-ALL.png</fanart>
-<info>Coleção de Filmes de Ficção
-[COLOR orange][B]01 FILME[/B][/COLOR]
-</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 2 (1982) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/4:/Filmes/1980%20-%201989/Desejo%20de%20Matar%202%20[Death%20Wish%20II][1982]%20Blu-Ray%201080p.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1JDPsiZ8NY9ArPfCQzmzDDLL1NC.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jSa32wDDStQXUAf6kuWPSTkZB6U.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Desejo de Matar 2
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1982
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Paul Kersey sai de Nova York e leva uma vida normal. Mas sua filha é estuprada e morta. Kersey volta a fazer justiça com as próprias mãos.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Robur o Conquistador do Mundo (1961)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Robur.o.Conquistador.do.Mundo.(1961).mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 3 (1985) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/4:/Filmes/1980%20-%201989/Desejo%20de%20Matar%203%20[1985]%20Blu-Ray%201080p.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/grsGbmHYRNwPQrG6Z31fQEhp5Ex.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/q8WH2ue8GTckObot0iIjOBll7Qa.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Desejo de Matar 3
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1985
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Paul Kersey volta a Nova York para ver um amigo, Charley , mas ao chegar o vê morrendo, barbaramente surrado pela gangue, que se considera "dona" do território.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>	
-<title>[COLOR orange][B]COLEÇÃO[COLOR yellow] -> [COLOR orange]FILMES DE GUERRA[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/mcgs9fB/COL-BRONSON-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/42kbtZM/COL-BRONSON-FAN-ALL.png</fanart>
-<info>Coleção de Filmes de Guerra
-[COLOR orange][B]05 FILMEs[/B][/COLOR]
-</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 4: Operação Crackdown (1987) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/4:/Filmes/1980%20-%201989/Desejo%20de%20Matar%204%20-%20Opera%C3%A7%C3%A3o%20Crackdown%20[1987]%20Blu-Ray%201080p.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8lJqEhCJuB9JeTfcTZFnsf7fGGO.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/oj05FqNoYCFFfb0fmNOH0mD71Nf.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Desejo de Matar 4: Operação Crackdown
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1987
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Paul Kersey volta a trabalhar como arquiteto. Mas a filha de sua nova namorada morre de overdose de droga. E o caçador retorna às ruas.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Corruptos e Sanguinários (1970)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-Corruptos.e.Sanguinarios.1970.HD.DUB.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Corruptos e Sanguinários (1970)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-Corruptos.e.Sanguinarios.1970.HD.LEGFIX.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar 5: A Face da Morte (1994) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/4:/Filmes/1990%20-%201994/Desejo%20de%20Matar%205%20[1994]%20Blu-Ray%201080p.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6GiPeCi1X6DxlWiMHfgpmiPPje2.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/tZGsjeXFg0hRv0Uip2cQJ8fxX3Y.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Desejo de Matar 5: A Face da Morte
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1994
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Paul Kersey vive sob nova identidade. Mas resolve voltar às armas quando o gângster Tommy O'Shea desfigura e mata a sua nova namorada.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fugindo do Inferno (1963)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Fugindo.do.Inferno.(1963).mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo de Matar (2018) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/4:/Filmes/Filmes%20recentes%20(2599)/Desejo%20de%20Matar%202018%20[BluRay]%20[1080p]%20[DUAL]/Death.Wish.2018.1080p.BluRay.x264.DUAL-WWW.COMANDOTORRENTS.COM.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yo2FRPhsifn044quPVyMtYlnoyZ.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Desejo de Matar
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após ter sua casa invadida e esposa assassinada por bandidos, Paul decide matar os criminosos.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Doze Condenados (1967)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Dirty.Dozen.1967.FHD.DUAL+LEG.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Uma Batalha no Inferno (1965)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Uma.Batalha.no.Inferno.(1965).mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Apache: O Último Bravo (1954)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Apache.Massai.O.Ultimo.Bravo.(1954).avi</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chumbo Quente (1977)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Chumbo.Quente.(1977).avi</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Era Uma Vez No Oeste (1968)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/5WST-CL/Leone.Sergio/LS-1969.Era.uma.Vez.no.Oeste.FHD.DUAL+LEG-LS.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Estrondo de Tambores (1961)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/5WST-FM/LS-Estrondo.de.Tambores.1961.FHD.DUB+LEG-LS.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Grande Assalto (1976)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Grande.Assalto.(1976).mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Grande Búfalo Branco (1977)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Grande.Bufalo.Branco.(1977).mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Trem do Inferno (1975)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Trem.do.Inferno.(1975).mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Canhões de San Sebastian (1968)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Canhoes.de.San.Sebastian.1968.FHD.DUB.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Perseguição Mortal (1981)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Perseguisao.Mortal.1981.HD.dub.mp4</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Renegado Impiedoso (1972)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Renegado.Impiedoso.(1972).mp4</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sol Vermelho (1971)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Sol.Vermelho.1971.FHD.DUAL+LEG.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Villa O Caudilho (1968)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Pancho.Villa.1968.FHD.DUB.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sete Homens e Um Destino (1960)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-1-Sete.Homens.e.Um.Destino.1960.FHD.TRIAL+LEG.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Valdez O Mestiço (1973)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Valdez.O.Mestiso.1973.FHD.DUAL+LEG.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vera Cruz (1954)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Vera.Cruz.1954.FHD.DUAL+LEG.mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Mulher Absoluta (1952)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/A.Mulher.Absoluta.(1952).mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Esta Mulher é Proibida (1966)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Esta.Mulher.e.Proibida.(1966).mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Montanhas Ardentes (1952)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Montanhas.Ardentes.(1952).mkv</link>
-<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
-	</itemList>
-</playlist>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
