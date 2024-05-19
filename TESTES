@@ -1,25 +1,86 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1936 – O Retorno da Tartaruga Toby[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1936-08-22%20Toby%20Tortoise%20Returns%20[WEB].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1936 – Donald e Plutão[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1936-09-12%20Donald%20and%20Pluto%20[DVD].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1936 – Três Mouseketeers Cegos[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1936-09-26%20Three%20Blind%20Mouseketeers%20[WEB].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1936 – O Elefante do Mickey[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1936-10-10%20Mickey's%20Elephant%20[DVD].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1937 – O verme gira[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1937-01-02%20The%20Worm%20Turns%20[DVD].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1937 – Don Donald[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1937-01-09%20Don%20Donald%20[DVD].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1937 – Invenções Modernas[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1937-05-29%20Modern%20Inventions%20[DVD].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1937 – Limpadores de relógios de 1937[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1937-10-15%20Clock%20Cleaners%20[DVD].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1937 – avestruz de Donald[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1937-12-10%20Donald's%20Ostrich%20[DVD].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1937 – Fantasmas Solitários[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1937-12-24%20Lonesome%20Ghosts%20[WEB].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1938 – Autocontrole[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1938-02-11%20Self%20Control%20[DVD].mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1938 – Construtores de barcos[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1938-02-25%20Boat%20Builders%20[BD].mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1921 – Newman Laugh O Gramas[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1921-03-20%20Newman%20Laugh-O-Grams%20[DVD]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1922 – Chapeuzinho Vermelho[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1922-07-29%20Little%20Red%20Riding%20Hood%20[BD]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1922 – Os Quatro Músicos de Bremen[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1922-08-01%20The%20Four%20Musicians%20of%20Bremen%20[BD]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1926 – O Misterioso Mistério de Alice[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1926-02-15%20Alice's%20Mysterious%20Mystery%20[BD]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1926 – Derby marrom de Alice[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1926-12-13%20Alice's%20Brown%20Derby%20(Com%20Marca%20D'%C3%81gua)%20[WEB]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1927 – Alice, a baleeira[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1927-07-25%20Alice%20The%20Whaler%20[DVD]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1928 – pescoço e pescoço[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1928-01-23%20Neck%20'n'%20Neck%20(Fragmento)%20[WEB-LQ].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1928 – Pobre papai[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1928-08-06%20Poor%20Papa%20[BD]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1929 – Avião Louco[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1929-03-17%20Plane%20Crazy%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1929 – A Dança do Esqueleto[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1929-08-22%20The%20Skeleton%20Dance%20[BD]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1931 – A caça aos alces[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1931-05-03%20The%20Moose%20Hunt%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1931 – Mickey se corta[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1931-11-30%20Mickey%20Cuts%20Up%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1932 – Flores e árvores[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1932-07-30%20Flowers%20And%20Trees%20[BD]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1932 – Pesadelo do Mickey[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1932-08-13%20Mickey's%20Nightmare%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1932 – Rei Netuno[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1932-09-10%20King%20Neptune%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1932 – A Festa do Whoopee[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1932-09-17%20The%20Whoopee%20Party%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1932 – O garoto Klondike[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1932-11-12%20The%20Klondike%20Kid%20(Com%20Introdu%C3%A7%C3%A3o)%20%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1932 – Desfile dos Indicados ao Prêmio[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1932-11-18%20Parade%20of%20the%20Award%20Nominees%20(Com%20Introdu%C3%A7%C3%A3o)%20[DVD]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1932 – A Bruxa Babes Na Floresta[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1932-11-19%20A%20Bruxa%20Babes%20In%20The%20Woods%20[BD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1933 – Três Porquinhos[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1933-05-27%20Three%20Little%20Pigs%20(Vers%C3%A3o%201%20Sem%20Censura)%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1933 – Três Porquinhos[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1933-05-27%20Three%20Little%20Pigs%20(Vers%C3%A3o%202%20Com%20Censura)%20[WEB].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1933 – Primeira Gala do Mickey[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1933-07-01%20Mickey's%20Gala%20Premier%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1933 – Velho King Cole[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1933-07-29%20Old%20King%20Cole%20[WEB].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1933 – O Flautista[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1933-09-16%20The%20Pied%20Piper%20[WEB].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1933 – A Noite Antes do Natal[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1933-12-09%20The%20Night%20Before%20Christmas%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1934 – Xangai[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1934-01-13%20Shanghaied%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1934 – O Lobo Mau[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1934-04-14%20The%20Big%20Bad%20Wolf%20[WEB].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1934 – A Galinha Sábia[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1934-06-09%20The%20Wise%20Little%20Hen%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1934 – O Rato Voador[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1934-07-14%20The%20Flying%20Mouse%20[BD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1934 – A Deusa da Primavera[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1934-11-03%20The%20Goddess%20Of%20Spring%20[BD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1934 – Mickey com duas armas[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1934-12-15%20Two-Gun%20Mickey%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1935 – A tartaruga e a lebre[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1935-01-05%20The%20Tortoise%20And%20The%20Hare%20[WEB].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1935 – O Concerto da Banda[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1935-02-23%20The%20Band%20Concert%20[BD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1935 – Estação de serviço do Mickey[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1935-03-16%20Mickey's%20Service%20Station%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1935 – O Gatinho Ladrão[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1935-04-20%20The%20Robber%20Kitten%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1935 – Quem matou Cock Robin[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1935-06-29%20Who%20Killed%20Cock%20Robin%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1935 – Jardim do Mickey[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1935-07-13%20Mickey's%20Garden%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1935 – Brigada de Incêndio do Mickey[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1935-08-03%20Mickey's%20Fire%20Brigade%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1935 – Dia do Julgamento de Plutão[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1935-08-31%20Pluto's%20Judgement%20Day%20[DVD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1935 – No Gelo[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1935-09-28%20On%20Ice%20[BD].mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1935 – Terra da Música[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1935-10-05%20Music%20Land%20[BD]%20(Leg).mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png",[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]1936 – Equipe de Pólo do Mickey[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/4:/Desenhos/A-I/Curtas%20Disney%20[1921-1969]%20Em%20Andamento/1936-01-04%20Mickey's%20Polo%20Team%20[DVD].mkv
