@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
+#EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" tvg-chno="10" group-title="USA" , Pluto TV Spotlight
+https://r.mjh.nz/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" tvg-chno="18" group-title="Filmes" , Pluto TV Cine Sucessos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S4A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-6f286c7d-307d-44d0-b0de-78612f6ea6b2&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&appName=samsungtvplus&deviceId=0caeec6f-f6a2-41e3-852e-368dcbc9d275&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true&us_privacy=1YNY
+#EXTINF:-1 channel-id="pluto-64b585f84ea480000838e446" tvg-id="64b585f84ea480000838e446" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" tvg-chno="20" group-title="USA" , Pluto TV Icons
+https://r.mjh.nz/PlutoTV/64b585f84ea480000838e446-alt.m3u8
