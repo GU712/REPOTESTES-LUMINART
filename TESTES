@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 channel-id="pluto-5f99ac4fded33000078f29ab" tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" tvg-chno="15" group-title="Filmes" , Pluto TV Star Trek
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S4A[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://i.mjh.nz/PlutoTV/5f99ac4fded33000078f29ab-alt.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://i.imgur.com/Ye3kw5d.png" group-title="Brasil: educativos e documentários",Futura | Canal FDR | CE
+https://d3ruy0tnspeepl.cloudfront.net/out/v1/9209c51e6b23480fa297e754c6ca6670/index.m3u8
