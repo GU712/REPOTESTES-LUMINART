@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" tvg-chno="10" group-title="USA" , Pluto TV Spotlight
-https://r.mjh.nz/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f99ac4fded33000078f29ab" tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" tvg-chno="15" group-title="Filmes" , Pluto TV Star Trek
+https://i.mjh.nz/PlutoTV/5f99ac4fded33000078f29ab-alt.m3u8
