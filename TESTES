@@ -1,7 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="[COLOR orange][B] c-SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://i.imgur.com/Ye3kw5d.png" group-title="Brasil: educativos e documentários",Futura | Canal FDR | CE
-https://d3ruy0tnspeepl.cloudfront.net/out/v1/9209c51e6b23480fa297e754c6ca6670/index.m3u8
+<item><title>[COLOR orange][B]LS4-T01E01[COLOR yellow] -> [COLOR white]Dia 1: 12:00 a.m. - 01:00 a.m.[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:<LINK[/B]>S01E01<LINK[/C]>.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart><FUNDO></fanart></item>
 
