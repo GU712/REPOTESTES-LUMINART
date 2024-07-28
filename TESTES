@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="GE Fast HD" tvg-logo="https://imgur.com/rM0A76o" group-title="ESPORTES",GE Fast HD
-http://5ce.co:80/live/c8d12309/x926722d/254017.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/254017.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Matracatrica e Fofoquinha" tvg-logo="https://media.fstatic.com/tVd0QH4DnvjB0YClq8lRWCcUpIA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/12/1c81f30b4965b0b55c1a62ab570fb2f4.jpg" group-title="DESENHOS 24 HORAS",24H Matracatrica e Fofoquinha
-http://5ce.co:80/live/c8d12309/x926722d/226836.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/226836.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sitio do Picapau Amarelo (1977)" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="PROGRAMAS DE TV 24 HORAS",Sitio do Picapau Amarelo (1977)
-http://5ce.co:80/live/c8d12309/x926722d/222402.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/222402.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SITIO DO PICA-PAU AMARELO" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="PROGRAMAS DE TV 24 HORAS",SITIO DO PICA-PAU AMARELO
-http://5ce.co:80/live/c8d12309/x926722d/221508.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/221508.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H GRAVITY FALLS UM VERAO DE MISTERIOS" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="DESENHOS 24 HORAS",24H GRAVITY FALLS UM VERAO DE MISTERIOS
-http://5ce.co:80/live/c8d12309/x926722d/220095.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/220095.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AS TERRIVEIS AVENTURAS DE BILLY E MANDY" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="DESENHOS 24 HORAS",AS TERRIVEIS AVENTURAS DE BILLY E MANDY
-http://5ce.co:80/live/c8d12309/x926722d/220094.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/220094.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Capitao Caverna" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="DESENHOS 24 HORAS",24H Capitao Caverna
-http://5ce.co:80/live/c8d12309/x926722d/220093.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/220093.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jaspion" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="DESENHOS 24 HORAS",Jaspion
-http://5ce.co:80/live/c8d12309/x926722d/217491.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/217491.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZORRO" tvg-logo="" group-title="FILMES 24 HORAS",ZORRO
-http://5ce.co:80/live/c8d12309/x926722d/217355.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/217355.m3u8
