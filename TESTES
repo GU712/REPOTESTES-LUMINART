@@ -1,19 +1,37 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="GE Fast HD" tvg-logo="https://imgur.com/rM0A76o" group-title="ESPORTES",GE Fast HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/254017
-#EXTINF:-1 tvg-id="" tvg-name="24H Matracatrica e Fofoquinha" tvg-logo="https://media.fstatic.com/tVd0QH4DnvjB0YClq8lRWCcUpIA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/12/1c81f30b4965b0b55c1a62ab570fb2f4.jpg" group-title="DESENHOS 24 HORAS",24H Matracatrica e Fofoquinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/226836
-#EXTINF:-1 tvg-id="" tvg-name="Sitio do Picapau Amarelo (1977)" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="PROGRAMAS DE TV 24 HORAS",Sitio do Picapau Amarelo (1977)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/222402
-#EXTINF:-1 tvg-id="" tvg-name="SITIO DO PICA-PAU AMARELO" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="PROGRAMAS DE TV 24 HORAS",SITIO DO PICA-PAU AMARELO5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/221508
-#EXTINF:-1 tvg-id="" tvg-name="24H GRAVITY FALLS UM VERAO DE MISTERIOS" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="DESENHOS 24 HORAS",24H GRAVITY FALLS UM VERAO DE MISTERIOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/220095
-#EXTINF:-1 tvg-id="" tvg-name="AS TERRIVEIS AVENTURAS DE BILLY E MANDY" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="DESENHOS 24 HORAS",AS TERRIVEIS AVENTURAS DE BILLY E MANDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/220094
-#EXTINF:-1 tvg-id="" tvg-name="24H Capitao Caverna" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="DESENHOS 24 HORAS",24H Capitao Caverna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/220093
-#EXTINF:-1 tvg-id="" tvg-name="Jaspion" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="DESENHOS 24 HORAS",Jaspion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/217491
-#EXTINF:-1 tvg-id="" tvg-name="ZORRO" tvg-logo="" group-title="FILMES 24 HORAS",ZORRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/217355
+
+		<item>
+			<title>GE Fast HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/254017</link>
+		</item>
+		<item>
+			<title>24H Matracatrica e Fofoquinha</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/226836</link>
+		</item>
+		<item>
+			<title>Sitio do Picapau Amarelo (1977)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/222402</link>
+		</item>
+		<item>
+			<title>SITIO DO PICA-PAU AMARELO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/221508</link>
+		</item>
+		<item>
+			<title>24H GRAVITY FALLS UM VERAO DE MISTERIOS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/220095</link>
+		</item>
+		<item>
+			<title>AS TERRIVEIS AVENTURAS DE BILLY E MANDY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/220094</link>
+		</item>
+		<item>
+			<title>24H Capitao Caverna</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/220093</link>
+		</item>
+		<item>
+			<title>Jaspion</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/217491</link>
+		</item>
+		<item>
+			<title>ZORRO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/217355</link>
+		</item>
