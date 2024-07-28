@@ -1,37 +1,6 @@
+#EXTM3U
+#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes", Duna Parte 2
+https://www.googleapis.com/drive/v3/files/1q0wlM6SkeEpDFq5N7SVVcyTrI_zupRKi?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
 
-		<item>
-			<title>GE Fast HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/254017</link>
-		</item>
-		<item>
-			<title>24H Matracatrica e Fofoquinha</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/226836</link>
-		</item>
-		<item>
-			<title>Sitio do Picapau Amarelo (1977)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/222402</link>
-		</item>
-		<item>
-			<title>SITIO DO PICA-PAU AMARELO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/221508</link>
-		</item>
-		<item>
-			<title>24H GRAVITY FALLS UM VERAO DE MISTERIOS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/220095</link>
-		</item>
-		<item>
-			<title>AS TERRIVEIS AVENTURAS DE BILLY E MANDY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/220094</link>
-		</item>
-		<item>
-			<title>24H Capitao Caverna</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/220093</link>
-		</item>
-		<item>
-			<title>Jaspion</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/217491</link>
-		</item>
-		<item>
-			<title>ZORRO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/c8d12309/x926722d/217355</link>
-		</item>
+#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes", Duna Parte 2
+https://www.googleapis.com/drive/v3/files/1q0wlM6SkeEpDFq5N7SVVcyTrI_zupRKi?alt=media&key=AIzaSyCZaqsKwRPeI5yLb_NjpYeXBvQJH3UmGj0
