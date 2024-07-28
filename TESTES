@@ -5,7 +5,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/226836.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sitio do Picapau Amarelo (1977)" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="PROGRAMAS DE TV 24 HORAS",Sitio do Picapau Amarelo (1977)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/222402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SITIO DO PICA-PAU AMARELO" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="PROGRAMAS DE TV 24 HORAS",SITIO DO PICA-PAU AMARELO
+#EXTINF:-1 tvg-id="" tvg-name="SITIO DO PICA-PAU AMARELO" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="PROGRAMAS DE TV 24 HORAS",SITIO DO PICA-PAU AMARELO2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/221508.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H GRAVITY FALLS UM VERAO DE MISTERIOS" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="DESENHOS 24 HORAS",24H GRAVITY FALLS UM VERAO DE MISTERIOS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]TV-S4[/B][/COLOR]&maxbitrate=0&buffer=2019112999754&url=http://5ce.co:80/live/c8d12309/x926722d/220095.m3u8
