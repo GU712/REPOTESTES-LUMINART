@@ -28,3 +28,14 @@ https://www.googleapis.com/drive/v3/files/10IRhHPU8bEkfeS1HJxn_hfBz0vjfZiBC?alt=
 
 #EXTINF:-1 type="video" tv-logo="https://br.web.img2.acsta.net/pictures/22/08/17/22/25/2724945.jpg" group-title="Filmes", O Menu
 https://www.googleapis.com/drive/v3/files/17ruZaf0IuYqnkPLh-ovGd58NWIhvlVW1?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+
+#EXTINF:-1 tvg-logo="ICONEGENERO",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Batalha no Neretya[/B][/COLOR]
+https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCZaqsKwRPeI5yLb_NjpYeXBvQJH3UmGj0
+
+
+#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Batalha no Neretya 2[/B][/COLOR]
+https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
+
