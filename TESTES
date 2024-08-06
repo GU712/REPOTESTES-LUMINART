@@ -10,3 +10,14 @@ https://www.googleapis.com/drive/v3/files/1JOcPcDDm29TcMaPT952jMHFx1HrJzWd-?alt=
 
 #EXTINF:-1 type="video" tv-logo="https://image.tmdb.org/t/p/original/rC5RqXtFoTkBhNWE1dczwi4dZrX.jpg" group-title="Filmes", Garfield: Fora de Casa
 https://www.googleapis.com/drive/v3/files/1-BPR28RW6Sw-gQRkoJx6YYChF54hGdn0?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="ICONEGENERO",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Batalha no Neretya[/B][/COLOR]
+https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCZaqsKwRPeI5yLb_NjpYeXBvQJH3UmGj0
+
+
+#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Batalha no Neretya 2[/B][/COLOR]
+https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
