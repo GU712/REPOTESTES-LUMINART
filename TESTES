@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes", Duna Parte 2
+#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes"group-title="Filmes", Duna Parte 2
 https://www.googleapis.com/drive/v3/files/1g9lwqO6RN0kEKwNf8dMHcLEJufPowApH?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
 
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Batalha no Neretya 2[/B][/COLOR]
+#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B]Batalha no Neretya 2[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
 
-#EXTINF:-1 tvg-logo="ICONEGENERO",[COLOR orange][B] SELECIONE UM ITEM ABAIXO2[/B][/COLOR]
+#EXTINF:-1 tvg-logo="ICONEGENERO"group-title="Filmes",[COLOR orange][B] SELECIONE UM ITEM ABAIXO2[/B][/COLOR]
 LINKDOFILME
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B] TESTE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B] TESTE[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/https://drive.google.com/file/d/1uxO69o_f0crsqics2sO1qnvUdsEqv997?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B] TESTE 2[/B][/COLOR]
+#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B] TESTE 2[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/https://drive.google.com/file/d/1uxO69o_f0crsqics2sO1qnvUdsEqv997?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B] TESTE 3[/B][/COLOR]
+#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B] TESTE 3[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1CX-rbptr1AdhQvNsP9PQM6aZxBt6ZC1K?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B] TESTE 4[/B][/COLOR]
+#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B] TESTE 4[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1CX-rbptr1AdhQvNsP9PQM6aZxBt6ZC1K?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B] TESTE 5[/B][/COLOR]
+#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B] TESTE 5[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+
+
