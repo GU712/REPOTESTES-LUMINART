@@ -2,7 +2,7 @@
 #EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes", Duna Parte 2
 https://www.googleapis.com/drive/v3/files/1g9lwqO6RN0kEKwNf8dMHcLEJufPowApH?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
 
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Batalha no Neretya 2[/B][/COLOR]
+#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes", [COLOR white][B]Batalha no Neretya 2[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
 
 #EXTINF:-1 tvg-logo="ICONEGENERO",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
