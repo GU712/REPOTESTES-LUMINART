@@ -1,23 +1,12 @@
 #EXTM3U
-#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes"group-title="Filmes", Duna Parte 2
+#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes", Duna Parte 2
 https://www.googleapis.com/drive/v3/files/1g9lwqO6RN0kEKwNf8dMHcLEJufPowApH?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
 
-#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B]Batalha no Neretya 2[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
+#EXTINF:-1 type="video" tv-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg" group-title="Filmes", Duna 4K
+http://infraz.top:80/movie/489642333/775257166/364665.mp4
 
-#EXTINF:-1 tvg-logo="ICONEGENERO"group-title="Filmes",[COLOR orange][B] SELECIONE UM ITEM ABAIXO2[/B][/COLOR]
-LINKDOFILME
+#EXTINF:-1 type="video" tv-logo="https://br.web.img2.acsta.net/r_1280_720/img/4d/58/4d58df871d44997232c906805d411042.jpg" group-title="Filmes" group-title="Guerra", Guerra Sem Regras
+https://www.googleapis.com/drive/v3/files/1JOcPcDDm29TcMaPT952jMHFx1HrJzWd-?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B] TESTE[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/https://drive.google.com/file/d/1uxO69o_f0crsqics2sO1qnvUdsEqv997?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
-#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B] TESTE 2[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/https://drive.google.com/file/d/1uxO69o_f0crsqics2sO1qnvUdsEqv997?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B] TESTE 3[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1CX-rbptr1AdhQvNsP9PQM6aZxBt6ZC1K?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
-#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B] TESTE 4[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1CX-rbptr1AdhQvNsP9PQM6aZxBt6ZC1K?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="ICONEDOFILME" group-title="Filmes",[COLOR white][B] TESTE 5[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
-
-
+#EXTINF:-1 type="video" tv-logo="https://image.tmdb.org/t/p/original/rC5RqXtFoTkBhNWE1dczwi4dZrX.jpg" group-title="Filmes", Garfield: Fora de Casa
+https://www.googleapis.com/drive/v3/files/1-BPR28RW6Sw-gQRkoJx6YYChF54hGdn0?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
