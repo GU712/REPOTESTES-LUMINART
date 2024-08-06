@@ -1,9 +1,30 @@
 #EXTM3U
-#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes", Duna Parte 2 P
-https://www.googleapis.com/drive/v3/files/1KPXdnMWHJwcOVkqjtPO2et0lx4c26r_q/preview?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes", Duna Parte 2
+https://www.googleapis.com/drive/v3/files/1g9lwqO6RN0kEKwNf8dMHcLEJufPowApH?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
 
-#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes", Duna Parte 2 V
-https://www.googleapis.com/drive/v3/files/1KPXdnMWHJwcOVkqjtPO2et0lx4c26r_q/view?t=16?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+#EXTINF:-1 type="video" tv-logo="https://i0.wp.com/alangeek.com.br/wp-content/uploads/2024/03/380f9f7d-bc35-429d-afe8-25ac3ea5861b-1.jpg" group-title="Filmes" group-title="Ação", Bad Boys 4: Até o Fim
+https://www.googleapis.com/drive/v3/files/1-nhBpGj4cSisnlKG26CugnfqmiXrYAMS?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
 
-#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="Filmes", Duna Parte 2 N
-https://www.googleapis.com/drive/v3/files/1KPXdnMWHJwcOVkqjtPO2et0lx4c26r_q?t=16?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+#EXTINF:-1 type="video" tv-logo="https://image.tmdb.org/t/p/original/rC5RqXtFoTkBhNWE1dczwi4dZrX.jpg" group-title="Filmes", Garfield: Fora de Casa
+https://www.googleapis.com/drive/v3/files/1-BPR28RW6Sw-gQRkoJx6YYChF54hGdn0?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+
+#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/23/12/22/21/01/5937812.jpg" group-title="Filmes", Um Tira da Pesada 4: Axel Foley
+https://www.googleapis.com/drive/v3/files/1wShS_OFjGMen4DV8PoKOcxjX0_0I1687?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+
+#EXTINF:-1 type="video" tv-logo="https://i0.wp.com/viventeandante.com/wp-content/uploads/2024/03/os-observadores-poster.jpg?resize=740%2C925&ssl=1" group-title="Filmes", Os Observadores
+https://gofilmes.me/play/w.php?NFBLblFJTngrNFBBaGxtVjhLUE5qUT09
+
+#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/18/06/14/13/11/1751062.jpg" group-title="Filmes", Hereditário
+https://www.googleapis.com/drive/v3/files/1ccFQ-dUnzT9AYaZvgocy5IX2AMo5w-Au?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+
+#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/img/20/fd/20fd28beb20ff9ccf9f405fcf1820c49.jpg" group-title="Filmes", O Dublê
+https://www.googleapis.com/drive/v3/files/1e4ypDqTix68kXDZO7SqhE5VhifYEFrQT?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+
+#EXTINF:-1 type="video" tv-logo="https://br.web.img3.acsta.net/pictures/18/01/03/19/24/3938254.jpg" group-title="Filmes", Os Farofeiros
+https://www.googleapis.com/drive/v3/files/1ZbY5AHwchvvATZkrE3hlfxXfaAdhV6yg?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+
+#EXTINF:-1 type="video" tv-logo="https://br.web.img2.acsta.net/r_1280_720/pictures/24/02/23/15/44/3187051.png" group-title="Filmes", Os Farofeiros 2
+https://www.googleapis.com/drive/v3/files/10IRhHPU8bEkfeS1HJxn_hfBz0vjfZiBC?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
+
+#EXTINF:-1 type="video" tv-logo="https://br.web.img2.acsta.net/pictures/22/08/17/22/25/2724945.jpg" group-title="Filmes", O Menu
+https://www.googleapis.com/drive/v3/files/17ruZaf0IuYqnkPLh-ovGd58NWIhvlVW1?alt=media&key=AIzaSyDguqs2TUuk_yJaeARymIYEzmlYi3FFbwM
