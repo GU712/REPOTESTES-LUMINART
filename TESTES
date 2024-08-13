@@ -3,6 +3,33 @@
 LINKDOFILME 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]Pequenas Empresas Grandes Negocios[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]Auto Esporte[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]Caldeirao Com Mion[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]Domingao Com Huck[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]Fantastico[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]Globo Reporter[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]Globo Rural[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]Profissao Reporter[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]The Voice Mais[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]The Voice Brasil[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]The Voice Kids[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf80Rn/FILM-LD-SERV-5.png" group-title="[COLOR white][B]No Limite[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-name="Pequenas Empresas Grandes Negocios S01E01" tvg-logo="LOGO" group-title="[COLOR white][B]Pequenas Empresas Grandes Negocios[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Pequenas Empresas Grandes Negocios S01E01[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179610.mp4
 #EXTINF:-1 tvg-name="Pequenas Empresas Grandes Negocios S01E02" tvg-logo="LOGO" group-title="[COLOR white][B]Pequenas Empresas Grandes Negocios[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Pequenas Empresas Grandes Negocios S01E02[/B][/COLOR]
@@ -21,6 +48,7 @@ http://game.shiuk.re:80/series/628897/298451/3179616.mp4
 http://game.shiuk.re:80/series/628897/298451/3179617.mp4
 #EXTINF:-1 tvg-name="Pequenas Empresas Grandes Negocios S01E09" tvg-logo="LOGO" group-title="[COLOR white][B]Pequenas Empresas Grandes Negocios[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Pequenas Empresas Grandes Negocios S01E09[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179618.mp4
+
 #EXTINF:-1 tvg-name="Auto Esporte S01E01" tvg-logo="LOGO" group-title="[COLOR white][B]Auto Esporte[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Auto Esporte S01E01[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179619.mp4
 #EXTINF:-1 tvg-name="Auto Esporte S01E02" tvg-logo="LOGO" group-title="[COLOR white][B]Auto Esporte[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Auto Esporte S01E02[/B][/COLOR]
@@ -80,6 +108,7 @@ http://game.shiuk.re:80/series/628897/298451/3179645.mp4
 http://game.shiuk.re:80/series/628897/298451/3179646.mp4
 #EXTINF:-1 tvg-name="Caldeirao Com Mion S01E10" tvg-logo="LOGO" group-title="[COLOR white][B]Caldeirao Com Mion[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Caldeirao Com Mion S01E10[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179647.mp4
+
 #EXTINF:-1 tvg-name="Caldeirao Com Mion S01E11" tvg-logo="LOGO" group-title="[COLOR white][B]Domingao Com Huck[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Caldeirao Com Mion S01E11[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179648.mp4
 #EXTINF:-1 tvg-name="Domingao Com Huck S01E01" tvg-logo="LOGO" group-title="[COLOR white][B]Domingao Com Huck[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Domingao Com Huck S01E01[/B][/COLOR]
@@ -104,6 +133,7 @@ http://game.shiuk.re:80/series/628897/298451/3179657.mp4
 http://game.shiuk.re:80/series/628897/298451/3179658.mp4
 #EXTINF:-1 tvg-name="Domingao Com Huck S01E11" tvg-logo="LOGO" group-title="[COLOR white][B]Domingao Com Huck[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Domingao Com Huck S01E11[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179659.mp4
+
 #EXTINF:-1 tvg-name="Fantastico S01E01" tvg-logo="LOGO" group-title="[COLOR white][B]Fantastico[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Fantastico S01E01[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179660.mp4
 #EXTINF:-1 tvg-name="Fantastico S01E02" tvg-logo="LOGO" group-title="[COLOR white][B]Fantastico[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Fantastico S01E02[/B][/COLOR]
@@ -126,6 +156,7 @@ http://game.shiuk.re:80/series/628897/298451/3179668.mp4
 http://game.shiuk.re:80/series/628897/298451/3179669.mp4
 #EXTINF:-1 tvg-name="Fantastico S01E11" tvg-logo="LOGO" group-title="[COLOR white][B]Fantastico[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Fantastico S01E11[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179670.mp4
+
 #EXTINF:-1 tvg-name="Globo Reporter S01E01" tvg-logo="LOGO" group-title="[COLOR white][B]Globo Reporter[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Globo Reporter S01E01[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179671.mp4
 #EXTINF:-1 tvg-name="Globo Reporter S01E02" tvg-logo="LOGO" group-title="[COLOR white][B]Globo Reporter[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Globo Reporter S01E02[/B][/COLOR]
@@ -148,6 +179,7 @@ http://game.shiuk.re:80/series/628897/298451/3179679.mp4
 http://game.shiuk.re:80/series/628897/298451/3179680.mp4
 #EXTINF:-1 tvg-name="Globo Reporter S01E11" tvg-logo="LOGO" group-title="[COLOR white][B]Globo Reporter[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Globo Reporter S01E11[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179681.mp4
+
 #EXTINF:-1 tvg-name="Globo Rural S01E01" tvg-logo="LOGO" group-title="[COLOR white][B]Globo Rural[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Globo Rural S01E01[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179682.mp4
 #EXTINF:-1 tvg-name="Globo Rural S01E02" tvg-logo="LOGO" group-title="[COLOR white][B]Globo Rural[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Globo Rural S01E02[/B][/COLOR]
@@ -168,6 +200,7 @@ http://game.shiuk.re:80/series/628897/298451/3179689.mp4
 http://game.shiuk.re:80/series/628897/298451/3179690.mp4
 #EXTINF:-1 tvg-name="Globo Rural S01E10" tvg-logo="LOGO" group-title="[COLOR white][B]Globo Rural[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Globo Rural S01E10[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179691.mp4
+
 #EXTINF:-1 tvg-name="Profissao Reporter S01E01" tvg-logo="LOGO" group-title="[COLOR white][B]Profissao Reporter[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Profissao Reporter S01E01[/B][/COLOR]
 http://game.shiuk.re:80/series/628897/298451/3179692.mp4
 #EXTINF:-1 tvg-name="Profissao Reporter S01E02" tvg-logo="LOGO" group-title="[COLOR white][B]Profissao Reporter[/B][/COLOR]",[COLOR orange][B]S5[COLOR yellow] -> [COLOR white]Profissao Reporter S01E02[/B][/COLOR]
