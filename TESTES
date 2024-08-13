@@ -1,9 +1,641 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="ICONEGENERO",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-name="Pequenas Empresas  & Grandes Negocios S01E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Pequenas Empresas  & Grandes Negocios S01E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179610.mp4
+#EXTINF:-1 tvg-name="Pequenas Empresas  & Grandes Negocios S01E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Pequenas Empresas  & Grandes Negocios S01E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179611.mp4
+#EXTINF:-1 tvg-name="Pequenas Empresas  & Grandes Negocios S01E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Pequenas Empresas  & Grandes Negocios S01E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179612.mp4
+#EXTINF:-1 tvg-name="Pequenas Empresas  & Grandes Negocios S01E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Pequenas Empresas  & Grandes Negocios S01E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179613.mp4
+#EXTINF:-1 tvg-name="Pequenas Empresas  & Grandes Negocios S01E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Pequenas Empresas  & Grandes Negocios S01E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179614.mp4
+#EXTINF:-1 tvg-name="Pequenas Empresas  & Grandes Negocios S01E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Pequenas Empresas  & Grandes Negocios S01E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179615.mp4
+#EXTINF:-1 tvg-name="Pequenas Empresas  & Grandes Negocios S01E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Pequenas Empresas  & Grandes Negocios S01E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179616.mp4
+#EXTINF:-1 tvg-name="Pequenas Empresas  & Grandes Negocios S01E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Pequenas Empresas  & Grandes Negocios S01E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179617.mp4
+#EXTINF:-1 tvg-name="Pequenas Empresas  & Grandes Negocios S01E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Pequenas Empresas  & Grandes Negocios S01E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179618.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179619.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179620.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179621.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179622.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179623.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179624.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179625.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179626.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179627.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179628.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179629.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E12[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179630.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E13[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179631.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E14[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179632.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E15[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179633.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E16[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179634.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E17[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179635.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E18[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179636.mp4
+#EXTINF:-1 tvg-name="Auto Esporte S01E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Auto Esporte S01E19[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179637.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179638.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179639.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179640.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179641.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179642.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179643.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179644.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179645.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179646.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179647.mp4
+#EXTINF:-1 tvg-name="Caldeirao Com Mion S01E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Caldeirao Com Mion S01E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179648.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179649.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179650.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179651.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179652.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179653.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179654.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179655.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179656.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179657.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179658.mp4
+#EXTINF:-1 tvg-name="Domingao Com Huck S01E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Domingao Com Huck S01E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179659.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179660.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179661.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179662.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179663.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179664.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179665.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179666.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179667.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179668.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179669.mp4
+#EXTINF:-1 tvg-name="Fantastico S01E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Fantastico S01E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179670.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179671.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179672.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179673.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179674.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179675.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179676.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179677.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179678.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179679.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179680.mp4
+#EXTINF:-1 tvg-name="Globo Reporter S01E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Reporter S01E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179681.mp4
+#EXTINF:-1 tvg-name="Globo Rural S01E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Rural S01E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179682.mp4
+#EXTINF:-1 tvg-name="Globo Rural S01E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Rural S01E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179683.mp4
+#EXTINF:-1 tvg-name="Globo Rural S01E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Rural S01E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179684.mp4
+#EXTINF:-1 tvg-name="Globo Rural S01E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Rural S01E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179685.mp4
+#EXTINF:-1 tvg-name="Globo Rural S01E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Rural S01E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179686.mp4
+#EXTINF:-1 tvg-name="Globo Rural S01E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Rural S01E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179687.mp4
+#EXTINF:-1 tvg-name="Globo Rural S01E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Rural S01E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179688.mp4
+#EXTINF:-1 tvg-name="Globo Rural S01E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Rural S01E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179689.mp4
+#EXTINF:-1 tvg-name="Globo Rural S01E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Rural S01E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179690.mp4
+#EXTINF:-1 tvg-name="Globo Rural S01E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Globo Rural S01E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179691.mp4
+#EXTINF:-1 tvg-name="Profissao Reporter S01E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Profissao Reporter S01E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179692.mp4
+#EXTINF:-1 tvg-name="Profissao Reporter S01E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Profissao Reporter S01E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179693.mp4
+#EXTINF:-1 tvg-name="Profissao Reporter S01E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Profissao Reporter S01E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179694.mp4
+#EXTINF:-1 tvg-name="Profissao Reporter S01E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Profissao Reporter S01E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179695.mp4
+#EXTINF:-1 tvg-name="Profissao Reporter S01E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Profissao Reporter S01E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179696.mp4
+#EXTINF:-1 tvg-name="Profissao Reporter S01E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Profissao Reporter S01E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179697.mp4
+#EXTINF:-1 tvg-name="Profissao Reporter S01E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Profissao Reporter S01E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179698.mp4
+#EXTINF:-1 tvg-name="Profissao Reporter S01E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Profissao Reporter S01E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179699.mp4
+#EXTINF:-1 tvg-name="Profissao Reporter S01E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aeoqiBhxMbinyx3RIL9a2H8dnuN.jpg" group-title="Programas de TV",Profissao Reporter S01E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3179700.mp4
+[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E01" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E01
+http://game.shiuk.re:80/series/628897/298451/3100935.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E02" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E02
+http://game.shiuk.re:80/series/628897/298451/3100936.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E03" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E03
+http://game.shiuk.re:80/series/628897/298451/3100937.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E04" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E04
+http://game.shiuk.re:80/series/628897/298451/3100938.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E05" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E05
+http://game.shiuk.re:80/series/628897/298451/3100939.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E06" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E06
+http://game.shiuk.re:80/series/628897/298451/3100940.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E07" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E07
+http://game.shiuk.re:80/series/628897/298451/3100941.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E08" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E08
+http://game.shiuk.re:80/series/628897/298451/3100942.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E09" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E09
+http://game.shiuk.re:80/series/628897/298451/3100943.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E10" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E10
+http://game.shiuk.re:80/series/628897/298451/3100944.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E11" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E11
+http://game.shiuk.re:80/series/628897/298451/3100945.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S01E12" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S01E12
+http://game.shiuk.re:80/series/628897/298451/3100946.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S02E01" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S02E01
+http://game.shiuk.re:80/series/628897/298451/3100947.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S02E02" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S02E02
+http://game.shiuk.re:80/series/628897/298451/3100948.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S02E03" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S02E03
+http://game.shiuk.re:80/series/628897/298451/3100949.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S02E04" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S02E04
+http://game.shiuk.re:80/series/628897/298451/3100950.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S02E05" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S02E05
+http://game.shiuk.re:80/series/628897/298451/3100951.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S02E06" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S02E06
+http://game.shiuk.re:80/series/628897/298451/3100952.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S02E07" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S02E07
+http://game.shiuk.re:80/series/628897/298451/3100953.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S02E08" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S02E08
+http://game.shiuk.re:80/series/628897/298451/3100954.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S02E09" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S02E09
+http://game.shiuk.re:80/series/628897/298451/3100955.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Mais S02E10" tvg-logo="http://timg.bdta.pro/images/918b1d80302bed54edee2b512a4abf0a.jpg" group-title="Programas de TV",The Voice Mais S02E10
+http://game.shiuk.re:80/series/628897/298451/3100956.mp4[/B][/COLOR]
+
+#EXTINF:-1 tvg-name="The Voice Brasil S08E01" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060194.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E02" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060195.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E03" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060196.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E04" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060197.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E05" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060198.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E06" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060199.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E07" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060200.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E08" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060201.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E09" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060202.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E10" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060203.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E11" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060204.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E12" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E12[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060205.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E13" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E13[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060206.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E14" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E14[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060207.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E15" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E15[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060208.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E16" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E16[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060209.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E17" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E17[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060210.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E18" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E18[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060211.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E19" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E19[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060212.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S08E20" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S08E20[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060213.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E01" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060214.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E02" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060215.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E03" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060216.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E04" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060217.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E05" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060218.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E06" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060219.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E07" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060220.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E08" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060221.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E09" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060222.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E10" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060223.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E11" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060224.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E12" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E12[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060225.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E13" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E13[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060226.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E14" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E14[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060227.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E15" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E15[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060228.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E16" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E16[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060229.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E17" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E17[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060230.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E18" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E18[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060231.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E19" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E19[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060232.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S09E20" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S09E20[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060233.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E01" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060234.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E02" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060235.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E03" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060236.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E04" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060237.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E05" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060238.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E06" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060239.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E07" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060240.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E07" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060241.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E08" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060242.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E09" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060243.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E10" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060244.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E11" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060245.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E12" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E12[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060246.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E13" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E13[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060247.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E14" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E14[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060248.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E15" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E15[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060249.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E16" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E16[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060250.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E17" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E17[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060251.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S10E18" tvg-logo="http://timg.bdta.pro/images/dfa5a584d1e8b7e5ae1b2d430d808205.jpg" group-title="Programas de TV",The Voice Brasil S10E18[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060252.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060253.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060254.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060255.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060256.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060257.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060258.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060259.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060260.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060261.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060262.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060263.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E12[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060264.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E13[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060265.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S11E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S11E14[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060266.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060267.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060268.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060269.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060270.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060271.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060272.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060273.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060274.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060275.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060276.mp4
+#EXTINF:-1 tvg-name="The Voice Brasil S12E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pLIYVXRuuZYTMfSyfoeJN8WPvkU.jpg" group-title="Programas de TV",The Voice Brasil S12E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3060277.mp4
+[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E01" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E01
+http://game.shiuk.re:80/series/628897/298451/3057364.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E02" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E02
+http://game.shiuk.re:80/series/628897/298451/3057365.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E03" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E03
+http://game.shiuk.re:80/series/628897/298451/3057366.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E04" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E04
+http://game.shiuk.re:80/series/628897/298451/3057367.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E05" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E05
+http://game.shiuk.re:80/series/628897/298451/3057368.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E06" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E06
+http://game.shiuk.re:80/series/628897/298451/3057369.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E07" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E07
+http://game.shiuk.re:80/series/628897/298451/3057370.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E08
+http://game.shiuk.re:80/series/628897/298451/3057371.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E09" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E09
+http://game.shiuk.re:80/series/628897/298451/3057372.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E10" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E10
+http://game.shiuk.re:80/series/628897/298451/3057373.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E11" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E11
+http://game.shiuk.re:80/series/628897/298451/3057374.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E12" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E12
+http://game.shiuk.re:80/series/628897/298451/3057375.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E13" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E13
+http://game.shiuk.re:80/series/628897/298451/3057376.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S04E14" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S04E14
+http://game.shiuk.re:80/series/628897/298451/3057377.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E01" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E01
+http://game.shiuk.re:80/series/628897/298451/3057378.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E02" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E02
+http://game.shiuk.re:80/series/628897/298451/3057379.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E03" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E03
+http://game.shiuk.re:80/series/628897/298451/3057380.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E04" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E04
+http://game.shiuk.re:80/series/628897/298451/3057381.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E05" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E05
+http://game.shiuk.re:80/series/628897/298451/3057382.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E06" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E06
+http://game.shiuk.re:80/series/628897/298451/3057383.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E07" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E07
+http://game.shiuk.re:80/series/628897/298451/3057384.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E08
+http://game.shiuk.re:80/series/628897/298451/3057385.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E09" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E09
+http://game.shiuk.re:80/series/628897/298451/3057386.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E10" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E10
+http://game.shiuk.re:80/series/628897/298451/3057387.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E11" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E11
+http://game.shiuk.re:80/series/628897/298451/3057388.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E12" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E12
+http://game.shiuk.re:80/series/628897/298451/3057389.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E13" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E13
+http://game.shiuk.re:80/series/628897/298451/3057390.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E14" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E14
+http://game.shiuk.re:80/series/628897/298451/3057391.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E15" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E15
+http://game.shiuk.re:80/series/628897/298451/3057392.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S05E16" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S05E16
+http://game.shiuk.re:80/series/628897/298451/3057393.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E01" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E01
+http://game.shiuk.re:80/series/628897/298451/3057394.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E02" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E02
+http://game.shiuk.re:80/series/628897/298451/3057395.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E03" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E03
+http://game.shiuk.re:80/series/628897/298451/3057396.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E04" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E04
+http://game.shiuk.re:80/series/628897/298451/3057397.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E05" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E05
+http://game.shiuk.re:80/series/628897/298451/3057398.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E06" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E06
+http://game.shiuk.re:80/series/628897/298451/3057399.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E07" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E07
+http://game.shiuk.re:80/series/628897/298451/3057400.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E08
+http://game.shiuk.re:80/series/628897/298451/3057401.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E09" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E09
+http://game.shiuk.re:80/series/628897/298451/3057402.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E10" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E10
+http://game.shiuk.re:80/series/628897/298451/3057403.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E11" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E11
+http://game.shiuk.re:80/series/628897/298451/3057404.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E12" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E12
+http://game.shiuk.re:80/series/628897/298451/3057405.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E13" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E13
+http://game.shiuk.re:80/series/628897/298451/3057406.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E14" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E14
+http://game.shiuk.re:80/series/628897/298451/3057407.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E15" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E15
+http://game.shiuk.re:80/series/628897/298451/3057408.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E16" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E16
+http://game.shiuk.re:80/series/628897/298451/3057409.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S06E17" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S06E17
+http://game.shiuk.re:80/series/628897/298451/3057410.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E01" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E01
+http://game.shiuk.re:80/series/628897/298451/3057411.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E02" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E02
+http://game.shiuk.re:80/series/628897/298451/3057412.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E03" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E03
+http://game.shiuk.re:80/series/628897/298451/3057413.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E04" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E04
+http://game.shiuk.re:80/series/628897/298451/3057414.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E05" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E05
+http://game.shiuk.re:80/series/628897/298451/3057415.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E06" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E06
+http://game.shiuk.re:80/series/628897/298451/3057416.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E07" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E07
+http://game.shiuk.re:80/series/628897/298451/3057417.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E08
+http://game.shiuk.re:80/series/628897/298451/3057418.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E09" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E09
+http://game.shiuk.re:80/series/628897/298451/3057419.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E10" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E10
+http://game.shiuk.re:80/series/628897/298451/3057420.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E11" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E11
+http://game.shiuk.re:80/series/628897/298451/3057421.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S07E12" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S07E12
+http://game.shiuk.re:80/series/628897/298451/3057422.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E01" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E01
+http://game.shiuk.re:80/series/628897/298451/3057423.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E02" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E02
+http://game.shiuk.re:80/series/628897/298451/3057424.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E03" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E03
+http://game.shiuk.re:80/series/628897/298451/3057425.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E04" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E04
+http://game.shiuk.re:80/series/628897/298451/3057426.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E05" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E05
+http://game.shiuk.re:80/series/628897/298451/3057427.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E06" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E06
+http://game.shiuk.re:80/series/628897/298451/3057428.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E07" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E07
+http://game.shiuk.re:80/series/628897/298451/3057429.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E08
+http://game.shiuk.re:80/series/628897/298451/3057430.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E09" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E09
+http://game.shiuk.re:80/series/628897/298451/3057431.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E10" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E10
+http://game.shiuk.re:80/series/628897/298451/3057432.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E11" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E11
+http://game.shiuk.re:80/series/628897/298451/3057433.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E12" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E12
+http://game.shiuk.re:80/series/628897/298451/3057434.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E13" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E13
+http://game.shiuk.re:80/series/628897/298451/3057435.mp4[/B][/COLOR]
+#EXTINF:-1 tvg-name="The Voice Kids (2016) S08E14" tvg-logo="http://timg.bdta.pro/t/p/w1280/s2y5CVJBAWTLUzPnJUqrPxWFkDB.jpg" group-title="Programas de TV",The Voice Kids (2016) S08E14
+http://game.shiuk.re:80/series/628897/298451/3057436.mp4[/B][/COLOR]
+
+#EXTINF:-1 tvg-name="No Limite S05E00" tvg-logo="http://timg.bdta.pro/images/2736298a6d9436109711c40de244c265.jpg" group-title="Programas de TV",No Limite S05E00[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110272.mp4
+#EXTINF:-1 tvg-name="No Limite S05E01" tvg-logo="http://timg.bdta.pro/images/91e7428045458d3ca84fd8a8e7786403.jpg" group-title="Programas de TV",No Limite S05E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110273.mp4
+#EXTINF:-1 tvg-name="No Limite S05E02" tvg-logo="http://timg.bdta.pro/images/2041fad915f233b2131632dc962a4186.jpg" group-title="Programas de TV",No Limite S05E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110274.mp4
+#EXTINF:-1 tvg-name="No Limite S05E03" tvg-logo="http://timg.bdta.pro/images/2041fad915f233b2131632dc962a4186.jpg" group-title="Programas de TV",No Limite S05E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110275.mp4
+#EXTINF:-1 tvg-name="No Limite S05E04" tvg-logo="http://timg.bdta.pro/images/2041fad915f233b2131632dc962a4186.jpg" group-title="Programas de TV",No Limite S05E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110276.mp4
+#EXTINF:-1 tvg-name="No Limite S05E05" tvg-logo="http://timg.bdta.pro/images/2041fad915f233b2131632dc962a4186.jpg" group-title="Programas de TV",No Limite S05E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110277.mp4
+#EXTINF:-1 tvg-name="No Limite S05E06" tvg-logo="http://timg.bdta.pro/images/2041fad915f233b2131632dc962a4186.jpg" group-title="Programas de TV",No Limite S05E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110278.mp4
+#EXTINF:-1 tvg-name="No Limite S05E07" tvg-logo="http://timg.bdta.pro/images/2041fad915f233b2131632dc962a4186.jpg" group-title="Programas de TV",No Limite S05E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110279.mp4
+#EXTINF:-1 tvg-name="No Limite S05E08" tvg-logo="http://timg.bdta.pro/images/2041fad915f233b2131632dc962a4186.jpg" group-title="Programas de TV",No Limite S05E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110280.mp4
+#EXTINF:-1 tvg-name="No Limite S05E09" tvg-logo="http://timg.bdta.pro/images/2041fad915f233b2131632dc962a4186.jpg" group-title="Programas de TV",No Limite S05E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110281.mp4
+#EXTINF:-1 tvg-name="No Limite S05E10" tvg-logo="http://timg.bdta.pro/images/2041fad915f233b2131632dc962a4186.jpg" group-title="Programas de TV",No Limite S05E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110282.mp4
+#EXTINF:-1 tvg-name="No Limite S05E11" tvg-logo="http://timg.bdta.pro/images/2041fad915f233b2131632dc962a4186.jpg" group-title="Programas de TV",No Limite S05E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110283.mp4
+#EXTINF:-1 tvg-name="No Limite S06E01" tvg-logo="http://timg.bdta.pro/images/c681ee7c2f70e76b02d2d2af0b055607.jpg" group-title="Programas de TV",No Limite S06E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110284.mp4
+#EXTINF:-1 tvg-name="No Limite S06E02" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110285.mp4
+#EXTINF:-1 tvg-name="No Limite S06E03" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110286.mp4
+#EXTINF:-1 tvg-name="No Limite S06E04" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110287.mp4
+#EXTINF:-1 tvg-name="No Limite S06E05" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110288.mp4
+#EXTINF:-1 tvg-name="No Limite S06E06" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110289.mp4
+#EXTINF:-1 tvg-name="No Limite S06E07" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110290.mp4
+#EXTINF:-1 tvg-name="No Limite S06E08" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110291.mp4
+#EXTINF:-1 tvg-name="No Limite S06E09" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110292.mp4
+#EXTINF:-1 tvg-name="No Limite S06E10" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E10[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110293.mp4
+#EXTINF:-1 tvg-name="No Limite S06E11" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E11[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110294.mp4
+#EXTINF:-1 tvg-name="No Limite S06E12" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E12[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110295.mp4
+#EXTINF:-1 tvg-name="No Limite S06E13" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E13[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110296.mp4
+#EXTINF:-1 tvg-name="No Limite S06E14" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E14[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110297.mp4
+#EXTINF:-1 tvg-name="No Limite S06E15" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E15[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110298.mp4
+#EXTINF:-1 tvg-name="No Limite S06E16" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E16[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110299.mp4
+#EXTINF:-1 tvg-name="No Limite S06E17" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E17[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110300.mp4
+#EXTINF:-1 tvg-name="No Limite S06E18" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E18[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110301.mp4
+#EXTINF:-1 tvg-name="No Limite S06E19" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E19[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110302.mp4
+#EXTINF:-1 tvg-name="No Limite S06E20" tvg-logo="http://timg.bdta.pro/images/d819ba9d9a152b38cbb1c6b401f9f016.jpg" group-title="Programas de TV",No Limite S06E20[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110303.mp4
+#EXTINF:-1 tvg-name="No Limite S07E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mZIoGTSKf02oycH3XEAqU85zTEg.jpg" group-title="Programas de TV",No Limite S07E01[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110304.mp4
+#EXTINF:-1 tvg-name="No Limite S07E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/yo5KlWxPcQjTjHwfXZH4KMjKN3m.jpg" group-title="Programas de TV",No Limite S07E02[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110305.mp4
+#EXTINF:-1 tvg-name="No Limite S07E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bXXuJVeofI0wj6nI9M7MD0guDIc.jpg" group-title="Programas de TV",No Limite S07E03[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110306.mp4
+#EXTINF:-1 tvg-name="No Limite S07E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bXXuJVeofI0wj6nI9M7MD0guDIc.jpg" group-title="Programas de TV",No Limite S07E04[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110307.mp4
+#EXTINF:-1 tvg-name="No Limite S07E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bXXuJVeofI0wj6nI9M7MD0guDIc.jpg" group-title="Programas de TV",No Limite S07E05[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110308.mp4
+#EXTINF:-1 tvg-name="No Limite S07E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bXXuJVeofI0wj6nI9M7MD0guDIc.jpg" group-title="Programas de TV",No Limite S07E06[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110309.mp4
+#EXTINF:-1 tvg-name="No Limite S07E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bXXuJVeofI0wj6nI9M7MD0guDIc.jpg" group-title="Programas de TV",No Limite S07E07[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110310.mp4
+#EXTINF:-1 tvg-name="No Limite S07E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bXXuJVeofI0wj6nI9M7MD0guDIc.jpg" group-title="Programas de TV",No Limite S07E08[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110311.mp4
+#EXTINF:-1 tvg-name="No Limite S07E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bXXuJVeofI0wj6nI9M7MD0guDIc.jpg" group-title="Programas de TV",No Limite S07E09[/B][/COLOR]
+http://game.shiuk.re:80/series/628897/298451/3110312.mp4
+#EXTINF:-1 tvg-name="No Limite S07E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bXXuJVeofI0wj6nI9M7MD0guDIc.jpg" group-title="Programas de TV",No Limite S07E10[/B][/COLOR]
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
-
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Batalha no Neretya[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Batalha no Neretya 3[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1PoBR4HGkA_RYkT3sWu62FbgTSC9Nssdj?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
