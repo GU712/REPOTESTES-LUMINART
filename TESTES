@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo SP HD" group-title="Canais | Globo Sudeste",Globo SP HD
-http://1111.wf:80/live/612785397/T431u2294M/289883.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo SP HD" group-title="[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white]Canais | Globo Sudeste[/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white]Globo SP HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S4 [/B][/COLOR];maxbitrate=0&amp;Buffer=99999&amp;url=http://1111.wf:80/live/612785397/T431u2294M/289883.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo SP HD²" group-title="Canais | Globo Sudeste",Globo SP HD²
-http://1111.wf:80/live/612785397/T431u2294M/289884.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo SP HD²" group-title="[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white]Canais | Globo Sudeste[/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white]Globo SP HD²[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S4 [/B][/COLOR];maxbitrate=0&amp;Buffer=99999&amp;url=http://1111.wf:80/live/612785397/T431u2294M/289884.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo SP SD" group-title="Canais | Globo Sudeste",Globo SP SD
-http://1111.wf:80/live/612785397/T431u2294M/289885.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo SP SD" group-title="[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white]Canais | Globo Sudeste[/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white]Globo SP SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S4 [/B][/COLOR];maxbitrate=0&amp;Buffer=99999&amp;url=http://1111.wf:80/live/612785397/T431u2294M/289885.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo RJ FHD" group-title="Canais | Globo Sudeste",Globo RJ FHD
-http://1111.wf:80/live/612785397/T431u2294M/2376.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo RJ FHD" group-title="[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white]Canais | Globo Sudeste[/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white]Globo RJ FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S4 [/B][/COLOR];maxbitrate=0&amp;Buffer=99999&amp;url=http://1111.wf:80/live/612785397/T431u2294M/2376.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo RJ UHD" group-title="Canais | Globo Sudeste",Globo RJ UHD
-http://1111.wf:80/live/612785397/T431u2294M/21319.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo RJ UHD" group-title="[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white]Canais | Globo Sudeste[/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white]Globo RJ UHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S4 [/B][/COLOR];maxbitrate=0&amp;Buffer=99999&amp;url=http://1111.wf:80/live/612785397/T431u2294M/21319.m3u8
