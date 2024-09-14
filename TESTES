@@ -1,8 +1,19 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="380371" tvg-id="" tvg-name="24H 3 Palavrinhas" tvg-logo="http://xdns.ws:80/images/YPT4TUDoaDlIQ4kK6LEJVvc1wfTyS6RGwXOCwHwyMsWk-SCA7bPSF2vmZclNuMFqUrXOY-JvZ0Ne0y28FJ1wq34PzSj8BwEqIrAnE32-swU.png" group-title="Canais | 24H Desenhos",24H 3 Palavrinhas
-http://xdns.ws:80/play/cjeAGL7gLDC_ukfv5NMKBreJC01-EhAtQeW1CV_mSvM
-#EXTINF:-1 xui-id="380372" tvg-id="" tvg-name="24H 44 Gatos" tvg-logo="http://xdns.ws:80/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qDO4_lZgWxj8aQNKnkGvKySt4dwViGliG31vBonEZ1vOg.png" group-title="Canais | 24H Desenhos",24H 44 Gatos
-http://xdns.ws:80/play/cjeAGL7gLDC_ukfv5NMKBlnHvrDECBIvtOsIFEpTb9M
-#EXTINF:-1 xui-id="380373" tvg-id="" tvg-name="24H A Casa Magica da Gabby" tvg-logo="http://xdns.ws:80/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qDO4_lZgWxj8aQNKnkGvKyS2gVh2whdiDhVIC873CShfA.png" group-title="Canais | 24H Desenhos",24H A Casa Magica da Gabby
-http://xdns.ws:80/play/cjeAGL7gLDC_ukfv5NMKBkTq8BaYWnjt7vhw3rD4AZE
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo SP HD" group-title="Canais | Globo Sudeste",Globo SP HD
+http://1111.wf:80/live/612785397/T431u2294M/289883.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo SP HD²" group-title="Canais | Globo Sudeste",Globo SP HD²
+http://1111.wf:80/live/612785397/T431u2294M/289884.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo SP SD" group-title="Canais | Globo Sudeste",Globo SP SD
+http://1111.wf:80/live/612785397/T431u2294M/289885.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo RJ FHD" group-title="Canais | Globo Sudeste",Globo RJ FHD
+http://1111.wf:80/live/612785397/T431u2294M/2376.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" tvg-name="Globo RJ UHD" group-title="Canais | Globo Sudeste",Globo RJ UHD
+http://1111.wf:80/live/612785397/T431u2294M/21319.m3u8
