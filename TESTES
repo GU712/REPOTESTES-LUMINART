@@ -1,10 +1,470 @@
 <channels>
 <channel>
-<name>[COLOR white][B]SERVER LS - SÉRIES LISTA 6[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A-SEL-SRS-LS-AaZ-ALL</externallink>
-<thumbnail>https://i.ibb.co/pLnydYh/SERVER-LS.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>LINKS DO SERVER LS SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Numerais (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A01-SEL-SRS-NUM-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Numerais
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra A (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A02-SEL-SRS-LETRA-A-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra A
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra B (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A03-SEL-SRS-LETRA-B-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra B
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra C (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A04-SEL-SRS-LETRA-C-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra C
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra D (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A05-SEL-SRS-LETRA-D-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra D
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra E (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A06-SEL-SRS-LETRA-E-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra E
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra F (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A07-SEL-SRS-LETRA-F-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra F
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra G (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A08-SEL-SRS-LETRA-G-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra G
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra H (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A09-SEL-SRS-LETRA-H-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra H
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra I (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A10-SEL-SRS-LETRA-I-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra I
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra J (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A11-SEL-SRS-LETRA-J-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra J
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra K (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A12-SEL-SRS-LETRA-K-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra K
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra L (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A13-SEL-SRS-LETRA-L-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra L
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra M (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A14-SEL-SRS-LETRA-M-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra M
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra N (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A15-SEL-SRS-LETRA-N-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra N
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra O (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A16-SEL-SRS-LETRA-O-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra O
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra P (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A17-SEL-SRS-LETRA-P-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra P
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra Q (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A18-SEL-SRS-LETRA-Q-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra Q
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra R (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A19-SEL-SRS-LETRA-R-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra R
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra S (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A20-SEL-SRS-LETRA-S-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra S
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra T (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A21-SEL-SRS-LETRA-T-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra T
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra U (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A22-SEL-SRS-LETRA-U-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra U
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra V (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A23-SEL-SRS-LETRA-V-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra V
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra X (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A24-SEL-SRS-LETRA-X-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra X
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra Y (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A25-SEL-SRS-LETRA-Y-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra Y
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra W (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A26-SEL-SRS-LETRA-W-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra W
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Letra Z (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A27-SEL-SRS-LETRA-Z-ALL</externallink>
+<thumbnail>https://i.ibb.co/qJzF1nr/LS-FANART.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Lista de Séries: 
+[B]Letra Z
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
