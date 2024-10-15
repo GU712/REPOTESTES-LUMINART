@@ -1,123 +1,680 @@
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-</channel>
-</channels>
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>	
+<title>[COLOR orange][B]A Super Máquina[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (1982) 21 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]NOVIDADES DA SEMANA
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Nessa seção são encontrados atalhos provisórios aos conteúdos novos que foram adicionados ao SERVER LS durante a semana, a seção esta dividida em dois setores FILMES e SÉRIES. 
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
+<item><title>[COLOR orange][B]LS-T01E01-2[COLOR yellow] -> [COLOR white]A Super Maquina (Partes 1 e 2)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E01.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
 [COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO.
-USE ESSE LINK DE ATALHO
-</channel>
-</channels>
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Manobras Mortais[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E02.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Ferias em White Rock[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E03.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Rodas Acrobaticas[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E04.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Eu voto contra[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E05.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Nem uma gota para beber[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E06.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Pequena Infrasao[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E07.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]O Irmao Gemeo[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E08.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]De dentro para fora[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E09.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]O Veredito Final[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E10.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Uma Viagem de Luxo[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E11.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]A Procura de uma lembransa[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E12.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Corasoes de Pedra[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E13.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Corrida Fatal[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E14.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]A Ligasao Topazio[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E15.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]O Carro de Ouro[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E16.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Uma Cidade Pequena, porem indecente[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E17.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Passaro Branco[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E18.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Ladroes de Caminhoes[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E19.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Espionagem Industrial[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E20.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]A Filha Prodiga [/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T01/LS-T01E21.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udim8f7Qgo5892HC8gZyCx62wNm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 02 (1983) 24 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<item><title>[COLOR orange][B]LS-T02E01-2[COLOR yellow] -> [COLOR white]Golias (Partes 1 e 2)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E01.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]O Meio Irmao[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E02.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Mercadores da Morte[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E03.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Testemunha Cega[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E04.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]A Volta a Cadiz[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E05.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]K.I.T.T. o Gato[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E06.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Ladroes de Carros[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E07.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]A Alma de K.I.T.T.[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E08.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Aliansa de Fogo[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E09.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]Pesadelos[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E10.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]O Cigano[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E11.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]Um Cavaleiro em Brilhante Armadura[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E12.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Diamantes nao sao os Melhores Amigos[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E13.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Guerreiros da Estrada[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E14.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Corrida pela Vida[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E15.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]Demonios da Velocidade[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E16.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E18-19[COLOR yellow] -> [COLOR white]A Volta de Golias (Partes 1 e 2)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E17.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]Um Trabalho Perfeito[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E18.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]A Boca da Cobra(Parte 1)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E19.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item>title>[COLOR orange][B]LS-T02E22[COLOR yellow] -> [COLOR white]A Boca da Cobra(Parte 2)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E20.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T02E23[COLOR yellow] -> [COLOR white]Cansao para lembrar voce[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E21.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+item><title>[COLOR orange][B]LS-T02E24[COLOR yellow] -> [COLOR white]Equipamento Pesado[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T02E22.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ok2uMrCtOU5lVv2FYMAcWJK3gi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 03 (1984) 21 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T03E01-2[COLOR yellow] -> [COLOR white]Super Forza Total (Partes 1 e 2)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T02/LS-T03E01.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Cara nova no Pedaso[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E02.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]O Super-Racha[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E03.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Psicose na noite das Bruxas[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E04.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]K.I.T.T. x K.A.R.R.[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E05.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Os Diabinhos[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E06.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]A Traisao de Michael[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E07.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Veneno Mortal[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E08.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Que Memoria![/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E09.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Camaleao o Homem das Mil Caras[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E10.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Assassinatos sob Medida[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E11.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Nao se aposta em Cavalo Morto[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E12.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]K.I.T.T. ou K.I.T.T. sucata?[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E13.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]O Carro Blindado[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E14.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]O Super Criminoso[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E15.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR white]Corrida de Marberry[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E16.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]O Raio do Cristal Negro[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E17.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E19[COLOR yellow] -> [COLOR white]Os Caminhoneiros[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E18.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR white]O Retiro[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E19.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E21[COLOR yellow] -> [COLOR white]K.I.T.T. x LASER[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E20.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T03E22[COLOR yellow] -> [COLOR white]Noites de Circo[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T03/LS-T03E21.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWoHgEdxX5ySagRnYHbjGPIOBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 04 (1985) 22 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]A Nova Aparencia de K.I.T.T.(Partes 1 e 2)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E01.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Marcado para Morrer[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E03.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Quem tem medo de aviao?[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E04.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]Solo Sagrado[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E05.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]Mas Companhias[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E06.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]Golpe de Mestre da Fundasao[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E07.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]Que esta data se repita[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E08.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]Corrida decisiva[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E09.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]Atras das Grades[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E10.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]A Uniao faz a Forza[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E11.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]O Perfume das Rosas[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E12.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]K.I.T.T. o Assassino[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E13.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]Fato Consumado[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E14.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E15[COLOR yellow] -> [COLOR white]A Sombra Mortal[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E15.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E16[COLOR yellow] -> [COLOR white]Redensao de um Campeao[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E16.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E17[COLOR yellow] -> [COLOR white]A Noite dos Mil Demonios[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E17.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E18[COLOR yellow] -> [COLOR white]Colinas de Fogo[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E18.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E19[COLOR yellow] -> [COLOR white]Voo para Liberdade[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E19.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E20[COLOR yellow] -> [COLOR white]O Fantasma do Estudio[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E20.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E21[COLOR yellow] -> [COLOR white]Herois do Sol Nascente[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E21.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+<item><title>[COLOR orange][B]LS-T04E22[COLOR yellow] -> [COLOR white]A Maldisao Voodoo[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/A.Super.Maquina/OLD/T04/LS-T04E22.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aB1pMVqkTSJvRiaZSlKH3MerpFX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]A REPRODUÇÃO INICIA EM 40s. AGUARDE POR FAVOR.[/COLOR]</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]FILMES
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]FILME: Produto audiovisual finalizado, com certa duração para ser exibido no cinema, na televisão ou em algum outro veículo, podem ser curtas ou longas. A Seção de FILMES disponibiliza conteúdo em diversos servidores.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO.
-USE ESSE LINK DE ATALHO
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]SÉRIES
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]A seção contém conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, com ou sem vínculos de uns com os outros no decorrer de diversas temporadas.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO.
-USE ESSE LINK DE ATALHO
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]ESPECIAIS
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Consideramos conteúdo ESPECIAL as franquias ou personagens que possuam além de filmes, apresentações em Séries ou Desenhos. Por isso organizamos esse material para centralizar e facilitar seu acesso. 
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO.
-USE ESSE LINK DE ATALHO
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]NOSTALGIA
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Nessa seção adicionamos conteúdo raro e antigo, lançados antes do ano 2000. Esta organizada por décadas, na maioria material exclusivo que compramos de colecionadores usando as CONTRIBUIÇÕES recebidas.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO.
-USE ESSE LINK DE ATALHO
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<info>[COLOR white]Atalho para a seção de:  
-[B]MENU GERAL
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Retorne ao menu principal e realize uma nova escolha entre as seções do Add on.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO.
-USE ESSE LINK DE ATALHO
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
