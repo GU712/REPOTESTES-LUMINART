@@ -1,18 +1,14 @@
-<item>
-<title>[COLOR white][B]Irmãos por Escolha (2023) - FHD DUB[COLOR yellow] -> [COLOR orange][B]S-LS[/B][/COLOR]</title>	
-<link>http://107.152.39.66:8081/stream/175?hash=6572bd&d=true</link>
-<thumbnail>https://image.tmdb.org/t/p/original/fN8SBoDHYT2zO1x80GhhX605WuX.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sjFUjc1RmGybJoWgFJovkMzWq1c.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Irmãos por Escolha
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2023
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O filme mostra alguns personagens e disseca seu processo de amadurecimento. É uma história
- focada em camaradagem, onde jovens descobrem que juntos são mais fortes. Dramático, sensível, belamente fotografado, com muita ação.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM,
-CLIQUE,E AGUARDE.
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-name="Departamento Q: O Efeito Marco (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhSefNpdyN7WHG8MnzRl7op4W.jpg" group-title="[COLOR white][B]Departamento Q[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Departamento Q: O Efeito Marco (2021)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]
+http://cdn.xcore.ca:80/movie/96Raed64/4384251773/46889.mp4
+#EXTINF:-1 tvg-name="Departamento Q - O Ausente (2014)" tvg-logo="http://im.pkweb.ca:80/images/3bb237cf85fcc9c8fdaec97e32bc8c96.jpg" group-title="[COLOR white][B]Departamento Q[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Departamento Q - O Ausente (2014)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]
+http://cdn.xcore.ca:80/movie/96Raed64/4384251773/47716.mp4
+#EXTINF:-1 tvg-name="Departamento Q: Em Busca de Vingança (2018)" tvg-logo="http://im.pkweb.ca:80/images/ec0347fe50dff8a13fbe9971612a76d1.jpg" group-title="[COLOR white][B]Departamento Q[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Departamento Q: Em Busca de Vingança (2018)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]
+http://cdn.xcore.ca:80/movie/96Raed64/4384251773/60963.mp4
+#EXTINF:-1 tvg-name="Departamento Q: Uma Conspiração de Fé (2016)" tvg-logo="http://im.pkweb.ca:80/images/8fbe43e969dcea53b717e8eaa70fbe5f.jpg" group-title="[COLOR white][B]Departamento Q[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Departamento Q: Uma Conspiração de Fé (2016)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]
+http://cdn.xcore.ca:80/movie/96Raed64/4384251773/60964.mp4
+#EXTINF:-1 tvg-name="Departamento Q - Guardiões das Causas Perdidas [L] (2013)" tvg-logo="http://im.pkweb.ca:80/images/1845047b1f54ec3082b65b0dc0e107ac.jpg" group-title="[COLOR white][B]Departamento Q[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Departamento Q - Guardiões das Causas Perdidas [L] (2013)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]
+http://cdn.xcore.ca:80/movie/96Raed64/4384251773/60965.mp4
