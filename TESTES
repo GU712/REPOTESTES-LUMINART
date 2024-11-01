@@ -1,37 +1,14 @@
-<channels>
-<channel>
-<name>[COLOR white][B]SÉRIES DE SUSPENSE E TERROR2[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C-LS-SRS-SPTR-ALL</externallink>
-<thumbnail>https://i.ibb.co/ykLd5Py/SPTR-ICO-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/gW5ncS4/SPTR-FAN.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]SÉRIES DE SUSPENSE E TERROR
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho aterrorizante em que o mêdo anda lado a lado com a morte e sofrimento de algozes ou vítimas em terríveis pesadelos de dor e aflição.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.
-[/B][COLOR black].[/COLOR]
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bbB9BQP/FILM-LD-SERV-1.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
 
-<channels>
-<channel>
-<name>[COLOR white][B]FILMES DE SUSPENSE E TERROR[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/A-LS-FLM-SPTR-ALL</externallink>
-<thumbnail>https://i.ibb.co/dc2PDqy/SPTR-ICO-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/gW5ncS4/SPTR-FAN.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]FILMES DE SUSPENSE E TERROR
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho aterrorizante em que o mêdo anda lado a lado com a morte e sofrimento de algozes ou vítimas em terríveis pesadelos de dor e aflição.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.
-[/B][COLOR black].[/COLOR]
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-name="Departamento Q: O Efeito Marco (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhSefNpdyN7WHG8MnzRl7op4W.jpg" group-title="[COLOR white][B]Departamento Q[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Departamento Q: O Efeito Marco (2021)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]
+http://cdn.xcore.ca:80/movie/96Raed64/4384251773/46889.mp4
+#EXTINF:-1 tvg-name="Departamento Q - O Ausente (2014)" tvg-logo="http://im.pkweb.ca:80/images/3bb237cf85fcc9c8fdaec97e32bc8c96.jpg" group-title="[COLOR white][B]Departamento Q[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Departamento Q - O Ausente (2014)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]
+http://cdn.xcore.ca:80/movie/96Raed64/4384251773/47716.mp4
+#EXTINF:-1 tvg-name="Departamento Q: Em Busca de Vingança (2018)" tvg-logo="http://im.pkweb.ca:80/images/ec0347fe50dff8a13fbe9971612a76d1.jpg" group-title="[COLOR white][B]Departamento Q[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Departamento Q: Em Busca de Vingança (2018)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]
+http://cdn.xcore.ca:80/movie/96Raed64/4384251773/60963.mp4
+#EXTINF:-1 tvg-name="Departamento Q: Uma Conspiração de Fé (2016)" tvg-logo="http://im.pkweb.ca:80/images/8fbe43e969dcea53b717e8eaa70fbe5f.jpg" group-title="[COLOR white][B]Departamento Q[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Departamento Q: Uma Conspiração de Fé (2016)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]
+http://cdn.xcore.ca:80/movie/96Raed64/4384251773/60964.mp4
+#EXTINF:-1 tvg-name="Departamento Q - Guardiões das Causas Perdidas [L] (2013)" tvg-logo="http://im.pkweb.ca:80/images/1845047b1f54ec3082b65b0dc0e107ac.jpg" group-title="[COLOR white][B]Departamento Q[/B][/COLOR]",[COLOR orange][B]S-ALT[COLOR yellow] -> [COLOR white]Departamento Q - Guardiões das Causas Perdidas [L] (2013)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]
+http://cdn.xcore.ca:80/movie/96Raed64/4384251773/60965.mp4
