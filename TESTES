@@ -1,6 +1,6 @@
 <item>
 <title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W4O25mA9X8Pi2oMTP4JNwq5JVaEq5HsD/view?usp=sharing?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W4O25mA9X8Pi2oMTP4JNwq5JVaEq5HsD/view</link>
 <thumbnail>THUMBNAIL DO FILME</thumbnail>
 <fanart>FANART DO FILME</fanart>
 <info>TEXTO DE SINOPSE.</info>
