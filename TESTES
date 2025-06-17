@@ -4,7 +4,7 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-id="" tvg-name="24H 3 Palavrinhas" tvg-logo="" group-title="[COLOR white][B]24H DESENHO[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B]24H 3 Palavrinhas[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
-plugin://script.hls.tester/?action=play&url=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://daxoi.online:80/9c00d3455025/9c00d3455025/2694334.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S3[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]&amp;url=http://bruma.zip:80/live/jorgesograo/909090/316780.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24H 3 Palavrinhas" tvg-logo="" group-title="[COLOR white][B]24H DESENHO[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B]24H 3 Palavrinhas[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
 plugin://script.hls.tester/?action=play&url=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://cheapp.xyz:80/julianafernandes/19997099881/14881.m3u8
