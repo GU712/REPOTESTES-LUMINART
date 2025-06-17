@@ -1,19 +1,8 @@
 #EXTM3U
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/meiRE7aScXd75IV2hmv9hZG03VW.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Barbada do Biruta (1953)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Jerry.Lewis/A.Barbada.do.Biruta.(1953).mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/meiRE7aScXd75IV2hmv9hZG03VW.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Barbada do Biruta (1953)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DSNHS/3-COL/Dick.Vigarista/DSH/1968.Corrida.Maluca/FHD/LS-T01E01.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/meiRE7aScXd75IV2hmv9hZG03VW.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Barbada do Biruta (1953)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DSNHS/3-COL/Dick.Vigarista/DSH/1968.Corrida.Maluca/FHD/LS-T01E02.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" ,[COLOR orange][B]CONTRIBUIR... É MANTER O LUMINART ON-LINE[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zNNcWH4/SEL-ITEM-TVS-ICON.png" group-title="[COLOR white][B][COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-id="" tvg-name="24H 3 Palavrinhas" tvg-logo="" group-title="[COLOR white][B]24H DESENHOS[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B]24H 3 Palavrinhas[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
+plugin://script.hls.tester/?action=play&url=http://daxoi.online:80/9c00d3455025/9c00d3455025/2694334.m3u8
 
