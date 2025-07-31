@@ -1,5 +1,5 @@
 <item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]m3u8[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>plugin://script.hls.tester/?action=play&url=http://newoneblack.site:80/jose07/123456/235989.m3u8</link>
+<link>plugin://script.lumi.tester/?action=play&url=http://newoneblack.site:80/jose07/123456/235989.m3u8</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/arfNOCoDR4EVOcAD0T6rpdac9lu.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
