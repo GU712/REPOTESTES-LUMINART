@@ -1,7 +1,8 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zNNcWH4/SEL-ITEM-TVS-ICON.png" group-title="[COLOR white][B][COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-id="" tvg-name="+NOVELAS FHD" tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcdn.one.accedo.tv%2Ffiles%2F67ebe560a6f5470017708753&w=384&q=75" group-title="[COLOR white][B]SBT+[COLOR yellow] -> [COLOR orange]S5[/B][/COLOR]",[COLOR white][B]+NOVELAS FHD[COLOR yellow] -> [COLOR orange]S5[/B][/COLOR]
-plugin://script.hls.tester/?action=play&url=http://newoneblack.site:80/jose07/123456/235989.m3u8
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]m3u8[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>plugin://script.hls.tester/?action=play&url=http://newoneblack.site:80/jose07/123456/235989.m3u8</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/arfNOCoDR4EVOcAD0T6rpdac9lu.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
