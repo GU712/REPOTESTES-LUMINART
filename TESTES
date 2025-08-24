@@ -202,6 +202,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]MUSICAL[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/09-CRDR/2B1I-SEL-CRDR.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/09-ICRDR/CRDR-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/09-ICRDR/CRDR-FAN.png</fanart>
+<info>[COLOR white]Filmes do gênero: 
+[B]CRIME E DRAMA
+[COLOR black].[/COLOR]
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho dramático com situações criminosas ou do cotidiano humano, em narrativas envolventes mas dolorosas com seus envolvidos.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]CRIME[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/09-CRDR/2B1I-SEL-CRDR.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/09-ICRDR/CRDR-ICO-GEN.png</thumbnail>
