@@ -76,48 +76,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]COMÉDIA[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/04-COM/2B1D-SEL-COM.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/04-ICOM/COM-ICO-GEN.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/04-ICOM/COM-FAN.png</fanart>
-<info>[COLOR white]Filmes do gênero: 
-[B]COMÉDIA
-[COLOR black].[/COLOR]
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que tem o propósito de provocar riso, em situações cômicas pela caracterização de tipos, costumes e pelo absurdo da história.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[/B][COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]ROMANCE[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/09-CRDR/2B1I-SEL-CRDR.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/09-ICRDR/CRDR-ICO-GEN.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/09-ICRDR/CRDR-FAN.png</fanart>
-<info>[COLOR white]Filmes do gênero: 
-[B]CRIME E DRAMA
-[COLOR black].[/COLOR]
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho dramático com situações criminosas ou do cotidiano humano, em narrativas envolventes mas dolorosas com seus envolvidos.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[/B][COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]WESTERN[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/05-WST/2B1E-SEL-WST.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/05-IWST/WST-ICO-GEN.png</thumbnail>
@@ -160,6 +118,48 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]COMÉDIA[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/04-COM/2B1D-SEL-COM.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/04-ICOM/COM-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/04-ICOM/COM-FAN.png</fanart>
+<info>[COLOR white]Filmes do gênero: 
+[B]COMÉDIA
+[COLOR black].[/COLOR]
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que tem o propósito de provocar riso, em situações cômicas pela caracterização de tipos, costumes e pelo absurdo da história.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]ROMANCE[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/09-CRDR/2B1I-SEL-CRDR.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/09-ICRDR/CRDR-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/09-ICRDR/CRDR-FAN.png</fanart>
+<info>[COLOR white]Filmes do gênero: 
+[B]CRIME E DRAMA
+[COLOR black].[/COLOR]
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho dramático com situações criminosas ou do cotidiano humano, em narrativas envolventes mas dolorosas com seus envolvidos.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]ANIMAÇÃO[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/07-ANM/2B1G-SEL-ANM.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/07-IANM/ANM-ICO-GEN.png</thumbnail>
@@ -190,27 +190,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho dramático com situações criminosas ou do cotidiano humano, em narrativas envolventes mas dolorosas com seus envolvidos.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[/B][COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SUPER-HERÓIS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/08-SPH/2B1H-SEL-SPH.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/08-ISPH/SPH-ICO-GEN.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/08-ISPH/SPH-FAN.png</fanart>
-<info>[COLOR white]Filmes do gênero: 
-[B]SUPER-HERÓIS
-[COLOR black].[/COLOR]
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico com personagens dotados de poderes sobre-humanos, em combates contra o mal, ajudando os desprotegidos e livrando a sociedade de situações perigosas.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
 [/B][COLOR black].[/COLOR]
@@ -358,6 +337,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção com histórias de cunho aterrorizante em que o mêdo anda lado a lado com a morte e sofrimento de algozes ou vítimas em terríveis pesadelos de dor e aflição.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]SUPER-HERÓIS[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/08-SPH/2B1H-SEL-SPH.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/08-ISPH/SPH-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/08-ISPH/SPH-FAN.png</fanart>
+<info>[COLOR white]Filmes do gênero: 
+[B]SUPER-HERÓIS
+[COLOR black].[/COLOR]
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico com personagens dotados de poderes sobre-humanos, em combates contra o mal, ajudando os desprotegidos e livrando a sociedade de situações perigosas.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
 [/B][COLOR black].[/COLOR]
