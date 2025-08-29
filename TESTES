@@ -1,3 +1,14 @@
+<item><title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 <item>
 <originaltitle>Money Plane</originaltitle>
 <sorttitle>Assalto Aéreo</sorttitle>
@@ -9,15 +20,15 @@ year>2020</year>
 <tmdbid>694919</tmdbid>
 <added>29-08-2025</added>
 <trailer></trailer/>
-<edition></edition>
-<title>[COLOR white][B]Assalto Aéreo (2020) - [/B][/COLOR]</title>
+<edition>FHD DUAL</edition>
+<title>[COLOR white][B]Assalto Aéreo (2020) - FHD DUAL[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/8:/01%20-%20FILMES/a-b-c-d-e/Assalto%20A%C3%A9reo%20(2020)/Assalto.A%C3%A9reo.2020.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.mkv</link>
-<subtitle>https://ls.lsnew.workers.dev/8:/01%20-%20FILMES/a-b-c-d-e/Assalto%20A%C3%A9reo%20(2020)/Assalto.A%C3%A9reo.2020.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.por.srt.srt</subtitle>
+<subtitle>https://ls.lsnew.workers.dev/8:/01%20-%20FILMES/a-b-c-d-e/Assalto%20A%C3%A9reo%20(2020)/Assalto.A%C3%A9reo.2020.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.por.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/hRvWo6hPCElFBkZwhHPrHLzFTgH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jF5szlaCDc7yHa37qSzg6PUYLgS.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme:
 [B]Assalto Aéreo
-[COLOR orange]EDIÇÃO[COLOR yellow] -> [COLOR white]
+[COLOR orange]EDIÇÃO[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2020
 [COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]tmdb - 5,60/10
 [COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Ação, Crime, Thriller
@@ -25,3 +36,21 @@ year>2020</year>
 [/B][/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>				
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
+<link>ignoreme</link>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
