@@ -1,56 +1,8 @@
-<item><title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-FLM.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zNNcWH4/SEL-ITEM-TVS-ICON.png" group-title="[COLOR white][B][COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<item>
-<originaltitle>Money Plane</originaltitle>
-<sorttitle>Assalto Aéreo</sorttitle>
-year>2020</year>
-<rating>tmdb - 5,60/10</rating>
-<runtime>78</runtime>
-<certification>BR:12 / BR:BR-12</certification>
-<id>tt7286966</id>
-<tmdbid>694919</tmdbid>
-<added>29-08-2025</added>
-<trailer></trailer/>
-<edition>FHD DUAL</edition>
-<title>[COLOR white][B]Assalto Aéreo (2020) - FHD DUAL[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/8:/01%20-%20FILMES/a-b-c-d-e/Assalto%20A%C3%A9reo%20(2020)/Assalto.A%C3%A9reo.2020.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.mkv</link>
-<subtitle>https://ls.lsnew.workers.dev/8:/01%20-%20FILMES/a-b-c-d-e/Assalto%20A%C3%A9reo%20(2020)/Assalto.A%C3%A9reo.2020.1080p.AMZN.WEB-DL.DDP2.0.H.264.DUAL-alfaHD.por.srt</subtitle>
-<thumbnail>https://image.tmdb.org/t/p/original/hRvWo6hPCElFBkZwhHPrHLzFTgH.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jF5szlaCDc7yHa37qSzg6PUYLgS.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme:
-[B]Assalto Aéreo
-[COLOR orange]EDIÇÃO[COLOR yellow] -> [COLOR white]FHD DUAL
-[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2020
-[COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]tmdb - 5,60/10
-[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Ação, Crime, Thriller
-[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Jack, um ladrão profissional com 40 milhões de dólares em dívidas, é obrigado a cometer um último assalto para conseguir salvar a vida de sua família. Mas a missão é praticamente impossível: roubar um avião transformado em um cassino futurístico, lotado com os criminosos mais perigosos do mundo.
-[/B][/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>				
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
-<link>ignoreme</link>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/ERROS-SUPORTE.png</thumbnail>				
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD]" tvg-logo="http://cc90.one/APQ" group-title="[COLOR white][B][COLOR white][B]Filmes e Séries[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B]A&E [FHD][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w467477350_b259600_sleng.m3u8
 
