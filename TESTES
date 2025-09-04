@@ -1,8 +1,500 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zNNcWH4/SEL-ITEM-TVS-ICON.png" group-title="[COLOR white][B][COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD]" tvg-logo="http://cc90.one/APQ" group-title="[COLOR white][B][COLOR white][B]Filmes e Séries[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B]A&E [FHD][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w467477350_b259600_sleng.m3u8
+<item>	
+<title>[COLOR orange][B]Carcereiros[/B][/COLOR]</title>
+Temporadas: 3
+Episodios: 33
+Faltam : 0
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/qzNFmGvaRpCZTeAXLNNgFFUYPeL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/d2uLZufsoDEWSclxJ4CVW0SSdHo.jpg</fanart>
+	<item>		
+		xxxxxxxxxxxxxx<title>[COLOR orange][B]Temporada 1 (2017)  EPs - FHD DUB[/B][/COLOR]</title>
+		<link>NOLINK</link>	
+		<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/TMPS/01-thumb.jpg</thumbnail>
+		<fanart>https://luminart.online/Lumi-Files/3-SRS-ICON/TMPS/01-thumb.jpg</fanart>
+		<info>[B]FAÇA SUA ESCOLHA 
+		E DIVIRTA-SE[/B]</info>		
+		</item>
+		temporada: 01 (2017)
+				
+			T01E01
+					season = 1
+					episode = 1
+					T+E = T01E01
+					<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Resgate no Inferno[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]O carcereiro Adriano se vê obrigado a entrar num bloco com presos rebelados para libertar o filho de um líder de facção que corre risco de vida.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E01.Resgate.No.Inferno.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/01-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E02
+					season = 1
+					episode = 2
+					T+E = T01E02
+					<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Plano de Fuga[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano recebe a informação de que há um plano de fuga da cadeia e tenta achar o túnel antes que o Engenheiro encontre seu informante.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E02.Plano.De.Fuga.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/02-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E03
+					season = 1
+					episode = 3
+					T+E = T01E03
+					<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Cidade Sitiada[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]A ordem para transferir líderes de facção para um presídio no interior provoca onda de violência e traz consequências para Adriano.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E03.Cidade.Sitiada.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/03-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E04
+					season = 1
+					episode = 4
+					T+E = T01E04
+					<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Clinch[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano tenta ajudar um preso a fazer carreira no boxe, mas o pupilo terá que escolher entre a oportunidade profissional ou aceitar uma proposta indecorosa.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E04.Clinch.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/04-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E05
+					season = 1
+					episode = 5
+					T+E = T01E05
+					<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Mandarim[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Um novo líder de facção chega ao presídio, mas Adriano desconfia que ele pode não ser quem diz.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E05.Mandarim.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/05-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E06
+					season = 1
+					episode = 6
+					T+E = T01E06
+					<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Questão de Método[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano vai cobrir férias num outro presídio e não concorda com os métodos violentos dos carcereiros, mas um sequestro pode fazê-lo mudar de ideia.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E06.Questao.de.Metodo.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/06-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E07
+					season = 1
+					episode = 7
+					T+E = T01E07
+					<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Cela 237[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Ainda no presídio novo, Adriano tenta aliviar o problema de superlotação, mas se depara com uma cela vazia, considerada assombrada.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E07.Cela.237.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/07-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E08
+					season = 1
+					episode = 8
+					T+E = T01E08
+					<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Uma Questão Pessoal[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano tem que escolher entre salvar um pedófilo ou entregá-lo a presidiários em troca de um acerto de contas.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E08.Uma.Questao.Pessoal.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/08-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E09
+					season = 1
+					episode = 9
+					T+E = T01E09
+					<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Talarico Por Acaso[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano decide investigar por conta própria um estranho caso envolvendo um preso e as diferentes mulheres que se apresentam como esposa dele.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E09.Talarico.Por.Acaso.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/09-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E10
+					season = 1
+					episode = 10
+					T+E = T01E10
+					<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Assunto de Família[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]A filha de Adriano é sequestrada por bandidos que exigem a libertação de um líder de facção para não matá-la.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E10.Assunto.De.Familia.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/10-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E11
+					season = 1
+					episode = 11
+					T+E = T01E11
+					<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Ratos e Homens[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano tem que treinar uma nova turma de agentes e desconfia que um deles é corrupto.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E11.Ratos.E.Homens.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/11-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E12
+					season = 1
+					episode = 12
+					T+E = T01E12
+					<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Amor que Fica[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano se envolve com a mulher de um detento a quem decide ajudar, o que pode virar a vida do agente de pernas para o ar.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E12.Amor.Que.Fica.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/12-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E13
+					season = 1
+					episode = 13
+					T+E = T01E13
+					<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Medicina Legal[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Em novo presídio, Adriano conhece doutor Aramis, preso por homicídio. O agente suspeita de conduta dele e fica prestes a desmantelar um esquema que envolve até mesmo seus colegas.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E13.Medicina.Legal.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/13-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E14
+					season = 1
+					episode = 14
+					T+E = T01E14
+					<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Um Preso Comum[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano reencontra Juscelino, condenado e preso na penitenciária Filinto Prates. O carcereiro desconfia da participação do ex-colega em um atentado, mas pode estar muito enganado.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E14.Um.Preso.Comum.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/14-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T01E15
+					season = 1
+					episode = 15
+					T+E = T01E15
+					<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Razões Humanitárias[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano visita Érika e conhece Juçara, mulher perturbada que acusa a todos de terem tirado o filho de seus braços. Adriano decide investigar o caso e descobre um plano terrível.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S01/Carcereiros.S01E15.Razoes.Humanitarias.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/15-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+																		<item>		
+		xxxxxxxxxxxxxx<title>[COLOR orange][B]Temporada 2 (2018)  EPs - FHD DUB[/B][/COLOR]</title>
+		<link>NOLINK</link>	
+		<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/TMPS/02-thumb.jpg</thumbnail>
+		<fanart>https://luminart.online/Lumi-Files/3-SRS-ICON/TMPS/02-thumb.jpg</fanart>
+		<info>[B]FAÇA SUA ESCOLHA 
+		E DIVIRTA-SE[/B]</info>		
+		</item>
+		temporada: 02 (2018)
+																			
+			T02E01
+					season = 2
+					episode = 1
+					T+E = T02E01
+					<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Uma Questão Pessoal[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano tem que escolher entre salvar um pedófilo ou entregá-lo a presidiários em troca de um acerto de contas.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E01.Imagem.e.Semelhanca.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/01-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E02
+					season = 2
+					episode = 2
+					T+E = T02E02
+					<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Talarico por Acaso[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano decide investigar por conta própria um estranho caso envolvendo um preso e as diferentes mulheres que se apresentam como esposa dele.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E02.Ganancia.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/02-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E03
+					season = 2
+					episode = 3
+					T+E = T02E03
+					<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Assunto de Família[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]A filha de Adriano é sequestrada por bandidos que exigem a libertação de um líder de facção para não matá-la.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E03.Cartas.Nao.Mentem.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/03-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E04
+					season = 2
+					episode = 4
+					T+E = T02E04
+					<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Ratos e Homens[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano tem que treinar uma nova turma de agentes e desconfia que um deles é corrupto.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E04.Vinganca.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/04-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E05
+					season = 2
+					episode = 5
+					T+E = T02E05
+					<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Amor que Fica[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano se envolve com a mulher de um detento a quem decide ajudar, o que pode virar a vida do agente de pernas para o ar.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E05.Liberdade.Assistida.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/05-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E06
+					season = 2
+					episode = 6
+					T+E = T02E06
+					<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Medicina Legal[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Em novo presídio, Adriano conhece doutor Aramis, preso por homicídio. O agente suspeita de conduta dele e fica prestes a desmantelar um esquema que envolve até mesmo seus colegas.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E06.Bens.Bloqueados.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/06-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E07
+					season = 2
+					episode = 7
+					T+E = T02E07
+					<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Um Preso Comum[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano reencontra Juscelino, condenado e preso na penitenciária Filinto Prates. O carcereiro desconfia da participação do ex-colega em um atentado, mas pode estar muito enganado.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E07.Amores.Brutos.Parte.I.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/07-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E08
+					season = 2
+					episode = 8
+					T+E = T02E08
+					<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Razões Humanitárias[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano visita Érika e conhece Juçara, mulher perturbada que acusa a todos de terem tirado o filho de seus braços. Adriano decide investigar o caso e descobre um plano terrível.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E08.Amores.Brutos.Parte.II.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/08-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E09
+					season = 2
+					episode = 9
+					T+E = T02E09
+					<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Fuga a Qualquer Preço[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E09.Fuga.A.Qualquer.Preco.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/09-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E10
+					season = 2
+					episode = 10
+					T+E = T02E10
+					<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Uma Questão de Escolha[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E10.Uma.Questao.De.Escolha.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/10-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E11
+					season = 2
+					episode = 11
+					T+E = T02E11
+					<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Psicóloga[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E11.Psicologa.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/11-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E12
+					season = 2
+					episode = 12
+					T+E = T02E12
+					<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Mão no Fogo[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E12.Mao.No.Fogo.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/12-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E13
+					season = 2
+					episode = 13
+					T+E = T02E13
+					<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Um Homem de Família - Parte I[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E13.Um.Homem.De.Familia.Parte.I.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/13-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T02E14
+					season = 2
+					episode = 14
+					T+E = T02E14
+					<item><title>[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Um Homem de Família - Parte II[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S02/Carcereiros.S02E14.Um.Homem.De.Familia.Parte.II.1080p.WEB-DL.AAC2.0.x264-G4RiS.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/14-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+				<item>		
+		xxxxxxxxxxxxxx<title>[COLOR orange][B]A Noite sem Fim (2021)  EPs - FHD DUB[/B][/COLOR]</title>
+		<link>NOLINK</link>	
+		<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/TMPS/03-thumb.jpg</thumbnail>
+		<fanart>https://luminart.online/Lumi-Files/3-SRS-ICON/TMPS/03-thumb.jpg</fanart>
+		<info>[B]FAÇA SUA ESCOLHA 
+		E DIVIRTA-SE[/B]</info>		
+		</item>
+		temporada: 03 (2021)
+																																	
+			T03E01
+					season = 3
+					episode = 1
+					T+E = T03E01
+					<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Episódio 01[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano enfrenta, em uma única noite, a tensão entre duas facções criminosas e controla todos os passos de um perigoso terrorista internacional para garantir que ele permaneça vivo.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S03/Carcereiros.S03E01.1080p.GLOBO.WEB-DL.AAC2.0.x264-SACERDOTi.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/01-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T03E02
+					season = 3
+					episode = 2
+					T+E = T03E02
+					<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Episódio 02[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Abdel vai para a ala dos “gravatas” e Adriano descobre que os detentos têm um plano. Enquanto a tensão aumenta, uma ameaça ainda mais perigosa surge fora do presídio.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S03/Carcereiros.S03E02.1080p.GLOBO.WEB-DL.AAC2.0.x264-SACERDOTi.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/02-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T03E03
+					season = 3
+					episode = 3
+					T+E = T03E03
+					<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Episódio 03[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Um esquadrão especial altamente treinado e armado invade a cadeia. Enquanto Adriano tenta proteger Abdel, mas uma das facções do presídio aproveita a situação para tentar eliminar seus rivais.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S03/Carcereiros.S03E03.1080p.GLOBO.WEB-DL.AAC2.0.x264-SACERDOTi.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/03-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
+	
+			T03E04
+					season = 3
+					episode = 4
+					T+E = T03E04
+					<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Episódio 04[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</title>
+					[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Adriano precisa usar todo seu treinamento para controlar a situação que se desenrola entre o esquadrão e a guerra entre as duas facções, ao mesmo tempo em que uma ameaça inesperada aparece nos corredores do presídio.
+					<link>https://ls.lsnew.workers.dev/10:/SERIES/LETRA%20C/Carcereiros%20(2017)/S03/Carcereiros.S03E04.1080p.GLOBO.WEB-DL.AAC2.0.x264-SACERDOTi.mkv</link>
+					<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/04-thumb.jpg</thumbnail>
+					[COLOR black].[/COLOR]
+					<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+						CLIQUE E AGUARDE
+					A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+					zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz		
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
