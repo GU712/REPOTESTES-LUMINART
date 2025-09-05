@@ -1,64 +1,33 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-SRS.png</thumbnail>				
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>		
-<info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>	
-<title>[COLOR orange][B]A Padroeira[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7j1rXULVBcE95MQ8pdemWtBMue7.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lZ8rZuMajWLJpXNGGToaQVx9Pse.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]A Padroeira
-[COLOR orange]STATUS:[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2001
-[COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]8.0
-[COLOR orange]INFO:[COLOR yellow] -> [COLOR white]01 TEMP - 215 EPs
-[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Soap, Drama, Comédia
-[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]O amor impossível entre Valentim e Cecília acontece durante o Brasil Colônia, época marcada pela febre do ouro, além da submissão feminina e do poder da Igreja.{else}[COLOR black].[/COLOR]
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<item>		
-<title>[COLOR orange][B]Temporada 1 (2001) - HD DUB[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/TMPS/01-thumb.jpg</thumbnail>
+<item><title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-FLM.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA 
-E DIVIRTA-SE[/B]</info>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[COLOR white][B]007 A Serviço Secreto de Sua Majestade (1969) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/1ACA-CL/James.Bond-007/FLM/LS-06-A.Serviso.Secreto.de.Sua.Majestade.1969.FHD.DUAL+LEG.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/vPkS9X0qaPDaHSke0Ji4UJRk9Ye.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gdW0jnj5hLSboIcBshu9Y3Z8dDi.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]007 A Serviço Secreto de Sua Majestade
+[COLOR orange]EDIÇÃO[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]1969
+[COLOR black].[/COLOR]
+[COLOR orange]DURAÇÃO:[COLOR yellow] -> [COLOR white]142 min.
+[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Aventura, Ação, Thriller
+[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Em uma praia, James Bond evita que uma jovem mulher cometa suicídio. O pai dela é o chefe de uma poderosa organização criminosa e, impressionado com Bond, quer que ele proteja sua filha se casando com ela. Em troca, ele oferece ao famoso agente informações que o façam chegar até Ernst Blofeld, o principal inimigo do agente.
+[/B][/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
-<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Episódio 1[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/NVLS/A.Padroeira/LS-T01E001.avi</link>
-<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/001-thumb.jpg</thumbnail>
-<info>[B][COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]8.0
-[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]O amor impossível entre Valentim e Cecília acontece durante o Brasil Colônia, época marcada pela febre do ouro, além da submissão feminina e do poder da Igreja.
-[COLOR black].[/COLOR]
-[/B]</info>	</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Episódio 2[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/NVLS/A.Padroeira/LS-T01E002.avi</link>
-<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/002-thumb.jpg</thumbnail>
-<info>[B][COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]8.0
-[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]O amor impossível entre Valentim e Cecília acontece durante o Brasil Colônia, época marcada pela febre do ouro, além da submissão feminina e do poder da Igreja.
-[COLOR black].[/COLOR]
-[/B]</info>	</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -73,5 +42,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
