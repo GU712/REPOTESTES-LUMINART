@@ -1,69 +1,20 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-SRS.png</thumbnail>				
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>		
-<info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>	
-<title>[COLOR orange][B]Kubanacan[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://image.tmdb.org/t/p/original/z1lzG8OkgHOTyrcFrNSp9gBkcUA.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/8ztxw1pO1UesrFOJTlEYx4sSBvU.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Kubanacan
-[COLOR orange]STATUS:[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2003
-[COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]6.6
-[COLOR orange]INFO:[COLOR yellow] -> [COLOR white]01 TEMP - 227 EPs
-[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Soap, Comédia, Drama
-[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Kubanacan é uma ilha paradisíaca que sofre inúmeras reviravoltas com a chegada de Esteban, um homem ferido e sem memória.{else}[COLOR black].[/COLOR]
-[COLOR black].[/COLOR]	
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/B][/COLOR]</info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<item>		
-<title>[COLOR orange][B]Temporada 1 (2003) - SD FHD DUAL DUB+LEG[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/TMPS/01-thumb.jpg</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA 
-E DIVIRTA-SE[/B]</info>		
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
-<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Episódio 1[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/NVLS/Kubanacan/LS-T01E001.mkv</link>
-<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/001-thumb.jpg</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[B][COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]6.6
+<channels>
+<channel>
+<name>[COLOR white][B]AÇÃO -> COLEÇÕES[/B][/COLOR] </name>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/01-ACA/B-COL-FLM-ACA</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/01-IACA/ACA-ICO-COL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/01-IACA/ACA-FAN.png</fanart>
+<info>[COLOR white]Filmes do gênero: 
+[B]AÇÃO
 [COLOR black].[/COLOR]
-[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Kubanacan é uma ilha paradisíaca que sofre inúmeras reviravoltas com a chegada de Esteban, um homem ferido e sem memória.
-[COLOR black].[/COLOR]	
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/B][/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Episódio 2[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/NVLS/Kubanacan/LS-T01E002.mkv</link>
-<thumbnail>https://luminart.online/Lumi-Files/3-SRS-ICON/SRS/002-thumb.jpg</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[B][COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]6.6
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que envolve uma história de protagonistas do bem contra antagonistas do mal, que resolvem suas disputas com o uso de força física.
 [COLOR black].[/COLOR]
-[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Kubanacan é uma ilha paradisíaca que sofre inúmeras reviravoltas com a chegada de Esteban, um homem ferido e sem memória.
-[COLOR black].[/COLOR]	
-Encontrou erros ?
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
-[/B][/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
