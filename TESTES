@@ -69,7 +69,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]TUTORIAIS DE INSTALAÇÃO -> CLIQUE AQUI[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1A1-ENT.VIP/main/Z-CONFIG</externallink>
-https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICO-CONFIG.png
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICO-CONFIG.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>TUTORIAIS DE INSTALAÇÃO</info>
 <genre>TUTORIAIS</genre> 
@@ -81,7 +81,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]INFORMAÇÕES DO ACESSO -> CLIQUE AQUI[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
-https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-INFO.png
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-INFO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>PRAZO DE VALIDADE</info>
 </channel>
@@ -92,7 +92,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]CONTRIBUA E MANTENHA O ACESSO VIP[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
-https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICO-CONTRIBUIR.png
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICO-CONTRIBUIR.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
 </channel>
@@ -103,7 +103,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SUPORTE AO USUÁRIO -> CLIQUE AQUI[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
-https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-SUPORTE.png
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-SUPORTE.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
 </channel>
