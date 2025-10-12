@@ -29,7 +29,8 @@ CONTATO -> WhatsApp (48) 99194-1409[/B][/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]CLIQUE AQUI E ACESSE O CONTEÚDO[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
@@ -92,7 +93,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR orange][B]ACESSO LIBERADO 30 DIAS [COLOR white]<-> NATAL DO LUMINART [/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
@@ -105,6 +107,8 @@ Não encontrou o que queria ? Solicite ao SUPORTE AO USUÁRIO que iremos adicion
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
 <name>[COLOR orange][B]ACESSO LIBERADO 30 DIAS [COLOR white]<-> ANIVERSÁRIO DO LUMINART [/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
@@ -146,7 +150,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]SUPORTE AO USUÁRIO -> CLIQUE AQUI[/B][/COLOR]</name>
+<name>[COLOR orange][B]SUPORTE AO USUÁRIO[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-SUPORTE.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/-ISKIN/-MENU/-GERAL/LS-FAN-2.png</fanart>
@@ -156,6 +160,7 @@ O serviço existe para a comodidade e interação do usuário com o clube...Por 
 CONTATO -> WhatsApp (48) 99194-14[/B][/COLOR]</info>
 </channel>
 </channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
