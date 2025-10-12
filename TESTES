@@ -19,42 +19,94 @@ Avise o SUPORTE AO USUÁRIO.
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR white][B]A Hora e a Vez de Augusto Matraga (2011) - HD DUB[/B][/COLOR]</title>
-<link>https://1.animezeydl.workers.dev/download.aspx?file=VNERLo2KqXe5%2BKamzFSNWuhGYOBrZLb6n7y4DJ3uzCmzjlhBn56jP5x%2BYiWz9iBg&expiry=ZyNULYJFSAHQbjCu9nKHgg%3D%3D&mac=f54eb42e8b34f31de76810c17e164be387313c20ba7e43ceee79fa094ee3be26
-</link>
-<thumbnail>https://image.tmdb.org/t/p/original/npIUAMYGhCEGrlkqOKou8edrLip.gif</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/n9qSIbGjTZ3ms4WdjTJYsAuSmvB.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme:
-[B]A Hora e a Vez de Augusto Matraga
-[COLOR orange]EDIÇÃO[COLOR yellow] -> [COLOR white]SD DUB
-[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2011
-[COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]7.9
-[COLOR orange]DURAÇÃO:[COLOR yellow] -> [COLOR white]110 min.
-[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Nacional, Aventura, Drama
-[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Augusto Matraga é um fazendeiro orgulhoso, valente e mulherengo, que está à beira da falência. Sua esposa Dionóra resolve abandoná-lo com a filha do casal, ao receber uma proposta feita por Ouvídio Moura. A situação faz com que Augusto fique enfurecido e parta para a casa de Ouvídio, em busca de vingança. Lá ele é espancado pelos capangas de Consilva, que o marcam com ferro e o atiram em um precipício para morrer. À beira da morte, Augusto é encontrado por um casal, que cuida de sua recuperação. Cinco anos depois ele deixa o local, completamente mudado e agora temente a Deus.
-[COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/B][/COLOR]</info>	
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[B][COLOR orange]BEM VINDO AO LUMINART STUDIO[/COLOR][/B]</name>
+<externallink>https://luminart.online/Lumi-Files/0-ENTER/01-BOAS-VINDAS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-BOASVINDAS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]48 Horasj (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/04-COM/C-COL-ESP-COM/C001-EDDIE-MURPHY/C01C1-COL-48.Horas.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/02-IFLM/01-IACA/COL-48-HRS-ICO.gif</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/02-IFLM/01-IACA/COL-48-HRS-FAN.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]48 Horas
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.
-[/B][COLOR black].[/COLOR]  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+<name>[COLOR white][B]CLIQUE AQUI E ACESSE O CONTEÚDO[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
 </channel>
 </channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channels>
+<channel>
+<name>[COLOR orange][B]STATUS DO ACESSO [COLOR white]<-> [COLOR lime]ON-LINE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ONLINE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[B][COLOR white]DICAS DE NAVEGAÇÃO -> CLIQUE AQUI[/COLOR][/B]</name>
+<externallink>https://i.ibb.co/PG2LZ3SN/INFO-LINKS.png</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/INFO-LINKS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white]COR BRANCA - LINK ON LINE[/COLOR] - [COLOR orange]COR LARANJA - SEM LINK[/COLOR]
+[COLOR red]COR VERMELHA - LINK OFF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF LINE[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]TUTORIAIS DE INSTALAÇÃO -> CLIQUE AQUI[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1A1-ENT.VIP/main/Z-CONFIG</externallink>
+https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICO-CONFIG.png
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>TUTORIAIS DE INSTALAÇÃO</info>
+<genre>TUTORIAIS</genre> 
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]INFORMAÇÕES DO ACESSO -> CLIQUE AQUI[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-INFO.png
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>PRAZO DE VALIDADE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+
+<channels>
+<channel>
+<name>[COLOR orange][B]CONTRIBUA E MANTENHA O ACESSO VIP[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICO-CONTRIBUIR.png
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]SUPORTE AO USUÁRIO -> CLIQUE AQUI[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-SUPORTE.png
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
