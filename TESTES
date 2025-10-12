@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B][COLOR orange]BEM VINDO AO LUMINART STUDIO[/COLOR][/B]</name>
+<name>[COLOR orange][B]BEM VINDO AO LUMINART STUDIO[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-BOASVINDAS.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
@@ -44,7 +44,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR orange]DICAS DE NAVEGAÇÃO[/COLOR][/B]</name>
+<name>[COLOR orange][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/INFO-LINKS.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
@@ -56,7 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR orange]ACESSO -> FREE[/B][/COLOR]</name>
+<name>[COLOR orange][B]ACESSO -> FREE[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-INFO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
@@ -83,18 +83,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]ACESSO REDUZIDO [COLOR white]<-> ATÉ - 15-07-25 [/B][/COLOR]</name>
+<name>[COLOR orange][B]ACESSO REDUZIDO [COLOR white]<-> ATÉ - 15-07-25 [/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-VAL.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
@@ -104,7 +93,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-<name>[COLOR white][B]ACESSO LIBERADO 30 DIAS [COLOR white]<-> NATAL DO LUMINART [/B][/COLOR]</name>
+<name>[COLOR orange][B]ACESSO LIBERADO 30 DIAS [COLOR white]<-> NATAL DO LUMINART [/B][/COLOR]</name>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white][B]ENTRADA VIP INFORMAÇÕES
@@ -115,7 +104,7 @@ Não encontrou o que queria ? Solicite ao SUPORTE AO USUÁRIO que iremos adicion
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<name>[COLOR white][B]ACESSO LIBERADO 30 DIAS [COLOR white]<-> ANIVERSÁRIO DO LUMINART [/B][/COLOR]</name>
+<name>[COLOR orange][B]ACESSO LIBERADO 30 DIAS [COLOR white]<-> ANIVERSÁRIO DO LUMINART [/B][/COLOR]</name>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white][B]ENTRADA VIP INFORMAÇÕES
@@ -127,7 +116,7 @@ Não encontrou o que queria ? Solicite ao SUPORTE AO USUÁRIO que iremos adicion
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-<name>[COLOR white][B]TESTE ESTENDIDO [COLOR white]<-> VAL. ATÉ - 20-06-25 [/B][/COLOR]</name>
+<name>[COLOR orange][B]TESTE ESTENDIDO [COLOR white]<-> VAL. ATÉ - 20-06-25 [/B][/COLOR]</name>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white][B]ENTRADA VIP INFORMAÇÕES
@@ -140,7 +129,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SOLICITE TESTE DE 24 HRs COM O SUPORTE [/B][/COLOR]</name>
+<name>[COLOR orange][B]SOLICITE TESTE DE 24 HRs COM O SUPORTE [/B][/COLOR]</name>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-SUPORTE.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white][B]O serviço de SUPORTE AO USUÁRIO existe para a comodidade e interação do usuário com o clube...Por ele se pode relatar erros encontrados que serão rapidamente resolvidos ...ou solicitar conteúdo ainda não adicionado e também como auxílio para entender o funcionamento do add on e do aplicativo. SE PRECISAR É SÓ CHAMAR.
@@ -152,7 +141,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR orange]SUPORTE AO USUÁRIO -> CLIQUE AQUI[/B][/COLOR]</name>
+<name>[COLOR orange][B]SUPORTE AO USUÁRIO -> CLIQUE AQUI[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/0-ENTER/01-ENT-VIP.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-SUPORTE.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
@@ -177,7 +166,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR orange]AGRADECEMOS SUA VISITA [/COLOR][/B]</name>
+<name>[COLOR orange][B]AGRADECEMOS SUA VISITA [/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
