@@ -1,14 +1,14 @@
 <channels>
 <channel>
-<name>[B][COLOR orange]BEM VINDO AO LUMINART STUDIO2[/COLOR][/B]</name>
+<name>[B][COLOR orange]BEM VINDO AO LUMINART STUDIO[/COLOR][/B]</name>
 <externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-BOASVINDAS.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/-ISKIN/-MENU/-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white][B]INFORMAÇÕES:
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white][B]SOBRE O LUMINART STUDIO:
 [COLOR black].[/COLOR]
 Somos um clube de compartilhamento digital, personalizado e exclusivo.Foi desenvolvido com muito carinho para proporcionar lazer a sua familia...Temos poucos usuários acessando, o que deixa o acesso menos sujeito a lentidão e travamentos.Para conseguir esse objetivo, apenas USUÁRIOS CONTRIBUINTES podem acessar todo o conteúdo o tempo todo sem restrições.
 SUA CONTRIBUIÇÃO AO PROJETO LUMINART NOS ESTIMULA A SEGUIR EM FRENTE - OBRIGADO.
-CONTATO -> WhatsApp (48) 99194-14[/B][/COLOR]</info>
+CONTATO -> WhatsApp (48) 99194-1409[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -16,10 +16,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]CLIQUE AQUI E ACESSE O CONTEÚDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/1-CATEGORIAS-AVMTX</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white][B]ENTRADA FREE INFORMAÇÕES
+[COLOR black].[/COLOR]
+No inicio do ciclo o acesso é TOTAL por 5 dias, do dia 15 até dia 20 de cada mês.Como forma de degustação, para permitir conhecer todo o conteúdo.
+No restante do ciclo o acesso ficará reduzido, em respeito aos usuários que contribuem.FAÇA SUA CONTRIBUIÇÃO E TENHA ACESSO PERMANENTE
+SUA CONTRIBUIÇÃO AO PROJETO LUMINART NOS ESTIMULA A SEGUIR EM FRENTE - OBRIGADO.
+CONTATO -> WhatsApp (48) 99194-1409[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]CLIQUE AQUI E ACESSE O CONTEÚDO[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/-ISKIN/-MENU/-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white][B]INFORMAÇÕES:
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white][B]ENTRADA VIP INFORMAÇÕES
 [COLOR black].[/COLOR]
 Acesso VIP ao conteúdo.Milhares de links disponíveis para filmes , Séries, Desenhos Novelas e Animes.Nosso foco principal são os conteúdos antigos e raridades.
 Não encontrou o que queria ? Solicite ao SUPORTE AO USUÁRIO que iremos adicionar se for possível.[/B][/COLOR]</info>
@@ -28,23 +43,11 @@ Não encontrou o que queria ? Solicite ao SUPORTE AO USUÁRIO que iremos adicion
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
-<channels>
-<channel>
-<name>[COLOR orange][B]STATUS DO ACESSO [COLOR white]<-> [COLOR lime]ON-LINE[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/0-ENTER/-ENT-VIP.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ONLINE.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/-ISKIN/-MENU/-GERAL/LS-FAN-2.png</fanart>
-<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
 <channel>
 <name>[B][COLOR orange]DICAS DE NAVEGAÇÃO[/COLOR][/B]</name>
-<externallink>https://luminart.online/Lumi-Files/0-ENTER/-ENT-VIP.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/INFO-LINKS.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/-ISKIN/-MENU/-GERAL/LS-FAN-2.png</fanart>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]COR BRANCA - LINK ON LINE[/COLOR] - [COLOR orange]COR LARANJA - SEM LINK[/COLOR]
 [COLOR red]COR VERMELHA - LINK OFF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF LINE[/COLOR]</info>
 </channel>
@@ -53,10 +56,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[B][COLOR orange]ACESSO -> FREE[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-INFO.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white][B]INFORMAÇÕES:
+[COLOR black].[/COLOR]
+No inicio do ciclo o acesso é TOTAL por 5 dias, do dia 15 até dia 20 de cada mês.Como forma de degustação, para permitir conhecer todo o conteúdo.
+No restante do ciclo o acesso ficará reduzido, em respeito aos usuários que contribuem.FAÇA SUA CONTRIBUIÇÃO E TENHA ACESSO PERMANENTE
+SUA CONTRIBUIÇÃO AO PROJETO LUMINART NOS ESTIMULA A SEGUIR EM FRENTE - OBRIGADO.
+CONTATO -> WhatsApp (48) 99194-1409[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+
+<channels>
+<channel>
 <name>[COLOR white][B]TUTORIAIS DE INSTALAÇÃO[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/0-ENTER/-ENT-VIP.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICO-CONFIG.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/-ISKIN/-MENU/-GERAL/LS-FAN-2.png</fanart>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white][B]Passamos por muitas mudanças e adptações para melhorar nosso querido LUMINART...os tutoriais em vídeo disponibilizados não não condizem com a nova realidade. Assim que todas as mudanças estiverem consolidadas, iremos produzir novos videos tutorias atualizados.[/B][/COLOR]</info>
 </channel>
 </channels>
@@ -64,29 +83,69 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR orange]ACESSO DE CONTRIBUINTE[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/0-ENTER/-ENT-VIP.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-INFO.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/-ISKIN/-MENU/-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white][B]INFORMAÇÕES:
-[COLOR black].[/COLOR]
-É um acesso especial, personalizado e exclusivo.Ele permite acessar todo o conteúdo do add on pelo mês inteiro até a renovação da contribuição,que deverá acontecer antes do fim da validade do usuário.SUA CONTRIBUIÇÃO AO PROJETO LUMINART NOS ESTIMULA A SEGUIR EM FRENTE - OBRIGADO.
-CONTATO -> WhatsApp (48) 99194-14[/B][/COLOR]</info>
+<name>[COLOR black].[/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]CONTRIBUA E MANTENHA O ACESSO VIP[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/0-ENTER/-ENT-VIP.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICO-CONTRIBUIR.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/-ISKIN/-MENU/-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white][B]INFORMAÇÕES:
+<name>[COLOR white][B]ACESSO REDUZIDO [COLOR white]<-> ATÉ - 15-07-25 [/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-VAL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]ACESSO LIBERADO 30 DIAS [COLOR white]<-> NATAL DO LUMINART [/B][/COLOR]</name>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white][B]ENTRADA VIP INFORMAÇÕES
 [COLOR black].[/COLOR]
-Manter um add on funcional requer um esforço bem grande ...Primeiro na dedicação de horas em digitação, pesquisa e manipulação de videos áudios e legendas...também temos despezas financeiras: O site, que hospeda os scripts ,servidores e aquisição de conteúdo de colecionadores.E pagar do próprio bolso não é produtivo.Para que possamos manter e melhorar mais a cada dia,Por favor retribua todo esse esforço contribuindo.
-SUA CONTRIBUIÇÃO AO PROJETO LUMINART NOS ESTIMULA A SEGUIR EM FRENTE - OBRIGADO.
-CONTATO -> WhatsApp (48) 99194-14[/B][/COLOR]</info>
+Acesso VIP ao conteúdo.Milhares de links disponíveis para filmes , Séries, Desenhos Novelas e Animes.Nosso foco principal são os conteúdos antigos e raridades.
+Não encontrou o que queria ? Solicite ao SUPORTE AO USUÁRIO que iremos adicionar se for possível.[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<name>[COLOR white][B]ACESSO LIBERADO 30 DIAS [COLOR white]<-> ANIVERSÁRIO DO LUMINART [/B][/COLOR]</name>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white][B]ENTRADA VIP INFORMAÇÕES
+[COLOR black].[/COLOR]
+Acesso VIP ao conteúdo.Milhares de links disponíveis para filmes , Séries, Desenhos Novelas e Animes.Nosso foco principal são os conteúdos antigos e raridades.
+Não encontrou o que queria ? Solicite ao SUPORTE AO USUÁRIO que iremos adicionar se for possível.[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]TESTE ESTENDIDO [COLOR white]<-> VAL. ATÉ - 20-06-25 [/B][/COLOR]</name>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-ENTRAR.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white][B]ENTRADA VIP INFORMAÇÕES
+[COLOR black].[/COLOR]
+Acesso VIP ao conteúdo.Milhares de links disponíveis para filmes , Séries, Desenhos Novelas e Animes.Nosso foco principal são os conteúdos antigos e raridades.
+Não encontrou o que queria ? Solicite ao SUPORTE AO USUÁRIO que iremos adicionar se for possível.[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]SOLICITE TESTE DE 24 HRs COM O SUPORTE [/B][/COLOR]</name>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-SUPORTE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white][B]O serviço de SUPORTE AO USUÁRIO existe para a comodidade e interação do usuário com o clube...Por ele se pode relatar erros encontrados que serão rapidamente resolvidos ...ou solicitar conteúdo ainda não adicionado e também como auxílio para entender o funcionamento do add on e do aplicativo. SE PRECISAR É SÓ CHAMAR.
+[COLOR black].[/COLOR]
+CONTATO -> WhatsApp (48) 99194-1409[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -94,14 +153,36 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR orange]SUPORTE AO USUÁRIO -> CLIQUE AQUI[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/0-ENTER/-ENT-VIP.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/0-ENTER/01-ENT-VIP.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/03-ENT-VIP/ICON-SUPORTE.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/-ISKIN/-MENU/-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white][B]INFORMAÇÕES:
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white][B]O serviço de SUPORTE AO USUÁRIO existe para a comodidade e interação do usuário com o clube...Por ele se pode relatar erros encontrados que serão rapidamente resolvidos ...ou solicitar conteúdo ainda não adicionado e também como auxílio para entender o funcionamento do add on e do aplicativo. SE PRECISAR É SÓ CHAMAR.
 [COLOR black].[/COLOR]
-O serviço existe para a comodidade e interação do usuário com o clube...Por ele se pode relatar erros encontrados que serão rapidamente resolvidos ...ou solicitar conteúdo ainda não adicionado, também serve como auxílio para entender o funcionamento do add on e do aplicativo. SE PRECISAR É SÓ CHAMAR.
-CONTATO -> WhatsApp (48) 99194-14[/B][/COLOR]</info>
+CONTATO -> WhatsApp (48) 99194-1409[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[B][COLOR orange]AGRADECEMOS SUA VISITA [/COLOR][/B]</name>
+<externallink>https://luminart.online/Lumi-Files/0-ENTER/02-ENT-FREE.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
