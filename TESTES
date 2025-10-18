@@ -1,8 +1,8 @@
 <channels>
 <channel>				
 <name>[COLOR orange][B]*SELECIONE UM ITEM ABAIXO*[/B][/COLOR]</name>				
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/7-SEL-NEWS.txt</externallink>			
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/02-NEWs/SEL-ITEM-NEWS-ICO.png</thumbnail>				
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/6-SEL-TVs.txt</externallink>			
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-TVS-ICON.png</thumbnail>				
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
@@ -13,15 +13,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]NEWs -> FILMES[/COLOR][/B]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/7A-FLM-NEWS.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/00-SKIN/SKIN-SITE-NEWS-FLM.gif</thumbnail>
+<name>[COLOR white][B]TV PLUTO[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/6A-TV-PLUTO.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/00-SKIN/SKIN-SITE-TV-PLUTO.gif</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]NOVIDADES DA SEMANA 
-FILMES
+[B]TV ONLINE
+TV PLUTO
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos na categoria FILMES que foram adicionados no SERVER LS durante a semana.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Seção com acessos a tvs gratuitas. Mais informações com o SUPORTE AO USUÁRIO
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -35,15 +35,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]NEWs -> SÉRIES[/COLOR][/B]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/7B-SRS-NEWS.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/00-SKIN/SKIN-SITE-NEWS-SRS.gif</thumbnail>
+<name>[COLOR white][B]TVs ALTERNATIVAS[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/4-TVs/01-BUILD/6B-SEL-TVs-ALT.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/01-TVs/SEL-TVS-ALT-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]NOVIDADES DA SEMANA
-SÉRIES
+[B]TV ONLINE
++ TVs
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos na categoria SÉRIES que foram adicionados no SERVER LS durante a semana.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Seção com acessos a tvs gratuitas. Mais informações com o SUPORTE AO USUÁRIO
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -59,7 +59,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/7-SEL-NEWS.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/6-SEL-TVs.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
@@ -69,7 +69,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/7-SEL-NEWS.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/6-SEL-TVs.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-SEL-ITEM.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
