@@ -1,7 +1,6 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink><LINKPARAPAGEALVO></externallink>
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://luminart.online/Lumi-Files/2-MENU/IMG/0A01-SEL-MEN-CAB-ITEM-ICO.gif</thumbnail>				
 <fanart>https://luminart.online/Lumi-Files/2-MENU/IMG/0A04-SEL-MEN-ALL-LS-FAN-2.gif</fanart>
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white][B]Nossa felicidade é fazer o USUÁRIO feliz.
@@ -12,8 +11,6 @@ FAÇA SUA ESCOLHA E DIVIRTA-SE.
 [COLOR black].
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
-[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[/B][/COLOR]</info>	
+</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
