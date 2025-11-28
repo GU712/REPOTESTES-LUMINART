@@ -1,16 +1,6 @@
 <item>
-<title> nome 8</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://cdn-novflix.com/storagePSN/SERIES/AR/AR4x01.mp4</link>
-</item>
-
-<item>
-<title> nome </title>
-<urlsolve>https://cdn-novflix.com/storagePSN/SERIES/AR/AR4x01.mp4</urlsolve>
-</item>
-
-<item>
 <title>[COLOR white][B]Rocky Handsome (2016) - HD LEG[/B][/COLOR]</title>
-<link>https://cdn-novflix.com/storagePSN/SERIES/AR/AR4x01.mp4</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://cdn-novflix.com/storagePSN/SERIES/AR/AR4x01.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/d0pJA51q30dVLN9gnHn5lBVz2kl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pmGEEA8a4O7JGOz37ThRbjCloNI.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme:
@@ -26,4 +16,7 @@ Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/B][/COLOR]</info>	
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
