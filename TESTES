@@ -9,6 +9,15 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR orange][B]SERVER LS-2[COLOR yellow] -> [COLOR white]Sing (DATA)[/B][/COLOR]</title>
+<link>plugin://plugin.video.resolver/?action=play&amp;https://dood.so/d/ns1pwpk3xz1g</link>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSE></info>
+<genre>GENERO</genre>
+</item>
+
+<item>
 <title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white][B]O Misterio dos Homens-Lagartos[/B][/COLOR]</title>
 <link>plugin://plugin.video.resolvedor/?action=play&amp;url=https://cdn-novflix.com/storagePSN/SERIES/AR/AR4x01.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2KUXlkfGdUz8wKir0gznnXymsh.jpg</thumbnail>
