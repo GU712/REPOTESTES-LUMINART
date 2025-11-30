@@ -1,10 +1,7 @@
-<channels>
-<channel>
-<name>[COLOR white][B]CLIQUE AQUI E ENTRE NO ADDONo[/B][/COLOR]</name>
-<externallink>https://drive.proton.me/u/0/Mq1v7Tsa3P8wVQKuHAV-q5Zp8KaDk-PNpppGjsK3tU3vGW8dlDEvDDUan4cYc-eq86LbSGUZNAFCRoeLDWk9YQ==/file/HiQjlIRLvVsNgrnxS8JfmifvylF06QYh1986E3FZ86IDdoGScIlq40_kO-yqv5w615QQ44zhE7o2gxnu88vpQQ==?r=/Mq1v7Tsa3P8wVQKuHAV-q5Zp8KaDk-PNpppGjsK3tU3vGW8dlDEvDDUan4cYc-eq86LbSGUZNAFCRoeLDWk9YQ==/folder/wZg5p2M1C6H4FRNp0IOexDM51380_yl5L-8XN-SDmot90e1o-eGHVJQOhehbePvnWlEgcenlZX1M0OTt6OClzA==</externallink>
-<thumbnail>https://i.ibb.co/1n8hTSJ/Entrar.png</thumbnail>
-<fanart>https://i.ibb.co/hXGKrVJ/fanart-JARVIS.jpg</fanart>
-<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV ABERTA",GLOBO SP 
+http://95.211.149.215:8081/look/sptv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://goo.gl/IQS0pJ" group-title="Notícias",GLOBO NEWS
+http://5.79.68.138:8081/look/globonews/playlist.m3u8
