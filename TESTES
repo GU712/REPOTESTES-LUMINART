@@ -1,6 +1,6 @@
 <channels>
 <channel>			
-<name>[COLOR orange][B]->SELECIONE UM ITEM ABAIXO*[/B][/COLOR]</name>				
+<name>[COLOR orange][B]->SELECIONE UM ITEM ABAIXO1[/B][/COLOR]</name>				
 <externallink>https://luminart.ct.ws/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>			
 <thumbnail>https://luminart.online/Lumi-Files-NEW/2-MENU/IMG/0A1-01-MEN-CAB-ITEM-ICO.gif</thumbnail>				
 <fanart>https://luminart.online/Lumi-Files-NEW/2-MENU/IMG/0A1-04-MEN-ALL-LS-FAN-2.gif</fanart>
@@ -20,8 +20,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <channels>
 <channel>
-<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files-NEW/1-SKIN/E-00-SEL-NEW-ALL-ARQ.txt</externallink>
+<name>[COLOR white][B]->teste*[/B][/COLOR]</name>
+<externallink>https://luminart.ct.ws/Lumi-Files/1-SKIN/E-00-SEL-NEW-ALL-ARQ.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files-NEW/1-SKIN/7-SEL-NEWS.gif</thumbnail>	
 <fanart>https://luminart.online/Lumi-Files-NEW/2-MENU/IMG/0A1-04-MEN-ALL-LS-FAN-2.gif</fanart>
 <info>[COLOR white]Conheça a seção: 
@@ -163,4 +163,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
