@@ -9,11 +9,28 @@
 </channels>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
+			
 <channels>
 <channel>
 <name>[COLOR white][B]NOVIDADES DA SEMANA -filmes[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/7A-FLMS-NEWS-ALL</externallink>
+<thumbnail>https://luminart.ct.ws/Lumi-Files/1-SKIN/A-00-SEL-FLM-ALL-ICO.gif</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]NOVIDADES DA SEMANA
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Nessa seção são encontrados atalhos provisórios aos conteúdos novos que foram adicionados ao SERVER LS durante a semana, a seção esta dividida em dois setores FILMES e SÉRIES. 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
+Precisa de ajuda ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<externallink>https://luminart.ct.ws/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>
 <thumbnail>https://luminart.ct.ws/Lumi-Files/1-SKIN/A-00-SEL-FLM-ALL-ICO.gif</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>[COLOR white]Conheça a seção: 
