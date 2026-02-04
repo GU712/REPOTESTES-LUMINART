@@ -1,11 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sv6zqBF/FILM-LD-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B][COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B][COLOR white][B]A&E FHD[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://rteomi.xyz:80/9lblbf9f/pxpyysfo/804653.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B][COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B][COLOR white][B]A&E FHD [H265][COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://rteomi.xyz:80/9lblbf9f/pxpyysfo/805390.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B][COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B][COLOR white][B]A&E HD[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://rteomi.xyz:80/9lblbf9f/pxpyysfo/804654.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B][COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B][COLOR white][B]A&E SD[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://rteomi.xyz:80/9lblbf9f/pxpyysfo/804655.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="[COLOR white][B]Filmes | Terror[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]A Semeadura (2024)[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://kz3x.top:80/movie/62202066/60781292/1750123.mp4
+#EXTINF:-1 tvg-name="A Casa dos Segredos Enterrados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTSvLQrZb02MayBilIg5U8ltRE3.jpg" group-title="[COLOR white][B]Filmes | Terror[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]A Casa dos Segredos Enterrados (2022)[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://kz3x.top:80/movie/62202066/60781292/1750057.mp4
 
