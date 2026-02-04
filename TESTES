@@ -1,12 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Venom: A Última Rodada6.2024.FHD.DUAL.mkv
-https://drive.google.com/uc?export=download&id=1k96Iv36h5TbLfZh4cvlOLlPaPibdNrMc&filename=Venom%3A%20A%20%C3%9Altima%20Rodada.2024.FHD.DUAL.mkv
-#EXTINF:-1,Venom: Tempo de Carnificina.2021.HD.DUB.mp4
-https://drive.google.com/uc?export=download&id=1kc6FKeB6SrGTHc5jDUpJ9tK2zE98xEwC&filename=Venom%3A%20Tempo%20de%20Carnificina.2021.HD.DUB.mp4
-#EXTINF:-1,Venom.2018.FHD.DUB.LFX.mkv
-https://drive.google.com/uc?export=download&id=1IdLcrgt4aHxi9EBzsLOC21nY99Z7Vta_&filename=Venom.2018.FHD.DUB.LFX.mkv
-#EXTINF:-1,Viva Django!.1968.FHD.DUB.mkv
-https://drive.google.com/uc?export=download&id=1hHrkixzhMehyEAcjsNuVwj7VGGGI6h4A&filename=Viva%20Django!.1968.FHD.DUB.mkv
-#EXTINF:-1,Vivos.1993.HD.DUB+LEG-LS.mkv
-https://drive.google.com/uc?export=download&id=1accBPA9lGPjTB18sHCVyIbS60aeDcTQX&filename=Vivos.1993.HD.DUB%2BLEG-LS.mkv
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B][COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B][COLOR white][B]A&E FHD[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://rteomi.xyz:80/9lblbf9f/pxpyysfo/804653.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B][COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B][COLOR white][B]A&E FHD [H265][COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://rteomi.xyz:80/9lblbf9f/pxpyysfo/805390.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B][COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B][COLOR white][B]A&E HD[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://rteomi.xyz:80/9lblbf9f/pxpyysfo/804654.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B][COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]",[COLOR white][B][COLOR white][B]A&E SD[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR][COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://rteomi.xyz:80/9lblbf9f/pxpyysfo/804655.m3u8
 
