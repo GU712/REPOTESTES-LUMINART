@@ -3,8 +3,8 @@
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9acLluSUQRFriTHA6V6CNvXouL.jpg",Zona de Confronto (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9acLluSUQRFriTHA6V6CNvXouL.jpg",[COLOR white][B]Zona de Confronto (2020)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
 http://199.245.234.35:80/movie/102030/302010/3999022.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/dJfB8epuL4fRUghv1Cal1kO8M6O.jpg",Em Nome do Pai (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/dJfB8epuL4fRUghv1Cal1kO8M6O.jpg",[COLOR white][B]Em Nome do Pai (2020)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
 http://199.245.234.35:80/movie/102030/302010/3999023.mp4
 
