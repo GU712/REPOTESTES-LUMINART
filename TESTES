@@ -1,19 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sv6zqBF/FILM-LD-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO2[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sv6zqBF/FILM-LD-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]A&E FHD[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
-http://rteomi.xyz:80/9lblbf9f/pxpyysfo/804653.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]A&E FHD [H265][COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
-http://rteomi.xyz:80/9lblbf9f/pxpyysfo/805390.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]A&E HD[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
-http://rteomi.xyz:80/9lblbf9f/pxpyysfo/804654.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="[COLOR white][B]Canais | Variedades[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]A&E SD[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
-http://rteomi.xyz:80/9lblbf9f/pxpyysfo/804655.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3iu7E3IQBsVpcqVCEv92VqfLCNY.jpg" group-title="[COLOR white][B]SERIE | AÇÃO[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]9-1-1 S07E10[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://38.46.221.36:80/play/QgY5Y9KwXaJvCgqZvkReFSWAvc_XqpJeg7aEUpHlIAwD64eOb4j-RsVV91ogPSQS#.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/u3AWA5dSPTs5NeLveubdQlIpXJA.jpg" group-title="[COLOR white][B]SERIE | AÇÃO[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]9-1-1 S08E01[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://38.46.221.36:80/play/QgY5Y9KwXaJvCgqZvkReFc5uC-3-k0j1duQclF7Jh4UoLIs8YYcnwLjgGkqSbHGH#.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lLwxi38pxzAIZJpl7KYMpd8jTG3.jpg" group-title="[COLOR white][B]SERIE | AÇÃO[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]9-1-1 S08E02[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://38.46.221.36:80/play/QgY5Y9KwXaJvCgqZvkReFflpTbrhlp6SnkyYze47LdeUlEJwKgv_11eRfHruGMdn#.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8jdeupCgGIVaszqygh5Pe0fnkcT.jpg" group-title="[COLOR white][B]SERIE | AÇÃO[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]9-1-1 S08E03[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://38.46.221.36:80/play/QgY5Y9KwXaJvCgqZvkReFY7NiSh42nz3bpPgXg3ahq9iDHlE6WneC10iedI3k3nJ#.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/u6zALaKHy6pMwZEBf21dOs9n1Wn.jpg" group-title="[COLOR white][B]SERIE | AÇÃO[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]9-1-1 S08E04[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://38.46.221.36:80/play/QgY5Y9KwXaJvCgqZvkReFQ6Ij7jr7-55WqShlxVauECPgitFGfdqeYjtJZNNUSYB#.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dn4NTSfPT08JKWciAJ7PRY7jYf8.jpg" group-title="[COLOR white][B]SERIE | AÇÃO[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]9-1-1 S08E05[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://38.46.221.36:80/play/QgY5Y9KwXaJvCgqZvkReFewC-tf-eyn7fI7YqBD8Ef0d4_dcp8bn9s4LW6sKWTjL#.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3em88zkj88ogai8DSlmvz0fVJn5.jpg" group-title="[COLOR white][B]SERIE | AÇÃO[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]9-1-1 S08E06[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://38.46.221.36:80/play/QgY5Y9KwXaJvCgqZvkReFYYp4kircZLt8Q2FC7mGAGGIVPN7zw6stz7abYN1AZGG#.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/pZ7NBrYMnCz69k4pexHvayap6MW.jpg" group-title="[COLOR white][B]SERIE | AÇÃO[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]9-1-1 S08E07[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://38.46.221.36:80/play/QgY5Y9KwXaJvCgqZvkReFWe574Ql_kJjoqmFzdC7PawGYGrCgGgxyPTS9DZY0ae6#.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/84QYcDrrVsuTAd8MBwNJXxUpnWy.jpg" group-title="[COLOR white][B]SERIE | AÇÃO[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]",[COLOR white][B]9-1-1 S08E08[COLOR yellow] -> [COLOR orange]S3[/B][/COLOR]
+http://38.46.221.36:80/play/QgY5Y9KwXaJvCgqZvkReFRNr2j4e8i1wQ7h-Ox7_y-mnBZSfiwIiRp3FJfoPp-Pq#.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" group-title="[COLOR orange][B]CONTRIBUIR... É MANTER O LUMINART ON-LINE[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
