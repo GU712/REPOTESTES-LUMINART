@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sv6zqBF/FILM-LD-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO4[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sv6zqBF/FILM-LD-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9acLluSUQRFriTHA6V6CNvXouL.jpg"",[COLOR white][B]Zona de Confronto (2020)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-http://199.245.234.35:80/movie/102030/302010/3999022.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/dJfB8epuL4fRUghv1Cal1kO8M6O.jpg"",[COLOR white][B]Em Nome do Pai (2020)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-http://199.245.234.35:80/movie/102030/302010/3999023.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2lyqE4OQaEvNvNQwngsZH9xzg4B.jpg" group-title="[COLOR white][B]Numerais (Filmes)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B]"Sr." (2022) [LEG][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
+http://p.plexiptv.co:8880/movie/345754286/f235Y3209D/260504.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/g7hWnjMdqTYYI78yeCD3moObbRK.jpg" group-title="[COLOR white][B]Numerais (Filmes)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B]#Alive[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
+http://p.plexiptv.co:8880/movie/345754286/f235Y3209D/26122.mp4
 
