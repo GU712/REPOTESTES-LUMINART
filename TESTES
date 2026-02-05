@@ -8,10 +8,12 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COL
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/g7hWnjMdqTYYI78yeCD3moObbRK.jpg" group-title="[COLOR white][B]Numerais (Filmes)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B]#Alive[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://p.plexiptv.co:8880/movie/345754286/f235Y3209D/26122.mp4
 
-#EXTINF:-1 tvg-logo="http://timg.bdta.pro/images/dde3d15300f04dda2d9909a34ba31124.jpg" group-title="[COLOR white][B]Roque Santeiro[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B]S01E125[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://rteomi.xyz:80/series/9lblbf9f/pxpyysfo/1252336.mp4
-#EXTINF:-1 tvg-logo="http://timg.bdta.pro/images/dde3d15300f04dda2d9909a34ba31124.jpg" group-title="[COLOR white][B]Roque Santeiro[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B]S01E126[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://rteomi.xyz:80/series/9lblbf9f/pxpyysfo/1252337.mp4
-#EXTINF:-1 tvg-logo="http://timg.bdta.pro/images/dde3d15300f04dda2d9909a34ba31124.jpg" group-title="[COLOR white][B]Roque Santeiro[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B]S01E127[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-http://rteomi.xyz:80/series/9lblbf9f/pxpyysfo/1252338.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6U915q81w2kE2AIGTqPDKGn78aD.jpg" group-title="[COLOR white][B]Abandono de Evento S01 E02[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/189257.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6U915q81w2kE2AIGTqPDKGn78aD.jpg" group-title="[COLOR white][B]Abandono de Evento S01 E03[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/189258.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6U915q81w2kE2AIGTqPDKGn78aD.jpg" group-title="[COLOR white][B]Abandono de Evento S01 E04[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
+http://newmundo.top:8880/series/83066331/31517347/189259.mp4
 
