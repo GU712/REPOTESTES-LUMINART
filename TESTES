@@ -6,12 +6,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Letra A (Novelas)
+Letra A (Series)
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="http://timg.bdta.pro/images/1a7e80e7524865f27042d75c84f01921.jpg" group-title="[COLOR white][B]Abraça-me Muito Forte[/B][/COLOR]",[COLOR white][B]S01E01[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://rteomi.xyz:80/series/9lblbf9f/pxpyysfo/1280157.mp4
-#EXTINF:-1 tvg-logo="http://timg.bdta.pro/images/1a7e80e7524865f27042d75c84f01921.jpg" group-title="[COLOR white][B]Abraça-me Muito Forte[/B][/COLOR]",[COLOR white][B]S01E02[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://rteomi.xyz:80/series/9lblbf9f/pxpyysfo/1280158.mp4
-#EXTINF:-1 tvg-logo="http://timg.bdta.pro/images/1a7e80e7524865f27042d75c84f01921.jpg" group-title="[COLOR white][B]Abraça-me Muito Forte[/B][/COLOR]",[COLOR white][B]S01E03[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://rteomi.xyz:80/series/9lblbf9f/pxpyysfo/1280159.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780None" group-title="[COLOR white][B]Os Abandonados S01 E01[/B][/COLOR]",[COLOR white][B][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/287886.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780None" group-title="[COLOR white][B]Os Abandonados S01 E02[/B][/COLOR]",[COLOR white][B][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/287887.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780None" group-title="[COLOR white][B]Os Abandonados S01 E03[/B][/COLOR]",[COLOR white][B][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/287888.mp4
