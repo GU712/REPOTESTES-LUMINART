@@ -4,7 +4,7 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2lyqE4OQaEvNvNQwngsZH9xzg4B.jpg" group-title="[COLOR white][B]Numerais (Filmes)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B]"Sr." (2022) [LEG][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-http://p.plexiptv.co:8880/movie/345754286/f235Y3209D/260504.mp4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://p.plexiptv.co:8880/movie/345754286/f235Y3209D/260504.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/g7hWnjMdqTYYI78yeCD3moObbRK.jpg" group-title="[COLOR white][B]Numerais (Filmes)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B]#Alive[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[COLOR yellow] -> [COLOR orange]S1[/B][/COLOR]&amp;url=http://p.plexiptv.co:8880/movie/345754286/f235Y3209D/26122.mp4
 
