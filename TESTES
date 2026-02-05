@@ -4,6 +4,6 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2lyqE4OQaEvNvNQwngsZH9xzg4B.jpg" group-title="[COLOR white][B]Numerais (Filmes)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B]"Sr." (2022) [LEG][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[/B][/COLOR]&amp;url=http://newmundo.top:8880/movie/83066331/31517347/260504.mp4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]S1[/B][/COLOR]&amp;url=http://newmundo.top:8880/movie/83066331/31517347/260504.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/g7hWnjMdqTYYI78yeCD3moObbRK.jpg" group-title="[COLOR white][B]Numerais (Filmes)[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]",[COLOR white][B]#Alive[COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S1[/B][/COLOR]&amp;url=http://newmundo.top:8880/movie/83066331/31517347/26122.mp4
