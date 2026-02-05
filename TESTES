@@ -3,15 +3,25 @@
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+########## (Des)encanto ##########
 
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Letra A (Series)
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780None" group-title="[COLOR white][B]Os Abandonados S01 E01[/B][/COLOR]",[COLOR white][B][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/287886.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780None" group-title="[COLOR white][B]Os Abandonados S01 E02[/B][/COLOR]",[COLOR white][B][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/287887.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780None" group-title="[COLOR white][B]Os Abandonados S01 E03[/B][/COLOR]",[COLOR white][B][COLOR yellow] -> [COLOR orange]SX[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/287888.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg" group-title="[COLOR white][B](Des)encanto[/B][/COLOR]",[COLOR white][B]S01E01[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/131410.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg" group-title="[COLOR white][B](Des)encanto[/B][/COLOR]",[COLOR white][B]S01E02[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/131411.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg" group-title="[COLOR white][B](Des)encanto[/B][/COLOR]",[COLOR white][B]S01E03[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/131412.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg" group-title="[COLOR white][B](Des)encanto[/B][/COLOR]",[COLOR white][B]S01E04[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/131413.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg" group-title="[COLOR white][B](Des)encanto[/B][/COLOR]",[COLOR white][B]S01E05[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/131414.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg" group-title="[COLOR white][B](Des)encanto[/B][/COLOR]",[COLOR white][B]S01E06[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/131415.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg" group-title="[COLOR white][B](Des)encanto[/B][/COLOR]",[COLOR white][B]S01E07[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/131416.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg" group-title="[COLOR white][B](Des)encanto[/B][/COLOR]",[COLOR white][B]S01E08[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/131417.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg" group-title="[COLOR white][B](Des)encanto[/B][/COLOR]",[COLOR white][B]S01E09[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/131418.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg" group-title="[COLOR white][B](Des)encanto[/B][/COLOR]",[COLOR white][B]S01E10[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/131419.mp4
