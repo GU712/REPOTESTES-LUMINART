@@ -1,59 +1,10 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sv6zqBF/FILM-LD-SERV-X.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-########## 007: Estrada para o MilhÃ£o ##########
+########## A.mar ##########
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/usDsqWYMtN51nZKAKcjVmeCJt4w.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S01E01[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/139560.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/usDsqWYMtN51nZKAKcjVmeCJt4w.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S01E02[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/139561.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/usDsqWYMtN51nZKAKcjVmeCJt4w.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S01E03[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/139562.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/usDsqWYMtN51nZKAKcjVmeCJt4w.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S01E04[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/139563.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/usDsqWYMtN51nZKAKcjVmeCJt4w.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S01E05[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/139564.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/usDsqWYMtN51nZKAKcjVmeCJt4w.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S01E06[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/139565.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/usDsqWYMtN51nZKAKcjVmeCJt4w.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S01E07[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/139566.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/usDsqWYMtN51nZKAKcjVmeCJt4w.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S01E08[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/139567.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/7hcI231UmlhO96yH1q37EYWVPTd.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S02E01[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/253762.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/6y74h6alaB2ijacN5lLNlFCuhue.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S02E02[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/253763.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/88rhSTy29tGnPTdvshQGqRVGCam.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S02E03[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/253764.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/ydFQc794NeY9Fs1zMONBxRRx18i.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S02E04[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/253765.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/zn3WWz4gBPlAFpKC7mKZDgrt4MU.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S02E05[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/253766.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/avyCxM6GZr3x3lLuu9xSK1yqWZi.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S02E06[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/253767.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/7Q8q3ti0njRCqwzezaRTd79gqkm.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S02E07[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/253768.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/3LgjgcXwJUkeurrloBicURnjeHI.jpg" group-title="[COLOR white][B]007: Estrada para o MilhÃ£o[/B][/COLOR]",[COLOR white][B]007: Estrada para o MilhÃ£o S02E08[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/253769.mp4
-
-########## 1 Contra Todos ##########
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/idXR0Gk8bH8gUnsZZI3TMkaw4ea.jpg" group-title="[COLOR white][B]1 Contra Todos[/B][/COLOR]",[COLOR white][B]1 Contra Todos S01E01[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/14314.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/3WuQMlDpkpYhDtO0lkVTeJ5DrRC.jpg" group-title="[COLOR white][B]1 Contra Todos[/B][/COLOR]",[COLOR white][B]1 Contra Todos S01E02[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/14315.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/7SHGHS09G8qgl4VRcZ8zkrbsP8W.jpg" group-title="[COLOR white][B]1 Contra Todos[/B][/COLOR]",[COLOR white][B]1 Contra Todos S01E03[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/14316.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/4ymS6J5ElifSJU28LqoVqtWfX7.jpg" group-title="[COLOR white][B]1 Contra Todos[/B][/COLOR]",[COLOR white][B]1 Contra Todos S01E04[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/14317.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/sfcZFcB0KQtNdtF84j4F7S4iZ9M.jpg" group-title="[COLOR white][B]1 Contra Todos[/B][/COLOR]",[COLOR white][B]1 Contra Todos S01E05[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/14318.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/kuO6B9PZbwZ9Jlztcsspv7ZZsw7.jpg" group-title="[COLOR white][B]1 Contra Todos[/B][/COLOR]",[COLOR white][B]1 Contra Todos S01E06[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/14319.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/3UkoJyc229MQUnqJzPS22oQAwgV.jpg" group-title="[COLOR white][B]1 Contra Todos[/B][/COLOR]",[COLOR white][B]1 Contra Todos S01E07[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/14320.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/zk5PhT5AyOEcTGmmz50I7AS0Njx.jpg" group-title="[COLOR white][B]1 Contra Todos[/B][/COLOR]",[COLOR white][B]1 Contra Todos S01E08[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR blue]> [COLOR orange][B]ALT[/B][/COLOR]&amp;url=http://newmundo.top:8880/series/83066331/31517347/14321.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/xrZ5gksjnB0KI2tQpZaFv10HW9j.jpg" group-title="[COLOR white][B]A.mar[/B][/COLOR]",[COLOR white][B]A.mar S01E01[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
+http://newmundo.top:8880/series/83066331/31517347/265940.mp4
