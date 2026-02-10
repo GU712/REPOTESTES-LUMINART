@@ -8,3 +8,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/xrZ5gksjnB0KI2tQpZaFv10HW9j.jpg" group-title="[COLOR white][B]A.mar[/B][/COLOR]",[COLOR white][B]A.mar S01E01[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
 http://newmundo.top:8880/series/83066331/31517347/265940.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SINHA MOCA S01 S01E139" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Sinh%C3%A1_Mo%C3%A7a_trilha_sonora.jpg" group-title="NOVELAS | BRASILEIRAS", SINHA MOCA S01 S01E139
+http://fbld.in:80/series/89754973021909/4189183517770/182497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SINHA MOCA S01 S01E140" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Sinh%C3%A1_Mo%C3%A7a_trilha_sonora.jpg" group-title="NOVELAS | BRASILEIRAS", SINHA MOCA S01 S01E140
+http://fbld.in:80/series/89754973021909/4189183517770/182498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SINHA MOCA S01 S01E141" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Sinh%C3%A1_Mo%C3%A7a_trilha_sonora.jpg" group-title="NOVELAS | BRASILEIRAS", SINHA MOCA S01 S01E141
+http://fbld.in:80/series/89754973021909/4189183517770/182499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SINHA MOCA S01 S01E142" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Sinh%C3%A1_Mo%C3%A7a_trilha_sonora.jpg" group-title="NOVELAS | BRASILEIRAS", SINHA MOCA S01 S01E142
+http://fbld.in:80/series/89754973021909/4189183517770/182500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SINHA MOCA S01 S01E143" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Sinh%C3%A1_Mo%C3%A7a_trilha_sonora.jpg" group-title="NOVELAS | BRASILEIRAS", SINHA MOCA S01 S01E143
+http://fbld.in:80/series/89754973021909/4189183517770/182501.mp4
+
