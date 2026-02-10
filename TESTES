@@ -29,4 +29,17 @@ http://cortencdn.online:80/series/141433446/404746239/1661499.mp4
 #EXTINF:-1 tvg-name="Pica-Pau e Seus Amigos S06E05" tvg-logo="https://image.tmdb.org/t/p/w1280/kv2VDCHAtpbrBmKWZzs85I2GMS8.jpg" group-title="Séries | Animações (Clássicos)",Pica-Pau e Seus Amigos S06E05
 http://cortencdn.online:80/series/141433446/404746239/1661525.mp4
 
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://logos.imperioapps.top/ESPN_2.png" group-title="♦️Canais | ESPN",ESPN 2 FHD
+http://206.123.140.175:80/000014/000014/108838.ts
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="https://logos.imperioapps.top/ESPN_2.png" group-title="♦️Canais | ESPN",ESPN 2 HD
+http://206.123.140.175:80/000014/000014/108839.ts
+
+#EXTINF:-1 tvg-name="Familia Soprano S04E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q8KCna8fodFEFNmdxWJK30IGdMu.jpg" group-title="♣️Séries | Max",Familia Soprano S04E10
+http://206.123.140.175:80/series/000014/000014/3934220.mp4
+#EXTINF:-1 tvg-name="Familia Soprano S04E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8Qsji9ovsqBZpvdnf5COzxb0MxC.jpg" group-title="♣️Séries | Max",Familia Soprano S04E11
+http://206.123.140.175:80/series/000014/000014/3934221.mp4
+#EXTINF:-1 tvg-name="Familia Soprano S04E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jvccKapn8uNkr24LpGSpCZ3Uytn.jpg" group-title="♣️Séries | Max",Familia Soprano S04E12
+http://206.123.140.175:80/series/000014/000014/3934222.mp4
+
+
 
