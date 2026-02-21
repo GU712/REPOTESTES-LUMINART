@@ -1,45 +1,19 @@
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sv6zqBF/FILM-LD-SERV-X.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-########## A.mar ##########
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/xrZ5gksjnB0KI2tQpZaFv10HW9j.jpg" group-title="[COLOR white][B]A.mar[/B][/COLOR]",[COLOR white][B]A.mar S01E01[COLOR yellow] -> [COLOR orange]ALT[/B][/COLOR]
-http://newmundo.top:8880/series/83066331/31517347/265940.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="SINHA MOCA S01 S01E139" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Sinh%C3%A1_Mo%C3%A7a_trilha_sonora.jpg" group-title="NOVELAS | BRASILEIRAS", SINHA MOCA S01 S01E139
-http://fbld.in:80/series/89754973021909/4189183517770/182497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SINHA MOCA S01 S01E140" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Sinh%C3%A1_Mo%C3%A7a_trilha_sonora.jpg" group-title="NOVELAS | BRASILEIRAS", SINHA MOCA S01 S01E140
-http://fbld.in:80/series/89754973021909/4189183517770/182498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SINHA MOCA S01 S01E141" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Sinh%C3%A1_Mo%C3%A7a_trilha_sonora.jpg" group-title="NOVELAS | BRASILEIRAS", SINHA MOCA S01 S01E141
-http://fbld.in:80/series/89754973021909/4189183517770/182499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SINHA MOCA S01 S01E142" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Sinh%C3%A1_Mo%C3%A7a_trilha_sonora.jpg" group-title="NOVELAS | BRASILEIRAS", SINHA MOCA S01 S01E142
-http://fbld.in:80/series/89754973021909/4189183517770/182500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SINHA MOCA S01 S01E143" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Sinh%C3%A1_Mo%C3%A7a_trilha_sonora.jpg" group-title="NOVELAS | BRASILEIRAS", SINHA MOCA S01 S01E143
-http://fbld.in:80/series/89754973021909/4189183517770/182501.mp4
-
-#EXTINF:-1 tvg-name="Pica-Pau e Seus Amigos S06E02" tvg-logo="https://image.tmdb.org/t/p/w1280/kv2VDCHAtpbrBmKWZzs85I2GMS8.jpg" group-title="Séries | Animações (Clássicos)",Pica-Pau e Seus Amigos S06E02
-http://cortencdn.online:80/series/141433446/404746239/1661500.mp4
-#EXTINF:-1 tvg-name="Pica-Pau e Seus Amigos S06E03" tvg-logo="https://image.tmdb.org/t/p/w1280/kv2VDCHAtpbrBmKWZzs85I2GMS8.jpg" group-title="Séries | Animações (Clássicos)",Pica-Pau e Seus Amigos S06E03
-http://cortencdn.online:80/series/141433446/404746239/1661498.mp4
-#EXTINF:-1 tvg-name="Pica-Pau e Seus Amigos S06E04" tvg-logo="https://image.tmdb.org/t/p/w1280/kv2VDCHAtpbrBmKWZzs85I2GMS8.jpg" group-title="Séries | Animações (Clássicos)",Pica-Pau e Seus Amigos S06E04
-http://cortencdn.online:80/series/141433446/404746239/1661499.mp4
-#EXTINF:-1 tvg-name="Pica-Pau e Seus Amigos S06E05" tvg-logo="https://image.tmdb.org/t/p/w1280/kv2VDCHAtpbrBmKWZzs85I2GMS8.jpg" group-title="Séries | Animações (Clássicos)",Pica-Pau e Seus Amigos S06E05
-http://cortencdn.online:80/series/141433446/404746239/1661525.mp4
-
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://logos.imperioapps.top/ESPN_2.png" group-title="♦️Canais | ESPN",ESPN 2 FHD
-http://206.123.140.175:80/000014/000014/108838.ts
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="https://logos.imperioapps.top/ESPN_2.png" group-title="♦️Canais | ESPN",ESPN 2 HD
-http://206.123.140.175:80/000014/000014/108839.ts
-
-#EXTINF:-1 tvg-name="Familia Soprano S04E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q8KCna8fodFEFNmdxWJK30IGdMu.jpg" group-title="♣️Séries | Max",Familia Soprano S04E10
-http://206.123.140.175:80/series/000014/000014/3934220.mp4
-#EXTINF:-1 tvg-name="Familia Soprano S04E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8Qsji9ovsqBZpvdnf5COzxb0MxC.jpg" group-title="♣️Séries | Max",Familia Soprano S04E11
-http://206.123.140.175:80/series/000014/000014/3934221.mp4
-#EXTINF:-1 tvg-name="Familia Soprano S04E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jvccKapn8uNkr24LpGSpCZ3Uytn.jpg" group-title="♣️Séries | Max",Familia Soprano S04E12
-http://206.123.140.175:80/series/000014/000014/3934222.mp4
-
-
-
+<item>
+<title>[COLOR white][B]teste[/B][/COLOR]</title>
+<link>https://worker.luminart.online/4:/S%C3%A9ries/Estrangeiras/A/Arquivo%20X%20[The%20X-Files]%20[1993]%201080p/S01/The.X-Files.S01E01.Pilot.1080p.AMZN.WEB-DL.DD+2.0.H.264-alfaHD.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/flziZGLgRjjL2Oak5LwMLcCWTp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5oNW5aWm4BLbBqJII8koNrHfLpA.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]The War Devils
+[COLOR orange]EDIÇÃO[COLOR yellow] -> [COLOR white]HD LEG
+[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]1969
+[COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]6.0
+[COLOR orange]DURAÇÃO:[COLOR yellow] -> [COLOR white]99 min.
+[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Guerra, Drama
+[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]A German Captain and an American Captain help each other survive the North African desert during WWII. They meet again a year later during combat operations in France.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/B][/COLOR]</info>	
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
